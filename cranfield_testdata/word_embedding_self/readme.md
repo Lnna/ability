@@ -1,29 +1,32 @@
-skip-gram模型实现
-1. 数据预处理
+### skip-gram模型实现
+
+参考：https://github.com/NELSONZHAO/zhihu/blob/master/skip_gram/Skip-Gram-Chinese-Corpus.ipynb
+
+数据集:莱斯杯比赛数据
+#### 数据预处理-执行data_pre_process.py得到lacie.pk
+
 lacie-json:
+
 article_title
+
 article_content
+
 question
-去除标点符号?和低频词
-是否分词
+
+去除标点符号和低频词
+
+是否分词:
 分词-ltp 不分词-字表示
-高频词抽样-公式、什么时候删除:
+
+高频词抽样：
 之前对高频词抽样的理解有误，并不是删除原始样本中高频词的一部分，减少样本数量
 而是单纯地以一定的概率删除高频词，那么被删除的高频词在原始样本中一定不会出现了
-生成训练batch-window size，测试batch
 
-2. 模型搭建
-输入层：
-隐含层：
-输出层：
-损失计算：
-优化器：
+生成训练batch
 
-3. 训练模型
+#### 模型搭建及训练-执行full_demo.py
 
-4. 测试
+#### 测试
+
 tsene图形化展示词语表示情况
 
-修正：对需要的数据进行保存，以文件方式传输，还是以函数返回值形式传输？应该是看数据大小，和得到这个数据的花销吧
-
-sample softmax:

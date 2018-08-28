@@ -34,7 +34,7 @@ with train_graph.as_default():
     optimizor=tf.train.AdamOptimizer().minimize(loss)
 
 with train_graph.as_default():
-    test_vocab=[word_ids['无人机'],word_ids['导弹'],word_ids['航空'],word_ids['战术'],word_ids['问题']]
+    test_vocab=[word_ids['无人机'],word_ids['导弹'],word_ids['问题'],word_ids['航空'],word_ids['军事']]
     test_input=tf.constant(test_vocab,tf.int32,name='test_input')
     test_embed=tf.nn.embedding_lookup(embeddings,test_input)
     #计算相似度
@@ -59,5 +59,5 @@ with tf.Session(graph=train_graph) as sess:
         f.write("iteration {}:\n".format(e))
         for s in range(len(test_vocab)):
             nearest=(-sim[s,:]).argsort()[1:top_k+1]
-            f.write("nearest to {} are: {}\n".format(test_vocab[s],str(nearest)))
+            f.write("nearest to {} are: {}\n".format(id_words[test_vocab[s]],str([id_words[k] for k in nearest])))
 f.close()

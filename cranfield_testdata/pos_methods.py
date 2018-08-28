@@ -1,5 +1,6 @@
 #coding=utf-8
 import os
+
 import jieba.posseg as pos
 from stanfordcorenlp import StanfordCoreNLP
 import pyltp
@@ -79,5 +80,3 @@ class Fool():
         res=fool.pos_cut(sen)
         return res[0]
 
-# nlp=Fool()
-# print(nlp.pos("现在上海在下雨"))

@@ -1,4 +1,8 @@
-/Lacie/
+/Lacie/intermediate/
+/Lacie/model/
+/Lacie/raw_data/
+/Lacie/venv/
+/Lacie/MachineReading-master/
 */private/
 !/Lacie/codes/
 .idea/

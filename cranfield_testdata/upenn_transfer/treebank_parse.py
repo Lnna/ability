@@ -1,19 +1,22 @@
+from os import path
 from nltk.corpus import BracketParseCorpusReader
-from upenn_transfer import boson
+# from upenn_transfer import boson
+import boson
 # reader=BracketParseCorpusReader('/home/lnn/Downloads/ctb_bracket','(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*')
 def seg_pos_ctb(ctb_dir,fileids):
     reader = BracketParseCorpusReader(ctb_dir, fileids)
     #生成词语和词性元组
-    tree=reader.tagged_sents()
+    # tree=reader.tagged_sents()
     #生成每个句子的树结构，对于部分数据如40.nw中五年来一句无法正确解析
-    # tree = reader.parsed_sents()
+    tree = reader.parsed_sents()
+
     seg_pos_sentences = []
     broken_parses=[]
     for s in tree:
-
+        s=s.pos()
 
         if s and s!=[] and type(s[0])==tuple:
-            s = [j for j in s if j[1] != '-NONE-']
+            s = [j if j[1] != '-NONE-' else (' NONE ','NONE') for j in s ]
             seg_pos_sentences.append(s)
         else:
             broken_parses.append(s)
@@ -102,7 +105,7 @@ def diff_seg(ctb_sentences,boson_sentences):
                 bw=btext[j]
                 ti=i
                 tj=j
-                while cw!=bw and ti<clen-1 and tj<blen-1:
+                while cw!=bw and ti<clen and tj<blen:
                     if len(cw)<len(bw):
                         ti+=1
                         cw+=ctext[ti]
@@ -153,9 +156,12 @@ def diff_seg_pattern(diff_ctb,diff_bos):
 
 
 if __name__=="__main__":
+    home_dir = path.join(path.dirname(__file__), './')
+
     ctb_sentences,broken_parses = seg_pos_ctb(
-        # '/home/lnn/Downloads/ctb_test','.*wb')
-        '/home/lnn/Downloads/ctb_bracket','(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*')
+        # '/home/lnn/Documents/ability/cranfield_testdata/upenn_transfer/otherbroken_ctb_test','(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*')
+        path.join(home_dir,'normal_ctb_test'),'(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*')
+        # '/home/lnn/Documents/ability/cranfield_testdata/otherbroken_ctb_test','(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*')
 
     boson_sentences = ctb2boson_seg(ctb_sentences)
     diff_bos,diff_ctb, sames = diff_seg(ctb_sentences, boson_sentences)
@@ -168,7 +174,7 @@ if __name__=="__main__":
             ctb_plus+=1
         elif p[0].find('+')==-1 and p[1].find('+')>=0:
             bos_plus+=1
-    with open('tmp_pattern.txt', mode='w') as f:
+    with open('tmp_pattern_new.txt', mode='w') as f:
         f.write(
             'parse sentences: {},broken_parses: {},same seg sentences: {},diff words len: {},patterns num: {}\n'.format(
                 len(ctb_sentences),len(broken_parses), sames, len(diff_ctb),len(patterns_counts)))
@@ -182,10 +188,27 @@ if __name__=="__main__":
             for i in range(0,len(patterns_words[pat]),5):
                 f.write(str(patterns_words[pat][i:min(len(patterns_words[pat]),i+5)])+'\n')
             f.write('\n')
-        # for (pat, word) in patterns_words.items():
-        #     f.write('{} counts: {}\n'.format(pat,patterns_counts[pat]))
-        #     for i in range(0,len(word),5):
-        #         f.write(str(word[i:min(len(word),i+5)])+'\n')
-        #     f.write('\n')
         f.close()
+
+    f1=open('multictb2oneboson_pattern_new.txt',mode='w')
+    f2=open('onectb2multiboson_pattern_new.txt',mode='w')
+    f3=open('multictb2multiboson_pattern_new.txt',mode='w')
+    f1.write('total num: {} \n'.format(ctb_plus))
+    f2.write('total num: {} \n'.format(bos_plus))
+    f3.write('total num: {} \n'.format(len(patterns_counts)-bos_plus-ctb_plus))
+    for (pat,count) in patterns_sort:
+        p = str(pat).split('=')
+        if p[0].find('+') >= 0 and p[1].find('+') == -1:
+            f1.write('{} counts: {}\n'.format(pat,count))
+            f1.write(str(patterns_words[pat][0:5]) + '\n\n')
+
+        elif p[0].find('+') == -1 and p[1].find('+') >= 0:
+            f2.write('{} counts: {}\n'.format(pat, count))
+            f2.write(str(patterns_words[pat][0:5]) + '\n\n')
+        else:
+            f3.write('{} counts: {}\n'.format(pat, count))
+            f3.write(str(patterns_words[pat][0:5]) + '\n\n')
+    f1.close()
+    f2.close()
+    f3.close()
 

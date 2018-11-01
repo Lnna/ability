@@ -38,6 +38,9 @@ class LtpNlp():
         self.seg.load(model_path + 'cws.model')
         self.pos = pyltp.Postagger()
         self.pos.load(model_path + 'pos.model')
+        self.parser=pyltp.Parser()
+        self.parser.load(model_path+'parser.model')
+
 
     def ltpseg(self,sen):
         words=self.seg.segment(sen)
@@ -47,6 +50,13 @@ class LtpNlp():
         words=self.ltpseg(sen)
         pos_words=self.pos.postag(words)
         return [(i,j) for i,j in zip(words,pos_words)]
+
+    def ltpparser(self,sen):
+        words=self.ltpseg(sen)
+        pos_words=self.pos.postag(words)
+        arcs=self.parser.parse(words,pos_words)
+        print("\t".join("%d:%s" % (arc.head, arc.relation) for arc in arcs))
+
     def release(self):
         self.seg.release()
         self.pos.release()
@@ -79,4 +89,13 @@ class Fool():
     def pos(self,sen):
         res=fool.pos_cut(sen)
         return res[0]
+
+    def ner(self,sen):
+        res=fool.analysis(sen)
+        return res
+
+if __name__=='__main__':
+    ltp=LtpNlp()
+    s=ltp.ltpparser('欧蓝德 ， 价格 便宜 ， 森林 人 太 贵 啦 ！')
+    print(s)
 

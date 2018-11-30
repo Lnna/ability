@@ -1,0 +1,175 @@
+<S>
+( (IP (PP (p 在) (NP (NP (n 国际) (n 焦点) (n 新闻)) (NP (n 方面)))) (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 叙利亚))
+    (VP
+      (PP-TMP (p 在) (QP (m ８) (CLP (q 号))))
+      (VP
+        (v 重申)
+        (IP-OBJ
+          (NP-SBJ (r 他))
+          (VP
+            (v 支持)
+            (NP-OBJ
+              (NP-APP
+                (DNP (NP-PN (ns 黎巴嫩)) (ude 的))
+                (NP (n 民兵) (v 组织)))
+              (NP-PN (n 真主党))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 叙利亚))
+    (VP
+      (ADVP (c 并且))
+      (VP
+        (v 声称)
+        (IP-OBJ
+          (NP-SBJ (r 他))
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 会)
+              (VP
+                (vi 屈服)
+                (PP
+                  (p 于)
+                  (NP
+                    (NP-PN (ns 以色列))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-TPC (-NONE- *T*-1))
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (ADVP (d 不))
+                            (VP (v 负) (NP-OBJ (n 责任)))))
+                        (ude 的)))
+                    (NP (n 威胁)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 叙利亚)) (NP (n 官员)))
+  (VP
+    (VSB (v 警告) (v 说))
+    (wd ，)
+    (IP-OBJ
+      (NP-TPC (NP-PN (ns 中东)) (NP (n 地区)))
+      (NP-TMP (t 目前))
+      (NP-SBJ (n 情形))
+      (VP (a 危急))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 官员))
+  (VP
+    (ADVP (c 并且))
+    (VP
+      (v 批评)
+      (NP-OBJ
+        (NP-PN (ns 以色列))
+        (DNP
+          (PP
+            (p 对)
+            (NP-PN
+              (ns 叙利亚)
+              (wn 、)
+              (ns 巴勒斯坦)
+              (wn 、)
+              (FRAG (ns 以) (c 及))
+              (ns 黎巴嫩)))
+          (ude 的))
+        (NP (n 侵略)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 叙利亚)) (NP (n 执政党))) (ude 的))
+    (NP (n 报纸)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 呼吁)
+      (IP-OBJ
+        (NP-SBJ (n 国际) (n 社会))
+        (VP
+          (VP (v 进行) (NP-OBJ (ADJP (a 紧急)) (NP (n 干预))))
+          (wd ，)
+          (VP
+            (v 结束)
+            (NP-OBJ
+              (DNP (NP-PN (ns 以色列)) (ude 的))
+              (ADJP (b 进一步))
+              (NP (n 入侵))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 以色列)) (NP (n 士兵)))
+  (VP
+    (VP
+      (QP (m ７) (CLP (q 号)))
+      (PP-LOC
+        (p 在)
+        (NP
+          (DNP (NP-PN (ns 以色列) (c 和) (ns 黎巴嫩)) (ude 的))
+          (NP (n 边界))))
+      (PP-DIR
+        (p 对)
+        (NP
+          (QP (m 一) (CLP (q 群)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 扔) (NP-OBJ (n 石头))))
+              (ude 的)))
+          (NP (ns 巴勒斯坦人) (NP (n 示威者)))))
+      (VP (vi 开火)))
+    (wd ，)
+    (VP
+      (ADVP (n 结果))
+      (VP
+        (v 造成)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (QP (m 两) (CLP (q 名))) (NP-PN (n 巴勒斯坦)))
+            (VP (vi 丧生)))
+          (c 和)
+          (IP
+            (NP-SBJ (QP (m １０) (QP (m 多))) (NP (n 人)))
+            (VP (vi 受伤)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 以色列) (n 国防部))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (CP-CND
+        (ADVP (c 如果))
+        (IP (NP-SBJ (n 边界) (n 暴力) (n 活动)) (VP (VRD (vi 持续) (v 下去)))))
+      (wd ，)
+      (NP-PN-SBJ (ns 叙利亚))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 成为)
+          (NP-OBJ
+            (CP
+              (WHPP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (ns 以色列))
+                  (VP (PP-DIR (-NONE- *T*-1)) (VP (v 报复))))
+                (ude 的)))
+            (NP (n 目标)))))))
+  (wj 。)))
+</S>

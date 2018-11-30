@@ -1,0 +1,131 @@
+<S>
+( (IP
+  (ADVP (c 另外))
+  (FLR (y 呢))
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-3 (-NONE- *T*-2))
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 跨) (NP-OBJ (n 党派))))
+                    (ude 的)))
+                (NP-PN (ns 美国))
+                (ADJP (f 前))
+                (NP (n 政要))))
+            (VP (v 组成) (NP-OBJ (-NONE- *-3)))))
+        (ude 的)))
+    (NP-PN (ns 伊拉克))
+    (NP (n 研究) (n 小组)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 星期三))
+    (PP-DIR
+      (p 向)
+      (NP
+        (NP (NP-APP (NP-PN (ns 美国)) (NP (n 总统))) (NP-PN (nrf 布什)))
+        (c 以及)
+        (NP (n 国会))))
+    (VP
+      (VP
+        (ADVP (ad 正式))
+        (VP
+          (v 提交)
+          (y 了)
+          (NP-OBJ
+            (DNP (PP (p 有关) (NP-PN (ns 伊拉克))) (ude 的))
+            (NP (n 报告)))))
+      (wd ，)
+      (VP
+        (ADVP (c 并且))
+        (ADVP (d 也))
+        (VP (v 提出) (NP-OBJ (QP (m 九十七) (CLP (q 条))) (NP (n 建议)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 报告))
+  (VP
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP-PN (ns 伊拉克)) (ude 的)) (NP (n 局势)))
+        (VP
+          (VP (DVP (ADVP (d 非常)) (ude 地)) (VP (a 严峻)))
+          (wd ，)
+          (VP
+            (ADVP (c 而且))
+            (ADVP (d 还))
+            (VP
+              (p 在)
+              (LCP-OBJ
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (ADVP (d 日益)) (VP (vi 恶化))))
+                (f 中)))))))
+    (wd ，)
+    (VP
+      (v 呼吁)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP-PN (ns 美国)) (ude 的))
+          (NP (NP-PN (ns 伊拉克)) (NP (n 战争)))
+          (NP (n 政策)))
+        (VP (v 进行) (NP-OBJ (ADJP (a 重大)) (NP (n 调整)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 研究) (n 小组))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 报告)) (f 中)))
+    (VP
+      (VP
+        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+        (VP
+          (v 提出)
+          (NP-OBJ (DNP (ADJP (a 具体)) (ude 的)) (NP (n 撤军) (n 时间表)))))
+      (wd ，)
+      (VP
+        (ADVP (c 但))
+        (ADVP (d 却))
+        (VP
+          (v 建议)
+          (IP-OBJ
+            (NP-SBJ (n 美军))
+            (VP
+              (PP-TMP
+                (p 在)
+                (LCP
+                  (LCP (NP (NP (m 二零零八)) (NP (q 年))) (f 初))
+                  (f 之前)))
+              (wd ，)
+              (VP
+                (v 撤出)
+                (NP-OBJ
+                  (DP (ADVP (d 几乎)) (DP (b 所有)))
+                  (NP (n 作战) (n 部队))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (DNP (NP (ADJP (v 留守)) (NP (n 部队))) (ude 的)) (NP (n 任务)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 应该)
+      (VP
+        (PP-DIR (p 从) (NP (n 战斗)))
+        (VP (v 转为) (NP-OBJ (n 支援) (n 作用))))))
+  (wj 。)))
+</S>

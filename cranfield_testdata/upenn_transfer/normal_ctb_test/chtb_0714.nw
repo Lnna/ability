@@ -1,0 +1,210 @@
+<S>
+( (IP-HLN
+  (NP-TPC (NP-PN (ns 纽约)) (NP (n 股市)))
+  (LCP-TMP (t 节后))
+  (NP-SBJ (n 交易))
+  (VP (a 平淡))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 纽约)
+  (t １２月)
+  (t ２８日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 丁宝忠)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (LCP (NP (t 圣诞节)) (f 后)) (QP (m 第一) (CLP (q 个))) (n 交易日))
+    (NP-TPC (NP-PN (ns 纽约)) (NP (n 股市)))
+    (NP-SBJ (n 交易))
+    (VP (a 平淡)))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (NP (n 道)) (wp －) (NP (nrf 琼斯))) (NP (n 股指)))
+    (VP (v 微升)))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 其他)) (NP (n 股指)))
+    (VP
+      (ADVP (d 则))
+      (VP (VP (vyou 有) (NP-OBJ (n 升))) (VP (vyou 有) (NP-OBJ (n 降))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (wd ，)
+    (NP-SBJ (DP (r 该)) (NP (n 指数)))
+    (VP (PP (p 比) (NP (t 年初))) (VP (v 升高) (QP-OBJ (m 百分之十六点七)))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (p 距)
+        (QP-OBJ
+          (NP-APP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (NP-TMP (t １１月) (t ２３日))
+                    (VP (usuo 所) (VP (v 创) (NP-OBJ (-NONE- *T*-1))))))
+                (ude 的)))
+            (NP (n 历史) (n 最高点)))
+          (QP (m ９３７４．２７) (CLP (q 点))))))
+    (VP (ADVP (d 只)) (VP (v 差) (QP-OBJ (m １４７) (CLP (q 点))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 当日))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (PP-MNR (p 以) (NP (n 技术股))) (VP (vi 为主))))
+          (ude 的)))
+      (NP-PN (nz 纳斯达克))
+      (NP (n 股票)))
+    (NP (n 指数)))
+  (VP
+    (VP
+      (PP
+        (p 比)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (NP-TMP (t ２３日))
+                  (VP (v 创下) (NP-OBJ (-NONE- *T*-2)))))
+              (ude 的)))
+          (ADJP (a 最高))
+          (NP (n 记录))))
+      (ADVP (d 再))
+      (VP (vi 涨) (QP-OBJ (m １７．２７) (CLP (q 点)))))
+    (wd ，)
+    (VP
+      (v 达)
+      (NP-OBJ (DNP (QP (m ２１８０．３０) (CLP (q 点))) (ude 的)) (n 新高))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 至此))
+  (wd ，)
+  (NP-SBJ (NP-PN (nz 纳斯达克)) (NP (n 指数)))
+  (VP (PP (p 比) (NP (t 年初))) (VP (v 升高) (QP-OBJ (m 百分之三十八点八))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 据)
+      (NP (NP (QP (m 一) (CLP (q 家))) (NP (n 咨询) (n 公司))) (NP (v 预测))))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 美国)) (LCP (s 网上)) (NP (n 交易额)))
+    (VP
+      (VP (vyou 有) (NP-OBJ (n 可能)))
+      (VP
+        (PP-DIR
+          (p 从)
+          (QP
+            (DNP (NP (t 今年)) (ude 的))
+            (QP (ADVP (d 大约)) (QP (m １３０亿) (CP (q 美元))))))
+        (VP
+          (VRD (v 增加) (v 到))
+          (QP-OBJ
+            (DNP (NP (t 明年)) (ude 的))
+            (QP
+              (QP (m ３００亿) (CLP (-NONE- *RNR*-1)))
+              (p 至)
+              (QP (m ４００亿) (CLP-1 (q 美元)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (v 导致)
+                (IP-OBJ
+                  (NP-SBJ (n 技术股))
+                  (VP (NP-TMP (t 当天)) (VRD (v 走) (a 强))))))
+            (ude 的)))
+        (ADJP (b 主要))
+        (NP (n 因素)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP
+        (NP (NP (n 标准)) (NP-PN (nz 普尔)))
+        (QP (m ５００) (CLP (q 种)))
+        (NP (n 股票)))
+      (NP (n 价格) (n 指数)))
+    (c 及)
+    (NP (NP (DP (r 其他) (QP (m 一些))) (NP (n 股票))) (NP (n 指数))))
+  (VP
+    (ADVP (d 则))
+    (VP
+      (vyou 有)
+      (NP-OBJ (NP (ADJP (a 不同)) (NP (n 程度))) (NP (vi 下跌)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (DNP
+        (UCP (LCP-TMP (NP (t 圣诞)) (f 后)) (NP-TMP (t 新年) (f 前夕)))
+        (ude 的))
+      (NP-PN (ns 华尔街)))
+    (NP-SBJ (v 交投))
+    (VP (a 清淡)))
+  (wd ，)
+  (IP
+    (NP-PN-TPC (ns 纽约) (n 证交所))
+    (NP-SBJ (n 上升股))
+    (VP (ADVP (d 略)) (VP (v 少于) (NP-OBJ (n 下跌股)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 成交量))
+    (VP
+      (PP-DIR
+        (p 从)
+        (QP
+          (DNP
+            (NP (DP (f 前) (QP (m 一个))) (ADJP (a 完整)) (NP (n 交易日)))
+            (ude 的))
+          (QP (m ６．９４亿) (CLP (q 股)))))
+      (VP (VSB (v 减少) (v 为)) (QP-OBJ (m ５．２６亿) (CLP (q 股))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

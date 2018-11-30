@@ -1,0 +1,97 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (nt 联合国)) (NP (n 大会)))
+  (VP
+    (VSB (vi 投票) (v 选出))
+    (NP-OBJ (QP (m ５) (CLP (q 个))) (NP (n 国家)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (p 为)
+        (NP-PRD
+          (DNP (NP (NP-PN (nt 联合国)) (NP (nt 安理会))) (ude 的))
+          (NP (n 成员))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 哥伦比亚) (wn 、) (ns 爱尔兰) (p 与) (ns 新加坡))
+  (VP
+    (VP
+      (v 赢得)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (t 星期二)) (ude 的))
+        (QP (m 第一) (CLP (q 轮)))
+        (NP (n 投票))))
+    (wd ，)
+    (VP
+      (ADVP (c 而))
+      (VP (v 成为) (NP-OBJ (DNP (NP (nt 安理会)) (ude 的)) (NP (n 成员))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-TPC (ns 毛里求斯) (c 和) (ns 挪威))
+  (wd ，)
+  (NP-PN-SBJ (ns 毛里求斯))
+  (VP
+    (VP (v 打败) (y 了) (NP-PN-OBJ (ns 苏丹)))
+    (wd ，)
+    (VP
+      (c 而)
+      (VP
+        (v 赢得)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (nt 安理会))
+                (VP
+                  (VRD (v 分配) (v 给))
+                  (NP-PN-IO (ns 非洲))
+                  (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 席位))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 美国)) (NP (n 人权) (n 团体)))
+  (VP
+    (VP
+      (ADVP (d 大力))
+      (VP
+        (v 阻止)
+        (NP-PN-OBJ (ns 苏丹))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 当选)))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (VP
+        (v 说)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 苏丹))
+          (VP (v 支持) (NP-OBJ (a 恐怖) (n 组织)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (ADVP (c 而且))
+      (ADVP (d 也))
+      (VP
+        (VRD (v 遭受) (v 到))
+        (NP-OBJ (DNP (NP-PN (nt 联合国)) (ude 的)) (NP (n 制裁)))))
+    (wd ，)
+    (VP
+      (c 而)
+      (VP
+        (VP (v 没有) (NP-OBJ (n 资格)))
+        (VP (v 成为) (NP-OBJ (DNP (NP (nt 安理会)) (ude 的)) (NP (n 成员)))))))
+  (wj ．)))
+</S>

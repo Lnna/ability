@@ -1,0 +1,389 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP (NP-PN (ns 中国)) (NP (n 三资企业)))
+    (NP (n 人民币) (n 贷款) (n 余额)))
+  (VP (ADVP (a 近)) (QP-PRD (m 一千亿) (CLP (q 元))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 二月) (t 十三日) (n 电)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP (p 据) (IP (NP-PN-SBJ (ns 中国) (n 人民) (n 银行)) (VP (v 统计))))
+    (wd ，)
+    (PP-TMP (v 截至) (LCP (t 去年底)))
+    (wd ，)
+    (NP-SBJ
+      (NP (NP-PN (ns 中国)) (NP (n 金融) (n 机构)))
+      (DNP (PP (p 对) (NP (n 三资企业))) (ude 的))
+      (NP (n 人民币) (n 贷款) (n 余额)))
+    (VP (ADVP (d 已)) (VP (v 达) (QP-OBJ (m 九百九十五点六亿) (CLP (q 元))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 数字)))
+    (VP
+      (PP (p 比) (LCP (t 上年末)))
+      (VP
+        (VP (v 增加) (QP-EXT (m 二百零三点三亿) (CLP (q 元))))
+        (wd ，)
+        (VP (v 增长) (QP-EXT (m 百分之二十七点六))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 了解)))
+  (wd ，)
+  (QP-TMP (ADVP (a 近)) (QP (m 几) (CLP (q 年))))
+  (wd ，)
+  (PP
+    (p 随着)
+    (NP
+      (NP
+        (DNP (NP (NP-PN (ns 中国)) (NP (n 经济))) (ude 的))
+        (ADJP (d 不断))
+        (NP (v 发展)))
+      (c 和)
+      (NP (DNP (NP (vl 对外开放)) (ude 的)) (ADJP (d 不断)) (NP (v 深入)))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ
+        (CP-APP
+          (WHPP-1 (-NONE- *OP*))
+          (IP
+            (NP-SBJ (n 外商))
+            (VP (PP (-NONE- *T*-1)) (VP (VP (vi 来华)) (VP (v 投资))))))
+        (NP (an 热情)))
+      (VP (ADVP (d 很)) (VP (a 高))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 投资) (n 项目) (c 和) (n 金额) (v 增长))
+      (VP (ADVP (m 十分)) (VP (a 迅速)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 统计)))
+  (wd ，)
+  (ADVP (d 迄今))
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (ADVP (d 已))
+    (ADVP (v 累计))
+    (VP
+      (VP
+        (VP
+          (v 批准)
+          (NP-OBJ (n 外商) (n 投资) (n 项目))
+          (QP-EXT (ADVP (a 近)) (QP (m 二十五点九万) (CLP (q 个))))))
+      (wd ，)
+      (VP
+        (ADVP (ad 实际))
+        (VP
+          (v 使用)
+          (NP-OBJ (n 外资) (n 金额))
+          (QP-EXT (m 一千三百五十四亿) (CLP (q 美元)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (QP (QP (QP (m 十二万)) (ADVP (m 多))) (CLP (q 家)))
+            (NP (n 外商) (n 投资) (n 企业)))
+          (VP (PP-LOC (p 在) (NP-PN (ns 中国))) (VP (vi 开业)))))))
+  (wd ，)
+  (c 而且)
+  (IP
+    (NP-TPC
+      (DP (r 这些))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 已)) (VP (vi 开业))))
+          (ude 的)))
+      (NP (n 外商) (n 投资) (n 企业)))
+    (NP-ADV (m 绝大部分))
+    (NP-SBJ (n 生产) (n 经营) (n 状况))
+    (VP (ADVP (d 较)) (VP (a 好))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (IP (NP-PN-SBJ (n 国家) (n 税务) (n 总局)) (VP (v 统计))))
+  (wd ，)
+  (NP-TMP (t 去年))
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ
+            (NP (n 全国))
+            (NP (n 外商) (n 投资) (n 企业) (c 和) (n 外国) (n 企业)))
+          (VP (v 缴纳) (NP-OBJ (-NONE- *T*-2))))
+        (ude 的)))
+    (NP (n 所得税)))
+  (VP
+    (VP (v 达) (QP-OBJ (m 七十五点六七亿) (CLP (q 元))))
+    (wd ，)
+    (VP (PP (p 比) (DP (t 上年))) (VP (v 增长) (QP-EXT (m 百分之五十七点一)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 了解)))
+  (wd ，)
+  (NP-TMP (t 目前))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 外商) (n 投资) (n 企业))
+                (VP (v 获得) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 人民币) (n 贷款)))
+        (f 中)))
+    (wd ，)
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (QP-SBJ (ADVP (a 近)) (QP (m 一半)))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (nt 中国银行))
+                  (VP (v 提供) (NP-OBJ (-NONE- *T*-3))))
+                (ude 的))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (ADVP (d 仅)) (NP (t 去年)))
+    (NP-PN-SBJ (nt 中国银行))
+    (VP
+      (VP
+        (ADVP (d 就))
+        (ADVP (v 累计))
+        (PP-DIR (p 向) (NP (n 外商) (n 投资) (n 企业)))
+        (VP
+          (v 提供)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (QP
+                (QP (QP (QP (m 六百九十)) (ADVP (m 多))) (QP (m 亿)))
+                (CLP (q 元)))
+              (ude 的))
+            (NP (n 人民币) (n 贷款)))))
+      (wd ，)
+      (VP
+        (ADVP (r 另外))
+        (ADVP (d 还))
+        (PP-DIR (p 向) (NP (n 外商) (n 投资) (n 企业)))
+        (VP
+          (v 发放)
+          (NP-OBJ (n 外汇) (n 现汇) (n 贷款))
+          (QP-EXT
+            (QP (QP (QP (m 四十)) (ADVP (m 多))) (QP (m 亿)))
+            (CLP (q 美元)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这些)) (NP (n 贷款)))
+    (VP
+      (ADVP (d 重点))
+      (VP
+        (v 支持)
+        (NP-OBJ
+          (NP-APP
+            (n 基础)
+            (n 原材料)
+            (wn 、)
+            (n 化工)
+            (wn 、)
+            (n 机械)
+            (udeng 等))
+          (NP (n 行业))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 统计)))
+  (wd ，)
+  (PP-TMP (p 到) (LCP (t 去年底)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-4 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nt 中国银行))
+              (VP
+                (PP-DIR (p 向) (NP (n 外商) (n 投资) (n 企业)))
+                (ADVP (v 累计))
+                (VP (v 发放) (NP-OBJ (-NONE- *T*-4)))))
+            (ude 的)))
+        (NP (n 外汇) (n 现汇) (n 贷款) (c 和) (n 人民币) (n 贷款)))
+      (VP
+        (v 达到)
+        (QP-OBJ
+          (QP (m 二百一十亿) (CLP (q 美元)))
+          (c 和)
+          (QP (m 二千五百九十三亿) (CLP (q 元))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 人民币) (n 贷款) (n 余额))
+      (VP (ADVP (d 已)) (ADVP (v 近)) (QP-PRD (m 四百五十四亿) (CLP (q 元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 约))
+        (VP
+          (vyou 有)
+          (IP-OBJ
+            (NP-SBJ
+              (QP (m 十五万) (CLP (q 家)))
+              (NP (n 外商) (n 投资) (n 企业)))
+            (VP
+              (PP-LOC (p 在) (NP-PN (nt 中国银行)))
+              (VP (v 开立) (NP-OBJ (n 帐户))))))))
+    (wd ，)
+    (IP
+      (NP-ADV (r 其中))
+      (QP-SBJ (QP (QP (m 二万)) (ADVP (m 多))) (CLP (q 家)))
+      (VP
+        (v 获得)
+        (NP-OBJ (DNP (NP-PN (nt 中国银行)) (ude 的)) (NP (n 贷款) (n 支持))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 据)
+    (IP
+      (NP-SBJ (NP-PN (nt 中国银行)) (ADJP (n 有关)) (NP (n 负责人)))
+      (VP (v 透露))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-TMP (t 今年))
+      (NP-PN-SBJ (nt 中国银行))
+      (VP
+        (ADVP (d 仍))
+        (ADVP (d 将))
+        (VP
+          (v 继续)
+          (VP
+            (v 发挥)
+            (NP-OBJ
+              (NP (r 其))
+              (DNP
+                (PP
+                  (p 在)
+                  (NP
+                    (IP-APP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (v 支持) (NP-OBJ (n 外商) (n 投资) (n 企业))))
+                    (NP (n 方面))))
+                (ude 的))
+              (NP (n 主渠道) (n 作用)))))))
+    (wd ，)
+    (IP
+      (NP-SBJ
+        (DNP (PP (p 对) (NP (n 投资) (n 企业))) (ude 的))
+        (NP (n 贷款) (n 规模)))
+      (VP
+        (ADVP (d 将))
+        (VP (v 保持) (NP-OBJ (ADJP (ad 适度)) (NP (v 增长)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 贷款))
+    (VP
+      (VP
+        (ADVP (d 将))
+        (PP-DIR
+          (p 向)
+          (NP
+            (NP-APP (n 能源) (wn 、) (n 交通) (wn 、) (n 电力) (udeng 等))
+            (NP (n 基础) (n 设施) (n 产业))))
+        (VP (vi 倾斜)))
+      (wd ，)
+      (VP
+        (ADVP (d 尤其))
+        (PP
+          (PP
+            (p 以)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (NP (s 国外)) (ADJP (a 大)) (NP (n 公司)))
+                    (VP
+                      (PP-LOC (p 在) (NP-PN (n 华)))
+                      (VP (v 设立) (NP-OBJ (-NONE- *T*-1)))))
+                  (ude 的)))
+              (ADJP (b 大中型))
+              (NP (n 企业)))))
+        (VP (v 为) (NP-OBJ (n 重点))))))
+  (wf ；)
+  (IP
+    (ADVP (c 此外))
+    (wd ，)
+    (NP-SBJ
+      (DNP
+        (NP
+          (NP (ADJP (a 高)) (NP (n 技术)))
+          (wn 、)
+          (NP (ADJP (a 高)) (NP (n 科技)))
+          (wn 、)
+          (NP (ADJP (a 高)) (NP (n 出口)))
+          (wn 、)
+          (NP (ADJP (a 高)) (NP (n 利税))))
+        (ude 的))
+      (NP (n 企业)))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 将))
+      (VP
+        (v 获得)
+        (NP-OBJ (DNP (NP-PN (nt 中国银行)) (ude 的)) (NP (n 贷款) (n 支持))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

@@ -1,0 +1,75 @@
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (v 了解)))
+    (NP-TMP (t 目前))
+    (NP-SBJ (NP-PN (ns 北京市)) (r 各区))
+    (VP
+      (ADVP (d 已经))
+      (ADVP (d 逐步))
+      (VP
+        (v 形成)
+        (y 了)
+        (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 特色))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (NP
+          (DNP (NP-PN (ns 海淀区)) (ude 的))
+          (NP (ADJP (a 高)) (NP (n 科技)))
+          (NP (n 产业园)))
+        (wd ，)
+        (NP
+          (DNP (NP-PN (ns 西城区)) (ude 的))
+          (NP (NP (ns 金融街)) (c 和) (NP-PN (ns 西单) (n 商业区))))
+        (wd ，)
+        (NP (DNP (NP-PN (ns 朝阳区)) (ude 的)) (NP (n 国际) (n 商务) (n 区))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 宣武区))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-MNR
+                (p 以)
+                (NP
+                  (NP-PN-APP
+                    (ns 琉璃厂)
+                    (wn 、)
+                    (ns 大石)
+                    (n 浪)
+                    (wn 、)
+                    (n 天桥)
+                    (udeng 等))
+                  (ADJP (a 古老))
+                  (NP (n 街区))))
+              (VP (v 为) (NP-PRD (n 代表)))))
+          (ude 的)))
+      (NP-PN
+        (NP (ns 北京))
+        (NP (ADJP (n 传统)) (NP (n 文化)))
+        (NP (n 中心区))))
+    (wd ，)
+    (VP
+      (ADVP (d 将))
+      (PP-BNF (p 为) (NP (DNP (NP-PN (ns 北京)) (ude 的)) (NP (n 发展))))
+      (VP (v 增添) (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 亮色))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (NP-PN (n 中央台)) (NP (n 记者))) (VP (n 报道)) (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (n 广告)) (f 之后))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (PP-DIR (p 向) (NP (r 您))) (VP (v 报道) (NP-OBJ (n 国际) (n 新闻))))
+  (wj 。)))
+</S>

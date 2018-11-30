@@ -1,0 +1,180 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP (NP-PN (ns 美国)) (NP-PN (n 共和党)) (NP (n 人)))
+      (NP (ADJP (f 前)) (NP (NP-PN (ns 德克萨斯州)) (NP (n 州长)))))
+    (NP-PN (nrf 乔治沃克布什)))
+  (wd ，)
+  (VP
+    (NP-TMP
+      (NP-PN (ns 美国))
+      (NP (s 当地) (n 时间))
+      (NP (QP (m ２０) (CLP (q 号))) (t 中午)))
+    (PP-LOC (p 在) (NP-PN (ns 华盛顿)))
+    (VP
+      (VSB (vi 宣誓) (v 就任))
+      (NP-OBJ (NP-PN (ns 美国)) (QP (m 第５４) (CLP (q 届))) (NP (n 总统)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 我们)) (VP (v 来) (VP (v 看) (NP-OBJ (v 报道)))))
+  (wm ：)
+  (IP
+    (NP-SBJ (vi 宣誓) (n 就职) (n 仪式))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (NP (n 国会) (n 大厦)) (NP (f 西侧))) (ude 的))
+            (ADJP (n 露天))
+            (NP (n 坪台)))
+          (f 上)))
+      (VP (v 举行))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 布什) (c 和) (nrf 切尼))
+    (VP
+      (ADVP (d 分别))
+      (PP-MNR
+        (p 在)
+        (LCP
+          (NP
+            (DNP
+              (NP
+                (NP-APP
+                  (NP-PN (ns 美国))
+                  (NP (ADJP (a 最高)) (NP (n 法院)))
+                  (ADJP (n 首席))
+                  (NP (n 大法官)))
+                (NP-PN (nrf 伦回斯克)))
+              (ude 的))
+            (NP (n 主持)))
+          (f 下)))
+      (VP (VSB (vi 宣誓) (vi 就职)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 布什))
+    (VP
+      (PP-LOC (p 在) (LCP (NP (n 仪式)) (f 上)))
+      (VP
+        (VP
+          (v 发表)
+          (y 了)
+          (NP-OBJ
+            (DNP (QP (m １２) (CLP (q 分钟))) (ude 的))
+            (NP (n 就职) (n 演说))))
+        (wd ，)
+        (VP
+          (ADVP (ad 扼要))
+          (VP
+            (v 阐述)
+            (y 了)
+            (NP-OBJ
+              (DNP (NP (ADJP (a 新)) (NP (n 政府))) (ude 的))
+              (NP (b 施政) (n 纲领)))))
+        (wd ，)
+        (VP
+          (v 呼吁)
+          (NP-OBJ (n 民众))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (v 加强) (NP-OBJ (a 团结)))
+              (wn 、)
+              (VP
+                (ADVP (ad 积极))
+                (VP (v 参与) (NP-OBJ (n 国家) (c 和) (n 社区) (n 事务))))))))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (VRD (v 谈) (v 到)) (NP-OBJ (ADJP (n 对外)) (NP (n 事务)))))
+        (n 时)))
+    (NP-PN-SBJ (nrf 布什))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 美国))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (VP (v 继续) (VP (v 参与) (NP-OBJ (n 世界) (n 事务))))
+            (wd ，)
+            (VP
+              (v 建立)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 支)))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-TPC (-NONE- *T*-1))
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (ADVP (v 无可)) (VP (vi 匹敌))))
+                    (ude 的)))
+                (NP (n 国防) (n 力量))))
+            (wd ，)
+            (VP
+              (v 保护)
+              (NP-OBJ
+                (NP (NP (n 盟国)) (c 和) (NP-PN (ns 美国)))
+                (DNP (PP (p 在) (NP (n 全世界))) (ude 的))
+                (NP (n 利益)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP
+        (NP-APP
+          (NP (NP-APP (ADJP (vi 卸任)) (NP (n 总统))) (NP-PN (nrf 克林顿)))
+          (c 和)
+          (NP (NP-APP (n 夫人)) (NP-PN (nrf 希拉里)))
+          (udeng 等))
+        (NP (n 贵宾)))
+      (c 以及)
+      (NP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 来自) (NP-OBJ (NP (n 全国)) (r 各地))))
+              (ude 的)))
+          (NP (n 观众) (c 和) (n 旅游者)))
+        (QP (ADVP (d 大约)) (QP (m ５０万)))
+        (NP (n 人))))
+    (VP (v 参加) (y 了) (NP-OBJ (n 总统) (n 就职) (n 仪式))))
+  (wd ，)
+  (IP
+    (ADVP (d 就))
+    (PP-TMP
+      (p 在)
+      (NP
+        (CP
+          (WHPP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nrf 布什))
+              (VP (PP-TMP (-NONE- *T*-2)) (VP (VSB (vi 宣誓) (vi 就职)))))
+            (ude 的)))
+        (NP (n 时候))))
+    (wd ，)
+    (NP-SBJ (QP (m 数万)) (NP (n 人)))
+    (VP
+      (PP-LOC (p 在) (NP-PN (ns 华盛顿)))
+      (VP (v 举行) (NP-OBJ (n 抗议) (n 示威)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP (n 中央台)) (VP (VSB (n 编译) (n 报道))) (wj 。)))
+</S>

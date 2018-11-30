@@ -1,0 +1,269 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 天津市))
+  (VP
+    (ADVP (ad 积极))
+    (VP (v 利用) (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 天津)
+  (t 十月)
+  (t 二十九日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 丛文滋)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 天津市))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (NP (vl 对外开放)) (NP (n 过程))) (f 中)))
+    (wd ，)
+    (ADVP (ad 积极))
+    (VP (v 利用) (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (vi 截止) (NP (t 目前)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-PN-SBJ (ns 天津市))
+      (VP
+        (v 利用)
+        (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))
+        (QP-EXT (m 四十二) (CLP (q 项)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 贷款) (n 协议) (n 外资额))
+      (VP (QP-PRD (m 十三点二亿) (CLP (q 美元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (ad 实际)) (VP (v 利用) (NP-OBJ (-NONE- *T*-1)))))))
+        (NP (n 外资额)))
+      (VP
+        (VP (QP-PRD (m 十二亿) (CLP (q 美元))))
+        (wd ，)
+        (VP
+          (v 占)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (n 全市))
+                  (VP
+                    (v 借用)
+                    (NP-OBJ (s 国外) (n 资金))
+                    (NP-EXT (-NONE- *T*-2))))))
+            (NP (n 总额)))
+          (LCP-EXT (QP (m 一半)) (f 以上))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-PN-SBJ (ns 天津市)) (VP (v 利用) (NP-OBJ (-NONE- *T*-1))))))
+    (NP (n 外国) (n 政府))
+    (NP (n 贷款)))
+  (VP
+    (ADVP (d 分别))
+    (VP
+      (v 来自)
+      (NP-OBJ
+        (NP-PN
+          (ns 日本)
+          (wn 、)
+          (ns 意大利)
+          (wn 、)
+          (ns 西班牙)
+          (wn 、)
+          (ns 芬兰)
+          (wn 、)
+          (ns 奥地利)
+          (wn 、)
+          (ns 加拿大)
+          (wn 、)
+          (ns 法国)
+          (wn 、)
+          (NP (ns 德国))
+          (udeng 等))
+        (QP (m 十四) (CLP (q 个)))
+        (NP (n 国家) (c 或) (n 地区)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 天津))
+  (VP
+    (VP (v 利用) (NP-OBJ (DP (r 这些)) (NP (n 贷款))))
+    (VP (PP-BNF (p 为) (NP (n 民))) (VP (v 办) (NP-OBJ (n 实事)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 天津)) (NP (n 市政府)))
+    (VP
+      (v 许诺)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (DP-ADV (r 每年))
+          (PP-BNF (p 为) (NP (n 群众)))
+          (VP (v 办) (NP-OBJ (QP (m 二十) (CLP (q 件))) (NP (n 实事))))))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 利用) (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHPP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-MNR (-NONE- *T*-2))
+                (VP (v 兴办) (NP-OBJ (DP (r 这些)) (NP (n 实事))))))
+            (ude 的)))
+        (ADJP (a 重要))
+        (NP (n 资金) (n 来源)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 天津市))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (NP (QP (m 一些)) (NP (n 重点) (n 工业) (n 项目)))
+          (c 和)
+          (NP (n 技术) (n 改造)))
+        (f 上)))
+    (VP
+      (VP
+        (ADVP (d 也))
+        (VP (v 利用) (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))))
+      (wd ，)
+      (VP
+        (c 以)
+        (VP
+          (v 发展)
+          (NP-OBJ (DNP (NP-PN (ns 天津)) (ude 的)) (NP (n 经济)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 天津)) (NP (NP-PN (nz 夏利)) (NP (n 车))))
+    (VP
+      (VP (v 利用) (NP-OBJ (n 政府) (n 贷款)))
+      (VP (ADVP (d 大大)) (VP (v 提高) (y 了) (NP-OBJ (nl 生产能力))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 使)
+      (NP-OBJ (NP-PN (nz 夏利)) (NP (n 轿车)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 成为)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (NP-PN-LOC (ns 中国)) (ADVP (d 最)) (VP (a 普及))))
+                (ude 的)))
+            (NP (n 出租车) (n 用车)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP-PN (ns 天津)) (nl 无缝钢管))
+    (wn 、)
+    (NP (NP-PN (ns 天津港)) (IP (VP (v 跨) (NP (n 海)))) (NP (n 大桥)))
+    (wn 、)
+    (NP (QP (m 十四万) (CLP (q 吨))) (NP (n 乙烯))))
+  (VP
+    (ADVP (d 都))
+    (VP (v 使用) (y 了) (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (ADJP (ns 滨海)) (NP (n 新区)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (ns 天津市))
+              (VP (v 发展) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 重点) (n 地区)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 天津)) (NP (n 开发区)))
+    (VP
+      (VP
+        (ADVP (d 正))
+        (VP
+          (v 利用)
+          (NP-OBJ (NP (n 外国) (n 政府)) (NP (n 贷款)))
+          (QP-EXT (m 一千四百五十万) (CLP (q 美元)))))
+      (VP
+        (v 兴建)
+        (NP-OBJ
+          (NP-APP
+            (NP (n 地热))
+            (wn 、)
+            (NP (n 污水) (n 处理厂))
+            (wn 、)
+            (NP (NP (ADJP (v 电镀)) (NP (n 废水))) (NP (n 处理厂)))
+            (wn 、)
+            (NP (NP (n 固体) (n 废料)) (NP (n 处理场)))
+            (udeng 等))
+          (NP (n 环保) (n 基础) (n 设施))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (LCP-TMP (NP (v 建成)) (f 后))
+      (ADVP (d 将))
+      (ADVP (ad 极大))
+      (VP
+        (v 改善)
+        (NP-OBJ
+          (DNP (NP (DP (r 这) (QP (m 一))) (NP (n 地区))) (ude 的))
+          (NP (n 投资) (n 环境))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

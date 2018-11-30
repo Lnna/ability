@@ -1,0 +1,221 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 美) (n 社会) (n 保障) (n 局))
+  (VP
+    (ADVP (vd 提前))
+    (VP
+      (v 解决)
+      (NP-OBJ (NP (n 电脑)) (QP (m 千) (CLP (q 年))) (NP (n 问题)))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 华盛顿)
+  (t １２月)
+  (t ２９日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 谷利源)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 据)
+    (NP
+      (NP-PN-TTL (wkz 《) (ns 华盛顿) (n 邮报) (wky 》))
+      (NP (t 今天) (v 报道))))
+  (wd ，)
+  (NP-PN-SBJ (ns 美国) (n 社会) (n 保障) (n 局))
+  (VP
+    (VP
+      (ADVP (d 已))
+      (ADVP (vd 提前))
+      (VP
+        (v 解决)
+        (NP-OBJ
+          (NP (NP (n 电脑)) (QP (m 千) (CLP (q 年))) (NP (n 日期) (v 转换)))
+          (NP (n 问题)))))
+    (wd ，)
+    (VP
+      (ADVP (c 从而))
+      (VP
+        (v 可以)
+        (VP
+          (v 保证)
+          (IP-OBJ
+            (NP-SBJ
+              (QP (QP (m ４８００)) (QP (ADVP (m 多)) (QP (m 万))))
+              (NP-PN (ns 美国))
+              (NP (n 老年人)))
+            (VP
+              (PP-TMP
+                (p 在)
+                (LCP
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 迈入) (NP-OBJ (t ２０００年))))
+                  (n 时)))
+              (VP
+                (v 能够)
+                (VP
+                  (NP-ADV (r 每月))
+                  (ADVP (d 按时))
+                  (VP
+                    (v 领到)
+                    (NP-OBJ
+                      (DNP (NP (r 他们)) (ude 的))
+                      (NP (n 社会) (n 补助) (c 和) (n 退休) (n 津贴))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP-PN (n 社会) (n 保障) (n 局)) (ude 的))
+    (NP (n 电脑) (n 系统)))
+  (VP
+    (v 连接)
+    (uzhe 着)
+    (NP-OBJ
+      (DNP
+        (NP
+          (NP-PN (ns 美国))
+          (NP-PN (n 财政部) (c 和) (n 联邦) (n 储备) (n 委员会)))
+        (ude 的))
+      (NP (n 电子) (n 支付) (n 系统))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (DP (r 这个)) (NP (n 电脑) (n 系统)))
+      (VP (v 出) (y 了) (NP-OBJ (n 故障)))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (v 会)
+      (VP
+        (v 使)
+        (NP-OBJ
+          (NP-PN (ns 美国))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (VP (v 依靠) (NP-OBJ (n 社会) (n 补助))) (VP (n 生活))))
+              (ude 的)))
+          (NP (n 退休) (n 老年人)))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 受到) (NP-OBJ (n 影响)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 美国) (n 社会) (n 保障) (n 局))
+  (VP
+    (VP
+      (ADVP (a 早))
+      (PP-TMP (p 在) (NP (t １９８９年)))
+      (ADVP (d 就))
+      (VP
+        (v 开始)
+        (VP
+          (IP (VP (v 致力) (p 于)))
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 解决)
+                  (NP-OBJ
+                    (NP (n 电脑))
+                    (QP (m 千) (CLP (q 年)))
+                    (NP (n 问题)))))
+              (ude 的))
+            (NP (an 努力))))))
+    (wd ，)
+    (c 并)
+    (VP
+      (v 投入)
+      (y 了)
+      (NP-OBJ (DNP (QP (m ４３００万) (CLP (q 美元))) (ude 的)) (NP (n 资金)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 数百) (CLP (q 名))) (NP (n 电脑) (n 程序) (n 编制) (n 人员)))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP
+        (DNP
+          (LCP
+            (NP (NP (NP (r 该局)) (NP (n 电脑) (n 系统))) (NP (n 主机)))
+            (f 中))
+          (ude 的))
+        (QP (m ３５００万) (CLP (q 条)))
+        (NP (n 代码))))
+    (VP (v 进行) (y 了) (NP-OBJ (ADJP (d 逐一)) (NP (v 检查)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (t 今年) (t １０月)) (f 初))
+    (wd ，)
+    (NP-PN-SBJ (n 社会) (n 保障) (n 局))
+    (VP
+      (PP-DIR (p 对) (NP (NP (r 其)) (NP (n 电脑) (n 系统))))
+      (VP (v 进行) (y 了) (NP-OBJ (QP (m 一) (CLP (q 次))) (NP (n 测试))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 结果))
+    (VP
+      (v 表明)
+      (IP-OBJ
+        (NP-SBJ (NP (r 其)) (NP (n 电脑) (n 系统)))
+        (VP
+          (PP-TMP
+            (p 在)
+            (LCP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 进入) (NP-OBJ (t ２０００年))))
+              (n 时)))
+          (ADVP (d 将))
+          (VP (v 会) (VP (ADVP (ad 正常)) (VP (vi 运转))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-PRP
+      (p 为)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 解决)
+          (NP-OBJ (NP (n 电脑)) (QP (m 千) (CLP (q 年))) (NP (n 问题))))))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 美国)) (NP (n 政府)))
+    (VP
+      (v 投入)
+      (y 了)
+      (NP-OBJ
+        (DNP (QP (m ６４０亿) (CLP (q 美元))) (ude 的))
+        (ADJP (b 巨额))
+        (NP (n 资金)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 数千) (CLP (q 名))) (NP (n 技术) (n 人员)))
+    (VP (ADVP (p 在)) (ADVP (d 日夜)) (VP (vi 奋战))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

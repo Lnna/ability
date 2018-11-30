@@ -1,0 +1,232 @@
+<S>
+( (IP
+  (NP-SBJ-1
+    (DNP
+      (NP
+        (NP-PN (ns 河南) (ns 洛阳))
+        (NP-PN (nz 东都) (n 商厦))
+        (NP (m １２·２５))
+        (ADJP (b 特大))
+        (NP (n 火灾) (n 事故)))
+      (ude 的))
+    (ADJP (a 直接))
+    (NP (n 原因)))
+  (VP
+    (QP (m ２８) (CLP (q 号)))
+    (ADVP (d 已))
+    (VP (pbei 被) (VP (v 查明) (NP-OBJ (-NONE- *-1)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1
+    (NP-APP (NP (NP-APP (n 电焊工)) (NP-PN (nr 王呈泰))) (udeng 等))
+    (QP (m １２) (CLP (q 名)))
+    (NP (n 犯罪) (n 嫌疑人)))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (pbei 被)
+      (IP-OBJ
+        (NP-SBJ (n 检查) (n 机关))
+        (VP (VSB (v 批准) (v 逮捕)) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 了解)))
+  (LCP-TMP (NP (t １２月) (QP (m ２５) (CLP (q 号))) (t 晚上) (t ９点)) (m 左右))
+  (wd ，)
+  (LCP-TMP
+    (IP
+      (NP-SBJ
+        (NP-PN-APP (nr 王呈泰) (udeng 等))
+        (QP (m ４) (CLP (q 名)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (ad 无证)) (VP (vi 上岗))))
+            (ude 的)))
+        (NP (n 电焊工)))
+      (VP
+        (PP-LOC
+          (p 在)
+          (QP
+            (NP-PN (nz 东都) (n 商厦))
+            (NP (s 地下))
+            (QP (m 一) (CLP (q 层)))))
+        (VP
+          (v 焊接)
+          (NP-OBJ
+            (NP
+              (NP (DP (r 该)) (NP (q 层)))
+              (p 与)
+              (QP (NP (s 地下)) (QP (m 二) (CLP (q 层)))))
+            (NP (v 分割) (n 铁板))))))
+    (n 时))
+  (wd ，)
+  (NP-SBJ (vi 电焊) (n 火渣))
+  (VP
+    (VP
+      (VRD (v 溅落) (v 到))
+      (LCP-OBJ
+        (NP
+          (DNP (QP (NP (s 地下)) (QP (m 二) (CLP (q 层)))) (ude 的))
+          (NP (n 可燃物)))
+        (f 上)))
+    (VP (v 引发) (NP-OBJ (n 火灾))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN-APP (nr 王呈泰) (udeng 等)) (NP (n 人)))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP-FOC (PP-MNR (v 用) (NP (n 水))) (VP (v 扑救)))
+          (VP (vi 无效))))
+      (f 后))
+    (VP
+      (VP (ADVP (d 未)) (VP (vi 报警)))
+      (VP
+        (VP (ADVP (d 就)) (VP (v 逃离) (NP-OBJ (s 现场))))
+        (c 并)
+        (VP (v 制定) (y 了) (NP-OBJ (nl 攻守同盟))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t １２月) (QP (m ２７) (CLP (q 号))) (t 上午))
+    (NP-SBJ-2
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 逃跑))) (ude 的)))
+      (QP (m ４) (CLP (q 名)))
+      (NP (n 电焊工)))
+    (VP
+      (pbei 被)
+      (IP-OBJ
+        (NP-SBJ (n 公安) (n 机关))
+        (VP (ADVP (m 全部)) (VP (v 抓获) (NP-OBJ (-NONE- *-2)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 犯罪) (n 嫌疑人))
+    (PP-DIR (p 对) (NP (NP (r 其)) (NP (n 违法) (n 事实))))
+    (VP (vl 供认不讳)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (n 公安) (b 消防) (b 刑事) (n 侦查) (n 人员))
+    (c 及)
+    (NP (n 技术) (n 专家)))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (VP
+        (PP-LOC
+          (p 在)
+          (NP (DNP (NP (n 起火点) (f 上部)) (ude 的)) (NP (n 铁板) (n 处))))
+        (VP (v 查获) (NP-OBJ (n 电焊机) (wn 、) (n 电焊枪) (wn 、) (n 电焊条))))
+      (c 并)
+      (VP
+        (PP-LOC (p 在) (NP (n 起火点)))
+        (VP
+          (v 提取)
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (LCP-TMP (NP (vi 电焊)) (f 后)) (VP (v 形成))))
+                (ude 的)))
+            (NP (n 焊渣)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 认定)
+      (IP-OBJ
+        (NP-SBJ (n 火灾))
+        (VP
+          (vshi 是)
+          (CP-PRD
+            (IP
+              (NP (vi 电焊) (n 渣))
+              (VP
+                (LCP-TMP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (VRD (v 溅落) (v 到))
+                      (NP-OBJ
+                        (DNP
+                          (QP (s 地下) (QP (m 二) (CLP (q 层))))
+                          (ude 的))
+                        (NP (n 家具) (n 绒布)))))
+                  (f 后))
+                (VP (v 造成))))
+            (ude 的))))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 现在))
+    (NP-SBJ
+      (NP-PN (ns 洛阳市))
+      (NP (NP (n 公安) (n 机关)) (c 和) (NP (n 检查) (n 机关))))
+    (VP
+      (ADVP (d 已))
+      (PP-DIR
+        (p 对)
+        (NP
+          (NP
+            (NP-PN-APP
+              (nr 王呈泰)
+              (wn 、)
+              (nr 宋龙)
+              (wn 、)
+              (nr 来登阁)
+              (wn 、)
+              (nr 丁小东))
+            (QP (m ４) (CLP (q 名)))
+            (NP (n 电焊工)))
+          (c 及)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (VP
+                      (NP-TMP (t 当时))
+                      (PP-LOC (p 在) (NP (s 现场)))
+                      (VP (n 工作)))
+                    (c 并)
+                    (VP (LCP-TMP (t 事后)) (VP (v 做) (NP-OBJ (n 伪证))))))
+                (ude 的)))
+            (QP (m ８))
+            (NP (n 人))))
+        (ADVP (d 依法))
+        (VP (v 批捕)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-SBJ
+    (DNP (PP (n 有关) (NP (n 火灾) (n 事故))) (ude 的))
+    (NP (n 善后) (n 工作)))
+  (VP (ADVP (d 仍)) (ADVP (d 在)) (ADVP (ad 有序)) (VP (v 进行)))
+  (wj 。)))
+</S>

@@ -1,0 +1,200 @@
+<S>
+( (NP-PN-HLN (n 世界) (n 游泳) (n 锦标赛)))
+</S>
+<S>
+( (IP-HLN
+  (IP-SBJ
+    (NP-PN-SBJ (nr 伏明霞) (c 和) (nr 池彬))
+    (VP (v 进入) (NP-OBJ (vi 复赛))))
+  (VP (vi 在望))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 罗马)
+  (t ９月)
+  (t １日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 黄昌瑞)
+  (nr 杨爱国)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (NP-APP (NP-PN (ns 中国) (n 跳水队)) (ADJP (b 女)) (NP (n 选手)))
+      (NP-PN (nr 伏明霞) (c 和) (nr 池彬)))
+    (NP-TMP (t 今天) (t 下午))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (DNP
+            (QP
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (NP-LOC (r 这里)) (VP (v 举行))))
+                    (ude 的)))
+                (QP (m 第七) (CLP (q 届)))
+                (NP-PN (n 世界) (n 游泳) (n 锦标赛)))
+              (NP
+                (NP (n 女子))
+                (QP (m １０) (CLP (q 米)))
+                (NP (n 跳台) (n 预赛)))
+              (DP (f 前) (QP (m ６) (CLP (q 轮)))))
+            (ude 的))
+          (NP (n 比赛)))
+        (f 中)))
+    (NP-SBJ (n 成绩))
+    (VP (a 理想)))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 进入) (NP-OBJ (vi 复赛))))
+    (VP (ADVP (d 已经)) (VP (vi 在望))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (n 截止) (LCP (IP (NP-SBJ (n 记者)) (VP (vi 发稿))) (n 时)))
+  (wd ，)
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (DNP (DP (f 前) (QP (m ６) (CLP (q 轮)))) (ude 的))
+        (NP (n 角逐)))
+      (f 中)))
+  (wd ，)
+  (NP-PN-SBJ (nr 伏明霞) (c 和) (nr 池彬))
+  (VP
+    (ADVP (d 分别))
+    (PP-MNR
+      (p 以)
+      (QP
+        (NP (n 总分))
+        (QP
+          (QP (m ３３９·１２) (CLP (-NONE- *RNR*-1)))
+          (c 和)
+          (QP (m ２９０·１９) (CLP-1 (q 分))))))
+    (ADVP (d 暂时))
+    (VP
+      (v 居)
+      (NP-OBJ
+        (DNP
+          (QP
+            (QP (m 第一) (CLP (-NONE- *RNR*-2)))
+            (wn 、)
+            (QP (m 第三) (CLP-2 (q 名))))
+          (ude 的))
+        (NP (n 位置)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 若))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (ADVP (d 不)) (VP (v 出现) (NP-OBJ (a 意外))))))
+  (wd ，)
+  (IP-SBJ (NP-SBJ (r 她们)) (VP (v 进入) (NP-OBJ (vi 复赛))))
+  (VP (ADVP (d 已经)) (VP (vi 在望)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 居) (QP-OBJ (m 第二) (CLP (q 位)))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (NP-PRD (NP-APP (NP-PN (ns 美国)) (NP (n 选手))) (NP-PN (nrf 里查德))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (r 她)) (ude 的)) (NP (n 成绩)))
+  (VP (vshi 是) (QP-PRD (m ３０３·００) (CLP (q 分))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (DNP (NP (t 今天) (t 上午)) (ude 的))
+        (NP (n 男子))
+        (QP (m １) (CLP (q 米)))
+        (NP (n 跳板) (n 预赛)))
+      (f 中)))
+  (wd ，)
+  (NP-PN-SBJ
+    (NP-APP (NP (n 我国)) (NP (n 选手)))
+    (NP-PN (nr 兰卫) (c 和) (nr 陈晟)))
+  (VP (ADVP (d 已)) (VP (v 取得) (NP-OBJ (n 复赛权))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP (DNP (NP (t 今天)) (ude 的)) (NP (n 女子) (n 水球) (n 预赛)))
+      (ude 的))
+    (NP (n 成绩)))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-PRD
+      (IP
+        (NP-PN-SBJ (nt 匈牙利队))
+        (VP
+          (PP-MNR (p 以) (QP (m １３) (wm ：) (m ７)))
+          (VP (v 胜) (NP-PN-OBJ (nt 加拿大队)))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (nt 法国队))
+        (VP
+          (PP-MNR (p 以) (QP (m １０) (wm ：) (m ９)))
+          (VP (v 胜) (NP-PN-OBJ (nt 巴西队)))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (nt 澳大利亚队))
+        (VP
+          (PP-MNR (p 以) (QP (m １０) (wm ：) (m ８)))
+          (VP (v 胜) (NP-PN-OBJ (nt 德国队)))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (nt 俄罗斯队))
+        (VP
+          (PP-MNR (p 以) (QP (m ７) (wm ：) (m ６)))
+          (VP (v 胜) (NP-PN-OBJ (nt 荷兰队)))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (nt 美国队))
+        (VP
+          (PP-MNR (p 以) (QP (m １０) (wm ：) (m ５)))
+          (VP (v 胜) (NP-PN-OBJ (nt 哈萨克斯坦队)))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (nt 意大利队))
+        (VP
+          (PP-MNR (p 以) (QP (m １２) (wm ：) (m ２)))
+          (VP (v 胜) (NP-PN-OBJ (nt 新西兰队)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

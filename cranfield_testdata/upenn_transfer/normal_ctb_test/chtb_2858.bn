@@ -1,0 +1,122 @@
+<S>
+( (IP
+  (wkz 〈)
+  (nx ｔｕｒｎ)
+  (wky 〉)
+  (NP-SBJ (NP-APP (NP-PN (ns 法国)) (NP (n 外交部长))) (NP-PN (nrf 韦德里纳)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 帮助)
+          (NP-OBJ
+            (DNP (NP-PN (ns 南斯拉夫)) (ude 的))
+            (ADJP (a 新))
+            (NP (n 政府)))))
+      (VP
+        (vshi 是)
+        (NP-PRD (DNP (NP-PN (ns 欧洲)) (ude 的)) (NP (nl 当务之急))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 法国))
+    (VP
+      (NP-TMP (t 目前))
+      (VP
+        (vshi 是)
+        (NP-PRD (NP-PN (nt 欧盟)) (ADJP (n 轮值)) (NP (n 主席国))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 韦德里纳))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-LOC (p 在) (NP-PN (ns 贝尔格莱德)))
+        (LCP-TMP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-ADV
+                (c 和)
+                (NP
+                  (NP-APP (NP-PN (ns 南斯拉夫)) (ADJP (a 新)) (NP (n 总统)))
+                  (NP-PN (nrf 科什图尼查))))
+              (VP (v 会晤))))
+          (f 以后))
+        (VP (v 发表) (NP-OBJ (n 谈话))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 科什图尼查))
+  (VP
+    (NP-TMP (t 星期一))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 欢迎)
+          (NP-PN-OBJ (nt 欧盟))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 决定)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 取消)
+                  (NP-OBJ
+                    (DNP (PP (p 对) (NP-PN (ns 南斯拉夫))) (ude 的))
+                    (NP (n 制裁)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (NP (ns 塞尔维亚)) (ADJP (n 极端)) (NP (n 民族) (n 激进党)))
+      (NP (n 领导人)))
+    (LCP (NP (v 塞塞)) (f 里)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (n 政党)))
+      (VP
+        (ADVP (d 将))
+        (ADVP (d 不再))
+        (VP
+          (v 参加)
+          (NP-OBJ
+            (DNP
+              (PP
+                (p 有关)
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (vi 成立) (NP-OBJ (ADJP (n 过渡)) (NP (n 政府))))))
+              (ude 的))
+            (NP (n 谈判)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 谈判)) (ude 的)) (NP (n 目的)))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 确保)
+        (NP-OBJ (DNP (NP (n 权力)) (ude 的)) (ADJP (a 平稳)) (NP (n 过渡))))))
+  (wyy ”)
+  (wj 。)))
+</S>

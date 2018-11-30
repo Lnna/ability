@@ -1,0 +1,314 @@
+<S>
+( (NP-HLN
+  (NP-PN (NP-PN (NP (n 全国)) (NP (nt 人大))) (NP (n 常委会)))
+  (DNP
+    (NP
+      (DNP
+        (PP
+          (p 关于)
+          (IP
+            (NP-SBJ (n 国籍法))
+            (VP
+              (PP-LOC
+                (p 在)
+                (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区))))
+              (VP (v 实施)))))
+        (ude 的))
+      (QP (m 几) (CLP (q 个)))
+      (NP (n 问题)))
+    (ude 的))
+  (NP (n 解释))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 十二月)
+  (t 二十九日)
+  (n 电)
+  (n 全国)
+  (n 代表大会)
+  (n 常务)
+  (b 委员会)
+  (n 关于)
+  (p 《)
+  (wkz 中华人民共和国)
+  (ns 人民)
+  (n 国籍法)
+  (wky 》)
+  (p 在)
+  (ns 澳门)
+  (a 特别)
+  (n 行政区)
+  (v 实施)
+  (ude 的)
+  (m 几)
+  (q 个)
+  (n 问题)
+  (ude 的)
+  (n 解释)))
+</S>
+<S>
+( (PRN
+  (wkz （)
+  (IP
+    (NP-TMP (t 一九九八年) (t 十二月) (t 二十九日))
+    (NP-SBJ
+      (NP-PN
+        (NP-PN
+          (QP (m 第九) (CLP (q 届)))
+          (NP (n 全国))
+          (NP (n 人民) (n 代表大会)))
+        (ADJP (b 常务))
+        (NP (n 委员会)))
+      (QP (m 第六) (CLP (q 次)))
+      (NP (n 会议)))
+    (VP (v 通过)))
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (NP
+      (DNP
+        (QP
+          (NP-TTL
+            (wkz 《)
+            (NP
+              (NP-PN (ns 中华人民共和国))
+              (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区))))
+            (NP (n 基本法))
+            (wky 》))
+          (QP
+            (QP (m 第十八) (CLP (q 条)))
+            (c 和)
+            (QP (NP (n 附件)) (QP (m 三)))))
+        (ude 的))
+      (NP (n 规定))))
+  (wd ，)
+  (NP-TTL-SBJ (wkz 《) (NP-PN (ns 中华人民共和国)) (NP (n 国籍法)) (wky 》))
+  (VP
+    (PP-TMP (p 自) (LCP (NP (t 一九九九年) (t 十二月) (t 二十日)) (f 起)))
+    (PP-LOC (p 在) (NP-PN (NP (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区))))
+    (VP (v 实施)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (VRD (v 考虑) (v 到))
+      (NP-OBJ
+        (DNP (NP-PN (ns 澳门)) (ude 的))
+        (NP (NP (n 历史) (n 背景)) (c 和) (NP (ADJP (a 现实)) (NP (n 情况)))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-DIR
+      (p 对)
+      (IP
+        (NP-TTL-SBJ
+          (wkz 《)
+          (NP-PN (ns 中华人民共和国))
+          (NP (n 国籍法))
+          (wky 》))
+        (VP
+          (PP-LOC
+            (p 在)
+            (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区))))
+          (VP (v 实施)))))
+    (VP (v 作) (NP-OBJ (ADJP (n 如下)) (NP (n 解释)))))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (ADVP (d 凡))
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (VP (v 具有) (NP-OBJ (NP-PN (ns 中国)) (NP (n 血统))))
+              (VP
+                (ADVP (c 但))
+                (ADVP (d 又))
+                (VP (v 具有) (NP-OBJ (NP-PN (ns 葡萄牙)) (NP (n 血统)))))))
+          (ude 的)))
+      (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区)))
+      (NP (n 居民))))
+  (wd ，)
+  (VP
+    (v 可)
+    (VP
+      (PP-MNR (p 根据) (NP (NP (r 本人)) (NP (n 意愿))))
+      (wd ，)
+      (VP
+        (v 选择)
+        (NP-OBJ
+          (NP (NP-PN (ns 中华人民共和国)) (NP (n 国籍)))
+          (c 或)
+          (NP (NP-PN (ns 葡萄牙共和国)) (NP (n 国籍)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 确定)
+        (NP-OBJ (QP (NP (r 其中)) (QP (m 一) (CLP (q 种)))) (NP (n 国籍)))))
+    (wd ，)
+    (ADVP (v 即))
+    (ADVP (d 不))
+    (VP
+      (v 具有)
+      (NP-OBJ (QP (ADVP (r 另)) (QP (m 一) (CLP (q 种)))) (NP (n 国籍)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (ADJP (b 上述))
+      (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区)))
+      (NP (n 居民)))
+    (wd ，)
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 选择) (NP-OBJ (n 国籍))))
+          (f 之前)))
+      (wd ，)
+      (VP
+        (v 享有)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区)))
+                  (NP (n 基本法)))
+                (VP (v 规定) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 权利))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (v 受) (NP-OBJ (n 国籍) (n 限制))))
+          (ude 的)))
+      (NP (n 权利)))
+    (VP (vi 除外)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 四))
+  (wn 、)
+  (NP-SBJ
+    (DNP
+      (LCP
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (PP-TMP
+                    (p 在)
+                    (LCP
+                      (LCP
+                        (IP
+                          (NP-PN-SBJ
+                            (NP-PN (ns 澳门))
+                            (ADJP (a 特别))
+                            (NP (n 行政区)))
+                          (VP (vi 成立)))
+                        (f 以前))
+                      (c 或)
+                      (LCP (f 以后))))
+                  (PP-DIR (p 从) (NP (s 海外)))
+                  (VP (v 返回) (NP-PN-OBJ (ns 澳门)))))
+              (ude 的)))
+          (ADJP (b 原))
+          (NP-PN (ns 澳门))
+          (NP (n 居民)))
+        (f 中))
+      (ude 的))
+    (NP-PN (ns 中国))
+    (NP (n 公民)))
+  (wd ，)
+  (VP
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (ADVP (c 若)) (VP (v 变更) (NP-OBJ (n 国籍)))))
+    (wd ，)
+    (VP
+      (v 可)
+      (VP
+        (PP-MNR (p 凭) (NP (ADJP (a 有效)) (NP (n 证件))))
+        (PP-DIR
+          (p 向)
+          (NP
+            (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区)))
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-3))
+                  (VP (v 受理) (NP-OBJ (n 国籍) (v 申请))))
+                (ude 的)))
+            (NP (n 机关))))
+        (VP (v 申报)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 五))
+  (wn 、)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 授权)
+    (NP-OBJ
+      (NP-PN (NP-PN (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区)))
+      (NP (n 政府)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 指定)
+        (NP-OBJ (NP (r 其)) (ADJP (n 有关)) (NP (n 机构)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR
+              (p 根据)
+              (NP
+                (NP-TTL
+                  (wkz 《)
+                  (NP-PN (ns 中华人民共和国))
+                  (NP (n 国籍法))
+                  (wky 》))
+                (c 和)
+                (NP (ADJP (f 以上)) (NP (n 规定)))))
+            (PP-DIR (p 对) (NP (DP (b 所有)) (NP (n 国籍) (n 申请) (n 事宜))))
+            (VP (v 作出) (NP-OBJ (n 处理))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

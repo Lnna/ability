@@ -1,0 +1,318 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP (NP-PN (ns 韩国)) (NP (n 企业) (n 集团))) (NP (n 结构) (n 调整)))
+  (VP (v 面临) (NP-OBJ (n 阻碍)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 汉城)
+  (t １２月)
+  (t ２８日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 朱克川)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 解决)
+      (NP-OBJ
+        (DNP (NP (ADJP (b 大型)) (NP (n 企业) (n 财团))) (ude 的))
+        (NP (ADJP (a 低)) (NP (n 效率)))
+        (NP (n 扩张)))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (LCP (NP (NP-PN (ns 韩国)) (NP (n 企业) (n 改革))) (f 中))
+        (ude 的))
+      (ADJP (a 重要))
+      (NP (n 课题) (r 之一))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 韩国)) (NP (n 政府)))
+  (VP
+    (VP
+      (QP-ADV (m 多次))
+      (VP
+        (v 敦促)
+        (NP-OBJ
+          (NP-PN-APP
+            (t 现代)
+            (wn 、)
+            (nz 三星)
+            (wn 、)
+            (nz 大宇)
+            (wn 、)
+            (nx ＬＧ)
+            (c 和)
+            (nz 鲜京))
+          (QP (m 五))
+          (ADJP (a 大))
+          (NP (n 财团)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 采取) (NP-OBJ (n 改革) (n 措施))))))
+    (wd ，)
+    (c 并)
+    (VP
+      (PP-TMP (p 于) (t １２月) (t ７日))
+      (VP
+        (v 确定)
+        (y 了)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-DIR (p 对) (NP (r 它们)))
+                (VP (v 进行) (NP-OBJ (n 产业) (n 结构) (n 调整)))))
+            (ude 的))
+          (ADJP (a 具体))
+          (NP (n 方案))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 根据) (NP (DP (r 这个)) (NP (n 方案))))
+    (wd ，)
+    (NP-PN-SBJ (t 现代) (n 电子) (n 产业) (c 和) (nx ＬＧ) (n 半导体) (n 产业))
+    (VP (v 合并)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 并))
+      (VP
+        (v 委托)
+        (NP-PN-OBJ (ns 美国) (nx ＡＤＬ) (n 公司))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP (DP (r 这) (QP (m 两) (CLP (q 家)))) (NP (n 公司)))
+                (f 中)))
+            (VP
+              (v 判定)
+              (IP-OBJ
+                (QP-SBJ (m 一) (CLP (q 家)))
+                (VP (v 为) (NP-PRD (n 经营) (n 主体))))))))))
+  (wd ，)
+  (IP
+    (DP-SBJ (r 另) (QP (m 一) (CLP (q 家))))
+    (VP (ADVP (d 则)) (VP (v 需) (VP (v 交出) (NP-OBJ (n 经营权))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t ２４日))
+    (wd ，)
+    (NP-PN-SBJ (t 现代) (n 电子))
+    (VP
+      (pbei 被)
+      (VP
+        (v 指定)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (p 为)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (DNP (LCP (NP (v 合并)) (f 后)) (ude 的))
+                  (ADJP (a 新))
+                  (NP (n 公司)))
+                (DNP (ude 的)))
+              (NP (n 经营) (n 主体))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nx ＬＧ) (n 半导体) (n 公司))
+    (VP
+      (VP
+        (v 认为)
+        (IP-OBJ
+          (NP-SBJ (DNP (NP-PN (nx ＡＤＬ) (n 公司)) (ude 的)) (NP (n 评判)))
+          (VP (ADVP (d 不)) (a 公正))))
+      (wd ，)
+      (VP
+        (v 声称)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 要)
+            (VP
+              (PP-DIR
+                (p 向)
+                (NP (DNP (NP-PN (ns 美国)) (ude 的)) (NP (n 法院))))
+              (VP (v 提出) (NP-OBJ (vi 诉讼)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (t 现代) (wn 、) (nz 三星) (wn 、) (nz 大宇) (c 和) (nx ＬＧ))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (DNP (NP (ADJP (n 相当)) (NP (n 规模))) (ude 的))
+          (NP (n 电子) (c 或) (n 半导体))
+          (NP (n 产业))))))
+  (wd ，)
+  (IP (NP-TPC (r 彼此)) (NP-SBJ (v 竞争)) (VP (a 激烈)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 根据) (NP (DNP (NP (n 政府)) (ude 的)) (NP (n 意向))))
+  (wd ，)
+  (NP-SBJ
+    (NP (DNP (NP-PN (nz 大宇)) (ude 的)) (NP (n 电子) (n 产业)))
+    (c 和)
+    (NP (DNP (NP-PN (n 三星)) (ude 的)) (NP (n 汽车) (n 产业))))
+  (VP (n 互换))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (t 现代) (n 电子) (c 和) (nx ＬＧ) (n 半导体))
+  (VP (v 合并))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (IP
+        (NP-PN-SBJ (nz 大宇) (n 电子))
+        (NP
+          (vshi 是)
+          (NP-PRD
+            (DNP (NP-PN (nz 大宇) (n 集团)) (ude 的))
+            (ADJP (z 优良))
+            (NP (n 产业)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (DNP (QP (m 百分之九十五)) (ude 的)) (NP (n 产品)))
+        (VP (IP (VP (VP (v 销)) (VP (p 往)))) (NP-OBJ (s 国外))))
+      (wd ，)
+      (c 而)
+      (IP
+        (NP-PN-SBJ (nz 三星) (n 汽车))
+        (VP
+          (ADVP (d 相对))
+          (ADVP (d 还))
+          (ADVP (d 未))
+          (VP (v 形成) (NP-OBJ (n 竞争) (n 规模)))))))
+  (wd ，)
+  (ADVP (c 所以))
+  (NP-PN-SBJ (nz 大宇) (n 财团))
+  (VP
+    (PP-DIR
+      (p 对)
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 让出) (NP-OBJ (n 电子) (n 产业)))))
+    (ADVP (d 很))
+    (ADVP (d 不))
+    (VP (v 情愿)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 韩国)) (NP (n 总统))) (NP-PN (nr 金大中)))
+  (VP
+    (ADVP (d 曾经))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (n 政府))
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 准备)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (ADVP (ad 直接))
+                  (VP
+                    (v 干预)
+                    (NP-OBJ (DNP (NP (n 企业)) (ude 的)) (NP (n 改革)))))))))
+        (wd ，)
+        (IP
+          (ADVP (c 但))
+          (NP-SBJ (n 政府))
+          (VP
+            (PP-DIR (p 对) (NP (n 金融) (n 部门)))
+            (VP (vyou 有) (NP-OBJ (n 监督权))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (ADJP (a 大)) (NP (n 企业)))
+      (VP
+        (ADVP (d 不))
+        (PP-MNR (p 按照) (NP (DNP (NP (n 政府)) (ude 的)) (NP (n 政策))))
+        (VP (v 进行) (NP-OBJ (n 改革))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 将))
+    (PP-MNR (p 通过) (NP (n 银行)))
+    (VP
+      (v 推动)
+      (NP-OBJ (r 它们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 改革)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-PN-SBJ (nx ＬＧ) (n 半导体))
+      (VP
+        (v 拒绝)
+        (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 接受) (NP-OBJ (n 评判)))))))
+  (wd ，)
+  (NP-SBJ (DNP (r 它) (ude 的)) (NP (n 债权) (n 银行)))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 停止)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 提供)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新)))
+                    (ude 的)))
+                (NP (n 贷款)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

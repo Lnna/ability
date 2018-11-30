@@ -1,0 +1,903 @@
+<S>
+( (IP-HLN
+  (NP-TPC (ADJP (n 华裔)) (NP-PN (ns 东南亚)) (NP (n 歌手)))
+  (NP-SBJ (-NONE- *PRO*))
+  (VP (VP-FOC (vi 接班)) (VP (r 有人)))
+  (PRN
+    (wp ——)
+    (IP
+      (NP-SBJ (NP-APP (n 邻家) (n 女孩)) (NP (nr 孙燕)) (NP (n 姿)))
+      (VP (vi 走红) (NP-PN-OBJ (ns 台湾)))))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 林奇伯)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (NP-APP
+                (NP (s 国内))
+                (NP (ADJP (b 大型)) (NP (n 唱片)))
+                (ADJP (n 连锁))
+                (NP (n 公司)))
+              (NP-PN (wyz 「) (n 玫瑰) (n 唱片) (wyy 」)))
+            (VP (v 公布) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (ADJP (nz 西元)) (QP (m 两千) (CLP (q 年))))
+      (NP (v 销售) (n 排行榜)))
+    (wd ，)
+    (NP-SBJ
+      (DNP (NP (r 她)) (ude 的))
+      (QP (m 第一) (CLP (q 张)))
+      (NP (n 专辑)))
+    (VP (v 位居) (QP-OBJ (m 第一))))
+  (wf ；)
+  (IP
+    (NP-TMP (t 去年) (t 十二月))
+    (LCP-LOC
+      (NP
+        (DNP (NP-PN (wyz 「) (n 大众) (n 唱片) (wyy 」)) (ude 的))
+        (ADJP (b 总))
+        (NP (n 销售量)))
+      (f 中))
+    (wd ，)
+    (NP-TPC
+      (DNP (NP (r 她)) (ude 的))
+      (QP (m 第二) (CLP (q 张)))
+      (NP (n 专辑)))
+    (VP (v 买) (NP (n 气)))
+    (VP
+      (VP
+        (ADVP (d 更))
+        (ADVP (a 高))
+        (VP
+          (v 达)
+          (NP-OBJ
+            (DNP
+              (IP (LST (m 百分之二十五)) (wj ．) (VP (QP (nr 七六))))
+              (ude 的))
+            (NP (n 市场占有率)))))
+      (wd ，)
+      (VP
+        (v 超越)
+        (NP-OBJ (NP-APP (wyz 「) (n 天后) (wyy 」)) (NP-PN (nr 张惠妹))))))
+  (wf ；)
+  (IP
+    (NP-TMP (t 元月))
+    (NP-LOC
+      (NP-PN (wyz 「) (n 钱柜) (nx KTV) (wyy 」))
+      (NP (vi 点歌) (k 率) (n 排行榜)))
+    (wd ，)
+    (DP-TPC (f 前) (QP (m 十) (CLP (q 名))))
+    (NP-SBJ (r 她))
+    (VP (v 占) (y 了) (QP-OBJ (m 三) (CLP (q 首)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP-PN (ns 中国) (n 时报)) (NP-PN (n 娱乐) (n 周报)))
+    (p 与)
+    (NP-PN (nx V) (n 频道)))
+  (VP
+    (ADVP (d 更))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ (r 她))
+        (VP
+          (VCP (v 选) (v 为))
+          (NP-OBJ
+            (NP (b 千禧) (q 年))
+            (NP
+              (wyz 「)
+              (ADJP (NP (n 年度)) (ADJP (z 最佳)))
+              (NP (n 新人))
+              (wyy 」)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (NP-PN-APP (nr 孙燕姿))
+    (wd ，)
+    (DP (r 这) (CLP (q 位)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (IP
+            (NP-TPC (-NONE- *T*-1))
+            (NP-SBJ (n 年))
+            (VP (ADVP (d 方)) (VP (QP-PRD (m 二十三)))))
+          (wn 、)
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 来自) (NP-PN-OBJ (ns 新加坡))))
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 初出茅庐))))
+        (ude 的)))
+    (NP (n 女孩)))
+  (wd ，)
+  (NP-SBJ (n 演艺) (n 生涯))
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (QP-TPC-2 (m 一) (CLP (q 年)))
+        (ADVP (d 不))
+        (VP (v 到) (QP-OBJ (-NONE- *T*-2)))))
+    (ADVP (d 就))
+    (PP-LOC (p 在) (NP (NP-APP (ns 异乡)) (NP-PN (ns 台湾))))
+    (VP (VCD (wyz 「) (vl 开花结果) (wyy 」))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (ADVP-WH (d 到底))
+  (NP-SBJ (r 她))
+  (VP (vyou 有) (NP-OBJ (DP-WH (r 什么)) (NP (n 魅力))))
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (DNP (NP (r 她)) (ude 的)) (NP (an 成功)))
+  (VP
+    (ADVP-WH (v 是否))
+    (VP
+      (v 代表)
+      (y 了)
+      (IP-SBJ
+        (NP-SBJ (NP-PN (ns 东南亚)) (NP (n 歌手)))
+        (VP
+          (ADVP (d 已))
+          (PP-LOC (p 在) (NP-PN (ns 台湾)))
+          (VP (VRD (ns 抢滩) (a 成功)))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-APP
+      (NP-PN (nr 孙燕姿))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (NP-TMP (t 去年) (t 六月))
+              (PP-LOC (p 在) (LCP (NP (n 市场)) (f 上)))
+              (VP (v 现) (NP-OBJ (wyz 「) (n 声) (wyy 」)))))
+          (ude 的)))
+      (QP (m 首) (CLP (q 支)))
+      (NP (n 单曲)))
+    (IP-TMP (wyz 「) (NP-SBJ (n 天)) (VP (z 黑黑)) (wyy 」)))
+  (wd ，)
+  (VP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 一)) (VP (v 推出))))
+    (ADVP (d 就))
+    (VP
+      (v 引起)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 热烈))) (ude 的)))
+        (NP (n 回响)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (nz 乐评) (n 人)) (NP-PN (t 二月)))
+  (VP
+    (v 形容)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-TTL-SBJ (wyz 「) (NP-SBJ (n 天)) (VP (z 黑黑)) (wyy 」))
+        (VP
+          (DVP (VP (a 巧妙)) (ude 地))
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 耳熟能详)))
+                      (ude 的)))
+                  (NP (n 旋律)))
+                (c 及)
+                (NP (n 文字) (v 隐喻)))
+              (VP (IP (VP (v 放) (v 进))) (LCP-OBJ (NP (n 歌曲)) (f 中)))))))
+      (wd ，)
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 加上)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (dl 从头到尾))
+                (ADVP (d 只))
+                (VP (vyou 有) (NP-OBJ (n 钢琴) (v 伴奏)))))))
+        (wd ，)
+        (NP-SBJ
+          (NP-PN (nr 孙燕姿))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (VP (a 干净)) (VP (a 富) (NP-OBJ (n 感染力)))))
+              (ude 的)))
+          (NP (n 歌声)))
+        (VP
+          (ADVP (c 于是))
+          (VP
+            (ADVP (d 一举))
+            (VP (v 打动) (NP-OBJ (n 人心)))
+            (wd ，)
+            (VP
+              (ADVP (ad 安全))
+              (VP (VRD (v 抢) (v 到)) (NP-OBJ (n 位置)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 清新)))
+  (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 清新)))
+  (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 清新)))))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP-Q
+    (NP-SBJ (r 她))
+    (VP
+      (ADVP-WH (r 怎么))
+      (ADVP (ad 突然))
+      (ADVP (d 就))
+      (VP (a 红) (y 了))))
+  (ww ？)
+  (CP
+    (IP
+      (NP-SBJ (n 长相) (wn 、) (n 歌声))
+      (VP
+        (ADVP (d 都))
+        (IP (VP (ADVP (d 只)) (VP (vshi 是))))
+        (VP (a 普通))))
+    (y 啊))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP (NP-SBJ (r 她)) (VP (vshi 是) (VP (ADVP (d 不)) (VP (a 漂亮)))))
+  (wd ，)
+  (IP (ADVP (c 但)) (NP-SBJ (n 笑容) (wn 、) (n 歌声)) (VP (v 讨好)))
+  (wd ，)
+  (CP (IP (NP-SBJ (v 感觉)) (VP (ADVP (d 满)) (VP (a 舒服)))) (ude 的))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 娱乐) (n 周报))
+  (VP
+    (ADVP (d 就))
+    (PP-MNR
+      (p 基于)
+      (NP (DNP (NP (wyz 「) (a 清新) (wyy 」)) (ude 的)) (NP (n 理由))))
+    (wd ，)
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (t 去年)) (ude 的))
+          (NP (wyz 「) (NP (n 年度)) (ADJP (z 最佳)) (NP (n 新人)) (wyy 」)))
+        (VP
+          (v 给)
+          (y 了)
+          (NP-IO
+            (DP (r 这) (CLP (q 位)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (pbei 被)
+                    (IP-OBJ
+                      (NP-SBJ (n 媒体) (n 记者))
+                      (VP
+                        (VCP (v 形容) (v 为))
+                        (NP-OBJ (wyz 「) (n 男仔头) (wyy 」))))))
+                (ude 的)))
+            (NP (n 女孩)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (wyz 「) (n 民生) (n 报) (wyy 」))
+      (ADJP (b 资深))
+      (NP (n 记者)))
+    (NP-PN (nr 王祖寿)))
+  (VP
+    (ADVP (d 则))
+    (VP
+      (v 形容)
+      (wd ，)
+      (IP-OBJ
+        (NP (NP (nr 孙燕)) (NP (n 姿)))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (wyz 「)
+            (DNP (NP (ADJP (a 新)) (NP (n 世代))) (ude 的))
+            (NP-PN (nr 凤飞飞))
+            (wyy 」))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN (NP-SBJ (n 人才)) (VP (n 交流))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (NP (nr 孙燕)) (NP (n 姿)))
+      (QP (m 两) (CLP (q 张)))
+      (NP (n 专辑)))
+    (VP
+      (PP-LOC (p 在) (LCP (NP (ADJP (a 低迷)) (NP (n 市场))) (f 中)))
+      (ADVP (d 大))
+      (VP (v 卖))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 媒体))
+    (VP
+      (v 戏称)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (NP-PN (nz 华纳) (n 唱片)) (NP (n 员工)))
+          (DNP (NP (t 去年)) (ude 的))
+          (NP (t 年终) (n 奖金)))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (v 靠)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (ADVP (d 同))
+                      (VP
+                        (vshi 是)
+                        (VP (NP-PN-DIR (ns 新加坡)) (VP (v 来))))))
+                  (ude 的)))
+              (NP
+                (NP (r 她))
+                (p 与)
+                (NP (NP-APP (n 制作人)) (NP-PN (nr 李聪菘))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (NP-TMP (t 早期))
+              (VP (VP (v 到) (NP-PN-OBJ (ns 台湾))) (VP (v 发展)))))
+          (ude 的)))
+      (NP-PN (ns 东南亚))
+      (NP (n 歌手)))
+    (VP (ADVP (d 几乎)) (VP (d 聊聊) (NP (v 可数)))))
+  (NP (wd 八○) (m 年代))
+  (IP
+    (NP-TMP
+      (wn 六)
+      (m 、)
+      (IP (VP (QP (n 七○) (CLP (M 年))) (VP (vyou 代)))))
+    (NP-SBJ (nr *pro*))
+    (VP (wn 有) (NP-PN-OBJ (n 邓妙华) (wd 、) (m 文章))))
+  (n ，)
+  (IP
+    (NP-TMP (NT 八○年代))
+    (NP-SBJ (vyou *pro*))
+    (VP (n 有) (NP-PN-OBJ (wd 巫启贤))))
+  (c ，)
+  (IP
+    (CP-ADV
+      (ADVP (d 虽然))
+      (IP (ADVP (n 皆)) (NP-SBJ (d 成绩)) (VP (ADVP (a 不)) (VP (wd 恶)))))
+    (c ，)
+    (ADVP (AD 但))
+    (NP-SBJ (d *pro*))
+    (VP (ADVP (vshi 毕竟)) (VP (m 是) (NP-PRD (wj 少数)))))
+  (PU 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (LCP-TMP (QP (ADVP (a 近)) (QP (m 五) (CLP (q 年)))) (f 来))
+      (ADVP (d 却))
+      (VP (vl 前仆后继))))
+  (wd ，)
+  (NP
+    (ADVP (v 如))
+    (NP-PN
+      (nr 许美静)
+      (wn 、)
+      (nr 柯以敏)
+      (wn 、)
+      (nr 陈洁仪)
+      (wn 、)
+      (nr 蔡健雅)
+      (wn 、)
+      (nr 无印良品)
+      (wn 、)
+      (nr 李心洁)
+      (wn 、)
+      (nr 戴佩妮)
+      (wn 、)
+      (nr 梁静茹)
+      (wn 、)
+      (nr 阿牛)
+      (udeng 等等)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 有趣))) (ude 的))))
+    (VP
+      (vshi 是)
+      (wd ，)
+      (IP-PRD
+        (NP-SBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 形象)))
+        (VP
+          (ADVP (d 几乎))
+          (ADVP (d 都))
+          (VP
+            (pbei 被)
+            (VP (VCP (v 形容) (v 为)) (NP-OBJ (wyz 「) (a 清新) (wyy 」))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 甚至))
+    (NP-SBJ
+      (NP-PN-APP (nr 蔡健雅) (wn 、) (nz 无印良品) (wn 、) (nz 阿牛) (udeng 等))
+      (NP (n 创作) (n 歌手)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (VP
+          (v 走)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 朴质))) (ude 的)))
+            (NP (n 民谣) (n 风格)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 不))
+          (DVP
+            (VP
+              (PP-PRD
+                (v 若)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP
+                          (NP-DIR (NP-PN (ns 美) (ns 加)) (NP (n 地区)))
+                          (VP (VSB (vi 回国) (v 发展)))))
+                      (ude 的)))
+                  (ADJP (nx ABC))
+                  (NP (n 歌手))))))
+          (VP (al 声势浩大)))))
+    (wd ，)
+    (ADVP (d 却))
+    (ADVP (d 也))
+    (PP-LOC (d 在) (NP (ADJP (v 流行)) (NP (n 乐坛))))
+    (VP (v 占有) (NP-OBJ (nl 一席之地))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (n 乐评人)) (NP-PN (nr 叶云甫)))
+  (VP
+    (v 分析)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DNP (NP-PN (ns 东南亚)) (ude 的))
+          (NP (n 歌手) (c 与) (n 创作) (n 辨识度)))
+        (VP (ADVP (d 并)) (ADVP (d 不)) (VP (a 高))))
+      (wd ，)
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP
+              (p 与)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (VP (NP-PN-DIR (a 美) (v 加)) (VP (v 回来)))
+                        (VP
+                          (vyou 有)
+                          (NP-OBJ
+                            (NP (NP (nx R)) (w ＆) (NP (nx B)))
+                            (n 浪潮)))))
+                    (wn 、)
+                    (IP
+                      (NP-TPC (-NONE- *T*-1))
+                      (NP-SBJ (ADJP (n 洋派)) (NP (n 作风)))
+                      (VP (a 明显))))
+                  (ude 的))
+                (ADJP (nx ABC))
+                (NP (n 歌手))))
+            (ADVP (d 相))
+            (ADVP (v 较))))
+        (wd ，)
+        (NP-SBJ
+          (IP-APP
+            (IP
+              (LCP-LOC
+                (NP (NP (NP-PN (ns 东南亚)) (NP (n 音乐人))) (NP (n 创作)))
+                (f 中))
+              (NP-SBJ (n 旋律))
+              (VP (IP (VP (ADVP (d 甚)) (VP (p 于)))) (NP-OBJ (n 节奏))))
+            (wn 、)
+            (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 简单) (wn 、) (al 朗朗上口)))
+            (udeng 等))
+          (NP (n 风格)))
+        (VP (PP (p 与) (NP-PN (ns 台湾))) (VP (a 相近))))
+      (wd ，)
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 加上)
+            (IP-OBJ
+              (NP-SBJ (n 语言))
+              (VP (ADVP (d 又)) (VP (v 没有) (NP-OBJ (n 隔阂)))))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP (ADVP (d 几乎)) (d 很快))
+          (VP (ADVP (d 就)) (VP (v 得到) (NP-OBJ (n 歌迷) (v 认同))))))
+      (wd ，)
+      (IP
+        (ADVP (c 甚至))
+        (NP-SBJ (r 有些))
+        (VP
+          (ADVP (d 还))
+          (VP
+            (v 让)
+            (NP-OBJ (n 人))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 忘)
+                (y 了)
+                (NP-OBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 来处))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (ad 仔细)) (VP (v 观察))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 会)
+    (VP
+      (v 发现)
+      (wd ，)
+      (IP-OBJ
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (NP (DNP (ADJP (b 同样)) (ude 的)) (NP (n 市场) (n 机制)))
+              (NP (n 运作)))
+            (f 下)))
+        (wd ，)
+        (CP-ADV
+          (ADVP (c 即使))
+          (IP
+            (NP-SBJ (n 歌手) (wn 、) (n 制作人))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (NP-PN-DIR (ns 东南亚)) (VP (v 来))))
+                    (ude 的)))))))
+        (wd ，)
+        (NP-SBJ (DNP (NP (n 音乐) (p 与) (n 歌手)) (ude 的)) (NP (n 风格)))
+        (VP
+          (PP
+            (p 除了)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP (p 较) (NP-PN (ns 台湾)))
+                (VP (wyz 「) (a 清新) (wyy 」)))))
+          (wd ，)
+          (ADVP (d 几乎))
+          (VP
+            (v 没有)
+            (NP-OBJ (ADJP (ADVP (d 多)) (ADJP (a 大))) (NP (n 特色))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (c 虽然))
+          (VP
+            (v 没有)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 太)) (VP (a 大))))
+                  (ude 的)))
+              (NP (n 辨识度) (c 与) (n 风格) (IP (NP (n 区)) (VP (v 辨))))))))
+      (wd ，)
+      (ADVP (d 却))
+      (ADVP (d 也))
+      (PP-BNF
+        (p 为)
+        (NP
+          (NP (NP-APP (ns 东南亚) (p 与) (ns 台湾)) (n 两地))
+          (NP (n 人才) (n 交流))))
+      (VP (v 带来) (NP-OBJ (an 方便)))))
+  (wd ，)
+  (IP
+    (ADVP (c 而且))
+    (NP-SBJ (n 歌坛) (n 话题))
+    (VP (ADVP (d 也)) (VP (VP (v 变) (ADVP (a 多))) (y 了))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 当)
+      (LCP
+        (IP
+          (NP-PN-SBJ (nr 孙燕姿))
+          (VP
+            (VP
+              (PP-TMP (p 在) (NP (t 隆冬)))
+              (VP
+                (VP (VRD (v 穿) (v 上)) (NP-OBJ (n 皮) (n 海) (n 大衣)))
+                (VP (v 拍摄) (NP-OBJ (nx MTV)))))
+            (wd ，)
+            (VP
+              (DVP (VP (a 兴奋) (wn 、) (a 新鲜)) (ude 地))
+              (PP-DIR (p 向) (NP (r 大家)))
+              (VP
+                (v 炫耀)
+                (NP-OBJ
+                  (NP (r 她))
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (QP-ADV (m 第一) (CLP (q 次))) (VP (s 上身))))
+                      (ude 的)))
+                  (NP (t 冬) (n 衣)))))))
+        (n 时)))
+    (wd ，)
+    (NP-PN-SBJ (ns 台湾))
+    (VP
+      (ADVP (v 好像))
+      (PP
+        (p 与)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (n 终年)) (nr 常夏)))
+              (ude 的)))
+          (NP-PN (ns 新加坡))))
+      (VP (v 失去) (y 了) (NP-OBJ (n 距离)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (VRD (v 感染) (v 到))
+        (NP-OBJ
+          (DNP
+            (LCP
+              (IP
+                (NP-SBJ-4 (QP (m 一个)) (NP (n 女孩)))
+                (VP
+                  (VP (vl 飘洋过海))
+                  (VP
+                    (PP-LOC
+                      (p 在)
+                      (NP
+                        (CP
+                          (WHNP-3 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-3))
+                              (VP (c 既) (a 熟悉) (c 又) (a 陌生)))
+                            (ude 的)))
+                        (NP (n 异国))))
+                    (VP (pbei 被) (VP (v 接纳) (NP-OBJ (-NONE- *-4)))))))
+              (f 后))
+            (ude 的))
+          (NP (n 幸福感))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 101)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-PN-SBJ (nr 孙燕姿))
+            (VP (v 走) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的))))
+    (VP (vshi 是) (NP-PRD (ADJP (b 中性)) (NP (n 风格)))))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 加上)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 清新))) (ude 的)))
+          (NP (n 形象)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC (p 在) (NP-PN (ns 台湾)))
+      (NP-ADV (QP (m 一)) (NP (n 战)))
+      (VP (vi 成名))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (nr 陈财福) (v 摄) (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 102)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-DIR
+      (PP
+        (p 从)
+        (NP
+          (DNP (NP (NP-PN (n 民国)) (QP (m 七○)) (NP (n 年代))) (ude 的))
+          (NP-PN (n 文章))
+          (PRN
+            (wkz （)
+            (QP (NP (f 左)) (QP (m 一)))
+            (wd ，)
+            (IP (NP-PN-SBJ (nr 陈财福)) (VP (v 摄)))
+            (wky ）))))
+      (PP
+        (p 到)
+        (NP
+          (NP
+            (DNP (NP (m 八○) (n 年代)) (ude 的))
+            (NP-PN (n 无印良品))
+            (PRN
+              (wkz （)
+              (QP (NP (f 左)) (QP (m 二)))
+              (wd ，)
+              (IP (NP-PN-SBJ (nr 林清洋)) (VP (v 摄)))
+              (wky ）)))
+          (wd ，)
+          (c 及)
+          (NP
+            (NP-PN (nr 柯以敏))
+            (PRN (wkz （) (QP (NP (f 左)) (QP (m 三))) (wky ）)))))
+      (PP
+        (c 以至)
+        (NP
+          (DNP (NP (t 九○年)) (ude 的))
+          (NP (nr 孙燕))
+          (NP (n 姿))
+          (PRN
+            (wkz （)
+            (NP (n 图) (f 右))
+            (wd ，)
+            (IP (NP-PN-SBJ (nz 华纳) (n 唱片)) (VP (v 提供)))
+            (wky ）)))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (NP-PN (ns 东南亚)) (NP (n 歌手)))
+            (VP
+              (PP-MNR (-NONE- *T*-1))
+              (VP (VP (v 到) (NP-PN-OBJ (ns 台湾))) (VP (v 发展)))))
+          (ude 的)))
+      (NP (n 路径)))
+    (VP (vyou 有) (IP (NP (n 迹)) (VP (v 可) (VP (v 循))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 多))
+      (VP
+        (vshi 是)
+        (VP
+          (v 走)
+          (NP-OBJ
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 清新))) (ude 的)))
+            (NP (NP (n 民谣)) (c 或) (NP (ADJP (t 现代)) (NP (n 演歌风)))))))))
+  (wj 。)))
+</S>

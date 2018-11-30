@@ -1,0 +1,147 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 伊朗)) (ADJP (b 副)) (NP (n 总统)))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (n 访华))) (NP (n 成果))))
+    (VP (v 表示) (NP-OBJ (v 满意))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 德黑兰)
+  (t ８月)
+  (t ３１日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 陈铭)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (ns 伊朗))
+      (QP (m 第一))
+      (NP (ADJP (b 副)) (NP (n 总统))))
+    (NP-PN (nrf 哈桑·哈比比)))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 结束)
+            (NP-OBJ
+              (PP-DIR (p 对) (NP-PN (ns 中国)))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (vi 为期) (QP-OBJ (m ３) (CLP (q 天)))))
+                  (ude 的)))
+              (ADJP (a 友好))
+              (NP (n 访问)))))
+        (f 后)))
+    (wd ，)
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (NP-TMP (t 今天)) (VP (v 回到) (NP-PN-OBJ (ns 德黑兰)))))
+      (n 时))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他))
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (n 访华)))
+              (NP (n 成果))))
+          (VP (v 表示) (NP-OBJ (v 满意)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 哈比比))
+  (VP
+    (PP-LOC (p 在) (NP (n 机场)))
+    (PP-DIR (p 对) (NP (n 记者)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他))
+        (VP
+          (PP-LOC (p 在) (LCP (NP (v 访问)) (f 中)))
+          (PP (p 与) (NP (NP-PN (ns 中国)) (NP (n 领导人))))
+          (PP
+            (p 就)
+            (NP
+              (NP (ADJP (n 双边)) (NP (n 关系)))
+              (wn 、)
+              (NP (NP (n 国际) (c 和) (n 地区)) (NP (n 问题)))))
+          (VP (v 交换) (y 了) (NP-OBJ (n 意见)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DNP
+            (NP (NP-PN (ns 伊) (ns 中)) (QP (m 两)) (NP (n 国)))
+            (ude 的))
+          (NP (n 经济) (n 合作) (n 项目)))
+        (VP (ADVP (d 正在)) (VP (v 展开))))
+      (wd ，)
+      (IP
+        (NP-SBJ (QP (m 两)) (NP (n 国)))
+        (VP
+          (ADVP (d 将))
+          (PP-LOC (p 在) (NP-PN (NP-PN (ns 中亚)) (NP (n 地区))))
+          (VP
+            (VP (ADVP (v 联合)) (VP (v 投资)))
+            (wd ，)
+            (VP (v 进行) (NP-OBJ (n 经济) (n 合作))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ
+    (NP-PN (ns 中国))
+    (wn 、)
+    (NP-PN (ns 伊朗))
+    (c 和)
+    (NP (QP (m 第三)) (NP (n 国))))
+  (VP
+    (VP (ADVP (d 还)) (ADVP (d 将)) (ADVP (v 联合)) (VP (v 投资)))
+    (wd ，)
+    (VP
+      (v 改造)
+      (NP-OBJ (DNP (NP-PN (ns 中国)) (ude 的)) (NP (n 炼油厂) (n 设备))))
+    (wd ，)
+    (VP
+      (v 扩大)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 提炼) (NP-OBJ (NP-PN (ns 伊朗)) (NP (n 石油)))))
+          (ude 的))
+        (NP (n 能力)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

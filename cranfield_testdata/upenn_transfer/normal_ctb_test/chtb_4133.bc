@@ -1,0 +1,305 @@
+<S>
+( (IP
+  (IP
+    (INTJ (y 哦))
+    (wd ，)
+    (NP-SBJ
+      (NP-SBJ (r 它))
+      (NP (DP (r 这个)) (NP (v 演习)))
+      (DNP (ADJP (v 所谓)) (ude 的))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 不))
+          (ADVP (d 不))
+          (VP (pbei 被) (VCD (v 击) (v 沉)))))
+      (y 呢))
+    (VP (vshi 是) (PP-PRD (p 在) (NP (n 兵棋) (VRD (v 推) (v 演))))))
+  (wd ，)
+  (IP
+    (IP (VP (ADVP (d 也)) (ADVP (d 就)) (VP (vshi 是))))
+    (PP-LOC (p 在) (LCP (NP (DP (r 那个)) (NP (n 作战) (n 模型))) (f 当中)))
+    (wd ，)
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (NP (nz 汉光)) (DNP (QP (m 十八)) (ude 的)) (NP (n 演习)))
+        (f 当中)))
+    (wd ，)
+    (NP-SBJ (r 它))
+    (VP
+      (vshi 是)
+      (CP-PRD
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (QP-ADV
+              (IP (VP (ADVP (d 不)) (VP (v 到))))
+              (QP (m 二十) (CLP (q 分钟))))
+            (VP (ADVP (d 就)) (VP (pbei 被) (VCD (v 击) (a 沉))))))
+        (y 啦))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP-ADV
+    (ADVP (c 之所以))
+    (y 呢)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 引起)
+      (NP-OBJ (NP-PN (ns 台湾)) (NP (n 当局)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (m 十分)) (VP (a 紧张))))))
+  (wd ，)
+  (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+  (NP-SBJ (NP (r 他)) (NP (n 防务) (n 部门)))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 提出)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 不)) (VP (v 能) (VSB (v 击) (a 沉)))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q (IP (NP-SBJ (-NONE- *pro*)) (VP (r 怎么办))) (y 呢) (ww ？)))
+</S>
+<S>
+( (NP (nx ＰＬＡＣＥ) (wp －) (nx ＨＯＬＤＥＲ)))
+</S>
+<S>
+( (IP
+  (IP
+    (CP-CND
+      (IP (NP-SBJ (n 对手)) (VP (ADVP (c 如果)) (VP (v 来) (VP (v 袭击)))))
+      (udh 的话))
+    (wd ，)
+    (IP-ADV (NP-SBJ (r 那)) (VP (a 好)))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ (NP (r 你)) (NP (n 导弹)))
+        (VP (v 设) (ude 得) (FLR (y 呢)) (wd ，) (NP-OBJ (n 亚音速))))))
+  (wd ，)
+  (IP (NP-SBJ (r 这)) (VP (vshi 是) (NP-PRD (QP (m 第一)) (NP (n 方面)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 第二))
+  (INTJ (y 呢))
+  (wd ，)
+  (IP-ADV (NP-SBJ (r 你)) (VP (v 要) (VP (v 打) (NP-OBJ (r 我)))))
+  (wd ，)
+  (PP-MNR
+    (p 按照)
+    (NP
+      (NP (r 他))
+      (ADVP (NP (t 汉)) (ADVP (n 光)))
+      (DNP (QP (m 十九) (c 和) (m 二十)) (ude 的))
+      (NP (n 演习))))
+  (wd ，)
+  (NP-SBJ (r 你))
+  (VP
+    (ADVP (d 事先))
+    (VP
+      (v 要)
+      (VP
+        (v 通报)
+        (NP-IO (r 我))
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP (NP (DP (r 什么)) (NP (n 时候))) (VP (v 来) (v 袭)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (r 这))
+    (VP
+      (ADVP (d 就))
+      (IP (VP (VCD (a 好) (n 象))))
+      (VP (vshi 是))
+      (VP (v 说))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (vshi 是)
+      (VP
+        (VP
+          (ADVP (p 在))
+          (VP
+            (v 进行)
+            (NP-OBJ (QP (m 一) (CLP (q 场))) (NP (n 实战) (v 演习))))
+          (y 了))
+        (wd ，)
+        (VP
+          (ADVP (c 而是))
+          (ADVP (p 在))
+          (VP
+            (v 搞)
+            (NP-OBJ
+              (QP (m 一) (CLP (q 场)))
+              (IP (VP (ADVP (d 就)) (VP (vshi 是))))
+              (CP-APP (IP (NP (n 小孩) (y 儿)) (VP (vl 过家家))) (ude 的))
+              (NP (n 游戏))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (IP (NP-SBJ (r 你)) (VP (v 要) (VP (v 来))))
+    (wd ，)
+    (IP (NP-SBJ (r 你)) (VP (v 要) (VP (v 来) (VP (v 敲) (NP (q 门儿))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (r 你))
+      (VP (v 要) (VP (v 来) (VP (v 袭击) (NP-OBJ (r 我)))))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (a 好)))
+  (wd ，)
+  (IP (NP-SBJ (r 我)) (VP (VRD (v 做) (a 好)) (NP-OBJ (n 准备))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 所以))
+  (NP-TPC (NP (r 它)) (QP (m 两)) (ADJP (a 大)) (NP (n 参数)))
+  (NP-SBJ (r 他))
+  (VP (ADVP (d 都)) (VP (v 做) (y 了) (NP-OBJ (n 调整))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (c 然后)) (VP (v 达到) (NP-OBJ (QP (m 一个)) (NP (n 结果))))))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (NP (r 他)) (NP (nz 汉光)) (QP (m 二十一)) (NP (n 演习)))
+          (VP
+            (v 能够)
+            (IP-OBJ
+              (NP-SBJ (QP (m 一个)) (NP (n 基德)) (NP (n 舰队)))
+              (VP
+                (VP
+                  (PP-DIR
+                    (p 对)
+                    (NP
+                      (ADJP (v 所谓))
+                      (DNP (NP (n 大陆)) (ude 的))
+                      (NP (n 登陆))
+                      (NP (n 舰队))))
+                  (VP (v 进行) (NP-OBJ (n 拦截))))
+                (wd ，)
+                (VP
+                  (VRD (v 拦截) (v 掉))
+                  (NP-OBJ (NP (n 解放军)) (QP (m 四十万)) (NP (n 人)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (INTJ (y 嗯) (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VRD (v 打) (v 掉))
+    (y 了)
+    (NP-OBJ
+      (DNP (NP (v 拦截) (n 部队)) (ude 的))
+      (DNP (QP (ADVP (d 将近)) (QP (m 四分之一))) (ude 的))
+      (NP (n 兵力))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 能)
+      (VP
+        (v 做)
+        (NP-OBJ
+          (DNP (ADJP (ADVP (r 这么)) (VP (a 大))) (ude 的))
+          (QP (m 一个))
+          (NP (n 调整))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 所以))
+    (PP-LOC (p 在) (NP (n 模型) (f 里边)))
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP (QP (m 一)) (ADJP (a 大)) (NP (n 忌讳)))
+        (wd ，)
+        (NP (DNP (NP (n 兵家)) (uzhi 之)) (NP (n 大忌))))))
+  (wd ，)
+  (IP
+    (CP-CND
+      (IP
+        (ADVP (c 就是说))
+        (NP-SBJ (r 你))
+        (VP
+          (v 调整)
+          (NP-OBJ
+            (QP (m 一个))
+            (DNP (z 小小的))
+            (QP (m 两) (CLP (q 个)))
+            (NP (n 参数)))))
+      (udh 的话))
+    (wd ，)
+    (NP-SBJ (DP (b 整个)) (DNP (ADJP (f 最后)) (ude 的)) (NP (n 结局)))
+    (VP
+      (ADVP (v 可能))
+      (VP
+        (v 出乎)
+        (NP-OBJ
+          (DNP (NP (DP (b 所有)) (NP (n 人))) (ude 的))
+          (NP (n 意料))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (LCP (NP (n 军事)) (f 上))
+        (wd ，)
+        (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+        (LCP
+          (NP
+            (DNP
+              (NP
+                (DP (r 这))
+                (wkz （（)
+                (CLP (q 种))
+                (wky ））)
+                (NP (n 军事) (n 对抗)))
+              (ude 的))
+            (NP (n 演习)))
+          (f 当中))))
+    (wd ，)
+    (ADVP (d 绝对))
+    (VP (vshi 是) (NP-PRD (QP (m 一个)) (NP (n 笑话)))))
+  (wj 。)))
+</S>

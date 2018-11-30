@@ -1,0 +1,213 @@
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (NP
+      (NP-PN (ns 伊拉克))
+      (NP (n 官方) (n 通讯社))
+      (DNP (PP (p 在) (NP (QP (m １１)) (NP (q 号)))) (ude 的))
+      (NP (n 报道))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 伊拉克)) (NP (n 当局)))
+  (VP
+    (ADVP (d 已经))
+    (ADVP (ad 正式))
+    (VP
+      (v 通知)
+      (NP-PN-IO (nt 联合国))
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 同意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 继续)
+              (VP
+                (v 延长)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-PN-SBJ (ns 伊拉克) (c 和) (nt 联合国))
+                        (VP
+                          (usuo 所)
+                          (VP (v 签定) (NP-OBJ (-NONE- *T*-1)))))
+                      (ude 的)))
+                  (IP-APP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-MNR (p 以) (NP (n 石油)))
+                      (VP (v 换取) (NP-OBJ (n 食物)))))
+                  (NP (n 方案))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP (PP-MNR (p 以) (NP (n 石油))) (VP (v 换取) (NP-OBJ (n 食物)))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (NP-PN (nt 联合国)) (NP (nt 安理会)))
+        (VP
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP
+                  (CP-APP
+                    (IP
+                      (NP-PN-SBJ (ns 伊拉克))
+                      (VP (v 受到) (NP-OBJ (n 经济) (n 制裁))))
+                    (ude 的))
+                  (NP (n 情况)))
+                (f 下)))
+            (wd ，)
+            (VP
+              (v 造成)
+              (IP-OBJ
+                (NP-SBJ
+                  (ADJP (a 一般))
+                  (NP (n 民生) (n 物资) (c 和) (n 药品)))
+                (VP (ADVP (ad 严重)) (VP (v 缺乏))))))
+          (wd ，)
+          (VP
+            (ADVP (c 于是))
+            (VP
+              (v 同意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 让)
+                  (NP-PN-OBJ (ns 伊拉克))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (VP (vi 出口) (NP-OBJ (n 石油)))
+                      (VP
+                        (v 来)
+                        (VP
+                          (v 换取)
+                          (NP-OBJ
+                            (DNP
+                              (NP (ADJP (b 非军事)) (NP (n 用途)))
+                              (ude 的))
+                            (NP (n 民生) (c 以及) (n 医药))
+                            (NP (n 用品)))))))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (IP-APP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP-MNR (p 以) (NP (n 石油))) (VP (v 换取) (NP-OBJ (n 食物)))))
+      (NP (n 方案)))
+    (VP
+      (VP
+        (vshi 是)
+        (VP
+          (PP-MNR (p 以) (NP (QP (m ６) (CLP (q 个))) (NP (n 月))))
+          (VP (v 为) (QP-PRD (m 一) (CLP (q 期))))))
+      (wd ，)
+      (VP
+        (NP-TMP (t 目前))
+        (ADVP (d 已经))
+        (VP (v 进入) (y 了) (QP-OBJ (m 第９) (CLP (q 期)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (NP
+      (DNP (NP (NP-PN (ns 伊拉克)) (NP (n 官方) (n 通讯社))) (ude 的))
+      (NP (n 报道))))
+  (wd ，)
+  (NP-SBJ (NP-APP (NP-PN (ns 伊拉克)) (NP (n 外交部长))) (NP-PN (nrf 夏哈夫)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (VRD (v 写) (v 给))
+                  (NP-IO
+                    (NP-APP (NP-PN (nt 联合国)) (NP (n 秘书长)))
+                    (NP-PN (nrf 安南)))
+                  (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 信)))
+        (f 当中)))
+    (wd ，)
+    (VP
+      (v 指出)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 伊拉克))
+        (VP
+          (CP-ADV
+            (ADVP (c 虽然))
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 同意)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (v 延长)
+                    (NP-OBJ
+                      (NP-PN (nt 联合国))
+                      (DP (r 这项))
+                      (CP-APP
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (PP-MNR (p 用) (NP (n 石油)))
+                            (VP (v 换取) (NP-OBJ (n 物资)))))
+                        (ude 的))
+                      (NP (n 方案))))))))
+          (wd ，)
+          (ADVP (c 可是))
+          (ADVP (d 还是))
+          (ADVP (v 免不了))
+          (VP
+            (v 要)
+            (VP
+              (v 批评)
+              (NP-OBJ
+                (NP (DP (r 这项)) (NP (n 方案)))
+                (c 和)
+                (NP
+                  (DNP (NP-PN (nt 联合国)) (ude 的))
+                  (NP (n 经济) (n 制裁))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 联合国) (nt 安理会))
+  (VP
+    (NP-TMP (t １２月) (NP (QP (m ５)) (NP (q 号))))
+    (ADVP (ad 一致))
+    (VP
+      (v 同意)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 更新)
+          (NP-OBJ
+            (DNP (NP-PN (ns 伊拉克)) (ude 的))
+            (IP-APP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-MNR (p 以) (NP (n 石油)))
+                (VP (v 换取) (NP-OBJ (n 食物)))))
+            (NP (n 方案)))))))
+  (wj 。)))
+</S>

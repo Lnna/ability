@@ -1,0 +1,118 @@
+<S>
+( (IP
+  (NP-SBJ (r 大家))
+  (VP
+    (ADVP (d 先))
+    (VP
+      (v 要)
+      (VP
+        (pba 把)
+        (IP-OBJ (NP-SBJ (DP (r 这)) (NP (n 事儿))) (VRD (v 搞) (v 成))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP-ADV (c 因此))
+  (NP-SBJ (r 这个))
+  (VP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP (IP (VP (v 放) (p 在))) (NP-OBJ (r 哪儿))))
+    (VP (ADVP (d 很)) (VP (a 重要))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-ADV (r 那))
+  (NP-SBJ (DNP (ADJP (f 最后)) (ude 的)) (NP (n 结论)) (y 呢))
+  (VP
+    (vshi 是)
+    (IP-PRD (NP-SBJ (-NONE- *pro*)) (VP (v 放在) (NP-PN-OBJ (ns 法国)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ
+    (NP-PN (ns 中国))
+    (DNP (PP (p 对) (NP (r 此))) (ude 的))
+    (NP (n 看法)))
+  (VP (vshi 是) (NP-PRD (r 什么)))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-PN-TPC
+    (NP-PN (ns 中国))
+    (wd ，)
+    (wkz （（)
+    (FLR (r 这个))
+    (wky ））)
+    (FLR (n 呃)))
+  (PP-TMP (p 从) (VP (ADVP (d 一)) (VP (v 开始))))
+  (wd ，)
+  (INTJ (n 呃))
+  (wd ，)
+  (PP-MNR
+    (p 经过)
+    (NP
+      (DNP (NP (NP (r 我们)) (NP (n 专家))) (ude 的))
+      (NP (n 调查) (n 研究))))
+  (wd ，)
+  (NP-SBJ
+    (QP (ADJP (f 最后)) (QP (m 一个)))
+    (n 呃)
+    (DNP (ADJP (a 重要)) (ude 的))
+    (NP (n 结论)))
+  (wd ，)
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (r 我们))
+        (VP
+          (v 应当)
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ (n 地址))
+              (VP
+                (IP (VP (v 选) (FLR (PP (p 在)))))
+                (NP-PN-OBJ (ns 法国)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP-ADV (c 所以))
+  (wd ，)
+  (PP-DIR (p 从) (LCP (NP-PN (ns 中国)) (u 来讲)))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (PP-TMP (p 从) (VP (ADVP (d 一)) (VP (v 开始))))
+    (ADVP (d 就))
+    (DVP (VP (vl 坚定不移)) (ude 地))
+    (VP
+      (v 支持)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (pba 把)
+          (IP-OBJ (NP-SBJ (n 场址)) (VP (v 放在) (NP-PN-OBJ (ns 法国))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP (IP (VP (v 放) (p 在))) (NP-PN-OBJ (ns 法国))))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 耽误)
+        (NP-OBJ (r 咱))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 分享) (NP-OBJ (n 成果)))))))
+  (y 吧)
+  (ww ？)))
+</S>

@@ -1,0 +1,179 @@
+<S>
+( (IP
+  (NP-TMP (t 最近))
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ
+          (DNP (NP (NP-PN (ns 上海市)) (NP (b 公交) (n 卡))) (ude 的))
+          (NP (n 押金)))
+        (VP (ADVP (r 如何)) (VP (v 处理))))
+      (ude 的))
+    (NP (n 问题)))
+  (VP
+    (v 引起)
+    (y 了)
+    (NP-OBJ (DNP (NP (n 人们)) (ude 的)) (ADJP (a 广泛)) (NP (n 关注))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今天))
+  (NP-SBJ
+    (NP-PN (ns 上海) (b 公交) (n 卡) (n 公司))
+    (p 与)
+    (NP
+      (NP-APP (r 其) (n 行业) (n 主管) (n 部门))
+      (NP-PN (ns 上海市) (v 建设) (NP (NP (n 交通)) (NP (n 委))))))
+  (wd ，)
+  (VP
+    (VP
+      (PP-ADV (p 就) (NP (b 公交) (n 卡) (n 押金) (n 事件)))
+      (VP (ADVP (ad 正式)) (VP (vi 表态))))
+    (wd ，)
+    (VP
+      (ADVP (d 将))
+      (PP-DIR (p 对) (NP (b 公交) (n 卡) (n 押金) (n 问题)))
+      (VP (v 进行) (NP-OBJ (n 审计))))
+    (wd ，)
+    (VP
+      (ADVP (c 同时))
+      (VP
+        (v 会)
+        (VP (p 将) (IP-OBJ (NP-SBJ (n 审计) (n 结果)) (VP (vl 公之于众)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 此前))
+  (wd ，)
+  (NP-PN-SBJ
+    (NP-PN (ns 上海))
+    (ADJP (b 公共))
+    (NP (n 交通) (n 卡))
+    (NP (n 股份))
+    (n 有限公司))
+  (VP
+    (ADVP (d 曾经))
+    (VP
+      (VP (v 发表) (NP-OBJ (n 声明)))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (NP-TMP (t 当初))
+              (VP
+                (pba 把)
+                (IP-OBJ
+                  (NP-SBJ
+                    (DP (NP (DP (r 每张)) (NP (n 卡))) (ude 的))
+                    (NP (n 押金)))
+                  (VP (VCP (v 定) (v 为)) (QP-OBJ (m 三十) (CLP (q 元)))))))
+            (VP
+              (vshi 是)
+              (VP
+                (v 参照)
+                (y 了)
+                (NP-OBJ
+                  (NP
+                    (NP (t 当时))
+                    (DNP (NP (ADJP (n 同类)) (NP (n 卡))) (ude 的))
+                    (NP (n 市场价)))
+                  (wd ，)
+                  (PRN
+                    (IP
+                      (ADVP (v 比如))
+                      (NP-TPC
+                        (DNP (NP-PN (ns 香港)) (ude 的))
+                        (NP-PN (nz 八达通卡)))
+                      (NP-SBJ (n 押金))
+                      (VP
+                        (vshi 是)
+                        (NP-PRD (QP (m 五十) (CLP (q 元))) (NP (n 港币))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (FLR (NP (n ｛) (nx ｂｒｅａｔｈ) (n ｝)))
+  (NP-SBJ (NP (t 目前)) (DNP (NP-PN (nz 一卡通)) (ude 的)) (NP (n 流量)))
+  (VP (ADVP (d 约)) (VP (v 为) (QP-PRD (m 一千二百万) (CLP (q 张)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 每张)) (NP (n 成本)))
+  (VP (v 接近) (QP-OBJ (m 二十) (CLP (q 元))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (v 除去)
+    (LCP (NP (DNP (NP (n 卡)) (ude 的)) (NP (n 成本))) (f 之外)))
+  (wd ，)
+  (NP-SBJ (ADJP (n 剩余)) (NP (n 部分)))
+  (VP (PP-MNR (p 按) (NP (b 活期) (n 利息))) (VP (v 存) (NP-OBJ (n 银行))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (n 增值)) (NP (n 部分)))
+  (VP
+    (ADVP (d 主要))
+    (VP
+      (v 用于)
+      (UCP
+        (NP (n 系统) (n 运营))
+        (c 和)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 改善)
+            (NP-OBJ
+              (DNP
+                (PP (p 对) (NP (n 市民) (n 服务) (n 设施) (udeng 等)))
+                (ude 的))
+              (NP (n 投入))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (FLR (NP (n ｛) (nx ｂｒｅａｔｈ) (n ｝)))
+  (ADVP (c 不过))
+  (PP-ADV
+    (p 对于)
+    (UCP
+      (NP
+        (NP (n 押金) (n 增值) (n 部分))
+        (DNP (ADJP (a 具体)) (ude 的))
+        (NP (n 开支) (n 清单)))
+      (c 以及)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (v 是否))
+          (VP (v 会) (VP (v 调整) (NP-OBJ (n 押金) (n 金额))))))))
+  (wd ，)
+  (LCP-SBJ (NP (n 声明)) (f 当中))
+  (VP (ADVP (d 却)) (ADVP (d 没有)) (VP (v 说明)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (c 而且))
+    (PP-MNR (p 根据) (NP (NP (nt 国务院)) (ADJP (n 相关)) (NP (n 规定))))
+    (wd ，)
+    (VP
+      (v 应当)
+      (VP
+        (VRD (v 调) (a 低))
+        (NP-OBJ
+          (DNP (QP (m 一)) (NP (n 卡通)) (ude 的))
+          (NP (n 押金) (n 额度))))))
+  (wj 。)))
+</S>

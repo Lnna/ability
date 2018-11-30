@@ -1,0 +1,138 @@
+<S>
+( (IP
+  (NP-TPC (NP-PN (ns 美国)) (NP (n 参议员)))
+  (NP-TMP (t 今天))
+  (PP-MNR
+    (p 以)
+    (NP (DNP (NP (ADJP (d 口头)) (NP (v 表决))) (ude 的)) (NP (n 方式))))
+  (wd ，)
+  (NP-SBJ (QP (m 两)) (NP (n 党)))
+  (VP
+    (ADVP (ad 一致))
+    (DVP (VP (v 无) (NP-OBJ (b 异义))) (ude 的))
+    (VP
+      (n 通过)
+      (IP-OBJ
+        (NP-PN-SBJ (nr 赵晓兰))
+        (VP (v 出任) (NP-OBJ (n 劳工) (n 部长))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (QP (m ４７) (CLP (q 岁))) (ude 的)) (NP-PN (nr 赵晓兰)))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (NP-PN (ns 美国))
+          (QP (m 第一) (CLP (q 位)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (NP-PN-LOC (ns 台湾)) (VP (vi 出生))))
+              (ude 的)))
+          (NP (n 内阁) (n 部长))))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-PN-SBJ (nr 赵晓兰))
+    (VP
+      (ADVP (d 并))
+      (ADVP (d 不))
+      (VP
+        (vshi 是)
+        (NP-PRD (NP-PN (nrf 布什) (n 总统)) (QP (m 第一)) (NP (n 人选))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 布什))
+    (VP
+      (ADVP (d 原来))
+      (VP
+        (vshi 是)
+        (VP (IP (VP (v 属) (NP (n 意)))) (NP-PN-OBJ (nrf 查维斯) (n 女士))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (r 她))
+    (VP
+      (PP-PRP
+        (p 因为)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (IP (VP (pbei 被) (VP (v 控))))
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 曾经))
+                (VP (v 雇佣) (y 了) (NP-OBJ (ADJP (b 非法)) (NP (n 外劳)))))))))
+      (VP (VP (v 引起) (NP-OBJ (n 责难))) (VP (ADVP (d 被迫)) (VP (v 退出))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 布什))
+    (VP
+      (ADVP (c 因此))
+      (VP
+        (v 改)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 提名) (NP-PN-OBJ (nr 赵晓兰)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP (NP-PN-APP (ns 共和) (v 还有) (an 民主)) (QP (m 两)) (NP (n 党)))
+        (ude 的))
+      (NP (n 议员)))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 推崇)
+        (IP-OBJ
+          (NP-SBJ (r 她))
+          (VP
+            (v 会)
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 杰出)))
+                    (ude 的)))
+                (NP (n 劳工) (n 部长)))))))))
+  (wd ，)
+  (IP
+    (VP (v 任) (NP (n 命案)))
+    (VP (ADVP (c 因此)) (ADVP (ad 轻松)) (VP (vi 过关))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 赵晓兰))
+  (VP
+    (VP
+      (PP-ADV (p 与) (NP (DNP (NP-PN (ns 台湾)) (ude 的)) (NP (n 友人))))
+      (ADVP (d 经常))
+      (VP (v 保持) (NP-OBJ (n 联络))))
+    (wd ，)
+    (VP
+      (ADVP (c 并且))
+      (ADVP (ad 公开))
+      (VP
+        (v 赞扬)
+        (NP-OBJ
+          (DNP (NP-PN (nz 中华) (n 民国)) (ude 的))
+          (NP (an 民主) (c 与) (an 自由))))))
+  (wj 。)))
+</S>

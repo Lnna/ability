@@ -1,0 +1,54 @@
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 表示)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (d 将))
+        (PP-MNR
+          (IP (VP (v 借) (NP (p 由))))
+          (NP (DNP (DP (r 这) (CLP (q 次))) (ude 的)) (NP (n 辞职))))
+        (VP
+          (v 让)
+          (NP (NP (ns 以色列)) (NP (n 人)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 能够)
+              (VP
+                (PP-DIR (p 就) (NP (n 和平) (n 议题)))
+                (VP
+                  (v 举行)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP (NP-SBJ (n 公民)) (VP (vi 复职)))
+                      (ude 的))
+                    (NP (n 机会)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP (NP (t 最近)) (QP (m １０) (CLP (q 个))) (NP (n 星期)))
+        (ude 的))
+      (NP-PN (ns 以) (ns 巴))
+      (ADJP (a 严重))
+      (NP (n 冲突)))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (v 造成)
+        (y 了)
+        (IP-OBJ
+          (NP-SBJ (QP (m ３００) (QP (m 多))) (NP (n 人)))
+          (VP (vi 丧生))))))
+  (wd ，)
+  (IP
+    (QP-SBJ (NP (r 其中)) (QP (m 大部分)))
+    (VP (vshi 是) (NP-PRD (n 巴勒斯坦人))))
+  (wj 。)))
+</S>

@@ -1,0 +1,259 @@
+<S>
+( (IP-HLN
+  (NP-PN-LOC (ns 天津) (n 开发区))
+  (NP-SBJ
+    (QP (ADVP (v 近)) (QP (m 百) (CLP (q 家))))
+    (NP (n 外资) (n 企业)))
+  (VP (v 成为) (NP-OBJ (NP (n 海关)) (ADJP (n 保税)) (NP (n 工厂))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 天津) (t 十二月) (t 二十七日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (PP-DIR (p 从) (NP (NP-PN (ns 天津)) (NP (n 海关))))
+    (VP
+      (VRD (v 了解) (v 到))
+      (wd ，)
+      (IP-OBJ
+        (NP-TMP (t 近日))
+        (NP-SBJ
+          (NP-APP
+            (NP-PN
+              (NP-PN (nz 通用))
+              (NP (n 半导体))
+              (PRN (wkz （) (NP-PN (ns 中国)) (wky ）))
+              (n 有限公司))
+            (udeng 等))
+          (QP (m 二十) (CLP (q 家)))
+          (NP (n 外商) (n 投资) (n 企业)))
+        (VP
+          (PP-MNR
+            (p 通过)
+            (NP
+              (DNP (NP (NP-PN (ns 天津)) (NP (n 海关))) (ude 的))
+              (NP (n 考核))))
+          (wd ，)
+          (VP
+            (v 成为)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (v 享受) (NP-OBJ (n 海关) (n 优惠) (n 政策))))
+                  (ude 的)))
+              (ADJP (n 保税))
+              (NP (n 工厂))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV (d 至此))
+  (wd ，)
+  (NP-PN-SBJ (ns 天津) (n 经济) (n 技术) (n 开发区))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ (QP (m 九十九) (CLP (q 家))) (NP (n 外商) (n 投资) (n 企业)))
+        (VP (v 成为) (NP-OBJ (ADJP (n 保税)) (NP (n 工厂)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV (p 据) (NP (v 介绍)))
+  (wd ，)
+  (LCP-TMP (dl 近年来))
+  (NP-SBJ (NP-PN (ns 天津)) (NP (n 海关)))
+  (VP
+    (VP (ADVP (ad 积极)) (PP (p 与) (NP (n 国际) (n 惯例))) (VP (vi 接轨)))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 从)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP
+              (v 加强)
+              (NP-OBJ
+                (PP (p 对) (NP (n 企业)))
+                (ADJP (n 宏观))
+                (NP (n 管理))))
+            (wd ，)
+            (VP (v 优化) (NP-OBJ (n 通关) (n 环境)))
+            (wd ，)
+            (VP
+              (v 促进)
+              (IP-OBJ
+                (NP-SBJ (n 企业))
+                (VP (v 提高) (NP-OBJ (n 贸易) (n 效率))))))))
+      (VP (vi 出发)))
+    (wd ，)
+    (VP
+      (ADVP (d 大力))
+      (VP (v 推广) (NP-OBJ (NP (ADJP (n 保税)) (NP (n 工程))) (NP (n 制度))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-TPC (n 经济) (n 技术) (n 开发区))
+    (PP-ADV
+      (v 做为)
+      (NP
+        (NP (s 当地))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+        (NP (n 经济) (n 增长点))))
+    (wd ，)
+    (NP-SBJ (n 加工) (n 贸易) (v 发展))
+    (VP (a 迅速)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 已))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (QP (m 二百二十) (CLP (q 家)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (vi 从事) (NP-OBJ (n 加工) (n 贸易))))
+              (ude 的)))
+          (NP (n 外资) (n 企业))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (n 保税)) (NP (n 工厂)))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (VRD (v 占) (v 到))
+        (QP-OBJ (DNP (NP (n 企业) (n 总数)) (ude 的)) (QP (m 百分之四十一))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 逐步))
+      (VP
+        (v 形成)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-3))
+                (VP
+                  (v 涉及)
+                  (NP-OBJ
+                    (NP-APP
+                      (n 电子)
+                      (wn 、)
+                      (n 化工)
+                      (wn 、)
+                      (n 纺织)
+                      (wn 、)
+                      (n 通讯)
+                      (c 以及)
+                      (n 汽车)
+                      (udeng 等))
+                    (NP (n 行业)))))
+              (ude 的)))
+          (NP (ADJP (n 保税)) (NP (n 工厂)))
+          (NP (n 体系))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (nz 摩托罗拉))
+      (wn 、)
+      (NP-PN (nz 三星) (n 电子))
+      (wn 、)
+      (NP-PN (nz 雅马哈))
+      (udeng 等))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (NP-PRD (DNP (NP (r 其中)) (ude 的)) (QP (m 一) (CLP (q 员)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 据)
+    (IP
+      (NP-SBJ (NP-PN (ns 天津) (n 开发区)) (NP (n 海关) (n 官员)))
+      (VP (v 介绍))))
+  (wd ，)
+  (NP-SBJ (ADJP (n 保税)) (NP (n 工厂)))
+  (VP
+    (VP (v 降低) (y 了) (NP-OBJ (n 贸易) (n 成本)))
+    (wd ，)
+    (VP (v 提高) (y 了) (NP-OBJ (n 贸易) (n 效益))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ
+    (NP-PN (nz 通用))
+    (NP (n 半导体))
+    (PRN (wkz （) (NP-PN (ns 中国)) (wky ）))
+    (n 有限公司))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 成为) (NP-OBJ (ADJP (n 保税)) (NP (n 工厂)))))
+      (f 后))
+    (wd ，)
+    (DP-ADV (r 每天))
+    (VP
+      (v 减少)
+      (NP-OBJ (nl 流动资金) (v 占用))
+      (QP-EXT (m 五十万) (CLP (q 美元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 该)) (NP (n 公司)))
+  (VP
+    (v 介绍)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (NP (DNP (NP (t 未来)) (ude 的)) (QP (m 五) (CLP (q 年))))
+            (f 内)))
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 将))
+          (VP (v 追加) (NP-OBJ (v 投资)) (QP-EXT (m 九千万) (CLP (q 美元))))))
+      (wd ，)
+      (IP
+        (ADVP (d 届时))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 预计)
+          (IP-OBJ
+            (NP-SBJ (n 年产值))
+            (VP (v 可) (VP (v 达) (QP-OBJ (m 三亿) (CLP (q 美元))))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

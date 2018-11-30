@@ -1,0 +1,148 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 中国) (n 石油) (n 集团))
+  (VP
+    (NP-TMP (t 今年))
+    (VP (v 实现) (NP-OBJ (n 利润)) (QP-EXT (m 四十亿) (CLP (q 元)))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 十二月)
+  (t 三十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 韩振军)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 来自) (NP-PN-OBJ (ns 中国) (n 石油) (n 天然气) (n 集团公司))))
+        (ude 的)))
+    (NP (n 消息)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-MNR
+      (p 经过)
+      (NP
+        (DNP (NP (NP (DP (a 全)) (NP (n 系统))) (NP (n 职工))) (ude 的))
+        (ADJP (a 艰苦))
+        (NP (an 努力))))
+    (wd ，)
+    (NP-TMP (t 今年))
+    (VP
+      (VP
+        (v 实现)
+        (NP-OBJ (n 销售) (n 收入))
+        (QP-EXT (m 两千零一十亿) (CLP (q 元))))
+      (wd ，)
+      (VP (v 实现) (NP-OBJ (n 利润)) (QP-EXT (m 四十亿) (CLP (q 元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 受)
+      (NP-OBJ
+        (DNP
+          (UCP
+            (NP (NP-PN (ns 亚洲)) (NP (n 金融) (n 危机)))
+            (c 和)
+            (IP (NP-SBJ (n 国际) (n 油价)) (VP (vi 暴跌))))
+          (ude 的))
+        (NP (n 影响)))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 石油) (wn 、) (n 石化业)))
+  (VP (v 面临) (uzhe 着) (NP-OBJ (ADJP (a 严峻)) (NP (n 考验))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 集团))
+    (VP
+      (DP-TMP (n 全年))
+      (VP
+        (VP
+          (VSB (v 勘探) (v 发现))
+          (y 了)
+          (NP-OBJ
+            (QP (m 三) (CLP (q 个)))
+            (DNP (NP (b 亿吨级)) (ude 的))
+            (NP (n 油气田))))
+        (wd ，)
+        (VP
+          (VCD (v 新增) (n 探明))
+          (NP-OBJ (NP (n 石油) (n 储量)))
+          (QP-EXT (m 四点八五亿) (CLP (q 吨))))
+        (wn 、)
+        (VP
+          (NP-OBJ (n 天然气) (n 储量))
+          (QP-EXT (m 二千二百三十二亿) (CLP (q 立方米)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 均)) (VP (v 高于) (NP-OBJ (t 去年) (n 水平)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 集团))
+  (VP
+    (DP-ADV (n 全年))
+    (ADVP (d 共))
+    (VP
+      (VP
+        (v 生产)
+        (NP-OBJ (n 原油))
+        (QP-EXT (ADVP (v 超过)) (QP (m 一亿) (CLP (q 吨)))))
+      (wd ，)
+      (VP (NP-OBJ (n 天然气)) (QP-EXT (m 一百四十八亿) (CLP (q 立方米))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (v 加工) (NP-OBJ (n 原油)) (QP-EXT (m 六千五百一十五万) (CLP (q 吨))))
+    (wd ，)
+    (VP (v 生产) (NP-OBJ (n 乙烯)) (QP-EXT (m 一百二十八万) (CLP (q 吨)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (DNP (NP (n 企业)) (ude 的)) (NP (n 成本))) (VP (vi 下降)))
+  (wd ，)
+  (IP (NP-SBJ (n 竞争力)) (VP (v 增强)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (QP (CLP (q 吨))) (NP (n 油))) (n 成本))
+    (VP
+      (PP (p 比) (NP (t 去年)))
+      (ADVP (ad 平均))
+      (VP (v 降低) (QP-EXT (m 三十九) (CLP (q 元))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 行政费) (n 支出))
+    (VP
+      (PP (p 比) (NP (NP (t 去年)) (ADJP (a 实际)) (NP (n 水平))))
+      (VP (v 降低) (QP-EXT (m 百分之十)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

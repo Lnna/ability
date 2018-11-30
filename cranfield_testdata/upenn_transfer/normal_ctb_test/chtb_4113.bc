@@ -1,0 +1,3446 @@
+<S>
+( (NP (DNP (ADJP (r 什么样)) (ude 的)) (NP (n 记忆)) (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 敬请)
+    (NP-OBJ (-NONE- *pro*))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 收看)
+        (NP-OBJ
+          (IP-APP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 走遍) (NP-PN-OBJ (ns 中国))))
+          (ADJP (a 特别))
+          (NP (n 节目))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (DNP (LCP (NP (NP-PN (ns 中国)) (NP (n 大地))) (f 上)) (ude 的))
+        (NP-PN (n 二战))
+        (NP (n 标志)))
+      (uzhi 之))
+    (NP-PN (n 太行)))
+  (VP (ADVP (d 永)) (VP (v 志)))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (r 它))
+  (VP
+    (PP-LGS
+      (p 由)
+      (NP
+        (NP
+          (NP (n 主碑))
+          (wd ，)
+          (NP (ADJP (b 副)) (NP (n 碑)))
+          (wd ，)
+          (NP (QP (m 一) (CLP (q 座))) (ADJP (b 大型)) (NP (n 圆雕)))
+          (c 和)
+          (NP (n 烽火台))
+          (wd ，)
+          (NP (ns 长城)))
+        (udeng 等)))
+    (VP (v 组成) (NP-OBJ (-NONE- *-1))))
+  (wj 。)))
+</S>
+<S>
+( (NP
+  (NP (n 主碑))
+  (c 和)
+  (NP (QP (m 三) (CLP (q 座))) (ADJP (b 副)) (NP (n 碑)))
+  (c 以及)
+  (NP (QP (m 两) (CLP (q 座))) (NP (n 题字) (n 碑)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nz 百团大战))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-PN-SBJ (n 八路军))
+            (VP
+              (PP-TMP (p 在) (NP (NP-PN (n 抗战)) (NP (f 期间))))
+              (VP (v 发动) (NP-OBJ (-NONE- *T*-2)))))
+          (ude 的)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-1))
+            (NP-SBJ (n 规模))
+            (VP (ADVP (d 最)) (VP (a 大))))
+          (ude 的)))
+      (QP (m 一) (CLP (q 次)))
+      (NP (n 战役))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 场))) (NP (n 战役)))
+  (VP
+    (VP
+      (v 打破)
+      (y 了)
+      (NP-OBJ
+        (NP (n 日军))
+        (DNP (PP (p 对) (NP (ADJP (s 敌后)) (NP (n 根据地)))) (ude 的))
+        (NP (n 封锁))))
+    (wd ，)
+    (VP
+      (v 振奋)
+      (NP-OBJ (NP (NP (n 全国)) (NP (n 人民))) (NP (n 抗日) (n 精神))))
+    (wd ，)
+    (VP
+      (v 影响)
+      (y 了)
+      (NP-OBJ
+        (DNP
+          (NP
+            (NP (NP (n 世界)) (NP (n 人民)))
+            (IP (VP (vi 反) (NP (nz 法西斯))))
+            (NP (n 战争)))
+          (ude 的))
+        (NP (n 形势)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (r 该图)) (VP (v 反映) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP (NP (NP-PN (ns 欧洲)) (NP (n 战场))) (ude 的))
+      (NP (n 形势))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (m 一九四零))
+  (NP (q 年))
+  (wd ，)
+  (NP-SBJ (a 德军))
+  (VP
+    (v 侵占)
+    (NP-PN-OBJ
+      (ns 捷克)
+      (wd ，)
+      (ns 波兰)
+      (wd ，)
+      (ns 荷兰)
+      (wd ，)
+      (ns 比利时)
+      (c 和)
+      (ns 法国)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 也))
+  (PP-TMP (ADVP (d 就)) (PP (p 在) (DP (r 这) (QP (m 一) (CLP (q 年))))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 日本)) (NP (n 军队)))
+  (VP
+    (v 制定)
+    (y 了)
+    (NP-OBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 要)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-TMP
+                  (p 在)
+                  (LCP (NP (NP (m 一九四零)) (NP (q 年)) (t 年底)) (f 前)))
+                (wd ，)
+                (ADVP (ad 迅速))
+                (VP
+                  (vi 迫使)
+                  (NP-OBJ (NP-PN (ns 中国)) (NP (n 人民)))
+                  (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 屈服))))))))
+        (ude 的))
+      (NP (n 策略))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 日军))
+  (VP
+    (PP-TMP (p 在) (NP (t 五月) (n 份儿)))
+    (FLR (y 呢))
+    (VP (v 发动) (y 了)))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-TPC (DP (r 这个)) (NP-PN (ns 宜昌)))
+  (FLR (y 呢))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (PP-MNR (v 顺) (NP-PN (ns 宜昌)))
+      (QP (m 一))
+      (NP (n 家伙))
+      (VRD (f 上) (v 来)))
+    (VP
+      (DFL (ADVP (v 就)))
+      (wd ，)
+      (ADVP (d 就))
+      (VP (v 可以) (VP (v 到) (NP-PN-OBJ (ns 重庆))))))
+  (wd ，)))
+</S>
+<S>
+( (CP
+  (IP
+    (FLR (y 啊))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 就)) (VP (v 威胁) (NP-PN-OBJ (ns 重庆)))))
+  (y 了)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (r 那))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 就))
+    (PP-DIR
+      (p 对)
+      (NP (NP-PN (ns 重庆)) (FLR (y 啊)) (DP (r 这些)) (NP (s 大后方))))
+    (FLR (y 呢))
+    (QP (m 一个))
+    (FLR (wkz （（) (wky ））))
+    (ude 的)
+    (VP (n 轰炸)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (PP-MNR
+          (p 在)
+          (LCP
+            (NP
+              (NP
+                (NP (n 经济) (n 封锁))
+                (wd ，)
+                (NP (n 军事) (n 进攻))
+                (wd ，)
+                (NP (n 战略) (v 轰炸)))
+              (DNP (ADJP (r 这样)) (ude 的))
+              (FLR (DP (r 这个)))
+              (FLR (n 呃))
+              (DNP (ADJP (b 互相)) (ude 的))
+              (FLR (DP (r 这个)))
+              (NP (n 配合)))
+            (f 下)))
+        (FLR (y 呢))
+        (wd ，)
+        (FLR (n 呃))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 香港)))
+          (VP
+            (v 开展)
+            (y 了)
+            (NP-OBJ
+              (QP (m 一个))
+              (FLR (y 呢))
+              (CP-APP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (NP (v 诱) (v 降)) (NP-OBJ (n 国民政府))))
+                (ude 的))
+              (QP (m 一个))
+              (ADJP (d 同))
+              (NP (v 攻))))))))
+  (wd ，)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-SBJ (DP (r 这个)) (PP (p 同) (IP (VP (v 攻)))))
+    (VP
+      (PP-TMP (v 到) (NP (r 那)))
+      (VP
+        (vi 进展)
+        (ude 的)
+        (VP-EXT
+          (ADVP (d 已经))
+          (VP (vshi 是) (VP (ADVP (d 很)) (VP (a 深入))))))))
+  (y 了)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (m 一九四零))
+  (NP (q 年))
+  (wd ，)
+  (NP-SBJ (DNP (NP-PN (ns 中国)) (ude 的)) (NP-PN (nz 抗日战争)))
+  (VP (ADVP (d 已经)) (VP (v 进入) (NP-OBJ (ADJP (n 相持)) (NP (n 阶段)))))
+  (wd ，)))
+</S>
+<S>
+( (IP (NP-SBJ (n 敌我) (n 形势)) (VP (vl 犬牙交错)) (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (n 八路军)) (NP (n 游击队)))
+  (VP
+    (VP (ADVP (d 异常)) (VP (a 活跃)))
+    (VP
+      (PP-BNF
+        (p 给)
+        (NP
+          (DNP (NP (NP-PN (ns 华北)) (NP (n 地区))) (ude 的))
+          (NP (n 日军))))
+      (VP
+        (v 制造)
+        (y 了)
+        (NP-OBJ
+          (DNP (QP (ADVP (d 越来越)) (QP (a 多))) (ude 的))
+          (NP (an 麻烦))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP (NP-PN (ns 日本)) (NP-PN (ns 华北) (n 方面军)))
+      (NP (n 司令官)))
+    (IP (NP (ADVP (a 多)) (NP (n 田))) (VP (a 骏))))
+  (VP
+    (NP-ADV (NP (n 八路军)) (c 和) (NP (n 策)))
+    (VP (v 来) (VP (v 对付) (NP-PN-OBJ (n 八路军)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (a 具体)) (NP (n 做法)))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (v 建立)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-1))
+                  (NP-SBJ (v 联系))
+                  (VP (a 紧密)))
+                (ude 的)))
+            (NP (n 交通网))))
+        (wd ，)
+        (VP
+          (ns 使村村)
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (vyou 有) (NP-OBJ (n 公路)))))
+        (wd ，)
+        (VP
+          (NP-OBJ (v 路路))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (vyou 有) (NP-OBJ (n 炮楼))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (PP-MNR (p 以) (NP (n 公路) (wd ，) (n 铁路)))
+      (VP (v 为) (NP-PRD (n 纽带))))
+    (wd ，)
+    (VP
+      (d 欲)
+      (VP
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (DP (b 整个)) (NP-PN (ns 华北)))
+            (VP
+              (v 结成)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 张)))
+                (DNP (ADJP (a 坚韧)) (ude 的))
+                (n 大网)))))
+        (VP (v 采用) (NP-OBJ (n 囚笼) (n 政策)))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (NP-PN (n 八路军)) (c 和) (NP (n 根据地)))
+            (VP
+              (VRD (vi 困) (v 死))
+              (PP
+                (p 在)
+                (LCP (NP (DP (r 这) (CLP (q 张))) (NP (n 网))) (f 里)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (NP (n 日军)) (NP (n 囚笼) (n 政策))) (f 里)))
+  (wd ，)
+  (NP-SBJ (n 铁路) (wd ，) (n 公路))
+  (VP
+    (ADVP (d 实际上))
+    (ADVP (d 已经))
+    (VP
+      (VP
+        (v 成为)
+        (NP-OBJ (DNP (NP (n 日军)) (ude 的)) (NP (n 战争) (n 武器))))
+      (wd ，)
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (CP-APP
+            (IP (NP-SBJ (-NONE- *pro*)) (VP (v 对抗) (NP-OBJ (n 根据地))))
+            (ude 的))
+          (ADJP (a 重大))
+          (NP (n 威胁))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九三九年) (t 十二月))
+  (wd ，)
+  (NP-SBJ
+    (NP (NP-APP (NP-PN (n 八路军)) (NP (n 总司令))) (NP-PN (nr 朱德)))
+    (wd ，)
+    (NP (NP (ADJP (b 副)) (NP (n 总司令))) (NP-PN (nr 彭德怀))))
+  (wd ，)
+  (VP
+    (v 收到)
+    (NP-OBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (v 来自)
+              (IP-OBJ
+                (NP-SBJ
+                  (NP-APP
+                    (NP
+                      (NP-APP (NP-PN (ns 冀中) (n 军区)) (NP (n 司令员)))
+                      (NP-PN (nr 吕正操)))
+                    (udeng 等))
+                  (NP (n 人)))
+                (VRD (v 发) (v 来)))))
+          (ude 的)))
+      (QP (m 一) (CLP (q 份)))
+      (ADJP (b 绝密))
+      (NP (n 电报))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 电报))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (n 日军))
+      (VP
+        (ADVP (d 正))
+        (VP
+          (v 试图)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (PP-MNR
+                  (p 通过)
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (v 修建)
+                      (NP-OBJ
+                        (IP (VP (n 封锁) (NP (n 沟))))
+                        (c 和)
+                        (NP (n 棋盘) (n 状) (NP (n 道路)))))))
+                (wd ，)
+                (VP
+                  (pba 把)
+                  (IP-OBJ
+                    (NP-SBJ (NP-PN (ns 冀中)) (NP (n 根据地)))
+                    (VP
+                      (VRD (v 分割) (v 成))
+                      (NP-OBJ
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-1))
+                              (VP
+                                (ADVP (d 不))
+                                (VP
+                                  (v 能)
+                                  (VP
+                                    (ADVP (d 相互))
+                                    (VP (VCD (v 联系) (v 支援)))))))
+                            (ude 的)))
+                        (ADJP (a 孤立))
+                        (ADJP (a 小))
+                        (NP (n 块)))))))
+              (wd ，)
+              (VP
+                (vi 使得)
+                (NP-OBJ (NP-PN (n 八路军)) (c 和) (NP (n 游击队)))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 失去) (NP-OBJ (an 机动)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (QP (QP (m 四)) (QP (m 零) (CLP (q 年))))
+      (DFL (p 在))
+      (PP (p 在) (LCP (NP-PN (nz 百团大战)) (f 前)))
+      (FLR (y 呢))
+      (wd ，)
+      (NP-LOC (NP-PN (ns 中国)) (NP (s 国内)))
+      (NP-SBJ
+        (DP (r 这个))
+        (IP-APP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP (vi 妥协))
+            (FLR (y 啊))
+            (wd ，)
+            (FLR (y 啊))
+            (VP (v 投降))
+            (FLR (y 啊))))
+        (DP (r 这个))
+        (NP (n 倾向) (n 危机)))
+      (FLR (y 呢))
+      (VP (vshi 是) (VP (ADVP (ad 空前)) (VP (a 严重)))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (VP
+          (p 在)
+          (DFL (ADJP (a 正)))
+          (wd ，)
+          (LCP-OBJ
+            (NP
+              (DNP (ADJP (b 正面)) (ude 的))
+              (DP (r 这个))
+              (FLR (wkz （（))
+              (NP (n 境况)))
+            (FLR (wky ））))
+            (f 下))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 那么))
+  (NP-LOC (ADJP (s 敌后)) (NP (n 战场)))
+  (FLR (y 呢))
+  (wd ，)
+  (NP-PN-TPC (ns 日本))
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 要)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 夺取) (NP-OBJ (-NONE- *RNR*-1)))
+            (wd ，)
+            (VP
+              (v 巩固)
+              (NP-OBJ-1 (NP (r 它)) (DP (r 这个)) (NP (n 占领区)))))))))
+  (wd ，)
+  (NP-SBJ (r 它))
+  (VP
+    (v 开始)
+    (NP-OBJ (DP (r 那个)) (DNP (ADJP (a 新)) (ude 的)) (NP (n 战略))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (PP-MNR (ns 以) (NP (n 铁路)))
+              (VP (v 为) (NP-PRD (QP (m 一个)) (NP (n 柱子)))))
+            (wd ，)
+            (VP
+              (PP-MNR (p 以) (NP (n 公路)))
+              (VP (v 为) (NP-PRD (QP (m 一个)) (NP (n 链子)))))
+            (wd ，)
+            (VP
+              (PP-MNR (p 以) (NP (FLR (DP (r 这个))) (NP (n 据点))))
+              (FLR (y 呢))
+              (VP (p 为) (NP-PRD (QP (m 一) (CLP (q 把))) (NP (n 锁))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (r 这样))
+      (FLR (y 呢))
+      (VP (v 进行) (NP-OBJ (QP (m 一个)) (NP (v 囚) (n 笼子) (vi 作战))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 企图)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-1 (s 敌后) (n 根据地))
+          (FLR (y 呢))
+          (VP (VRD (v 分割) (v 开)) (NP-OBJ (-NONE- *-1)))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (FLR (y 啊))
+  (FLR (NP (r 这个)))
+  (FLR (n 呃))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 断绝)
+    (NP-OBJ (DNP (NP (r 他们)) (ude 的)) (ADJP (d 互相)) (NP (v 联系))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而且))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (v 依托) (NP-OBJ (DP (r 这个)) (NP (n 囚笼))))
+    (FLR (y 呢))
+    (FLR (y 啊))
+    (VP
+      (v 来)
+      (VP
+        (DVP (ADVP (d 进一步)) (ude 地))
+        (VP
+          (v 加强)
+          (NP-OBJ (DNP (PP (p 对) (NP (n 根据地))) (ude 的)) (NP (n 进攻)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (n 呃)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 就是说))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (ADJP (r 这样))
+          (QP (m 一个))
+          (NP (n 国际) (wd ，) (s 国内))
+          (DNP (ADJP (a 严峻)) (ude 的))
+          (NP (n 形势)))
+        (f 下)))
+    (wd ，)
+    (FLR (DP (r 这个)))
+    (NP-PN-SBJ (ns 中国) (n 共产党))
+    (VP
+      (v 领导)
+      (NP-OBJ (DP (r 这个)) (NP-PN (n 八路军)))
+      (FLR (y 啊))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (v 开始)
+            (NP-OBJ
+              (FLR (ADVP (r 那么)))
+              (DFL (d 就))
+              (FLR (y 啊))
+              (DNP (ADJP (n 战略性)) (ude 的))
+              (NP (n 进攻) (n 战役))))))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 叫) (NP-PN-OBJ (nz 百团大战))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 日军)) (DP (r 这) (QP (m 一))) (NP (n 阴谋)))
+  (VP
+    (v 引起)
+    (NP-OBJ
+      (DNP
+        (NP
+          (NP (NP-PN (n 八路军)) (NP (n 总部)))
+          (NP (NP-PN (nr 朱德)) (wd ，) (NP-PN (nr 彭德怀))))
+        (ude 的))
+      (ADJP (d 高度))
+      (NP (v 警惕))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 经过)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (NP-MNR (d 多方))
+        (VP
+          (VP (ADVP (ad 缜密)) (VP (v 研究)))
+          (c 和)
+          (VP (ADVP (ad 精心)) (VP (vi 运筹)))))))
+  (wd ，)
+  (NP-SBJ
+    (QP (m 一个))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 出奇制胜))))
+    (NP (n 作战) (n 计划)))
+  (VP (v 产生) (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (NP (m 一九四零)) (NP (q 年))) (t 七月) (t 二十二日))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-2 (-NONE- *T*-1))
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (NP-PN (nr 朱德))
+                (wd ，)
+                (NP-PN (nr 彭德怀))
+                (wd ，)
+                (NP-PN (ns 左权))))
+            (ADVP (d 共同))
+            (VP (v 签署) (NP-OBJ (-NONE- *-2)))))
+        (ude 的)))
+    (wd ，)
+    (NP
+      (IP-APP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (IP (VP (v 破) (QP (CLP (v 袭)))))
+          (NP-PN-OBJ (ns 正太) (n 铁路))))
+      (NP (n 战役)))
+    (NP (n 预备) (n 命令)))
+  (VP
+    (VRD (v 发) (p 向))
+    (NP-OBJ (NP-PN (ns 延安)) (c 和) (NP (NP-PN (n 八路军)) (r 各部))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-TPC (ADJP (r 这样)) (QP (m 一个)) (NP (n 作战)))
+    (wd ，)
+    (FLR (DP (r 这个)))
+    (NP-SBJ
+      (DNP (NP (r 他)) (ude 的))
+      (DFL (NP (n 目的)))
+      (wd ，)
+      (NP (n 目的) (n 目标)))
+    (VP (vshi 是) (NP-PRD (r 什么))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 要)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 打破)
+              (NP-OBJ
+                (NP (n 日军))
+                (DNP (PP (p 对) (NP (s 敌后) (n 根据地))) (ude 的))
+                (DP (r 这个))
+                (NP (n 囚笼) (n 政策)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 扭转)
+    (NP-OBJ
+      (DNP (NP (s 国内)) (ude 的))
+      (DP (r 这个))
+      (CP-APP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (VCD (vi 妥协) (v 投降))))
+        (ude 的))
+      (DP (r 这个))
+      (NP (n 危机))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (p 就))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 克服) (NP-OBJ (DP (r 这个)) (NP (n 危机) (n 现象))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (ADVP (c 那么))
+    (NP-PN-SBJ (nz 百团大战))
+    (FLR (y 呢))
+    (FLR (NP (r 这个)))
+    (VP
+      (ADVP (d 一共))
+      (VP
+        (vshi 是)
+        (VP (v 分) (y 了) (NP-OBJ (QP (m 三) (CLP (q 个))) (NP (n 阶段)))))))
+  (y 了)
+  (wd ，)))
+</S>
+<S>
+( (PP
+  (PP-TMP
+    (p 从)
+    (LCP
+      (LCP (NP (t 八月) (NP (QP (m 二十)) (NP (q 号)))) (v 开始))
+      (wd ，)
+      (LCP (NP (t 八月) (NP (QP (m 二十)) (NP (q 号)))) (f 起))))
+  (wd ，)
+  (PP-TMP (p 到) (NP (DNP (NP (t 九月)) (ude 的)) (NP (n 十号))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (DP (r 这) (CLP (q 条))) (NP (n 铁路线))) (f 上)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (vyou 有)
+    (NP-OBJ
+      (NP (NP-APP (n 天险)) (NP-PN (n 娘子关)))
+      (c 和)
+      (NP
+        (NP-APP
+          (NP (n 日军))
+          (DNP (PP (p 在) (NP-PN (ns 华北))) (ude 的))
+          (ADJP (a 重要))
+          (NP (n 燃料) (n 基地)))
+        (NP (NP-PN (ns 阳泉)) (wd ，) (NP-PN (ns 井陉) (n 煤矿))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除)
+    (LCP (NP (NP-PN (ns 太原)) (p 与) (NP-PN (ns 石家庄))) (f 外)))
+  (wd ，)
+  (NP-SBJ (n 日军))
+  (VP
+    (PP-MNR
+      (p 以)
+      (NP
+        (QP (m 第四) (wd ，) (m 第八) (wd ，) (m 第九))
+        (QP (m 三) (CLP (q 个)))
+        (n 混成旅团)))
+    (wd ，)
+    (VP
+      (vi 分布)
+      (PP
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (n 铁路) (f 沿线)) (ude 的))
+            (QP (m 五十) (CLP (q 个)))
+            (NP (n 据点)))
+          (f 里)))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-SBJ (n 形势))
+    (VP
+      (PP-DIR
+        (p 对于)
+        (NP
+          (NP-PN (n 八路军))
+          (c 和)
+          (NP (NP (s 敌后)) (ADJP (n 抗日)) (NP (n 地区)))))
+      (ADVP (d 越来越))
+      (VP (a 不利))))
+  (y 了)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (d 必须)
+    (VP (VP (v 采取) (NP-OBJ (n 行动))) (VP (v 打破) (NP-OBJ (n 封锁)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP
+      (DNP (NP (NP (NP (m 一九四零)) (NP (q 年))) (t 七月) (t 下旬)) (ude 的))
+      (QP (m 一个))
+      (NP (t 夜晚)))
+    (wd ，)
+    (NP-SBJ (DNP (NP-PN (ns 陕西) (ns 砖壁村)) (ude 的)) (NP (n 气氛)))
+    (VP (vl 非同寻常)))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-APP (n 村民)) (NP-PN (nr 肖江河)))
+    (VP
+      (PP-DIR (p 对) (NP (DP (r 这) (CLP (q 段))) (NP (n 历史))))
+      (VP (vl 记忆犹新))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (DP (r 那天)) (NP (n 黑夜))) (f 里))
+    (wd ，)
+    (NP-SBJ (n 人们))
+    (VP (ADVP (d 都)) (VP (v 睡) (y 了))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 村) (f 里头))
+    (IP (NP (n 人)) (VP (VP (a 欢) (NP (n 马))) (VP (vi 叫)))))
+  (wd ，)
+  (FLR (y 呀))
+  (IP (NP-SBJ (n 人们)) (VP (ADVP (d 都)) (VP (v 起来))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VNV (vshi 是) (d 不) (vshi 是))
+        (VP (vyou 有) (NP-OBJ (n 情况))))
+      (FLR (wkz （（) (wky ））)))
+    (y 了))
+  (ww ？)))
+</S>
+<S>
+( (IP (NP-SBJ (DP (r 有的)) (NP (n 老百姓))) (VP (v 起来) (y 了)) (wd ，)))
+</S>
+<S>
+( (FRAG (wkz （（) (wky ））)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (ADVP (d 一)) (VP (v 开) (NP-OBJ (n 街门))))
+      (VP (ADVP (m 一)) (VP (v 看)))))
+  (FLR (y 呢))
+  (wd ，)
+  (IP
+    (NP-SBJ (s 门口))
+    (VP (vi 站) (uzhe 着) (NP-OBJ (QP (m 一个)) (NP (n 兵)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP-IMP
+    (NP-VOC (n 老乡))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP (VP (v 回去)) (VP (v 回去))))
+  (wd ，)
+  (CP
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (v 没有) (NP-OBJ (n 事))))
+    (ude 的))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (DNP (NP (r 咱们)) (ude 的)) (NP (n 部队)))
+      (VP (PP-LOC (p 在) (NP (r 这里))) (VP (v 歇) (y 了)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (FLR (y 啊))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (r 这)) (ADVP (d 就)) (VP (VCD (v 回去) (vi 睡觉)))))
+    (y 了))
+  (wd ，)
+  (IP
+    (FLR (y 啊))
+    (NP-SBJ (r 人家))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (vi 叫)
+        (NP-OBJ (-NONE- *pro*))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 出来))))))
+  (IP-Q (NP-SBJ (r 你)) (VP (v 出来) (ADVP (r 啥))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 赶到) (y 了) (NP-OBJ (QP (m 第二) (CLP (q 天))) (NP (t 清早)))))
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 起来) (y 了)))
+  (wd ，)
+  (IP
+    (NP-LOC
+      (NP-PN (ns 砖壁村))
+      (FLR (DP (r 这个)))
+      (DFL (NP (n 操)))
+      (wd ，)
+      (DP (r 这个))
+      (NP (n 场)))
+    (wd ，)
+    (FLR (DP (r 这个)))
+    (NP-SBJ (n 兵))
+    (VP (vi 住) (ude 的) (DVP (z 满满的))))
+  (wj 。)))
+</S>
+<S>
+( (NP
+  (QP (m 一) (CLP (q 场)))
+  (CP
+    (WHNP-1 (-NONE- *OP*))
+    (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (bl 艰苦卓绝))) (ude 的)))
+  (NP (n 战斗))
+  (wd ，)))
+</S>
+<S>
+( (FRAG (wkz （（) (wky ））)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 县) (IP (NP (nt 武委)) (VP (n 会)))) (NP (n 主任)))
+  (VP (vi 叫) (NP-PN-OBJ (DFL (a 野)) (wd ，) (nr 赵野民)))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-TPC (DP (r 这些)) (NP (n 人)))
+  (wd ，)
+  (NP-SBJ (r 他) (r 自己))
+  (FLR (y 呢))
+  (VP
+    (VP (v 带) (uzhe 着) (NP-OBJ (QP (m 一) (CLP (q 帮))) (NP (n 人))))
+    (VP (v 要) (VP (v 炸) (NP-OBJ (DP (r 那个)) (NP-PN (n 五渡桥))))))
+  (wd ，)
+  (DFL (r 你))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 聂荣臻))
+    (VP
+      (v 率)
+      (NP-PN-OBJ (ns 晋察冀) (n 军区))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 进入) (NP-OBJ (n 攻击) (n 状态))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 预先))
+              (VP (v 埋伏) (PP (p 在) (LCP (NP-PN (ns 正太路)) (f 旁))))))
+          (ude 的)))
+      (DNP (NP (QP (m 十五) (CLP (q 个))) (NP (n 团))) (ude 的))
+      (NP (n 兵力)))
+    (wd ，)
+    (VP
+      (ADVP (c 同时))
+      (PP-DIR
+        (p 向)
+        (NP
+          (DNP (LCP (NP (n 铁路线)) (f 上)) (ude 的))
+          (NP (n 日军) (n 据点))))
+      (VP (v 猛扑))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 于) (NP (t 八月) (t 二十日) (t 夜)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP
+        (NP (NP (NP-PN (ns 正太) (n 铁路)) (NP (s 西段))) (NP (n 日军)))
+        (NP
+          (NP
+            (NP
+              (ADJP (ad 独立))
+              (VRD (v 混) (v 成))
+              (QP (m 第四))
+              (NP (n 旅)))
+            (NP (m 大部)))
+          (c 和)
+          (QP
+            (NP
+              (ADJP (an 独立))
+              (VRD (v 混) (v 成))
+              (QP (m 第九))
+              (NP (n 旅)))
+            (QP (m 一) (CLP (q 部)))))))
+    (VP (v 展开) (NP-OBJ (n 攻击))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 另))
+    (PP-MNR (p 以) (NP (QP (m 两) (CLP (q 个))) (NP (n 团))))
+    (PP-MNR
+      (v 会同)
+      (NP
+        (NP-PN (ns 平定) (wd ，) (ns 辽县) (wd ，) (n 榆社) (udeng 等))
+        (NP (n 地方) (n 武装))))
+    (wd ，)
+    (VP
+      (VP
+        (ADVP (d 分别))
+        (PP-DIR
+          (p 对)
+          (NP (NP-PN (n 平辽)) (wd ，) (NP-PN (n 榆辽) (n 公路))))
+        (VP (v 进行) (NP-OBJ (n 破击))))
+      (wd ，)
+      (VP
+        (ADVP (c 并))
+        (VP
+          (VP
+            (v 牵制)
+            (NP-OBJ (NP (DP (r 各)) (NP (n 点))) (VP (v 守) (NP (n 敌)))))
+          (wd ，)
+          (VP
+            (v 保障)
+            (NP-OBJ (DNP (NP (n 主力) (f 侧后)) (ude 的)) (NP (an 安全))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 现在))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VCP (v 估计) (vshi 是))
+    (IP-PRD
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 不))
+          (VP (v 到) (NP-OBJ (QP (m 四) (CLP (q 个))) (NP (n 小时))))))
+      (wd ，)
+      (IP
+        (NP-TMP (QP (QP (m 三) (CLP (q 个))) (ADVP (m 多))) (NP (n 小时)))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (DP-SBJ-1 (r 这) (QP (m 一) (CLP (q 段))))
+              (VP
+                (ADVP (d 就))
+                (ADVP (d 都))
+                (VP (VRD (v 处理) (vi 完)) (y 了) (DP-OBJ (-NONE- *-1))))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (IP (NP-SBJ (r 这个)) (VP (VRD (v 处理) (vi 完)))) (f 以后))
+  (FLR (y 呢))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 还))
+    (VP (v 炸) (y 了) (NP-OBJ (QP (m 四) (CLP (q 个))) (NP (n 碉堡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (v 消灭) (y 了) (NP-OBJ (n 敌人)))
+    (wd ，)
+    (VP
+      (QP-ADV (m 一) (CLP (q 次)))
+      (VP
+        (v 消灭)
+        (y 了)
+        (DFL (QP (m 二)))
+        (wd ，)
+        (NP-OBJ (n 敌人))
+        (NP-EXT (QP (ADVP (m 二百)) (QP (m 多))) (NP (n 人))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 八月) (t 二十二日) (t 午后))
+  (wd ，)
+  (NP-PN-SBJ (nr 彭德怀))
+  (VP
+    (PP-LOC (p 在) (NP (NP-PN (n 八路军)) (NP (n 总部)) (NP (n 作战室))))
+    (VP
+      (v 听)
+      (IP-OBJ (NP-SBJ (n 作战) (n 科长)) (VP (v 汇报) (NP-OBJ (n 战况))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 当)
+    (LCP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VRD (v 问) (v 到))
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-PN-TPC (n 八路军))
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (ad 实际)) (VP (vi 参战)))))
+            (NP (n 兵力)))))
+      (n 时)))
+  (wd ，)
+  (NP-SBJ (n 作战) (n 科长))
+  (VP (VSB (n 报告) (v 说)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 彭德怀))
+  (VP
+    (VP-MNR (ADVP (d 一)) (VP (vi 挥手)))
+    (VP
+      (v 说)
+      (wd ，)
+      (CP-OBJ
+        (IP
+          (CP-ADV
+            (ADVP (c 不管))
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (NP-PRD
+                  (QP (QP (m 一百) (m 零) (CLP (m 几))) (CLP (q 个)))
+                  (NP (n 团))))))
+          (wd ，)
+          (IP-SBJ
+            (NP-SBJ (DP (r 这) (CLP (q 次))) (NP (n 战役)))
+            (VP (ADVP (d 就)) (VP (v 叫做) (NP-PN-OBJ (nz 百团大战)))))
+          (VP (a 好)))
+        (y 了))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 当天) (t 下午))
+  (wd ，)
+  (NP-PN-SBJ (nr 彭德怀))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (VP
+                    (p 给)
+                    (NP-IO (DP (r 各)) (NP (n 兵团)))
+                    (NP-OBJ (-NONE- *RNR*-2)))
+                  (wd ，)
+                  (VP
+                    (ADVP (c 并))
+                    (VP
+                      (v 报)
+                      (NP-IO (nt 中央军委))
+                      (NP-OBJ-2 (-NONE- *T*-1))))))
+              (ude 的)))
+          (NP (n 电报)))
+        (f 中)))
+    (wd ，)
+    (ADVP (d 最先))
+    (VP
+      (v 使用)
+      (y 了)
+      (NP-OBJ (NP-PN (nz 百团大战)) (DP (r 这) (QP (m 一))) (NP (n 名称)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC (DP (r 这个)) (NP-PN (nz 百团大战)))
+  (FLR (y 呢))
+  (NP-SBJ (DP (r 这个)) (ADJP (b 总)) (NP (n 兵力)))
+  (FLR (y 呢))
+  (VP (NP-PRD (QP (m 一百零五) (CLP (q 个))) (NP (n 团))))
+  (wd ，)))
+</S>
+<S>
+( (CP
+  (CP
+    (IP
+      (ADVP (r 那))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 就))
+        (NP-PRD
+          (QP (QP (QP (m 二十)) (ADVP (m 多))) (QP (m 万)))
+          (NP (n 主力军)))))
+    (y 呐))
+  (y 啊)
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (dl 除此以外))
+  (FLR (y 呢))
+  (wd ，)
+  (FLR (n 呃))
+  (NP-TPC (n 民兵) (wd ，) (n 游击队) (c 和) (n 群众))
+  (FLR (y 呢))
+  (wd ，)
+  (FLR (n 呃))
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-2))
+          (VP
+            (ADVP (v 自愿))
+            (VP
+              (VP (v 配合) (NP-OBJ (-NONE- *RNR*-1)))
+              (VP (v 参加) (NP-OBJ-1 (vi 作战))))))
+        (ude 的))))
+  (VP
+    (IP (VP (ADVP (d 不)) (VP (v 下))))
+    (DFL (vyou 有))
+    (QP-OBJ (m 四十万)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP (r 那)) (VP (ADVP (d 就)) (VP (vshi 是) (VP (v 说)))))
+  (NP-SBJ (n 军队) (c 和) (n 老百姓))
+  (FLR (y 呢))
+  (VP
+    (ADVP (d 大概))
+    (ADVP (d 就))
+    (VP (p 在) (LCP-OBJ (NP (QP (m 六十万)) (NP (n 人))) (f 以上))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-PN-TPC (nz 百团大战))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC (p 在) (NP-PN (n 狮脑山)))
+      (ADVP (v 可))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (n 敌人))
+          (VP
+            (v 打)
+            (ude 得)
+            (wd ，)
+            (DFL (v 打) (ude 得))
+            (FLR (wd ，) (wkz （（) (wky ））))
+            (DFL (v 打) (ude 的) (v 打) (ude 的))
+            (ADVP (a 厉害)))))))
+  (y 了)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP (NP-SBJ (DNP (NP (r 咱们)) (ude 的)) (NP (n 部队))) (VP (a 强)))
+    (y 呢))
+  (wd ，)
+  (CP (IP (NP-SBJ (n 部队)) (VP (a 强))) (y 呢))
+  (wd ，)
+  (IP
+    (FLR (r 这个))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP (v 搞) (DFL (NP (f 后))) (wd ，) (NP-OBJ (n 后勤)))
+        (wd ，)
+        (VP (v 搞) (NP-OBJ (v 支援)))))
+    (FLR (y 呢))
+    (VP
+      (VP (ADVP (d 也)) (VP (v 能) (VP (v 赶上))))
+      (wd ，)
+      (VP (ADVP (d 也)) (VP (v 能) (VP (v 赶上))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (n 呃抗先队)
+  (NP-SBJ (NP (r 俺们)) (DP (r 那个)) (NP (n 抗先队)))
+  (FLR (y 么))
+  (wd ，)
+  (FLR (n 呃))
+  (FLR (y 么))
+  (VP
+    (VP
+      (ADVP (d 都))
+      (NP-PRD
+        (DNP (QP (QP (QP (m 二十)) (ADVP (m 多))) (CLP (q 岁))) (ude 的))
+        (NP (n 年轻人))))
+    (wd ，)
+    (VP
+      (ADVP (d 都))
+      (VP (vshi 是) (NP-PRD (QP (CLP (q 些))) (NP (n 年轻人)))))
+    (wd ，)
+    (FLR (VP (ADVP (d 都)) (VP (vshi 是) (QP (CLP (q 些))))))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (QP (QP (m 二十)) (ADVP (a 多)))
+        (wd ，)
+        (QP-PRD (QP (m 二十) (CLP (m 来))) (CLP (q 岁))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 位于) (NP-PN-OBJ (ns 山西) (ns 阳泉))))
+            (ude 的)))
+        (NP-PN (n 狮脑山))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (NP
+        (NP (t 当年))
+        (DNP (NP-PN (ns 正太) (n 铁路)) (ude 的))
+        (NP (n 咽喉) (n 要地)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (m 一九四零)) (NP (q 年)) (t 八月) (t 二十一日))
+  (wd ，)
+  (NP-SBJ (NP-PN (n 八路军)) (QP (nr 幺二九)) (NP (n 师)))
+  (VP
+    (PP-PRP
+      (p 为了)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (v 牵制)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (v 驻) (NP-PN-OBJ (ns 阳泉))))
+                  (ude 的)))
+              (NP (n 日军))))
+          (wd ，)
+          (VP
+            (v 掩护)
+            (IP-OBJ
+              (NP-LOC (NP-PN (ns 正太路)) (NP (f 西段)))
+              (NP-SBJ (n 民))
+              (VP (v 破) (NP (n 路))))))))
+    (wd ，)
+    (VP
+      (v 命令)
+      (NP-OBJ
+        (NP-APP
+          (NP (NP (r 该师)) (QP (t 三八) (m 五)) (NP (n 旅)))
+          (NP (n 主力) (n 团)))
+        (QP (m 十四))
+        (NP (q 团)))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-MNR
+            (p 在)
+            (LCP
+              (IP
+                (NP-SBJ (NP-APP (n 旅长)) (NP-PN (nr 陈锡联)))
+                (VP (n 带领)))
+              (f 下)))
+          (wd ，)
+          (VP
+            (VP (ADVP (d 直)) (VP (v 扑) (NP-PN-OBJ (n 狮脑山))))
+            (VP (v 抢占) (NP-OBJ (n 高地))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 恼羞成怒))) (ude 的)))
+    (NP (n 日军)))
+  (VP
+    (VP (ADVP (d 立即)) (VP (v 调集) (NP-OBJ (n 重兵))))
+    (VP
+      (v 企图)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (IP (VP (v 夺) (NP (v 回)))) (NP-PN-OBJ (n 狮脑山))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 令)
+            (NP-OBJ (NP (n 敌人)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (ADVP (dl 万万)) (ADVP (d 没有)) (VP (v 想到))))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (PP-TMP
+        (p 在)
+        (NP
+          (DNP
+            (NP
+              (IP (VP (ADVP (d 不)) (VP (v 到))))
+              (NP (QP (m 一)) (NP (q 夜))))
+            (ude 的))
+          (NP (n 时间))))
+      (wd ，)
+      (NP-SBJ (NP-PN (nr 狮脑山)) (DP (r 这) (CLP (q 座))) (NP (n 荒山)))
+      (VP
+        (ADVP (d 已))
+        (VP
+          (pbei 被)
+          (IP-OBJ
+            (NP-SBJ (n 我军))
+            (VP
+              (VRD (v 修筑) (v 成为))
+              (NP-OBJ (DNP (ADJP (a 坚强)) (ude 的)) (NP (n 战斗) (n 堡垒)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (ADJP (z 巍峨)) (ude 的)) (NP (n 狮脑山)))
+  (VP
+    (PP-MNR
+      (v 像)
+      (NP
+        (QP (m 一) (CLP (q 只)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 张开) (NP (ADJP (a 大)) (NP (n 口)))))
+            (ude 的)))
+        (NP (n 雄狮))))
+    (wd ，)
+    (ADVP (d 随时))
+    (VP
+      (v 等待)
+      (uzhe 着)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 胆敢) (VP (vi 来犯))))
+            (ude 的)))
+        (NP (n 侵略者)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (QP (t 头天)) (NP (t 晚上)))
+    (NP-SBJ (r 我们))
+    (VP
+      (VP (v 破) (y 了) (NP-OBJ (n 路)))
+      (wd ，)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (DNP (NP (r 它)) (ude 的)) (NP (n 电线) (n 铁路线)))
+          (VP (ADVP (d 都)) (VP (v 割断) (y 了)))))))
+  (wd ，)
+  (CP
+    (IP
+      (DFL (NP (r 他)))
+      (wd ，)
+      (DFL (NP (r 他)))
+      (DFL (ADVP (d 都)))
+      (wd ，)
+      (NP-SBJ (r 他))
+      (VP (ADVP (d 都)) (VP (VPT (v 联系) (d 不) (v 上)))))
+    (y 了))
+  (wd ，)))
+</S>
+<S>
+( (CP
+  (IP
+    (ADVP (d 反正))
+    (NP-TPC (r 他))
+    (NP-SBJ (n 电话))
+    (VP (ADVP (d 都)) (a 不通)))
+  (y 了)
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (CP (IP (NP-SBJ (-NONE- *pro*)) (VP (vshi 是))) (y 吧))
+  (wd ，)
+  (IP (NP-SBJ (n 路)) (VP (ADVP (d 也)) (VP (p 给) (VP (v 弄)))))
+  (IP (NP-SBJ (n 路)) (VP (v 断) (y 了)))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (NP (r 他)) (NP (n 汽车)))
+      (VP (ADVP (d 也)) (ADVP (d 不)) (VP (v 能) (v 来来) (VP (vi 来回)))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (dl 接下来))) (ude 的))
+      (NP (QP (m 七) (CLP (q 天))) (NP (QP (m 七)) (NP (q 夜))))))
+  (VP (DVP (VP (a 异常)) (ude 的)) (VP (bl 艰苦卓绝)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 从) (LCP (NP (t 二十三日)) (f 起)))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 阳泉)) (NP (n 日军)))
+  (VP
+    (VP
+      (PP-MNR (p 在) (LCP (IP (NP-SBJ (n 飞机)) (VP (n 支援))) (f 下)))
+      (wd ，)
+      (ADVP (c 并))
+      (VP (v 使用) (NP-OBJ (nl 化学武器))))
+    (VP (ADVP (d 不断)) (PP-DIR (p 向) (NP-PN (n 狮垴山))) (VP (v 猛攻))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (LCP-LOC (NP (NP-PN (n 狮脑山)) (NP (n 战争))) (f 中))
+      (FLR (y 啊))
+      (NP-SBJ (NP (r 我们)) (NP (n 战士)))
+      (VP (v 牺牲) (QP-EXT (m 很多))))
+    (y 啊))
+  (wd ，)
+  (CP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 牺牲) (QP-EXT (m 好多)))) (y 啊))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VRD (v 打扫) (v 起))
+      (y 了)
+      (QP-OBJ
+        (QP (m 一) (CLP (q 批)))
+        (QP (ADVP (d 又)) (QP (m 一) (CLP (q 批)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而且))
+  (NP-TMP
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (PP-TMP (-NONE- *T*-1)) (VP (v 放) (NP-OBJ (n 毒气)))))
+        (ude 的)))
+    (NP (n 时候)))
+  (FLR (y 啊))
+  (NP-SBJ (QP (m 许多)) (NP (n 人)))
+  (VP (v 中) (y 了) (NP-OBJ (n 毒)))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 中) (y 了) (NP-OBJ (n 毒))))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 知道)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (r 如何)) (VP (vi 防毒)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (ADVP (d 就))
+        (VP
+          (VP (v 爬) (PP (p 在) (NP (s 地下))))
+          (VP
+            (PP-LOC (p 在) (NP (n 雨水) (f 里边) (k 儿)))
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-SBJ-1 (DP (r 那个)) (NP (n 手巾)))
+                (VP (VRD (v 打) (a 湿)) (y 了) (NP-OBJ (-NONE- *-1))))))
+          (VP (v 捂住) (NP-OBJ (n 鼻子)))))
+      (wd ，)
+      (VP
+        (NP (DP (r 这)) (NP (n 样子)))
+        (VP (v 来) (VP (v 防止) (NP-OBJ (vi 中毒)))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP (FLR (y 嗯)))
+  (wd ，)
+  (NP-SBJ (n 卫生员))
+  (VP (vshi 是) (VP (ADVP (d 相当)) (VP (a 忙))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (ADJP (b 连日)) (ude 的)) (NP (n 秋雨)))
+    (VP
+      (v 使)
+      (NP-OBJ (n 战壕))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 变)
+          (ude 得)
+          (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (a 泥泞) (ADVP (d 不堪))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 浸泡) (PP (p 在) (LCP (NP (n 泥水)) (f 中)))))
+          (ude 的)))
+      (NP-PN (n 八路军))
+      (NP (n 官兵)))
+    (VP (ADVP (d 奋力)) (VP (v 抗击) (NP-OBJ (n 强敌)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 炸弹))
+    (VP (PP-LOC (p 在) (LCP (NP (n 战壕)) (f 边))) (VP (v 爆炸))))
+  (wd ，)
+  (IP (NP-SBJ (r 他们)) (VP (d 毫不) (VP (v 畏惧))))
+  (wd ，)
+  (IP (NP-SBJ (n 鲜血)) (VP (VRD (v 染) (a 红)) (y 了) (NP-OBJ (n 黄泥))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (PP-MNR (v 拿) (NP (NP (n 碘)) (NP (n 酒))))
+        (VP (v 擦) (y 了) (NP (v 擦))))
+      (wd ，)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-1 (DP (r 这个)) (NP (n 伤口)))
+          (VP
+            (IP (VP (v 粘) (IP (VP (ADVP (m 一)) (VP (v 粘))))))
+            (NP-OBJ (-NONE- *-1)))))
+      (wd ，)
+      (VP
+        (pba 把)
+        (IP
+          (NP-SBJ (n 绷带))
+          (VP (PP (p 往) (NP (f 上))) (ADVP (m 一)) (VP (q 捆)))))
+      (FLR (y 啊))
+      (wd ，)
+      (VP (NP-MNR (n 绷带)) (VP (ADVP (m 一)) (VP (q 捆))))
+      (wd ，)
+      (VP (VRD (v 捆) (v 起来)))))
+  (wd ，)
+  (CP
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 就)) (VP (v 算))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP (DNP (NP-PN (n 八路军)) (ude 的)) (ADJP (a 强大)) (NP (n 攻势)))
+      (f 下)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (ADVP (d 只))
+      (VP
+        (v 有着)
+        (NP-OBJ
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (PP-MNR (-NONE- *T*-1)) (VP (vi 招架))))
+              (uzhi 之)))
+          (NP (n 功)))))
+    (wd ，)
+    (VP
+      (ADVP (c 而))
+      (VP
+        (v 无)
+        (NP-OBJ
+          (CP
+            (WHPP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (PP-MNR (-NONE- *T*-2)) (VP (vi 还手))))
+              (uzhi 之)))
+          (NP (n 力))))))
+  (wj ．)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 战斗)) (VP (n 进展) (VP-EXT (ADVP (d 非常)) (VP (a 顺利)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 主动权))
+    (VP
+      (ADVP (d 一直))
+      (VP (v 掌握) (PP (p 在) (NP (NP-PN (n 八路军)) (NP (s 手中)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (nz 百团大战)) (ude 的)) (NP (n 战略) (n 目的)))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 要)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 打破)
+              (NP-OBJ
+                (NP (n 敌人))
+                (DNP (PP (p 对) (NP (n 根据地))) (ude 的))
+                (NP (n 封锁)))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VP (v 破) (NP (n 路))) (wd ，) (VP (v 拔) (NP-OBJ (n 据点)))))
+    (VP (ADVP (m 十分)) (VP (a 重要))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 参战))) (ude 的)))
+    (NP-PN (n 八路军))
+    (DP (r 各))
+    (NP (n 部队)))
+  (VP (v 抓紧) (IP (VP (v 破) (NP (n 路)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他们))
+  (VP
+    (v 提出)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (ADVP (d 不))
+          (VP (v 留) (NP-OBJ (QP (m 一) (CLP (q 根))) (NP (n 铁轨)))))
+        (wd ，)
+        (VP
+          (ADVP (d 不))
+          (VP (v 留) (NP-OBJ (QP (m 一) (CLP (q 根))) (NP (n 枕木)))))
+        (wd ，)
+        (VP (ADVP (d 不)) (VP (v 留) (NP-OBJ (QP (m 一个)) (NP (n 车站)))))
+        (wd ，)
+        (VP (ADVP (d 不)) (VP (v 留) (NP-OBJ (QP (m 一个)) (NP (n 碉堡)))))
+        (wd ，)
+        (VP
+          (ADVP (d 不))
+          (VP (v 留) (NP-OBJ (QP (m 一) (CLP (q 座))) (NP (n 桥梁)))))
+        (wd ，)
+        (VP
+          (ADVP (d 不))
+          (VP (v 留) (NP-OBJ (QP (m 一) (CLP (q 根))) (NP (n 电杆))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP (vshi 是) (VP (v 负责) (NP-OBJ (r 这个))))
+  (FLR (n 呃))
+  (DFL (c 和))))
+</S>
+<S>
+( (IP
+  (v 呃呃)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (vyou 有) (IP (PP (p 由于) (NP (r 这个)))))))
+</S>
+<S>
+( (FRAG (n 呃)))
+</S>
+<S>
+( (CP
+  (IP
+    (DFL (NP (DP (r 这个)) (NP (n 电线))))
+    (wd ，)
+    (DFL (DP (DNP (NP (n 线路)) (ude 的)) (DP (r 这个))))
+    (wd ，)
+    (DFL (QP (m 一个)))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 算)
+      (NP-OBJ
+        (QP (m 一个))
+        (FLR (DP (r 这个)))
+        (DFL (ADJP (b 副)) (ADJP (b 总)) (n 副总))
+        (wd ，)
+        (NP (ADJP (b 副)) (NP (n 总指挥))))))
+  (y 吧)
+  (wd ，)))
+</S>
+<S>
+( (CP
+  (IP
+    (DFL (NP (r 他)))
+    (DFL (NP (r 我)))
+    (DFL (VP (vshi 是)))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 管)
+        (NP-OBJ (DFL (DP (r 这))) (DP (r 这) (QP (m 一个))) (NP (n 项目))))))
+  (y 啊)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (r 我们)) (DP (r 这些)) (NP (n 人)))
+  (FLR (y 啊))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 就))
+    (DFL (VP (v 随)))
+    (wd ，)
+    (DFL (VP (v 受) (NP (DNP (NP (r 他)) (ude 的)))))
+    (wd ，)
+    (VP
+      (v 受)
+      (NP-OBJ
+        (DNP (NP (r 他)) (ude 的))
+        (DNP (ADJP (b 临时)) (ude 的))
+        (NP (n 指挥)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (FLR (NP (r 这个)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (d 都)) (VP (v 参加) (NP (ADJP (v 破)) (NP (n 路)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (FLR (NP (r 这个)))
+  (PP-LOC (p 从) (NP-PN (ns 郑太路)))
+  (wd ，)
+  (PP-LOC (p 从) (NP (FLR (DP (r 这个))) (NP-PN (n 正定))))
+  (PP-LOC (v 到) (NP (FLR (DP (r 这个))) (NP-PN (ns 石家庄))))
+  (wd ，)
+  (PP-LOC (v 到) (NP-PN (ns 太原)))
+  (NP-SBJ (DP (r 这)) (NP (f 沿线)))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ
+          (QP (QP (QP (m 四十)) (ADVP (m 多))) (QP (m 万)))
+          (FLR (y 啊))
+          (NP (n 群众)))
+        (VP (v 参加) (NP (ADJP (v 破)) (NP (n 路)))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 最)) (VP (a 重要))))
+        (ude 的))))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-TMP (t 当时))
+        (PP-LOC (p 在) (LCP (NP (DP (r 这个)) (NP-PN (n 郑太路))) (f 上)))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 主要))
+          (VP
+            (vshi 是)
+            (IP-PRD
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 破坏) (NP-PN-OBJ (ns 金溪) (n 煤矿)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 战士) (k 们))
+  (VP
+    (VP
+      (VP
+        (PP-MNR (p 用) (NP (n 铡草刀)))
+        (VP (IP (VP (ADVP (v 轧)) (VP (v 断)))) (NP-OBJ (n 铁丝网))))
+      (wd ，)
+      (VP (VRD (v 冲) (v 进)) (NP-OBJ (n 车站)))
+      (wd ，)
+      (VP
+        (IP (VP (ad 破) (NP (v 击))))
+        (y 了)
+        (NP-OBJ (NP (n 机器) (n 房)) (c 和) (n 水塔))))
+    (wd ，)
+    (VP (ADVP (c 然后)) (VP (v 开始) (VP (v 破) (NP (n 路))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC (NP (QP (m 三四千)) (ADJP (vi 参战)) (NP (n 民众))) (f 中))
+  (wd ，)
+  (NP-SBJ (DP (r 每) (QP (m 十六) (CLP (q 个)))) (NP (n 人)))
+  (VP
+    (VP (v 组成) (QP (m 一个)) (NP (n 班)))
+    (wd ，)
+    (VP (v 加进) (NP-OBJ (QP (m 一个)) (NP (n 战士)))))
+  (wd ，)))
+</S>
+<S>
+( (FLR (y 啊啊) (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 那边)) (VP (vyou 有) (QP-OBJ (CLP (q 个)))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP (v 破坏) (NP-OBJ (n 交通)))
+        (wd ，)
+        (VP (v 破坏) (NP-OBJ (n 交通)))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-DIR
+            (p 跟)
+            (NP
+              (DP (r 那个))
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 修) (NP-OBJ (n 围墙))))
+                    (ude 的))))))
+          (wd ，)
+          (VP (v 推倒) (NP-OBJ (NP (r 他)) (NP (n 围墙))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (DFL (PP-TMP (p 在) (NP (t 黑夜))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP (NP-TMP (t 白天)) (VP (VRD (v 修) (v 起来)))))
+  (wd ，)
+  (IP
+    (NP-TPC (r 咱))
+    (NP-TMP (n 黑夜))
+    (NP-SBJ (QP (m 几) (CLP (q 名))) (NP (n 民兵)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-1 (r 它))
+          (VP (VRD (v 挖) (v 掉)) (y 了) (NP-OBJ (-NONE- *-1)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 那))
+    (VP (vshi 是) (NP-PRD (NP (QP (m 七十二)) (NP (n 团))) (NP (n 任务)))))
+  (wd ，)
+  (IP
+    (FLR (n 呃))
+    (NP-SBJ (n 任务))
+    (VP (FLR (DP (r 这个))) (DFL (VP (a 破))) (wd ，) (NP-PRD (n 破袭战))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这个)) (NP (n 破袭战)))
+    (VP
+      (v 破)
+      (y 了)
+      (NP-EXT (QP (m 一) (CLP (q 天))) (QP (m 一)) (NP (q 夜)))))
+  (wd ，)
+  (IP
+    (ADVP (n 大概))
+    (NP-SBJ (n 情况))
+    (VP (QP-ADV (m 一) (CLP (q 天))) (NP-PRD (a 一样))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (DFL (DNP (NP (NP (n 铁))) (ude 的)))
+    (NP-TPC-1 (DNP (NP (n 铁路)) (ude 的)) (NP (n 铁轨)))
+    (DFL (ude 的))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (VP (ADVP (d 就)) (VP (v 抬走) (y 了) (NP-OBJ (-NONE- *T*-1))))))
+  (wd ，)
+  (CP
+    (IP
+      (FLR (n 呃))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (d 就)) (VP (v 炼) (NP-OBJ (n 钢铁)))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (FLR (n 呃))
+    (NP-TPC-1 (DNP (NP (n 木头)) (ude 的)))
+    (FLR (y 呢))
+    (FLR (DP (r 这)))
+    (NP-SBJ (n 老乡))
+    (VP (ADVP (d 就)) (VP (vi 烧) (y 了) (NP-OBJ (-NONE- *T*-1))))
+    (FLR (n ｛) (VP (nx ｌａｕｇｈ)) (n ｝)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (p 就)) (NP (DP (r 这)) (NP (n 样子))) (VP (v 破坏))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (d 就))
+    (ADVP (r 这样))
+    (wd ，)
+    (NP-SBJ (r 他们))
+    (VP
+      (VP (QP (d 一) (CLP (vi 面))) (VP (m 打仗)))
+      (VP (ADVP (q 一面)) (VP (a 破) (NP (n 路))))))
+  (wd ，)
+  (IP
+    (NP-SBJ-1
+      (ADVP (d 仅))
+      (NP
+        (PP (PP (p 由) (NP-PN (ns 邢台))) (PP (v 到) (NP-PN (n 内丘))))
+        (DNP (QP (m 六十) (CLP (q 里))) (ude 的))
+        (NP (n 铁路))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 不)) (VP (v 出) (QP-OBJ (m 几) (CLP (q 天))))))
+      (ADVP (d 就))
+      (VP
+        (pbei 被)
+        (VP (IP (VP (v 剥) (NP (n 光)))) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (QP (m 一) (CLP (q 条)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (pbei 被)
+            (IP-OBJ (NP-SBJ (n 日军)) (VP (v 视为) (NP-OBJ (n 命脉))))))
+        (ude 的)))
+    (NP (n 钢铁) (NP (n 封锁) (n 线))))
+  (VP (ADVP (d 就)) (ADVP (r 这样)) (VP (vi 瘫痪) (y 了)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 打) (ude 得) (VP-EXT (ADVP (d 非常)) (VP (a 艰苦)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 敌人))
+    (VP
+      (VP (v 冲) (y 了) (QP-EXT (m 几) (CLP (q 次))))
+      (wd ，)
+      (DFL (VP (v 打)))
+      (wd ，)
+      (VP (VRD (v 打) (v 下去)) (QP-EXT (m 几) (CLP (q 次))))))
+  (wd ，)
+  (IP (NP-SBJ (vi 死亡)) (VP (ADVP (d 非常)) (VP (a 大))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 阳泉市)) (ude 的))
+      (NP (NP (n 侨民)) (wd ，) (NP (NP-PN (ns 日本)) (NP (n 侨民)))))
+    (wd ，)
+    (VP
+      (VP (DP-ADV (b 所有)) (VP (VRD (v 动员) (v 起来))))
+      (VP (ADVP (d 都)) (VP (v 去)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (QP (m 十五六) (CLP (q 岁))) (ude 的)) (NP (n 孩子)))
+    (VP (ADVP (d 都)) (VP (v 上去) (VP (v 打)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (PP-PRD
+          (p 为了)
+          (IP
+            (FLR (wkz （（) (wky ））))
+            (wd ，)
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 让)
+              (FLR (wkz （（) (wky ））))
+              (DFL (ude 的))
+              (NP (n 侨胞) (k 们))
+              (wd ，)
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (VRD (v 联系) (v 起来))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (a 好))
+      (VP
+        (VP (ADVP (d 互相)) (VP (v 支援)))
+        (VP (v 消灭) (NP-PN-OBJ (n 八路军)))
+        (wd ，)
+        (DFL (VP (v 破坏)))
+        (wd ，)
+        (VP
+          (v 破坏)
+          (NP-OBJ
+            (DNP (NP (r 我们)) (ude 的))
+            (DP (r 这个))
+            (NP (NP (ADJP (a 破)) (NP (n 路))) (n 运动)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 百团大战))
+    (VP
+      (vi 历时)
+      (NP-OBJ (QP (QP (m 三) (CLP (q 个))) (ADVP (m 半))) (NP (n 月)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (v 经历)
+      (y 了)
+      (NP-OBJ
+        (NP
+          (QP (m 两) (CLP (q 个)))
+          (IP-APP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (a 主动)) (VP (n 进攻))))
+          (NP (n 阶段)))
+        (c 和)
+        (NP
+          (QP (m 一个))
+          (IP-APP
+            (NP-SBJ (-NONE- *pro*))
+            (IP (VP (vi 反) (NP (n 扫荡)))))
+          (NP (n 阶段))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 第一)) (NP (n 阶段)))
+    (VP
+      (PP-TMP (p 从) (NP (NP (m 一九四零) (q 天)) (t 八月) (t 二十日)))
+      (VP (p 至) (NP-OBJ (t 九月) (t 十日)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (PP-LOC
+          (p 在)
+          (NP
+            (NP-PN-APP
+              (ns 正太)
+              (wd ，)
+              (ns 同蒲)
+              (wd ，)
+              (VP (v 平) (NP (t 汉)))
+              (wd ，)
+              (nz 津浦)
+              (udeng 等))
+            (ADJP (b 主要))
+            (NP (n 交通线))))
+        (VP (v 发动) (NP-OBJ (ADJP (b 总)) (NP (n 攻击)))))
+      (wd ，)
+      (VP (ADVP (d 重点)) (VP (v 破坏) (y 了) (NP-PN-OBJ (ns 正太) (n 铁路))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 第二)) (NP (n 阶段)))
+    (VP
+      (PP-TMP (p 从) (NP (t 九月) (t 二十二日)))
+      (VP (p 至) (NP-OBJ (t 十月) (t 上旬)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 任务))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP (v 继续) (VP (v 扩大) (NP-OBJ (n 战果))))
+          (wd ，)
+          (VP
+            (v 摧毁)
+            (NP-OBJ
+              (UCP
+                (NP (NP (n 交通线)) (f 两侧))
+                (c 和)
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (v 深入)
+                        (NP-OBJ (DP (r 各)) (NP (n 抗日) (n 根据地)))))
+                    (ude 的))))
+              (NP (n 敌伪) (n 据点))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 第三)) (NP (n 阶段)))
+    (VP
+      (PP-TMP (p 从) (NP (t 十月) (t 六日)))
+      (VP (p 至) (NP-OBJ (t 十二月) (t 四日)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (b 主要)) (NP (n 任务)))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 反击)
+          (NP-OBJ
+            (DNP (NP (ns 日) (n 伪军)) (ude 的))
+            (NP (n 报复) (v 扫荡)))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 八路军))
+  (VP
+    (ADVP (d 先后))
+    (VP
+      (v 粉碎)
+      (y 了)
+      (NP-OBJ
+        (NP (NP (ns 日)) (NP (n 伪军)))
+        (DNP
+          (PP
+            (p 对)
+            (NP
+              (NP-PN-APP
+                (ns 太行)
+                (wd ，)
+                (ns 太岳)
+                (wd ，)
+                (ns 平西)
+                (wd ，)
+                (ns 北岳)
+                (wd ，)
+                (ns 晋)
+                (f 西北)
+                (udeng 等))
+              (ADJP (n 抗日))
+              (NP (n 根据地))))
+          (ude 的))
+        (NP (b 大规模))
+        (NP (n 扫荡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-DIR
+      (p 对于)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (ADVP (d 没有))
+                  (VP (v 经历) (uguo 过) (NP-OBJ (n 战争)))))
+              (ude 的)))
+          (NP (n 人)))
+        (u 来说)))
+    (wd ，)
+    (NP-SBJ (n 战争))
+    (VP (vshi 是) (NP-PRD (DNP (ADJP (a 生动)) (ude 的)) (NP (n 故事)))))
+  (wd ，)
+  (IP
+    (PP-DIR
+      (p 对于)
+      (LCP
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (v 经历) (uguo 过) (NP-OBJ (n 战争))))
+              (ude 的)))
+          (NP (n 人)))
+        (u 来说)))
+    (wd ，)
+    (NP-SBJ (n 战争))
+    (VP
+      (VP (vshi 是) (NP-PRD (DNP (NP (n 人生)) (ude 的)) (NP (n 历程))))
+      (wd ，)
+      (VP
+        (vshi 是)
+        (NP-PRD (DNP (NP (n 生命)) (ude 的)) (QP (m 一)) (NP (n 部分))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (vyou 有) (QP-OBJ (CLP (q 个))))
+  (FLR (wkz （（) (wky ））))
+  (wd ，)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-TPC
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 参加) (uguo 过) (NP-PN-OBJ (nz 百团大战))))
+            (ude 的)))
+        (n 老兵))
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (vi 健在))) (ude 的))))
+      (VP (ADVP (d 已经)) (ADVP (d 不)) (VP (a 多))))
+    (y 了))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VRD (v 说) (v 起)) (NP-PN-OBJ (nz 百团大战))))
+    (NP-SBJ (r 他们))
+    (VP (ADVP (d 总是)) (ADVP (r 那么)) (VP (a 兴奋))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 每) (QP (m 一个))) (NP (n 人)))
+  (VP
+    (VP
+      (ADVP (d 都))
+      (VP (vyou 有) (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 记忆)))))
+    (wd ，)
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (DNP (LCP (NP (NP (r 自己)) (NP (n 记忆))) (f 中)) (ude 的))
+          (NP-PN (nz 百团大战))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (p 给)
+      (NP-IO (r 我))
+      (DFL (y 了))
+      (NP-OBJ (QP (m 五) (CLP (q 发))) (NP (n 弹)))))
+  (wd ，)
+  (IP
+    (FLR (n 呃))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 得) (y 了) (NP-OBJ (QP (m 五) (CLP (q 发))) (NP (n 弹)))))
+  (wd ，)
+  (FLR (n ｛) (VP (nx ｌａｕｇｈ)) (n ｝))
+  (wd ，)
+  (IP
+    (NP-TPC-1 (DP (r 这) (QP (m 五) (CLP (q 发)))) (NP (n 弹)))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (VP
+        (ADVP (d 就))
+        (VP
+          (VP (ADVP (d 随身)) (VP (v 带) (NP-OBJ (-NONE- *T*-1))))
+          (wd ，)
+          (VP (v 装) (PP (p 在) (LCP (NP (n 口袋)) (f 里))))))
+      (wd ，)
+      (VP
+        (QP-ADV (m 一) (CLP (q 天)))
+        (ADVP (d 就))
+        (VP
+          (VP (VRD (v 拿) (v 出来)) (NP-OBJ (-NONE- *T*-1)))
+          (VP (v 看) (NP-OBJ (-NONE- *T*-1))))))
+    (FLR (r 哪) (r 这)))
+  (wd ，)
+  (IP (FLR (y 哎呀)) (NP-SBJ (r 这)) (VP (vshi 是) (NP-PRD (n 命根子))))
+  (CP
+    (IP
+      (NP-SBJ (r 这))
+      (VP (vshi 是) (wd ，) (FLR (y 哎哟)) (NP-PRD (n 命根子))))
+    (y 啊))
+  (CP
+    (IP
+      (NP-SBJ (r 这))
+      (VP (ADVP (d 可)) (ADVP (d 不)) (VP (v 能) (VP (v 丢) (y 了)))))
+    (y 啊)
+    (FLR (r 这)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 班长))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (IP
+        (IP (VP (v 到) (NP (n 时候))))
+        (IP-ADV (NP-SBJ (-NONE- *pro*)) (VP (v 发) (y 了)))
+        (CP-ADV
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 得) (y 了) (NP-OBJ (n 枪))))
+          (y 了))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 放)))
+      (wd ，)
+      (IP (NP-SBJ (r 你)) (VP (PP-BNF (p 给) (NP (r 我))) (VP (v 放))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 我))
+        (VP
+          (VP (v 看) (uzhe 着))
+          (wd ，)
+          (VP
+            (IP-CND
+              (NP-SBJ (r 你))
+              (VP (VPT (v 打) (d 不) (v 到)) (NP-OBJ (n 敌人))))
+            (VP
+              (VP (v 回来))
+              (VP (ADVP (d 就)) (VP (v 处分) (NP-OBJ (r 你))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-TPC-1 (n 虱子))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 知道) (NP (-NONE- *T*-1))))
+    (y 吧))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 就)) (VP (vshi 是) (VP (vi 咬) (uzhe 着)))))
+  (wd ，)
+  (CP-Q
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (r 怎么)) (VP (v 烫))))
+    (y 啊))
+  (ww ？)))
+</S>
+<S>
+( (FRAG (y 哎)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-SBJ (QP (m 一个)) (NP (n 脸盆)))
+      (FLR (y 哎))
+      (VP (ADVP (d 也)) (VP (vshi 是) (VP (ADVP (d 很)) (VP (a 宝贵))))))
+    (ude 的))
+  (wd ，)
+  (CP-Q
+    (IP (NP-SBJ (DP (r 这个)) (NP (n 脸盆))) (VP (vshi 是) (VP (r 怎么办))))
+    (y 呢))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (VP (v 洗) (NP-OBJ (n 脚)))
+              (VP (v 用) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的))))
+    (VP (vshi 是) (NP-PRD (QP (CLP (q 个))) (NP (n 脸盆) (y 儿)))))
+  (CP (IP (NP-SBJ (-NONE- *pro*)) (VP (vshi 是))) (y 啊))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (VP (v 打) (NP (n 饭)))
+              (VP (v 用) (NP-OBJ (-NONE- *T*-2)))))
+          (ude 的))))
+    (VP (vshi 是) (NP-PRD (QP (CLP (q 个))) (NP (n 脸盆) (y 儿)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (VP (v 洗) (NP (n 脸)))
+        (VP (p 用) (NP-OBJ (DP (r 这个)) (NP (n 脸盆) (y 儿)))))
+      (wd ，)
+      (VP
+        (ADVP (d 有时候))
+        (VP
+          (VP (v 烧水))
+          (VP
+            (ADVP (d 还))
+            (VP (v 用) (ude 的) (NP-OBJ (DP (r 这个)) (NP (n 脸盆) (y 儿)))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 所以))
+    (NP-SBJ (DP (r 这个)) (NP (n 脸盆) (k 儿)))
+    (VP (DFL (vshi 是)) (vshi 是) (NP-PRD (QP (CLP (q 个))) (n 宝脸盆儿))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TMP (t 当年))
+          (NP-SBJ
+            (NP-APP (NP-PN (n 八路军)) (NP (n 战地) (n 记者)))
+            (NP-PN (nr 徐肖冰)))
+          (VP (v 拍摄) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (DP (r 这) (CLP (q 张)))
+    (NP (n 照片)))
+  (wd ，)
+  (VP
+    (v 记录)
+    (y 了)
+    (NP-OBJ
+      (CP
+        (WHPP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-PN-SBJ (nr 彭德怀))
+            (VP
+              (PP-TMP (-NONE- *T*-2))
+              (PP-LOC (p 在) (NP (NP-PN (nz 百团大战)) (NP (s 前线))))
+              (VP (v 指挥) (NP-OBJ (vi 作战)))))
+          (ude 的)))
+      (t 一瞬间)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (NP-TMP (t 当时))
+            (ADVP (d 正))
+            (PP-LOC (p 在) (NP (s 前线)))
+            (VP (v 采访))))
+        (ude 的)))
+    (NP-APP (n 记者))
+    (NP-PN (nr 徐肖冰)))
+  (wd ，)
+  (VP
+    (PP-MNR
+      (v 冒)
+      (uzhe 着)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (NP-LOC (n 头顶)) (VP (vi 呼啸))))
+            (ude 的)))
+        (NP (n 炮火))))
+    (VP (PP (v 按) (DP (v 下))) (y 了) (NP-OBJ (n 快门))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (QP (QP (m 六十)) (ADVP (m 多))) (CLP (q 年))) (f 后))
+  (wd ，)
+  (NP-PN-SBJ (nr 徐肖冰))
+  (VP
+    (PP-DIR (p 对) (NP (DNP (NP (t 当时)) (ude 的)) (NP (n 情景))))
+    (ADVP (z 依旧))
+    (VP (vl 记忆犹新)))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (y 噢) (wj 。)))
+</S>
+<S>
+( (IP
+  (FLR (DP (r 那个)))
+  (NP-SBJ (n 子弹) (wd ，) (n 炮弹))
+  (VP
+    (ADVP (d 都))
+    (PP-LOC (p 在) (NP (r 他) (s 身边)))
+    (wd ，)
+    (ADVP (d 都))
+    (NP-LOC (NP (r 他)) (LCP (NP (n 头)) (f 上)))
+    (IP (VP (ADVP (o 唰)) (VP (o 唰唰))))
+    (ADVP (r 那么))
+    (VP (VRD (vi 飞) (v 过去))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (NP
+      (DNP
+        (PP
+          (PP (p 从) (NP (NP (m 一九四零) (q 年)) (t 八月) (t 二十日)))
+          (PP (p 到) (NP (t 十二月) (t 五日))))
+        (ude 的))
+      (QP (QP (m 三) (CLP (q 个))) (ADVP (m 半)))
+      (NP (n 月)))
+    (f 中))
+  (wd ，)
+  (NP-PN-SBJ (n 八路军))
+  (VP
+    (ADVP (d 共))
+    (VP
+      (v 进行)
+      (NP-OBJ (ADJP (n 大小)) (NP (n 战斗)))
+      (QP-EXT (m 一千八百二十四) (CLP (q 次)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (v 破坏) (NP-OBJ (n 铁路)) (QP-EXT (m 四百七十四) (CLP (q 公里))))
+    (wd ，)
+    (VP (NP-OBJ (n 公路)) (QP-EXT (m 一千五百零二) (CLP (q 公里)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (VP (v 缴获) (NP-OBJ (-NONE- *RNR*-1)))
+      (c 和)
+      (VP
+        (v 破坏)
+        (y 了)
+        (NP-OBJ-1 (DP (r 其他)) (QP (m 大量)) (ADJP (b 军用)) (NP (n 物资))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (IP (NP-PN-SBJ (n 八路军)) (VP (v 发动) (NP-PN-OBJ (nz 百团大战))))
+    (f 后))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (PP
+        (PP (p 从) (NP (NP-PN (ns 华北)) (NP (s 敌后))))
+        (PP (v 到) (NP (s 大后方))))
+      (ude 的))
+    (NP (n 报刊)))
+  (VP
+    (ADVP (d 都))
+    (ADVP (d 在))
+    (ADVP (d 不断))
+    (VP (v 刊登) (NP-OBJ (DNP (NP (vi 胜利)) (ude 的)) (NP (n 消息)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (nr 祝捷)) (NP (n 电文) (wd ，) (n 信件)))
+  (VP
+    (PP-DIR (p 从) (NP (nl 四面八方)))
+    (VP (IP (VP (vi 飞) (p 向))) (NP-PN-OBJ (ns 延安))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 蒋介石))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-DIR (p 给) (NP-PN (nr 朱德) (wd ，) (nr 彭德怀)))
+                  (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (v 嘉奖) (n 电)))
+        (f 中)))
+    (VP
+      (VSB (v 夸赞) (v 说))
+      (wd ，)
+      (IP-OBJ
+        (NP-PN-SBJ (n 八路军))
+        (VP
+          (VP (ADVP (d 断然)) (VP (vi 出击)))
+          (wd ，)
+          (VP
+            (v 予)
+            (NP-IO (n 敌))
+            (NP-OBJ (ADJP (ADVP (d 甚)) (ADJP (a 大))) (NP (n 打击))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 百团大战))
+    (VP
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (QP (m 大量)) (NP (n 日军)))
+          (VP
+            (v 牵制)
+            (PP (p 在) (NP (NP-PN (ns 华北)) (ADJP (s 敌后)) (NP (n 战场)))))))
+      (wd ，)
+      (VP
+        (v 迟滞)
+        (y 了)
+        (NP-OBJ
+          (NP (n 日军))
+          (IP-APP
+            (NP-SBJ (-NONE- *pro*))
+            (IP (VP (NP (f 南)) (VP (v 进)))))
+          (NP (n 步伐))))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (bl 不仅如此)))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nz 百团大战))
+    (VP
+      (VP
+        (ADVP (d 还))
+        (VP (v 策应) (y 了) (NP-OBJ (NP-PN (ns 欧洲)) (NP (n 战场)))))
+      (wd ，)
+      (VP
+        (ADVP (c 同时))
+        (ADVP (d 也))
+        (VP
+          (v 提高)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP (NP-PN (ns 中国) (n 共产党)) (c 和) (NP-PN (n 八路军)))
+              (ude 的))
+            (NP (n 国际) (n 声誉)))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nz 百团大战))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (NP-PN (ns 中国)) (ADJP (n 抗日)) (NP (n 战争史))) (f 上)))
+    (VP
+      (VRD (v 写) (v 下))
+      (y 了)
+      (QP-OBJ (DNP (ADJP (a 光辉)) (ude 的)) (QP (m 一) (CLP (q 页))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九八七年) (t 六月) (t 三十日))
+  (wd ，)
+  (NP-LOC
+    (NP-PN (ns 山西) (ns 阳泉) (n 狮脑山))
+    (wd ，)
+    (NP
+      (DP (r 这个))
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (n 英雄))
+            (VP (PP-LOC (-NONE- *T*-1)) (VP (vi 战斗) (uguo 过))))
+          (ude 的)))
+      (NP (n 地方))))
+  (wd ，)
+  (NP-SBJ (NP-PN (nz 百团大战)) (NP (n 纪念碑)))
+  (VP (VRD (v 竖立) (v 起来)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九九三年))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP-PN (ns 洪河槽村)) (ude 的))
+    (QP (m 六) (CLP (q 个)))
+    (NP (n 村民)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP (NP (t 当年)) (NP (NP-PN (nr 聂荣臻)) (NP (n 指挥所))) (NP (n 址))))
+    (VP
+      (VRD (v 办) (v 起))
+      (y 了)
+      (NP-OBJ (NP-PN (nz 百团大战)) (NP (n 纪念馆)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 李景堂) (n 老人))
+  (VP
+    (ADVP (d 仍))
+    (ADVP (d 在))
+    (PP-DIR
+      (p 向)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (VSB (vi 前来) (v 参观))))
+            (ude 的)))
+        (NP (n 人们))))
+    (VP
+      (v 讲述)
+      (uzhe 着)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (v 流传) (PP (p 在) (NP (NP-PN (ns 太行)) (NP (n 山区))))))
+            (ude 的)))
+        (NP (n 战争) (n 往事)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-PN-SBJ (nz 百团大战))
+      (VP (t 过去) (QP-EXT (QP (QP (m 六十)) (ADVP (m 多))) (CLP (q 年)))))
+    (y 了))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 太行山))
+    (VP
+      (ADVP (d 永远))
+      (VP
+        (v 铭记)
+        (uzhe 着)
+        (NP-OBJ
+          (NP (NP-PN (ns 中国)) (NP (n 人民)))
+          (LCP (NP-PN (nz 抗日战争)) (f 中))
+          (DP (r 那场))
+          (DNP (ADJP (a 伟大)) (ude 的))
+          (NP (n 战斗))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (NP-PN-TPC (QP (m 第二) (CLP (q 次))) (NP (nl 世界大战)))
+  (NP-SBJ (QP (m 二十万)) (NP-PN (ns 中国)) (NP (n 远征军)))
+  (VP (VSB (vi 出国) (vi 作战)))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (NP (ns 滇) (ns 缅)) (n 公路))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-MNR (-NONE- *T*-1))
+              (PP-BNF
+                (p 为)
+                (NP (NP-PN (ns 中国)) (ADJP (n 抗日)) (NP (n 战场))))
+              (VP (vi 输血))))
+          (ude 的)))
+      (NP (n 生命线))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 敬请)
+    (NP-OBJ (-NONE- *pro*))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 收看)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (LCP-TMP (QP (m 六十) (CLP (q 年))) (f 前))
+              (NP-SBJ
+                (NP
+                  (NP-PN-APP (f 中) (wd ，) (ns 美) (wd ，) (ns 英))
+                  (QP (m 三))
+                  (NP (n 国)))
+                (NP (n 军队)))
+              (VP
+                (VP (vl 并肩作战))
+                (wd ，)
+                (VP (ADVP (d 共同)) (VP (v 抗击) (NP-OBJ (n 日寇))))))
+            (ude 的))
+          (QP (m 一) (CLP (q 场)))
+          (NP (n 血战))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (nx ＥＭＰＴＹ))))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 各位)) (VP (a 好)))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这里))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP (NP-PN (n 中央) (n 电视台)) (NP (n 国际) (n 频道))) (ude 的))
+        (NP (n 海峡))
+        (n 两岸))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 欢迎) (NP-OBJ (DNP (NP (r 大家)) (ude 的)) (NP (n 收看))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 首先))
+    (ADVP (d 一起))
+    (VP
+      (v 来)
+      (VP
+        (v 关注)
+        (NP-OBJ
+          (DNP (NP (NP (t 今天)) (NP (n 节目))) (ude 的))
+          (ADJP (b 主要))
+          (NP (n 内容))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 八月) (QP (m 十七) (CLP (q 号))))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP-PN (ns 台湾)) (ude 的))
+    (NP (NP (b 检察) (n 部门)) (c 和) (NP (n 警方))))
+  (VP
+    (VP (v 召开) (NP-OBJ (n 记者会)))
+    (wd ，)
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (NP-SBJ
+          (FRAG (NP (QP (m 三)) (NP (n 幺))) (QP (m 九)))
+          (NP (n 枪击) (n 案)))
+        (VP (vi 结案)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (NP-PN (ns 台湾)) (NP (n 警方)))
+              (VP (v 认定) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 作案) (n 嫌疑人)))
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ
+                (FRAG (NP (QP (m 三)) (NP (n 幺))) (QP (m 九)))
+                (NP (n 枪击) (n 案)))
+              (VP (v 发生)))
+            (f 以后)))
+        (ADVP (a 神秘))
+        (VP (vi 死亡)))))
+  (wd ，)
+  (ADVP (c 所以))
+  (NP-SBJ (r 此案))
+  (VP
+    (PP-MNR
+      (p 以)
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 不)) (VP (v 起诉)))))
+    (VP (v 处理)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 八月) (QP (m 十七) (CLP (q 号))))
+  (wd ，)
+  (NP-SBJ (n 台军))
+  (VP
+    (VP
+      (v 举行)
+      (y 了)
+      (NP-OBJ
+        (NP-PN (n 联兴))
+        (NP (QP (m 九十四)) (NP (q 号)))
+        (ADJP (b 两栖))
+        (NP (n 登陆))
+        (NP (n 演习))))
+    (wd ，)
+    (VP
+      (v 验证)
+      (NP-OBJ
+        (PP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 遭到)
+                (NP-OBJ (NP (n 敌军)) (ADJP (b 两栖)) (NP (n 进攻)))))
+            (n 时)))
+        (wd ，)
+        (DNP (NP (n 台军)) (ude 的))
+        (NP
+          (NP (n 应变) (n 能力))
+          (c 和)
+          (NP (NP (ADJP (vi 反)) (NP (vi 登陆))) (NP (n 作战) (n 能力)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 台湾))
+      (NP (NP (b 检察) (n 部门)) (c 和) (NP (n 警方))))
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (NP-SBJ
+          (FRAG (NP (QP (m 三)) (NP (n 幺))) (QP (m 九)))
+          (NP (n 枪击) (n 案)))
+        (VP (vi 结案)))))
+  (IP-Q
+    (wd ，)
+    (ADVP (c 那么))
+    (ADVP (r 为什么))
+    (NP-SBJ (NP-PN (ns 台湾)) (NP (b 检察) (n 部门)))
+    (VP
+      (v 称)
+      (IP-OBJ
+        (NP-SBJ (r 这))
+        (VP
+          (VP (vshi 是) (NP-PRD (vi 结案)))
+          (VP
+            (ADVP (c 而))
+            (ADVP (d 不))
+            (VP
+              (vshi 是)
+              (IP-PRD
+                (NP-SBJ
+                  (DNP
+                    (NP
+                      (FRAG (NP (QP (m 三)) (NP (y 幺))) (QP (m 九)))
+                      (NP (n 枪击) (n 案)))
+                    (ude 的))
+                  (NP (n 真相)))
+                (VP (ADVP (d 到底)) (VP (vshi 是) (NP-PRD (r 什么))))))))))
+    (ww ？))))
+</S>
+<S>
+( (IP
+  (LCP-LOC (NP (DNP (DP (r 本期)) (ude 的)) (NP (n 热点) (n 透视))) (f 中))
+  (NP-SBJ (n 学者))
+  (VP (ADVP (p 将)) (DVP (VP (a 详细)) (ude 地)) (VP (v 分析)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 八月) (QP (m 十七) (CLP (q 号))))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP-PN (ns 台湾)) (ude 的))
+    (NP (NP (b 检察) (n 部门)) (c 和) (NP (n 警))))
+  (VP
+    (VP (vi 破案))
+    (FLR (y 呢))
+    (wd ，)
+    (DFL (NP (nz 三幺)))
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (IP
+          (NP-SBJ
+            (FRAG (NP (QP (m 三)) (NP (n 幺))) (QP (m 九)))
+            (NP (n 枪击) (n 案)))
+          (VP (vi 结案)))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 此案))
+          (VP (ADVP (d 将)) (VP (v 不予) (NP-OBJ (n 起诉))))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,2352 @@
+<S>
+( (QP-HLN
+  (CP
+    (WHNP-1 (-NONE- *OP*))
+    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 酷) (wn 、) (v 炫))))
+  (QP (m 一) (CLP (q 族)))))
+</S>
+<S>
+( (NP-HLN (NP (n 大都会)) (NP (n 健身) (a 热))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 林奇伯) (n 图) (wj ．) (nr 薛继光)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-TMP (ADVP (a 近)) (QP (m 几) (CLP (q 年))))
+    (NP-PN-SBJ (ns 台湾))
+    (VP
+      (VRD (v 刮) (v 起))
+      (NP-OBJ (QP (m 一) (CLP (q 股))) (NP (n 健身) (n 风)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-MNR (p 以) (NP (n 健身) (n 器材)))
+              (VP (v 为) (NP-OBJ (n 诉求)))))
+          (ude 的)))
+      (NP (n 俱乐部)))
+    (VP
+      (VP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (PP-MNR (v 如) (NP (nl 雨后春笋))) (VP (u 般))))
+        (VRD (vi 窜) (v 出)))
+      (wd ，)
+      (VP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (z 新新旧旧)) (VP (VRD (v 加) (v 起来)))))
+        (ADVP (d 竟))
+        (ADVP (a 高))
+        (VP (v 达) (QP-OBJ (QP (QP (m 七百)) (ADVP (m 多))) (CLP (q 家)))))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (QP (m 一) (CLP (q 片)))
+        (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (a 不景气)))
+        (NP (n 声)))
+      (f 中)))
+  (wd ，)
+  (NP-SBJ (n 健身业))
+  (VP (ADVP (d 几乎)) (VP (vl 一枝独秀)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一) (CLP (q 场))) (ADJP (n 土洋)) (NP (n 市场) (n 争霸战)))
+  (VP
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ (n 健身) (n 风))
+        (VP (VRD (v 炒) (v 到)) (VP-EXT (ADVP (d 最)) (VP (a 热))))))
+    (wd ，)
+    (VP
+      (VRD (v 激荡) (v 出))
+      (NP-SBJ
+        (NP (s 国内))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (b 多元) (wn 、) (b 新兴)))
+            (ude 的)))
+        (NP (n 健身) (n 观念)))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (NP-SBJ (n 健身房))
+    (VP
+      (ADVP (d 简直))
+      (ADVP (d 就))
+      (VP (vshi 是) (NP-PRD (DNP (NP (vi 成人)) (ude 的)) (NP (n 游乐场))))))
+  (wt ！)
+  (wyy 」)
+  (NP-SBJ (NP-APP (n 花艺) (n 设计师)) (NP-PN (nr1 吴) (n 先生)))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (VRD (v 走) (v 进))
+      (NP-OBJ
+        (NP (NP-PN (ns 台北)) (NP (s 东区)))
+        (QP (m 一) (CLP (q 家)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (n 灯光) (wn 、) (n 音乐))
+              (VP
+                (ADVP (d 都))
+                (VP (PP-PRD (v 像) (NP (ADJP (n 新潮)) (NP (n 舞厅)))))))
+            (ude 的)))
+        (NP (n 健身) (n 中心)))))
+  (wd ，)
+  (NP-PN-SBJ (nr1 吴) (n 先生))
+  (VP
+    (ADVP (d 刚刚))
+    (VP
+      (v 结束)
+      (NP-OBJ (NP (wyz 「) (n 阶梯) (b 有氧) (wyy 」)) (NP (n 课程)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 喘) (uzhe 着) (NP-OBJ (n 气))))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (LCP-TMP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 进) (NP-OBJ (n 健身房)) (QP-EXT (m 半) (CLP (q 年)))))
+            (f 来))
+          (wd ，)
+          (NP-TPC
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (ADVP (d 原先))
+                    (ADVP (d 不))
+                    (VP (v 爱) (NP-OBJ (vi 运动)))))
+                (ude 的)))
+            (NP (r 他)))
+          (wd ，)
+          (NP-SBJ (n 生活))
+          (VP
+            (vyou 有)
+            (y 了)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 极大))) (ude 的)))
+              (NP (n 转变)))))
+        (wd ，)
+        (IP
+          (ADVP (c 不但))
+          (NP-SBJ (DP (b 整个)) (NP (n 人)))
+          (VP
+            (ADVP (d 整整))
+            (VP (a 瘦) (y 了) (QP-EXT (m 一) (CLP (q 圈))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 气色))
+          (VP (ADVP (d 也)) (VP (VRD (v 变) (a 好)) (y 了)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-SBJ (ADJP (b 黑白)) (NP (n 人生)))
+  (VP (v 变) (NP-OBJ (b 彩色)))))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-3
+      (wyz 「)
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (t 当初))
+            (VP
+              (vshi 是)
+              (VP
+                (PP-PRP
+                  (p 为了)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 锻炼) (NP-OBJ (n 身材)))))
+                (wd ，)
+                (PP-LOC
+                  (p 在)
+                  (LCP (IP (NP-SBJ (n 朋友)) (VP (v 游说))) (f 下)))
+                (ADVP (d 一同))
+                (VP (v 加入))))))
+        (ude 的))
+      (wj 。)
+      (IP
+        (IP
+          (ADVP (c 但))
+          (NP-SBJ (r 这里))
+          (VP (ADVP (d 实在)) (ADVP (d 太)) (VP (a 好玩) (y 了))))
+        (wd ，)
+        (IP
+          (IP-ADV
+            (NP-SBJ (r 我))
+            (VP
+              (DP-ADV (r 每次))
+              (IP-ADV
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (d 一)) (VP (v 进) (NP-OBJ (n 健身房)))))
+              (VP
+                (v 听到)
+                (NP-OBJ
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (IP (NP (n 价)) (VP (a 响))))
+                        (ude 的)))
+                    (NP (n 舞曲)))
+                  (NP (n 声))))))
+          (wd ，)
+          (NP-SBJ (DP (b 整个)) (NP (n 人)))
+          (VP (ADVP (d 就)) (VP (VRD (nx high) (v 起来)))))
+        (wd ，)
+        (IP
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 加上)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP (a 有趣) (wn 、) (m 多样)))
+                    (ude 的)))
+                (NP (b 有氧) (n 课程)))))
+          (wd ，)
+          (NP-SBJ (n 运动))
+          (VP (d 不再) (VP (vshi 是) (NP-PRD (ADJP (a 苦)) (NP (n 差事))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 他))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-3))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-4 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-4)) (VP (a 内向))) (ude 的)))
+      (NP (r 他)))
+    (VP
+      (ADVP (d 也))
+      (ADVP (c 因此))
+      (VP (v 认识) (y 了) (NP-OBJ (QP (m 不少)) (ADJP (a 新)) (NP (n 朋友))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (DP (r 另) (QP (m 一个)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (PP-MNR
+                  (p 以)
+                  (NP
+                    (NP (n 游泳池))
+                    (c 及)
+                    (NP (nx SPA) (PRN (wkz （) (NP (nr 水疗)) (wky ）)))))
+                (VP (p 为) (NP-OBJ (v 号召)))))
+            (ude 的)))
+        (NP (a 健康) (n 俱乐部)))
+      (f 中)))
+  (wd ，)
+  (NP-SBJ
+    (LCP (n 池畔))
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-2))
+          (VP (VP (v 利用) (NP-OBJ (t 白天))) (VP (n 运动))))
+        (ude 的)))
+    (NP (n 欧巴桑) (k 们)))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 正))
+    (ADVP (ad 热烈))
+    (VP
+      (v 讨论)
+      (uzhe 着)
+      (NP-OBJ
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-3))
+              (VP
+                (v 让)
+                (NP-OBJ (n 腹部) (n 脂肪))
+                (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 减少)))))
+            (ude 的)))
+        (NP (n 方式)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-2
+    (wyz 「)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 街坊) (n 邻居))
+              (VP
+                (NP-TMP (t 现在))
+                (ADVP (d 最))
+                (ADVP (a 常))
+                (ADVP (d 一起))
+                (VP (v 做) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (NP (n 娱乐)))
+      (VP
+        (ADVP (d 就))
+        (VP
+          (vshi 是)
+          (VP
+            (VP (VP (v 到) (NP-OBJ (n 俱乐部))) (VP (v 来)))
+            (VP (vi 运动))))))
+    (wj 。)
+    (IP
+      (IP-SBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 维持) (NP-OBJ (n 身材) (a 苗条))))
+      (VP
+        (PP
+          (p 除了)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 比较))
+                (ADVP (d 不))
+                (VP
+                  (v 会)
+                  (VP
+                    (vyou 有)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-2 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (-NONE- *T*-2))
+                            (VP (NP-PRP (a 肥胖)) (VP (v 伴生))))
+                          (ude 的)))
+                      (NP (n 疾病)))))))
+            (f 外)))
+        (wd ，)
+        (ADVP (d 也))
+        (VP
+          (v 会)
+          (VP
+            (v 让)
+            (NP-OBJ (r 自己))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (VRD (v 看) (v 起来)) (VP (ADVP (d 更)) (VP (a 年轻))))))))))
+  (wt ！)
+  (wyy 」)
+  (NP-PN-SBJ (nr1 王) (n 太太))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-2)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (ADVP (a 近)) (QP (m 一) (CLP (q 年)))) (f 来))
+  (wd ，)
+  (NP-SBJ-2
+    (NP
+      (DNP (NP (NP-PN (ns 台北)) (NP (s 东区))) (ude 的))
+      (NP-PN (v 统领) (n 百货)))
+    (wn 、)
+    (NP (DNP (NP (n 火车站) (f 附近)) (ude 的)) (NP-PN (nx NOVA) (n 商场)))
+    (wn 、)
+    (NP-PN (NP-PN (ns 西门町)) (NP-PN (b 绝色) (n 影城))))
+  (VP
+    (ADVP (d 皆))
+    (VP
+      (VP (vl 改弦易辙))
+      (wd ，)
+      (VP
+        (PP-LGS
+          (p 由)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-1))
+                  (NP-SBJ (v 装潢))
+                  (VP (a 新颖) (wn 、) (nz 炫丽)))
+                (ude 的)))
+            (NP (n 健身) (n 中心))))
+        (VP
+          (VP (v 进驻) (NP-OBJ (-NONE- *-2)))
+          (wd ，)
+          (VP
+            (v 取代)
+            (NP-OBJ (DNP (ADJP (b 原先)) (ude 的)) (NP (n 百货) (n 商场))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ
+    (NP-PN-APP
+      (ns 远东)
+      (n 百货)
+      (wn 、)
+      (IP (VP (ADVP (d 先)) (VP (v 施))))
+      (n 百货)
+      (wn 、)
+      (nz 大亚)
+      (n 百货)
+      (udeng 等))
+    (NP (n 公司)))
+  (VP
+    (PP-PRP
+      (v 为)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (IP (VP (PP (p 因) (IP (VP (v 应))))))
+            (NP-OBJ (DNP (NP (n 商圈) (n 生态)) (ude 的)) (NP (n 遽变))))
+          (wd ，)
+          (VP (v 提高) (NP-OBJ (n 竞争力))))))
+    (wd ，)
+    (LCP-TMP (NP (t 今年)) (f 内))
+    (ADVP (d 也))
+    (ADVP (d 将))
+    (PP (p 与) (NP (n 健身业者)))
+    (VP (v 合作)))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (NP (n 全民)) (NP (n 运动))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 可以)
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (wyz 「) (n 健身) (wyy 」))
+        (VP
+          (ADVP (d 已经))
+          (VP
+            (v 成为)
+            (NP-OBJ
+              (DNP (NP-PN (ns 台湾)) (ude 的))
+              (NP (wyz 「) (NP (n 全民)) (NP (n 运动)) (wyy 」))))))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC (p 在) (NP-PN (ns 南非)))
+            (VP (VP (vi 长大)) (c 并) (VP (v 开始) (VP (v 执业))))))
+        (ude 的)))
+    (NP-APP
+      (NP-PN (wyz 「) (ns 加州) (n 健身) (n 中心) (wyy 」))
+      (ADJP (n 华裔))
+      (NP (n 教练)))
+    (NP-PN (nrf 雷克斯)))
+  (VP
+    (LCP-TMP (QP (m 三) (CLP (q 年))) (f 前))
+    (ADVP (d 就))
+    (VP
+      (VP
+        (v 相中)
+        (NP-OBJ (DP (r 这) (QP (m 一) (CLP (n 波)))) (NP (n 趋势))))
+      (wd ，)
+      (VP
+        (VP (v 返) (NP-PN-OBJ (ns 台)))
+        (VP
+          (v 投入)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (ADVP (d 渐)) (VP (v 起))))
+                (ude 的)))
+            (NP (n 健身) (n 市场)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (VP (v 分析) (NP-OBJ (DP (r 这) (CLP (n 波))) (NP (n 健身) (n 热潮))))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ
+            (NP (n 全球化) (n 风潮))
+            (c 和)
+            (NP
+              (DNP (NP (n 媒体) (n 资讯)) (ude 的))
+              (ADJP (n 爆炸性))
+              (NP (n 成长))))
+          (wd ，)
+          (VP
+            (vi 使得)
+            (NP-OBJ (NP-PN (ns 欧) (ns 美)) (NP (n 审美观)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 也))
+                (ADVP (d 顺势))
+                (VP (v 进入) (NP-PN-OBJ (ns 台湾)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (wyz 「) (a 健康) (wn 、) (a 结实) (wyy 」)))
+                (ude 的)))
+            (NP (n 身材)))
+          (VP
+            (VP (v 成为) (NP-OBJ (n 时尚)))
+            (wd ，)
+            (VP
+              (ADVP (d 也))
+              (VP
+                (v 成为)
+                (NP-OBJ
+                  (CP
+                    (WHPP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (NP-PN (ns 台湾)) (NP (n 消费者)))
+                        (VP
+                          (PP-PRP (-NONE- *T*-2))
+                          (VP (v 进) (NP-OBJ (n 健身房)))))
+                      (ude 的)))
+                  (ADJP (ADVP (d 最)) (ADJP (a 大)))
+                  (NP (n 动机))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN (NP-SBJ (ADJP (nz 土洋)) (NP (n 健身))) (VP (v 有别))))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-SBJ
+    (NP-PN (ns 台湾))
+    (DNP (ADJP (b 主要)) (ude 的))
+    (NP (n 健身) (n 中心))
+    (NP (NP (k 型)) (NP (n 态))))
+  (VP
+    (ADVP (d 大致))
+    (VP
+      (v 可)
+      (VP
+        (v 分为)
+        (QP-OBJ
+          (ADJP-APP
+            (ADJP (wyz 「) (n 土) (wyy 」))
+            (wn 、)
+            (ADJP (wyz 「) (a 洋) (wyy 」)))
+          (QP (m 两) (CLP (q 种)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP (r 本地)) (NP (n 资金) (c 与) (n 经营) (n 手法))) (ude 的))
+    (ADJP (b 大型))
+    (NP (n 健身) (n 中心)))
+  (VP
+    (ADVP (d 大多))
+    (VP
+      (VP
+        (v 结合)
+        (NP-OBJ
+          (CP-APP
+            (IP (NP-SBJ (n 台湾人)) (VP (v 注重) (NP-OBJ (vi 养生))))
+            (ude 的))
+          (NP (n 概念))))
+      (wd ，)
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ
+            (NP-APP
+              (NP (nx SPA))
+              (wn 、)
+              (NP (vi 美容))
+              (wn 、)
+              (NP (ADJP (n 芳香)) (NP (n 疗法)))
+              (udeng 等))
+            (DNP (NP (vi 养生) (wn 、) (vi 休闲)) (ude 的))
+            (NP (n 活动)))
+          (VP
+            (v 纳入)
+            (NP-OBJ (DNP (NP (n 健身) (n 中心)) (ude 的)) (NP (n 范围))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (v 拥有)
+                (NP-OBJ (QP (m 二十一) (CLP (q 家))) (NP (n 健身) (n 中心)))))
+            (ude 的)))
+        (NP-APP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (NP-LOC (s 国内)) (ADVP (d 最)) (VP (a 大)))))
+          (NP (n 连锁)))
+        (NP-PN
+          (wyz 「)
+          (IP (NP (nz 亚力山)) (VP (a 大)))
+          (an 健康)
+          (n 休闲)
+          (n 俱乐部)
+          (wyy 」)))
+      (NP (n 董事长)))
+    (NP-PN (nr 唐雅君)))
+  (VP
+    (v 分析)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (n 运动) (n 习惯))
+        (VP
+          (v 要)
+          (VP
+            (v 靠)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (NP-ADV (d 长期)) (VP (v 养成)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (QP (m 许多)) (NP (n 人)))
+        (VP
+          (VP
+            (v 会)
+            (VP
+              (PP-PRP
+                (c 因为)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (IP (VP (ADVP (t 一时)) (VP (v 兴起))))))
+              (VP (v 加入) (NP-OBJ (n 健身) (n 中心)))))
+          (wd ，)
+          (VP
+            (ADVP (c 但))
+            (ADVP (d 往往))
+            (ADVP (d 也))
+            (ADVP (a 容易))
+            (VP (vl 半途而废)))))
+      (wd ，)
+      (IP
+        (PP-PRP
+          (p 为了)
+          (IP
+            (IP (NP-SBJ (n 企业)) (VP (ADVP (d 永续)) (VP (v 经营))))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 也))
+                (VP
+                  (v 养成)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP
+                        (NP-SBJ (n 会员))
+                        (VP (ADVP (d 常)) (VP (v 来))))
+                      (ude 的))
+                    (NP (n 习惯))))))))
+        (wd ，)
+        (NP-SBJ (n 健身) (n 中心))
+        (VP
+          (d 必须)
+          (VP (PP-MNR (p 以) (NP (wyz 「) (n 礼物) (wyy 」))) (VP (v 利诱)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-1
+      (wyz 「)
+      (IP
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (n 健身) (n 中心))
+            (VP
+              (PP (p 除了) (LCP (NP (vi 运动)) (f 之外)))
+              (ADVP (d 也))
+              (VP (vyou 有) (NP-OBJ (n 休闲) (n 功能))))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (v 能)
+            (VP
+              (v 养成)
+              (NP-OBJ (DNP (NP (n 会员)) (ude 的)) (NP (n 回游)))))))
+      (wj 。)
+      (IP
+        (IP
+          (NP-SBJ
+            (ADJP (t 现代))
+            (NP (IP (VP (ADVP (d 都)) (VP (v 会)))) (vi 生活)))
+          (VP (VCD (a 紧张) (a 忙碌))))
+        (wd ，)
+        (IP
+          (ADVP (v 可能))
+          (NP-SBJ (n 会员))
+          (VP (NP-TMP (DP (r 这)) (NP (q 阵子))) (VP (n 忙))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (NP (nx SPA))
+            (wn 、)
+            (NP (ADJP (n 芳香)) (NP (n 疗法))))
+          (VP
+            (ADVP (d 就))
+            (VP
+              (v 能)
+              (VP
+                (VP
+                  (v 提供)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 放松)))
+                      (ude 的))
+                    (NP (n 机会))))
+                (wd ，)
+                (VP (v 释放) (NP-OBJ (n 心灵) (n 能量)))))))
+        (wf ；)
+        (IP
+          (PP-ADV (udeng 等) (IP (NP-SBJ (v 休息)) (VP (v 够) (y 了))))
+          (wd ，)
+          (DP-TMP (t 下次))
+          (ADVP (v 可能))
+          (NP-SBJ (r 他))
+          (VP (ADVP (d 又)) (VP (v 会) (VP (v 开始) (VP (vi 运动))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nr 唐雅君))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-1))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 当)
+      (LCP
+        (IP
+          (NP-SBJ
+            (NP (wyz 「) (n 功课) (wyy 」))
+            (c 与)
+            (NP (wyz 「) (n 礼物) (wyy 」)))
+          (VP (a 平衡)))
+        (n 时)))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHPP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (n 消费者))
+            (VP (PP-PRP (-NONE- *T*-2)) (VP (v 进) (NP-OBJ (n 健身房)))))
+          (ude 的)))
+      (NP (n 动机)))
+    (VP (ADVP (d 就)) (VP (v 会) (VP (v 增强)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 同样))
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 吸引)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 更)) (VP (a 多)))))
+          (NP (n 人)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 加入) (NP-OBJ (DNP (NP (vi 健身)) (ude 的)) (NP (n 行列))))))))
+  (wd ，)
+  (NP-SBJ (NP (n 外商)) (ADJP (n 连锁)) (NP (n 中心)))
+  (VP
+    (ADVP (d 则))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 不同))) (ude 的)))
+        (NP (n 概念)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-4
+      (wyz 「)
+      (IP
+        (NP-SBJ
+          (NP (r 我们))
+          (DNP (PP (p 在) (NP-PN (ns 亚洲))) (ude 的))
+          (NP (n 连锁店)))
+        (VP
+          (v 加进)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 更)) (VP (a 多))))
+                (ude 的)))
+            (NP (n 灯光) (wn 、) (n 装潢)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 位置))
+        (VP
+          (ADVP (d 更))
+          (VP
+            (IP (VP (v 选) (FLR (PP (p 在)))))
+            (NP-OBJ
+              (NP (n 城市))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (d 最)) (VP (a 热闹))))
+                  (ude 的)))
+              (NP (n 商业区))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 希望)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (p 将)
+              (IP-OBJ (NP-SBJ (n 健身)) (VP (v 变成) (NP-OBJ (v 流行))))))))
+      (wd ，)
+      (IP
+        (IP-SBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 进出) (NP-OBJ (n 健身) (n 中心))))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (PP-PRD
+              (v 像)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 进出)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-3 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 好玩)))
+                        (ude 的)))
+                    (NP (n 酒吧)))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP (p 比) (NP (ADJP (n 传统)) (NP (n 健身) (n 中心))))
+          (VP
+            (VP (ADVP (d 更)) (VP (a 酷)))
+            (wn 、)
+            (VP (ADVP (d 更)) (VP (v 刺激)))
+            (wn 、)
+            (VP (ADVP (d 更)) (VP (a 有趣))))))
+      (wd ，)
+      (IP
+        (IP-SBJ (NP-SBJ (n 会员)) (VP (v 来) (NP-OBJ (n 健身房))))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (PP
+              (v 好像)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 逛)
+                  (NP-OBJ
+                    (NP-PN (wyz 『) (nz 香奈儿) (wyy 』))
+                    (wn 、)
+                    (NP-PN (wyz 『) (nx Prada) (wyy 』))))))
+            (VP (uyy 一样))))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nx EricLevine))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-4))))
+  (wd ，)
+  (IP
+    (NP (NP (ns 欧) (ns 美)) (NP (n 人)))
+    (NP-SBJ (vi 健身))
+    (VP (ADVP (d 已)) (VP (v 成) (NP-OBJ (n 习惯)))))
+  (wd ，)
+  (IP
+    (ADVP (c 所以))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (v 进) (NP-OBJ (n 健身房))))
+      (ADVP (d 不))
+      (VP (v 会) (VP (v 呼) (NP (n 朋引伴))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP (NP (ns 亚洲)) (NP (n 人)))
+    (VP (vi 喜欢) (NP-OBJ (n 群体) (n 运动))))
+  (wd ，)
+  (IP
+    (ADVP (c 所以))
+    (NP-PN-SBJ (wyz 「) (ns 加州) (wyy 」))
+    (VP (ADVP (d 特别)) (VP (v 加强) (NP-OBJ (b 有氧) (n 舞蹈) (n 课程)))))
+  (wd ，)
+  (IP
+    (IP-CND
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (c 只要))
+        (VP (NP-PRD (IP (VP (v 开) (NP (n 店)))) (NP (n 时间))))))
+    (NP-SBJ (DP (r 每个)) (NP (n 小时)))
+    (VP (ADVP (d 都)) (VP (vyou 有))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 会员))
+    (VP (ADVP (d 随时)) (ADVP (d 都)) (VP (v 可以) (VP (v 上)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (IP (NP-SBJ (n 东西)) (VP (v 融合)))
+  (wd ，)
+  (NP (NP (b 有氧)) (n 总动员))))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (CP-ADV
+    (ADVP (c 不管))
+    (IP
+      (NP-SBJ
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-MNR (-NONE- *T*-1))
+                (VP (v 吸引) (NP-OBJ (n 消费者)))))
+            (ude 的)))
+        (NP (n 方式)))
+      (VP (r 为何))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (ADJP (b 大型)) (NP (n 健身) (n 中心)))
+          (VP (usuo 所) (VP (v 提供) (NP-OBJ (-NONE- *T*-2)))))
+        (ude 的)))
+    (NP (n 设备) (c 与) (n 课程)))
+  (VP (ADVP (d 却)) (VP (vshi 是) (VP (vl 大同小异))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-ADV
+      (p 除了)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 提供)
+          (NP-OBJ
+            (NP-APP
+              (n 心)
+              (n 肺)
+              (n 功能)
+              (wn 、)
+              (n 重量)
+              (n 训练)
+              (udeng 等))
+            (ADJP (n 传统))
+            (NP (n 器材))))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (m 多样))) (ude 的)))
+      (NP (wyz 「) (IP (VP (b 有) (NP (n 氧)))) (wyy 课程) (vshi 」)))
+    (VP
+      (r 是)
+      (NP-PRD
+        (DNP
+          (NP (DP (m 这) (QP (n 一) (CLP (n 波)))) (NP (n 健身) (ude 风潮)))
+          (n 的))
+        (NP (wd 焦点)))))
+  (r ，)
+  (IP
+    (NP-SBJ (DP (r 这)) (NP (v 其中)))
+    (VP
+      (y 包括)
+      (n 了)
+      (NP-OBJ
+        (NP (vyou 武术) (IP (VP (n 有) (NP (wn 氧)))))
+        (n 、)
+        (NP (vyou 阶梯) (n 有氧))
+        (wn 、)
+        (NP (NP-PN (nz 拉丁)) (NP (b 有氧)))
+        (wn 、)
+        (NP (vi 举重) (b 有氧))
+        (udeng 等))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (vl 顾名思义)))
+  (wd ，)
+  (NP-SBJ (DP (r 这些)) (NP (n 课程)))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP (DNP (ADJP (b 原先)) (ude 的)) (NP (b 有氧) (n 舞蹈)))
+                (f 中)))
+            (VP
+              (v 加入)
+              (NP-OBJ
+                (NP-APP
+                  (n 武术)
+                  (wn 、)
+                  (n 踏板)
+                  (wn 、)
+                  (n 拉丁舞)
+                  (wn 、)
+                  (n 哑铃)
+                  (udeng 等))
+                (NP (n 道具)))))
+          (wd ，)
+          (VP
+            (v 增加)
+            (NP-OBJ
+              (DNP (NP (ADJP (a 不同)) (NP (n 肌肉))) (ude 的))
+              (NP (n 运动量))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (wd ，)
+  (NP-SBJ (n 韵律) (n 教室))
+  (VP
+    (ADVP (d 也))
+    (ADVP (ad 普遍))
+    (VP
+      (v 提供)
+      (NP-OBJ
+        (NP
+          (NP-APP (n 瑜珈) (wn 、) (n 太极) (c 或) (n 气功) (udeng 等))
+          (NP (s 东方))
+          (ADJP (a 独特))
+          (NP (n 运动)))
+        (NP (n 课程)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-2
+      (wyz 「)
+      (NP-SBJ (n 瑜珈) (c 与) (n 太极))
+      (VP
+        (ADVP (d 并))
+        (ADVP (d 不))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (ADVP (d 特别))
+                    (PP-BNF (p 为) (NP (n 台湾人)))
+                    (VP (VRD (v 加) (v 进去)) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nx EricLevine))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wd ，)
+  (IP
+    (ADVP (d 其实))
+    (NP-TMP (t 目前))
+    (NP-SBJ (DNP (NP (DP (b 整个)) (NP (vi 健身))) (ude 的)) (NP (n 潮流)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 走向) (IP-OBJ (NP-SBJ (n 东西方) (n 观念)) (VP (v 融合))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 甚至))
+    (UCP-SBJ
+      (IP
+        (NP-SBJ (b 有氧) (n 舞蹈))
+        (VP (v 混合) (NP-OBJ (NP-PN (ns 中国)) (NP (n 武术) (n 动作)))))
+      (wn 、)
+      (NP
+        (CP
+          (WHNP-4 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-4))
+              (VP
+                (v 加进)
+                (NP-OBJ
+                  (CP
+                    (WHNP-3 (-NONE- *OP*))
+                    (IP
+                      (NP-SBJ (-NONE- *T*-3))
+                      (VP (ADVP (d 更)) (VP (a 多)))))
+                  (NP (n 肌力) (v 训练)))))
+            (ude 的)))
+        (NP (wyz 「) (ADJP (n 强力)) (NP (n 瑜珈)) (wyy 」)))
+      (udeng 等))
+    (wd ，)
+    (VP
+      (NP-TMP (t 现在))
+      (ADVP (d 已经))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (DNP (LCP (NP (n 健身) (n 课程)) (f 中)) (ude 的))
+          (NP (n 主流))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (NP (ns 台湾)) (NP (n 人))) (n 健身) (n 传统))
+    (VP (ADVP (d 不)) (VP (a 深))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 要)
+        (VP
+          (VP
+            (v 形成)
+            (NP-OBJ
+              (NP (r 自己))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 独特))) (ude 的)))
+              (NP (n 方式))))
+          (c 或)
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ (n 本土) (n 运动) (n 方式))
+              (VP (v 融入) (LCP-OBJ (NP (s 西方) (n 健身) (n 运动)) (f 中))))))))
+    (wd ，)
+    (VP
+      (ADVP (d 尚))
+      (INC (IP (VP (v 言) (NP (uzhi 之)))) (ADVP (d 过早)))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 有趣))) (ude 的))))
+    (VP
+      (vshi 是)
+      (wd ，)
+      (IP-PRP
+        (PP-PRP
+          (c 由于)
+          (NP
+            (DNP (NP (ADJP (n 审美)) (NP (n 观念))) (ude 的))
+            (NP (n 差异))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 也))
+          (VP
+            (v 影响)
+            (y 了)
+            (NP-OBJ (DNP (NP (n 台湾人)) (ude 的)) (NP (n 健身) (n 习惯))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (wyz 「)
+    (IP
+      (NP-SBJ (NP-PN (ns 台湾)) (NP (n 女人)))
+      (VP
+        (ADVP (d 还是))
+        (ADVP (d 不))
+        (ADVP (d 太))
+        (VP
+          (v 能)
+          (VP
+            (v 接受)
+            (NP-OBJ
+              (NP (NP-PN (ns 美国)) (NP (n 女性)))
+              (CP-APP
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (p 将)
+                    (IP-OBJ
+                      (NP-SBJ (n 身体))
+                      (VP
+                        (VRD (v 练) (v 成))
+                        (IP-OBJ
+                          (NP-SBJ (n 肌肉))
+                          (VP (v 成) (NP (n 块))))))))
+                (ude 的))
+              (NP (n 做法)))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (r 她们))
+      (VP
+        (vi 喜欢)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 轻盈) (wn 、) (a 匀称)))
+              (ude 的)))
+          (NP (n 体态)))))
+    (wd ，)
+    (IP
+      (ADVP (c 所以))
+      (NP-SBJ
+        (DNP (PP (p 对) (NP (n 舞蹈))) (ude 的))
+        (LCP (NP (a 热)) (f 中)))
+      (VP
+        (IP (VP (ADVP (a 大)) (VP (uguo 过))))
+        (NP-OBJ (n 重量) (n 训练))))
+    (wf ；)
+    (IP
+      (PP-ADV (p 至于) (NP (n 男性)))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 则))
+        (ADVP (d 大多))
+        (VP
+          (v 强调)
+          (NP-OBJ
+            (DNP (NP (DP (v 上)) (NP (n 半身))) (ude 的))
+            (NP (n 运动))))))
+    (wd ，)
+    (IP (NP-SBJ (n 身材)) (VP (v 要) (VP (vyou 有) (NP (n 型)))))
+    (wd ，)
+    (IP
+      (ADVP (c 但))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 也))
+        (ADVP (d 不))
+        (VP
+          (vi 喜欢)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (ADVP (d 太)) (VP (a 壮))))))))
+  (wd ，)
+  (wyy 」)
+  (IP
+    (NP-SBJ (NP-APP (n 健身) (n 教练)) (NP-PN (nrf 雷克斯)))
+    (VP
+      (v 觉得)
+      (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 很)) (VP (a 有趣))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (IP-Q (NP-SBJ (-NONE- *PRO*)) (VP (NP-ADV (an 健康)) (VP (n 消费))))
+  (ww ？)
+  (IP-Q (NP-SBJ (-NONE- *PRO*)) (VP (v 消费) (NP-OBJ (a 健康))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (a 一般))
+      (VP
+        (v 会)
+        (VP
+          (v 认为)
+          (wd ，)
+          (IP-OBJ
+            (IP
+              (NP-SBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (n 本土))
+                      (VP (v 经营) (NP-OBJ (-NONE- *T*-1))))
+                    (ude 的)))
+                (NP (n 健身) (n 中心)))
+              (VP
+                (VP (v 讲究) (NP-OBJ (vi 休闲) (vi 养生)))
+                (wd ，)
+                (VP
+                  (v 应该)
+                  (VP
+                    (v 会)
+                    (VP
+                      (v 拥有)
+                      (NP-OBJ
+                        (CP
+                          (WHNP-2 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-2))
+                              (VP (ADVP (d 较)) (VP (a 大))))
+                            (ude 的)))
+                        (NP (n 年龄) (n 层))))))))
+            (wd ，)
+            (c 而)
+            (IP
+              (NP-SBJ
+                (DNP (NP (n 外商) (n 健身) (n 中心)) (ude 的))
+                (NP (a 时髦) (wn 、) (a 新奇)))
+              (VP
+                (v 可能)
+                (VP (ADVP (d 较)) (VP (v 吸引) (NP-OBJ (n 年轻人)))))))))))
+  (wd ，)
+  (IP
+    (LCP-LOC (bl 事实上))
+    (NP-SBJ (DNP (NP (n 消费者)) (ude 的)) (NP (n 选择)))
+    (VP
+      (ADVP (d 却))
+      (ADVP (d 往往))
+      (ADVP (d 不))
+      (VP (v 受) (NP-OBJ (DP (r 此)) (NP (n 限))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (VP
+                (ADVP (d 刚))
+                (VP (VRD (v 服) (vi 完)) (NP-OBJ (n 兵役))))
+              (VP (ADVP (d 正)) (VP (v 准备) (NP-OBJ (n 律师) (n 考试))))))
+          (ude 的)))
+      (NP-PN (nr 程嘉政)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (IP-SBJ (NP-SBJ (r 他)) (VP (v 选择) (NP-OBJ (n 健身房))))
+            (VP
+              (ADVP (d 就))
+              (VP
+                (vshi 是)
+                (VP
+                  (PP-MNR
+                    (p 以)
+                    (UCP
+                      (IP (NP-SBJ (n 距离)) (VP (a 近)))
+                      (wn 、)
+                      (NP (a 方便))))
+                  (VP (vi 为主))))))
+          (wd ，)
+          (IP
+            (NP-SBJ (r 他))
+            (VP
+              (ADVP (d 并))
+              (ADVP (d 不))
+              (VP
+                (vi 喜欢)
+                (NP-OBJ
+                  (DNP
+                    (UCP
+                      (IP (VP (v 闹) (NP (n 区))))
+                      (IP (NP-SBJ (n 人)) (VP (a 多))))
+                    (ude 的))
+                  (NP (n 感觉))))))))))
+  (wd ，)
+  (IP
+    (IP-TPC-2
+      (wyz 「)
+      (IP
+        (NP-TPC (vi 健身))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (VP (v 要) (VP (DVP (z 静静的)) (VP (v 练))))))
+      (wd ，)
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 能)
+            (VP
+              (VP
+                (ADVP (d 随时))
+                (VP (v 使用) (NP-OBJ (ADJP (a 不同)) (NP (n 器材)))))
+              (wn 、)
+              (VP (ADVP (d 不)) (VP (v 受) (NP-OBJ (v 打扰)))))))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 才)) (VP (v 能) (VP (a 专心))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 他))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (QP-SBJ (NP-PN (nr 陈太太)) (QP (n 一家)) (QP (m 五) (CLP (q 口))))
+  (VP
+    (ADVP (d 则))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 最)) (VP (a 时髦)))))
+            (NP (n 外商) (n 健身) (n 中心)))
+          (ude 的))
+        (NP (n 会员)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 她))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (CP
+        (IP
+          (IP-SBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 到) (NP-OBJ (n 健身房))))
+          (VP (ADVP (d 就)) (VP (vshi 是) (VP (v 要) (VP (vi 运动))))))
+        (ude 的))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 太)) (VP (a 多))))
+              (ude 的)))
+          (NP (n 设备)))
+        (VP
+          (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VPT (bl 用不着))))
+          (ADVP (d 反而))
+          (VP (vshi 是) (NP-PRD (v 浪费)))))
+      (wd ，)
+      (IP
+        (NP-TPC
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 单纯))) (ude 的)))
+          (NP (n 健身) (n 中心)))
+        (IP
+          (IP (NP-SBJ (vi 收费)) (VP (ADVP (d 较)) (VP (a 低廉))))
+          (wd ，)
+          (IP
+            (NP-SBJ (n 音乐))
+            (VP (ADVP (d 又)) (ADVP (d 很)) (VP (vl 振奋人心))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 较))
+          (VP
+            (v 符合)
+            (NP-OBJ
+              (DNP (NP (ADJP (a 纯)) (NP (n 运动))) (ude 的))
+              (NP (n 需求))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-3
+      (wyz 「)
+      (IP
+        (NP-SBJ (DNP (NP (n 城市) (n 人)) (ude 的)) (NP (n 生活)))
+        (VP (ADVP (d 本来)) (ADVP (d 就)) (VP (a 忙碌))))
+      (wd ，)
+      (IP
+        (IP-SBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (DP-ADV (r 每天))
+            (VP
+              (v 能)
+              (VP
+                (VP
+                  (VRD (v 挪) (v 出))
+                  (NP-OBJ
+                    (QP
+                      (QP (m 一) (CLP (-NONE- *RNR*-1)))
+                      (wn 、)
+                      (QP (m 两) (CLP-1 (q 个))))
+                    (NP (n 钟头))))
+                (VP (n 运动))))))
+        (VP (ADVP (d 已经)) (VP (vshi 是) (VP (a 奢侈)))))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 真正))
+                (VP
+                  (v 会)
+                  (VP (v 去) (VP (v 享受) (NP-OBJ (n 休闲) (n 设备)))))))
+            (ude 的))
+          (NP (n 机会)))
+        (VP (ADVP (d 并)) (ADVP (d 不)) (VP (a 多))))
+      (wd ，)
+      (IP
+        (ADVP (c 但))
+        (NP-SBJ
+          (DNP
+            (QP (QP (m 一) (CLP (q 年))) (QP (m 两万) (CLP (q 元))))
+            (ude 的))
+          (NP (n 使用费)))
+        (wd ，)
+        (VP
+          (VP
+            (IP-CND
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (c 如果))
+                (VP (ADVP (d 再)) (VP (v 加上) (VP (v 入) (NP (n 会费)))))))
+            (ADVP (d 就))
+            (VP (QP-PRD (m 三) (wn 、) (m 四万))))
+          (wd ，)
+          (VP
+            (ADVP (d 几乎))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (NP (n 上班族))
+                (DNP (NP (QP (m 一个)) (NP (n 月))) (ude 的))
+                (NP (n 薪水)))))))
+      (wd ，)
+      (IP
+        (ADVP (d 其实))
+        (NP-SBJ (DNP (QP (m 大部分)) (ude 的)) (NP (n 钱)))
+        (VP (ADVP (d 都)) (VP (v 浪费) (y 了)))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 他))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-3))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 还是))
+      (VP
+        (vi 喜欢)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 到)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (VCD (a 经济) (a 实惠))))
+                  (ude 的)))
+              (ADJP (n 传统))
+              (NP (n 健身房))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (ADVP (d 也))
+    (PP
+      (c 因为)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (DP (r 这样))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 精打细算)))
+                (ude 的)))
+            (NP (n 消费者)))))))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 即使))
+    (IP (NP-SBJ (ADJP (b 大型)) (NP (n 俱乐部))) (VP (v 进驻))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (IP
+        (NP-SBJ (ADJP (n 传统)) (NP (n 健身房)))
+        (VP (usuo 所) (VP (v 受) (NP-OBJ (-NONE- *T*-2))))))
+    (NP (n 影响)))
+  (VP (ADVP (d 不)) (VP (a 大)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (vi 成立)
+                  (QP-EXT (ADVP (d 已经)) (QP (m 十六) (CLP (q 年))))))
+              (ude 的)))
+          (NP-PN (wyz 「) (ns 台北) (n 健身) (n 院) (wyy 」)))
+        (NP (n 老板)))
+      (NP-PN (nr 陈丁印)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-6 (-NONE- *OP*))
+            (IP
+              (NP-TPC (n 健身) (n 风潮))
+              (NP-SBJ (v 影响))
+              (VP (usuo 所) (VP (v 及) (NP-OBJ (-NONE- *T*-6)))))))
+        (VP
+          (ADVP (ad 确实))
+          (PP-BNF (p 为) (NP (n 健身者)))
+          (VP (v 带来) (NP-OBJ (an 便利)))))))
+  (wd ，)
+  (IP
+    (IP-TPC-4
+      (wyz 「)
+      (IP
+        (LCP-TMP (QP (m 十几) (CLP (q 年))) (f 前))
+        (NP-SBJ (n 健身) (n 设备))
+        (VP (ADVP (d 并)) (ADVP (d 不)) (VP (a 先进))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 健身者))
+        (VP
+          (VP
+            (v 得)
+            (VP
+              (v 拿)
+              (NP-OBJ
+                (CP
+                  (WHNP-7 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-7)) (VP (bl 各式各样)))
+                    (ude 的)))
+                (NP (n 铁片) (c 与) (n 杠铃)))))
+          (wd ，)
+          (VP
+            (IP-ADV
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (ADVP (d 很)) (VP (a 辛苦))))
+            (ADVP (d 才))
+            (VP
+              (v 达到)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 有限)))
+                    (ude 的)))
+                (NP (n 效果)))))))
+      (wd ，)
+      (IP (NP-TMP (t 现在)) (NP-SBJ (n 健身) (n 器材)) (VP (vl 日新月异)))
+      (wd ，)
+      (IP
+        (NP-TPC-3 (DP (r 每) (QP (m 一) (CLP (q 块)))) (NP (n 肌肉)))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 都))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ (DNP (ADJP (a 特别)) (ude 的)) (NP (n 设备)))
+              (VP (v 可以) (VP (v 练) (NP-OBJ (-NONE- *T*-3)))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 他))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-4))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (r 这))
+    (VP (ADVP (d 也)) (ADVP (d 就)) (VP (v 够) (y 了))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (ADJP (ADVP (d 太)) (ADJP (a 多)))
+      (CP
+        (WHNP-5 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-5)) (VP (vi 无用))) (ude 的)))
+      (NP (n 设备)))
+    (VP
+      (ADVP (d 反而))
+      (VP (vshi 是) (NP-PRD (QP (m 一) (CLP (q 种))) (NP (n 浪费))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN (NP-SBJ (-NONE- *PRO*)) (VP (ad 小心) (NP-OBJ (vi 骨折)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (an 健康))
+    (VP
+      (VP (vshi 是) (NP-PRD (n 潮流)))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (ADVP (d 绝对))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 值得))) (ude 的)))
+            (NP (n 投资)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (d 一味))
+        (DVP (VP (a 盲目)) (ude 地))
+        (VP (VP (v 跟着) (NP-OBJ (n 潮流))) (VP (v 走)))))
+    (wd ，)
+    (VP (ADVP (d 却)) (VP (v 可能) (VP (vl 适得其反)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP (NP-PN (nz 台安) (n 医院)) (NP (n 复健科))) (NP (n 主任)))
+    (NP-PN (nr 钟佩珍)))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (QP (m 许多)) (NP (n 健身) (n 中心)))
+        (VP
+          (ADVP (d 皆))
+          (VP (v 标榜) (IP-OBJ (DP-SBJ (n 全家)) (VP (v 适宜))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但))
+        (PP-MNR (p 以) (NP (DNP (NP (r 她)) (ude 的)) (NP (n 观察))))
+        (wd ，)
+        (NP-SBJ (DNP (NP (n 健身) (n 中心)) (ude 的)) (NP (n 设备)))
+        (VP
+          (PP (p 除了) (LCP (NP (n 游泳池)) (f 之外)))
+          (wd ，)
+          (ADVP (d 并))
+          (ADVP (d 不))
+          (VP
+            (v 适合)
+            (NP-OBJ
+              (DNP (NP (DP (r 各)) (NP (n 年龄)) (NP (n 层))) (ude 的))
+              (NP (n 人))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-2
+      (wyz 「)
+      (IP
+        (NP-SBJ
+          (NP
+            (DNP (LCP (QP (m 五十) (CLP (q 岁))) (f 以上)) (ude 的))
+            (NP (n 老年人)))
+          (p 与)
+          (NP
+            (DNP (LCP (QP (m 十六) (CLP (q 岁))) (f 以下)) (ude 的))
+            (NP (nl 少年儿童))))
+        (wd ，)
+        (VP
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 使用)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-TPC (-NONE- *T*-1))
+                      (NP-SBJ (n 负荷))
+                      (VP (ADVP (d 过)) (VP (a 重))))
+                    (ude 的)))
+                (NP (n 健身) (n 器材)))))
+          (VP (ADVP (ad 容易)) (VP (v 发生) (NP-OBJ (n 运动) (n 伤害))))))
+      (wd ，)
+      (IP
+        (ADVP (c 所以))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 说)
+          (IP-OBJ
+            (NP-SBJ (vi 健身))
+            (VP
+              (ADVP (d 也))
+              (ADVP (d 不))
+              (VP (v 能) (VP (wyz 『) (n 盲勇) (wyy 』))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 她))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP (n 老年人) (n 肌肉))
+      (DNP (PP (p 对) (NP (n 骨骼))) (ude 的))
+      (NP (n 支撑力)))
+    (VP (ADVP (d 较)) (VP (a 低))))
+  (wd ，)
+  (IP
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 如果))
+        (ADVP (d 不))
+        (VP
+          (vshi 是)
+          (VP
+            (VP
+              (PP-DIR (p 自) (NP (a 年轻)))
+              (ADVP (d 就))
+              (VP (v 开始) (VP (vi 健身))))
+            (wd ，)
+            (c 并且)
+            (VP
+              (v 拥有)
+              (NP-OBJ
+                (CP
+                  (WHNP-3 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 不错)))
+                    (ude 的)))
+                (NP (n 肌力))))))))
+    (wd ，)
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (ADVP (d 贸然)) (VP (v 使用) (NP-OBJ (n 健身) (n 器材)))))
+    (VP (ADVP (d 反而)) (VP (v 会) (VP (v 消耗) (NP-OBJ (n 软骨))))))
+  (wd ，)
+  (IP (NP-SBJ (n 弊)) (VP (v 多于) (NP-OBJ (n 益))))
+  (wf ；)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (DNP (NP (n 小孩) (n 运动)) (ude 的)) (NP (n 心理)))
+    (VP (vshi 是) (IP-PRD (NP (n 游戏) (k 性)) (VP (vi 居多)))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 让)
+        (NP-OBJ (r 他们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 使用) (NP-OBJ (n 运动) (n 器材))))))
+    (VP
+      (ADVP (d 也))
+      (ADVP (a 容易))
+      (PP-PRP (p 因) (NP (vi 嬉戏)))
+      (VP (v 发生) (NP-OBJ (a 意外)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (dl 随时随地)
+        (wd ，)
+        (VP
+          (VP (v 逛) (NP-OBJ (n 公园)))
+          (wn 、)
+          (VP (v 爬) (NP-OBJ (n 楼梯)))
+          (wd ，)
+          (VP (PP-LOC (p 在) (LCP (NP (n 生活)) (f 中))) (VP (vi 运动))))))
+    (VP (ADVP (d 更)) (VP (a 自然))))
+  (wd ，)
+  (wyy 」)
+  (NP-SBJ (r 她))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV (NP-SBJ (n 话)) (VP (ADVP (c 虽)) (VP (r 如此))))
+    (wd ，)
+    (ADVP (c 但))
+    (IP-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 逛) (NP-OBJ (n 公园))))
+    (VP
+      (ADVP (d 到底))
+      (ADVP (d 并))
+      (ADVP (d 不))
+      (VP
+        (vi 等同)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (VCD (vd 持续) (v 渐进))))
+              (ude 的)))
+          (NP (n 健身房) (n 运动))))))
+  (wd ，)
+  (IP
+    (PP-ADV
+      (PP-DIR
+        (p 从)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (ADVP (d 最)) (VP (a 早))))
+              (ude 的)))
+          (NP-PN (wyz 「) (nrf 克拉克) (n 健身) (n 俱乐部) (wyy 」))))
+      (PP-DIR
+        (p 到)
+        (NP
+          (DNP (NP (t 今天)) (ude 的))
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (IP
+              (NP-SBJ (ADJP (a 大)) (NP (n 饭店)))
+              (VP (v 附设) (NP-OBJ (-NONE- *T*-3)))))
+          (NP (n 健身) (n 美容) (n 中心)))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-4 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-4))
+            (VP
+              (VSB (vd 持续) (vi 健身))
+              (y 了)
+              (QP-EXT (m 十五) (CLP (q 年)))))
+          (ude 的)))
+      (NP-APP
+        (NP (NP (ADJP (a 高)) (NP (n 科技))) (NP (n 产业)))
+        (NP (n 行销) (n 主管)))
+      (NP-PN (nr 姜丽华)))
+    (VP
+      (ADVP (d 则))
+      (VP
+        (v 认为)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-5 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-5))
+                    (VP (ADVP (d 长期)) (VP (v 上) (NP-OBJ (n 健身房)))))
+                  (ude 的))))
+            (VP
+              (ADVP (d 一定))
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (CP
+                    (WHNP-6 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-6))
+                        (VP
+                          (VP (v 爱) (NP-OBJ (vi 运动)))
+                          (wn 、)
+                          (VP (v 爱) (NP-OBJ (r 自己)))
+                          (wn 、)
+                          (VP (v 讲求) (NP-OBJ (n 生活) (n 品质)))))
+                      (ude 的)))
+                  (NP (n 人))))))
+          (wd ，)
+          (IP
+            (ADVP (c 而))
+            (NP-SBJ (r 这))
+            (VP
+              (ADVP (d 绝对))
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (CP
+                    (WHNP-7 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-7))
+                        (VP (v 值得) (NP-OBJ (v 投资))))
+                      (ude 的)))
+                  (ADJP (a 好))
+                  (NP (n 习惯))))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 应该) (VP (ADVP (r 自我)) (VP (v 鞭策)))))))))
+  (wd ，)
+  (IP
+    (IP-TPC-8
+      (wyz 「)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP (p 与) (NP (r 其)))
+        (VP (VP (n 花) (NP-OBJ (n 时间) (wn 、) (n 金钱))) (VP (vi 看病)))
+        (wd ，)
+        (c 不如)
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (r 之))
+            (VP
+              (v 投资)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 锻炼) (NP-OBJ (n 身体)))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 她))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-8))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 业者))
+    (VP (ADVP (d 也)) (VP (v 看好) (NP-OBJ (t 未来) (n 市场)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nx EricLevine))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ
+            (DNP
+              (NP-PN (wyz 「) (ns 加州) (n 健身) (n 中心) (wyy 」))
+              (ude 的))
+            (NP-PN (ns 台北))
+            (NP-PN (v 统领) (n 店)))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (NP (r 他们))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-1))
+                    (NP-LOC (n 全球))
+                    (NP-SBJ (n 会员))
+                    (VP (ADVP (d 最)) (VP (a 多))))
+                  (ude 的)))
+              (NP (n 连锁店)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (vi 健身))
+          (VP
+            (ADVP (d 不))
+            (VP (v 像) (NP-OBJ (DP (r 其他)) (NP (n 消费) (n 习惯))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (DNP (NP (n 现代人) (n 运动)) (ude 的)) (NP (n 需求)))
+          (VP
+            (VP (ADVP (d 只)) (VP (v 会) (VP (v 增加))))
+            (VP (ADVP (d 不)) (VP (v 会) (VP (v 减少))))))
+        (wd ，)
+        (IP
+          (NP-TPC (r 他))
+          (ADVP (d 仍然))
+          (PP-DIR (p 对) (NP (NP-PN (ns 台湾)) (NP (n 市场))))
+          (NP-SBJ (n 信心))
+          (VP (z 满满))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 29)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (NP (NP (ADJP (a 快)) (NP (n 节奏))) (NP (n 音乐)))
+    (wn 、)
+    (NP (ADJP (nz 炫丽)) (NP (n 灯光)))
+    (wn 、)
+    (NP (n 电视机)))
+  (wd ，)
+  (NP-SBJ (n 外商) (n 健身) (n 俱乐部))
+  (VP
+    (VP
+      (d 将)
+      (IP-OBJ
+        (NP-SBJ (vi 健身))
+        (VP (VRD (v 营造) (v 成)) (NP-OBJ (n 流行) (n 时尚)))))
+    (wd ，)
+    (VP
+      (v 吸引)
+      (NP-OBJ (IP (VP (ADVP (d 都)) (VP (v 会)))) (n 上班族))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (LCP (NP (vi 站)) (v 上)) (NP-OBJ (n 跑步机))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wkz （)
+  (NP-SBJ (n 场地) (v 提供))
+  (VP (NP-PN-PRD (ns 加州) (n 健身) (n 中心)))
+  (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 30)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC-2
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 健美))) (ude 的)))
+      (NP (n 身材)))
+    (NP-SBJ (n 人人))
+    (VP (v 艳羡) (NP-OBJ (-NONE- *T*-2))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHPP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 现代人))
+                (VP
+                  (PP-PRP (-NONE- *T*-3))
+                  (VP (VRD (v 走) (v 入)) (NP-OBJ (n 健身房)))))
+              (ude 的)))
+          (ADJP (ADVP (d 最)) (ADJP (a 大)))
+          (NP (n 动机))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 邱瑞金)) (VP (v 摄)) (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 33)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (NP (n 举重) (b 有氧) (PRN (wkz （) (NP (f 左上)) (wky ）)))
+    (wn 、)
+    (NP (nr 瑜珈) (PRN (wkz （) (NP (f 左下)) (wky ）)))
+    (wn 、)
+    (NP (n 红外线) (n 照射器) (PRN (wkz （) (NP (f 下)) (wky ）)))
+    (wn 、)
+    (NP (nr 踩步机) (PRN (wkz （) (NP (f 右) (n 图)) (wky ）)))
+    (udeng 等))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (VP (v 融合) (NP-OBJ (NP (f 东西)) (NP (an 健康) (n 观念))))
+            (wn 、)
+            (VP (b 多元))))
+        (ude 的)))
+    (NP (n 运动) (n 课程)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (NP (ADJP (a 新)) (NP (n 世纪)))
+      (DNP (NP (vi 健身)) (ude 的))
+      (NP (n 潮流))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wkz （)
+  (NP-SBJ (n 场地) (v 提供))
+  (VP
+    (NP-PN-PRD (IP (NP (n 亚力山)) (VP (a 大))) (an 健康) (n 休闲) (n 俱乐部)))
+  (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 34)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (DP (r 每家)) (NP (n 健身) (n 中心))) (ude 的))
+      (NP (n 设备)))
+    (VP (a 不同)))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 价钱))
+    (VP (ADVP (d 也)) (VP (VP-FOC (v 差)) (VP (m 很多)))))
+  (wd ，)
+  (IP (NP-SBJ (n 消费者)) (VP (ADVP (d 最好)) (VP (vl 货比三家))))
+  (wj 。)))
+</S>

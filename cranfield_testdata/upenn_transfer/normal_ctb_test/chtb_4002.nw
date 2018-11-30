@@ -1,0 +1,169 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (m 第四) (CLP (q 届)))
+      (IP-APP (NP-SBJ (n 全球)) (VP (v 防治) (NP-OBJ (n 禽流感))))
+      (NP (n 会议)))
+    (VP
+      (v 预定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (NP-TMP (t 十二月) (t 六日) (p 至) (t 八日))
+          (PP-LOC (p 在) (NP (NP-PN (ns 非洲)) (NP-PN (n 马利))))
+          (VP (v 举行))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 专家))
+    (VP
+      (NP-TMP (t 今天))
+      (VP
+        (v 指出)
+        (wd ，)
+        (IP-OBJ
+          (IP-ADV
+            (NP-SBJ
+              (DNP (ADJP (vi 致命)) (ude 的))
+              (ADJP (ADVP (a 高)) (NP (n 病原) (k 性)))
+              (NP (n 禽流感) (n 病毒)))
+            (VP
+              (ADVP (d 一旦))
+              (VP
+                (VRD (v 扩散) (v 到))
+                (NP-OBJ
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-TPC (-NONE- *T*-1))
+                          (NP-SBJ (n 防疫) (n 准备))
+                          (VP (a 不足)))
+                        (ude 的)))
+                    (NP (n 国家)))
+                  (wd ，)
+                  (PRN
+                    (NP
+                      (ADVP (v 如))
+                      (NP (NP-PN (ns 非洲) (wn 、) (ns 中东)) (NP (n 国家)))))))))
+          (wd ，)
+          (NP-SBJ (n 国际) (n 捐助) (n 机构))
+          (VP
+            (v 应)
+            (VP
+              (VP
+                (ADVP (d 再))
+                (VP
+                  (v 增加)
+                  (NP-OBJ (QP (m 十亿) (CLP (q 美元))) (NP (n 经费)))))
+              (wd ，)
+              (VP
+                (c 以)
+                (VP
+                  (v 协助)
+                  (NP-OBJ (DP (r 这些)) (NP (n 地区)))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VRD (v 做) (a 好)) (NP-OBJ (n 防疫) (n 工作))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP (NP-PN (nt 联合国)) (NP (n 禽流感) (n 协调员)))
+      (NP-PN (nrf 纳巴罗)))
+    (wn 、)
+    (NP
+      (NP-APP (NP-PN (n 世界) (n 银行)) (NP (n 经济) (n 专家)))
+      (NP-PN (nrf 卓纳斯))))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (UCP-APP
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 扩大) (NP-OBJ (n 捐款))))
+          (c 与)
+          (NP (n 经费) (n 需求))
+          (udeng 等))
+        (NP (n 问题)))
+      (wd ，)
+      (VP
+        (ADVP (d 将))
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (QP (m 第四) (CLP (q 届)))
+              (IP-APP (NP-SBJ (n 全球)) (VP (v 防治) (NP-OBJ (n 禽流感))))
+              (NP (n 会议)))
+            (f 中)))
+        (VP (VSB (v 讨论) (v 解决))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 两) (CLP (q 位))) (NP (n 专家)))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (PP-ADV
+        (p 除了)
+        (LCP
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP
+                            (NP-TMP (t 一月份))
+                            (PP-LOC (p 在) (NP-PN (ns 北京)))
+                            (VP (v 举行))))
+                        (ude 的)))
+                    (QP (m 第三) (CLP (q 次)))
+                    (IP-APP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 防治) (NP-OBJ (n 禽流感))))
+                    (NP (n 会议)))
+                  (VP (usuo 所) (VP (v 决定) (NP-OBJ (-NONE- *T*-2)))))
+                (ude 的)))
+            (NP (NP (n 捐款)) (QP (m 十九亿) (CLP (q 美元)))))
+          (f 之外)))
+      (wd ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 预估)
+        (IP-OBJ
+          (LCP-TMP
+            (NP (t 未来))
+            (LCP
+              (QP
+                (QP (m 两) (CLP (q 年)))
+                (p 到)
+                (QP (m 三) (CLP (q 年))))
+              (f 内)))
+          (wd ，)
+          (NP-SBJ (n 防疫) (n 经费))
+          (VP
+            (v 需)
+            (VP
+              (ADVP (d 另外))
+              (VP
+                (v 增加)
+                (LCP-EXT
+                  (QP
+                    (QP (m 九亿八千六百万) (CLP (q 美元)))
+                    (p 到)
+                    (QP (m 十三亿) (CLP (q 美元))))
+                  (f 之间)))))))))
+  (wj 。)))
+</S>

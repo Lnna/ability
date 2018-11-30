@@ -1,0 +1,165 @@
+<S>
+( (IP-HLN
+  (IP-SBJ
+    (NP-PN-SBJ (n 国家) (n 开发) (n 银行))
+    (VP
+      (QP-ADV (m 首) (CLP (q 次)))
+      (PP-LOC (p 在) (NP (s 国外)))
+      (VP (v 发行) (NP-OBJ (n 债券)))))
+  (VP (a 成功))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 二月) (t 二十九日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 国家) (n 开发) (n 银行))
+  (VP
+    (NP-TMP (t 日前))
+    (PP-LOC (p 在) (NP (NP-PN (ns 日本)) (NP (n 资本) (n 市场))))
+    (DVP (VP (a 成功)) (ude 地))
+    (VP
+      (v 发行)
+      (y 了)
+      (NP-OBJ (QP (m 三百亿) (CLP (n 日元))) (NP (n 武士) (n 债券)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP (p 据) (NP (v 了解)))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP (-NONE- *T*-2))
+              (DP-ADV (r 这) (CLP (q 次)))
+              (VP (v 发行) (NP-OBJ (n 武士) (n 债券)))))
+          (ude 的)))
+      (NP (n 条件)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-3))
+              (VP
+                (LCP-TMP
+                  (QP (ADVP (a 近)) (QP (m 几) (CLP (q 年))))
+                  (f 来))
+                (ADVP (d 比较))
+                (VP (v 优惠))))
+            (ude 的))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 筹集) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 资金)))
+    (VP
+      (ADVP (d 将))
+      (ADVP (d 主要))
+      (VP
+        (v 用于)
+        (NP-OBJ
+          (NP-APP
+            (NP (NP-PN (ns 广东) (ns 岭澳)) (NP (n 核电) (n 工程)))
+            (wn 、)
+            (NP-PN (ns 伊敏) (n 电厂))
+            (c 和)
+            (NP-PN (ns 绥中) (n 电厂))
+            (udeng 等))
+          (NP (n 国家) (n 重点) (n 建设) (n 项目))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 国家) (n 开发) (n 银行))
+  (VP
+    (PP-TMP (p 自) (LCP (NP (vi 成立)) (f 以来)))
+    (wd ，)
+    (PP-BNF (p 为) (NP (n 国家) (n 重点) (n 建设) (n 项目)))
+    (VP (v 筹集) (y 了) (NP-OBJ (CLP (m 大批)) (NP (n 资金)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九九五年))
+  (wd ，)
+  (NP-PN-SBJ (n 国家) (n 开发) (n 银行))
+  (VP
+    (VP
+      (DVP (VP (a 成功)) (ude 地))
+      (VP
+        (v 组织)
+        (y 了)
+        (NP-OBJ
+          (QP (m 首) (CLP (q 次)))
+          (QP (m 五千万) (CLP (q 美元)))
+          (NP (n 外国) (n 银团) (n 贷款)))))
+    (wd ，)
+    (VP
+      (ADVP (c 同时))
+      (VP
+        (v 承做)
+        (y 了)
+        (NP-OBJ
+          (DNP
+            (NP
+              (DNP
+                (NP
+                  (NP-APP
+                    (NP (NP-PN (ns 岭澳)) (NP (n 核电) (n 工程)))
+                    (wn 、)
+                    (NP (NP-PN (ns 秦山)) (QP (b 二期)) (NP (n 核电)))
+                    (udeng 等))
+                  (NP (n 项目)))
+                (ude 的))
+              (NP (s 国外) (n 出口) (n 信贷)))
+            (ude 的))
+          (NP (n 转贷)))))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 从)
+        (NP
+          (NP-APP (n 内资) (c 和) (n 外资))
+          (QP (m 两) (CLP (q 个)))
+          (NP (n 方面))))
+      (ADVP (d 不断))
+      (VP
+        (v 加大)
+        (NP-OBJ
+          (DNP (PP (p 对) (NP (n 重点) (n 建设) (n 项目))) (ude 的))
+          (NP (n 支持) (n 力度)))))
+    (wd ，)
+    (VP
+      (PP-BNF
+        (p 为)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 推动) (NP-OBJ (NP-PN (ns 中国)) (NP (n 经济) (n 发展))))))
+      (VP
+        (v 发挥)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 积极))) (ude 的)))
+          (NP (n 作用))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

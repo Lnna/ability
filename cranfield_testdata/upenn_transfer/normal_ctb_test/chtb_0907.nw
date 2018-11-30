@@ -1,0 +1,265 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 吉林) (ns 长春))
+  (VP (v 开发) (NP-OBJ (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 房))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 长春)
+  (t 十二月)
+  (t 二十七日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 张跃文)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (ns 吉林省) (ns 长春市))
+          (VP (NP-TMP (t 今年)) (VP (v 规划) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (NP
+      (QP (m 首) (CLP (q 批)))
+      (ADJP (a 经济))
+      (ADJP (a 适用))
+      (NP (n 房)))
+    (NP (n 工程)))
+  (wd ，)
+  (VP
+    (VP (NP-TMP (t 目前)) (ADVP (d 已)) (ADVP (ad 全面)) (VP (vi 开工)))
+    (wd ，)
+    (c 并且)
+    (VP
+      (VP (v 有望))
+      (VP
+        (PP-TMP (p 在) (NP (t 今年) (t 年底)))
+        (QP-ADV (m 首) (CLP (q 期)))
+        (VP (vi 竣工) (QP-EXT (m 六十五万) (CLP (q 平方米)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (v 开发) (NP-OBJ (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 房)))))
+  (wd ，)
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (NP-PN (ns 中国)) (NP (n 政府)))
+            (VP
+              (PP-PRP
+                (v 为)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 扩大) (NP-OBJ (s 国内) (n 需求)))))
+              (VP (c 而) (VP (v 采取) (NP-OBJ (-NONE- *T*-1))))))
+          (ude 的)))
+      (QP (m 一) (CLP (q 项)))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (d 比较)) (VP (a 重要))))
+          (ude 的)))
+      (NP (n 措施))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这种))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-MNR
+              (p 按照)
+              (NP
+                (DNP (NP (n 经济) (wn 、) (n 适用) (wn 、) (n 微利)) (ude 的))
+                (NP (n 标准))))
+            (wd ，)
+            (PP-MNR
+              (p 以)
+              (NP
+                (UCP-APP
+                  (NP (b 专项) (n 贷款))
+                  (c 和)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 减免) (NP-OBJ (n 税费))))
+                  (udeng 等))
+                (NP (n 方式))))
+            (VP (VSB (v 支持) (v 建设)) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (NP (n 低价位))
+    (NP (n 商品房)))
+  (wd ，)
+  (VP
+    (ADVP (d 将))
+    (VP
+      (v 满足)
+      (NP-OBJ
+        (DNP
+          (NP
+            (NP (n 中低收入))
+            (NP (CP (IP (VP (v 无) (NP (n 房))))) (NP (k 者))))
+          (ude 的))
+        (NP (n 住房) (n 需要)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (IP (NP-PN-SBJ (nt 建设部)) (VP (v 预计))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TMP (t 今年))
+          (NP-SBJ (ADJP (n 国有)) (NP (n 商业) (n 银行)))
+          (VP
+            (v 投放)
+            (NP-OBJ (-NONE- *T*-1))
+            (PP (p 在) (NP (DP (r 此)) (NP (n 方面))))))
+        (ude 的)))
+    (NP (n 贷款)))
+  (VP (VP (v 有望)) (VP (v 达到) (QP-OBJ (m 三百六十亿) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (IP
+            (NP-TMP (t 今年))
+            (NP-SBJ (DP (r 这个)) (NP (n 市)))
+            (VP (v 规划) (NP-OBJ (-NONE- *T*-1)))))
+        (QP (m 首) (CLP (q 批)))
+        (ADJP (a 经济))
+        (ADJP (a 适用))
+        (NP (n 房)))
+      (n 总面积))
+    (VP (v 为) (QP-PRD (m 一百八十六万) (CLP (q 平方米)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vi 分布)
+      (PP
+        (p 在)
+        (LCP (NP (QP (m 六十三) (CLP (q 个))) (NP (n 住宅)) (n 小区)) (f 内)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (b 总)) (NP (n 投资)))
+    (VP (QP-PRD (m 十四点五亿) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 房)))
+    (VP
+      (v 受到)
+      (NP-OBJ
+        (DNP (NP (ADJP (b 广大)) (NP (n 无房户))) (ude 的))
+        (NP (n 青睐)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (ns 长春市))
+                  (VP
+                    (LCP-TMP (t 不久前))
+                    (VP (v 举办) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (n 认购) (n 大会)))
+          (f 上)))
+      (wd ，)
+      (QP-TMP (m 第一) (CLP (q 天)))
+      (ADVP (d 就))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (QP (QP (QP (m 七百)) (ADVP (m 多))) (CLP (q 户)))
+            (NP (n 居民)))
+          (VP (v 签订) (y 了) (NP-OBJ (n 购房) (n 协议)))))))
+  (wd ，)
+  (IP (NP-SBJ (n 总面积)) (VP (v 接近) (QP-OBJ (m 六万) (CLP (q 米)))))
+  (wd ，)
+  (IP (NP-SBJ (v 售房) (n 总值)) (VP (QP-PRD (m 一亿) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 开发商) (k 们)) (ude 的)) (NP (an 热情)))
+    (VP (ADVP (d 很)) (VP (a 高))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (v 相信)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-MNR
+            (p 随着)
+            (NP
+              (NP
+                (NP
+                  (DNP (NP (n 福利) (n 分房) (n 制度)) (ude 的))
+                  (NP (n 消失)))
+                (wn 、)
+                (NP
+                  (DNP (NP (n 住房) (n 消费) (n 贷款)) (ude 的))
+                  (NP (b 大规模))
+                  (NP (n 出现)))
+                (c 以及)
+                (NP
+                  (DNP (NP (n 居民) (n 收入) (n 水平)) (ude 的))
+                  (NP (n 提高))))))
+          (wd ，)
+          (NP-TMP (t 明年))
+          (ADVP (d 将))
+          (VP
+            (v 会)
+            (VP
+              (v 出现)
+              (NP-OBJ
+                (QP (m 一个))
+                (DNP
+                  (NP (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 房)))
+                  (ude 的))
+                (NP (n 消费) (n 高潮)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

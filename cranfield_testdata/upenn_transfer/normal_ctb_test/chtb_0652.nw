@@ -1,0 +1,296 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nr 盛华仁))
+  (VP
+    (v 谈)
+    (NP-OBJ
+      (NP (t 明年))
+      (NP (NP-PN (ns 中国)) (NP (n 经贸)))
+      (NP (n 工作) (n 重点))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 十二月) (t 二十七日) (n 电)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 据)
+    (NP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (a 最新)) (VP (v 出版) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (QP (m 第五十二) (CLP (q 期)))
+        (NP-PN-TTL (wkz 《) (y 了) (NP (n 望)) (wky 》)))
+      (NP (v 报道))))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP (NP-PN (n 国家) (nt 经贸委)) (NP (n 主任)))
+    (NP-PN (nr 盛华仁)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-TMP (t 明年))
+      (NP-SBJ (NP-PN (ns 中国)) (NP (n 经贸) (n 工作)))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP
+            (v 围绕)
+            (NP-OBJ (QP (m 三) (CLP (q 年))) (NP (n 改革) (c 与) (n 脱困))))
+          (VP (v 来) (VP (v 进行)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 盛华仁))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 要)
+        (VP
+          (ADVP (ad 切实))
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ (NP (n 脱困)) (NP (n 任务) (c 和) (n 责任)))
+              (VP
+                (VRD (VCD (v 分解) (v 落实)) (v 到))
+                (NP-OBJ
+                  (NP (DP (r 每个)) (NP (n 企业) (wn 、) (n 行业)))
+                  (c 及)
+                  (NP (DP (r 各级)) (NP (n 政府)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (d 不))
+            (VP (v 能) (VP (ADVP (d 如期)) (VP (v 实现) (NP-OBJ (v 扭亏)))))))
+        (ude 的)))
+    (NP (n 企业)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 要) (VP (ADVP (ad 坚决)) (VP (v 撤换) (NP-OBJ (n 负责人)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 要)
+    (VP
+      (VP (v 加快) (NP-OBJ (n 行业) (n 调整) (c 与) (n 改组) (n 步伐)))
+      (wd ，)
+      (VP
+        (ADVP (ad 努力))
+        (VP
+          (v 提高)
+          (NP-OBJ
+            (DNP (NP (n 经济) (n 运行)) (ude 的))
+            (NP (n 质量) (c 和) (n 效益)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 盛华仁))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 加大)
+        (NP-OBJ
+          (NP
+            (IP-APP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VP (v 兼并) (NP-OBJ (vi 破产)))
+                (wn 、)
+                (VP (VCD (vi 下岗) (vi 分流)))
+                (c 和)
+                (VP (ADVP (d 再)) (VP (vi 就业)))))
+            (NP (n 工作)))
+          (NP (n 力度))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 继续)
+    (VP
+      (vi 推进)
+      (NP-OBJ (NP (ADJP (t 现代)) (NP (n 企业) (n 制度))) (NP (n 建设)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 要)
+    (VP
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ
+            (NP
+              (DNP (NP (ADJP (n 国有)) (NP (n 经济))) (ude 的))
+              (ADJP (n 战略性))
+              (NP (n 改组)))
+            (p 与)
+            (NP (n 企业) (v 脱困)))
+          (VP (VRD (v 结合) (v 起来)))))
+      (wd ，)
+      (VP
+        (PP-MNR
+          (p 通过)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 壮大) (NP-OBJ (n 优势) (n 企业)))))
+        (VP
+          (v 带动)
+          (NP-OBJ (ADJP (a 困难)) (NP (n 企业)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 摆脱) (NP-OBJ (n 困境))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (v 加强)
+      (NP-OBJ
+        (DNP (PP (p 对) (NP (NP (n 中小企业)) (NP (n 发展)))) (ude 的))
+        (NP (n 引导))))
+    (wd ，)
+    (VP
+      (v 使)
+      (NP-OBJ (r 其))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 成为)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+            (NP (n 经济) (n 增长点)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (v 推动)
+      (NP-OBJ (n 企业) (n 技术))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 进步))))
+    (wd ，)
+    (VP
+      (v 提高)
+      (NP-OBJ (DNP (NP (n 企业) (n 技术)) (ude 的)) (NP (n 创新) (n 能力)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 盛华仁))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (VP (v 整顿) (NP-OBJ (-NONE- *RNR*-1)))
+          (c 和)
+          (VP (v 规范) (NP-OBJ-1 (n 市场) (n 秩序))))
+        (wd ，)
+        (VP
+          (v 鼓励)
+          (NP-OBJ (n 企业))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (ADVP (ad 积极)) (VP (v 开拓) (NP-OBJ (s 海内外) (n 市场)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 要)
+    (VP
+      (VP
+        (v 继续)
+        (VP
+          (VP (v 坚持) (NP-OBJ (-NONE- *RNR*-1)))
+          (c 和)
+          (VP (v 完善) (NP-OBJ-1 (n 行业) (n 价格) (n 自律) (n 工作)))))
+      (wd ，)
+      (VP
+        (v 引导)
+        (NP-OBJ (n 企业))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ (v 竞争))
+              (VP
+                (VP
+                  (VRD (v 转) (v 到))
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (VP (v 提高) (NP-OBJ (n 产品) (n 质量)))
+                      (wd ，)
+                      (VP
+                        (v 改善)
+                        (NP-OBJ (LCP (NP (nl 售)) (v 后)) (NP (wj 服务)))))))
+                (VP (VV 上来)))))))))
+  (PU 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 加快) (NP-OBJ (n 市场) (n 立法) (n 步伐))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 要)
+      (VP
+        (VP
+          (v 继续)
+          (VP
+            (VSB (v 协调) (v 制定))
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 扩大) (NP-OBJ (vi 出口))))
+                (ude 的))
+              (NP (n 政策) (n 措施)))))
+        (wd ，)
+        (VP (VRD (v 做) (a 好)) (NP-OBJ (n 进出口) (n 管理) (n 工作))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

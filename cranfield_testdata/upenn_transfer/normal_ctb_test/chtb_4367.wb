@@ -1,0 +1,250 @@
+<S>
+( (IP
+  (NP-TPC (NP-PN (n 中新网)) (NP (t 11月) (t 23日)) (NP (n 电)))
+  (PP-MNR
+    (p 据)
+    (IP
+      (NP-SBJ (NP-PN (ns 日本)) (NP-PN (wkz 《)) (nz 中文) (n 导报) (wky 》))
+      (VP (v 报道))))
+  (wd ，)
+  (NP-TMP (t 11月) (t 15日) (wp －) (t 25日))
+  (wd ，)
+  (NP-PN-SBJ (ns 中国) (ns 大连市))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP
+        (NP-PN-APP
+          (NP (ns 东京))
+          (wn 、)
+          (NP (ns 名古屋))
+          (wn 、)
+          (NP (ns 大阪))
+          (wn 、)
+          (NP (ns 京都))
+          (wn 、)
+          (IP (NP (ns 金)) (VP (n 泽)))
+          (wn 、)
+          (NP (n 舞鹤))
+          (wn 、)
+          (NP (nz 富山))
+          (wn 、)
+          (NP (nz 群马))
+          (udeng 等))
+        (NP (n 地))))
+    (VP
+      (v 举办)
+      (y 了)
+      (NP-OBJ
+        (DP (bl 各种各样))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (VCD (al 丰富多彩))))
+            (ude 的)))
+        (NP-PN (ns 日本))
+        (wyz “)
+        (NP (ns 大连))
+        (NP (n 周))
+        (wyy ”)
+        (NP (n 活动)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (ADVP (d 进一步))
+      (VP
+        (v 扩大)
+        (y 了)
+        (NP-OBJ
+          (NP-PN (ns 大连))
+          (DNP (PP (p 在) (NP-PN (ns 日本))) (ude 的))
+          (NP (n 影响力) (c 和) (n 辐射面)))))
+    (wd ，)
+    (VP
+      (v 受到)
+      (y 了)
+      (NP-OBJ
+        (DNP
+          (NP
+            (NP (NP-PN (ns 日本)) (NP (n 新闻) (n 媒体)))
+            (c 及)
+            (NP (DP (r 各界)) (NP (n 人士))))
+          (ude 的))
+        (NP (n 关注))))
+    (wd ，)
+    (VP
+      (PP-LOC (p 在) (NP-PN (ns 日本)))
+      (VP
+        (v 掀起)
+        (y 了)
+        (NP-OBJ
+          (DNP (QP (ADJP (a 新)) (QP (m 一) (CLP (q 轮)))) (ude 的))
+          (wyz “)
+          (NP (ns 大连))
+          (NP (n 热))
+          (wyy ”)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP
+          (DP (r 本次))
+          (NP-PN (ns 日本))
+          (wyz “)
+          (NP (ns 大连))
+          (NP (n 周))
+          (wyy ”)
+          (NP (n 活动)))
+        (ude 的))
+      (NP (n 领导) (n 小组) (n 组长)))
+    (VP
+      (vshi 是)
+      (NP-PRD (NP-APP (NP-PN (ns 大连市)) (NP (n 市长))) (NP-PN (nr 夏德仁)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (PP-TMP (p 于) (NP (t 11月) (t 15日)))
+      (VP
+        (VP
+          (v 率)
+          (NP-OBJ (NP-PN (ns 大连市)) (NP (n 代表团)))
+          (VP (v 抵达) (NP-PN-OBJ (ns 东京)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 大连市)) (NP (n 代表团)))
+  (VP
+    (PP-LGS
+      (p 由)
+      (NP
+        (NP (n 政府) (n 团))
+        (wn 、)
+        (NP (n 经济团))
+        (wn 、)
+        (NP (n 文化团))
+        (wn 、)
+        (NP (n 教育团))
+        (wn 、)
+        (NP (n 体育团))
+        (wn 、)
+        (NP (s 海外) (n 人才) (n 招聘团))
+        (wn 、)
+        (NP (n 新闻团))
+        (c 和)
+        (NP (n 综合团))
+        (udeng 等)))
+    (VP (v 组成)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (NP
+      (NP-PN (ns 日本))
+      (wyz “)
+      (NP (ns 大连))
+      (NP (n 周))
+      (wyy ”)
+      (NP (f 期间))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 安排)
+    (y 了)
+    (NP-OBJ
+      (NP
+        (QP (m 14) (CLP (q 项)))
+        (DNP (NP (ADJP (d 较)) (ADJP (a 大)) (NP (n 规模))) (ude 的))
+        (NP (n 活动)))
+      (wd ，)
+      (PRN
+        (PP
+          (v 像)
+          (wm ：)
+          (NP
+            (NP-APP
+              (NP
+                (NP-PN (ns 大窑湾) (NP (ADJP (n 保税)) (NP (n 港区))))
+                (NP (v 说明) (c 暨) (n 洽谈会)))
+              (wn 、)
+              (NP
+                (NP (NP-PN (ns 大连)) (ADJP (n 重点)) (NP (n 工业园区)))
+                (VCD (v 推介) (n 会)))
+              (wn 、)
+              (NP (NP-PN (ns 日) (ns 中)) (NP (n 经济) (n 研讨会)))
+              (wn 、)
+              (NP (NP (nx IT) (n 产业)) (DFL (v 说明) (n 会)))
+              (udeng 等))
+            (DP (r 各种))
+            (NP (n 交流) (n 活动)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 11月) (t 19日))
+  (wd ，)
+  (NP-SBJ (NP-APP (NP-PN (ns 大连)) (NP (n 市长))) (NP-PN (nr 夏德仁)))
+  (VP
+    (PP-LOC (p 在) (NP-PN (ns 东京)))
+    (VP
+      (v 拜会)
+      (y 了)
+      (NP-OBJ
+        (NP-APP (NP-PN (ns 中国)) (VP (v 驻) (NP (ns 日))) (NP (n 大使)))
+        (NP-PN (nr 王毅)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 夏德仁))
+  (VP
+    (PP-DIR (p 向) (NP-PN (nr 王毅) (n 大使)))
+    (VP
+      (v 介绍)
+      (y 了)
+      (NP-OBJ
+        (NP
+          (DNP
+            (NP
+              (DP (r 本次))
+              (wyz “)
+              (NP (ns 大连))
+              (NP (n 周))
+              (wyy ”)
+              (NP (n 活动)))
+            (ude 的))
+          (ADJP (b 主要))
+          (NP (n 内容)))
+        (wd ，)
+        (c 以及)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (LCP-TMP
+                    (QP
+                      (IP-APP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP (v 赴) (NP-PN-OBJ (ns 日))))
+                      (QP (m 几) (CLP (q 天))))
+                    (f 来))
+                  (PP-ADV
+                    (p 与)
+                    (NP (NP-PN (ns 日本)) (QP (m 一些)) (NP (n 城市))))
+                  (VP (v 开展) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (ADJP (a 友好))
+          (NP (n 交流) (n 活动))))))))
+</S>

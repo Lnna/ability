@@ -1,0 +1,119 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 斯)) (NP (n 茶叶) (n 出口) (n 收入)))
+  (VP (v 增加))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 科伦坡) (t １２月) (t ３１日) (n 电)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 据)
+      (IP (NP-SBJ (r 此间) (n 媒体)) (VP (NP-TMP (t 今天)) (VP (v 报道)))))
+    (wd ，)
+    (NP-TMP
+      (NP (t 今年))
+      (DP (m 头) (QP (m １０) (CLP (q 个))))
+      (NP (n 月)))
+    (wd ，)
+    (NP-SBJ (DNP (NP-PN (ns 斯里兰卡)) (ude 的)) (NP (n 茶叶) (n 出口额)))
+    (VP
+      (VP
+        (v 为)
+        (QP-PRD (m ４３０亿) (CLP (q 卢比)))
+        (PRN
+          (wkz （)
+          (IP
+            (QP-SBJ (m １) (CLP (q 美元)))
+            (VP (ADVP (d 约)) (VP (v 合) (QP-OBJ (m ６８) (CLP (q 卢比))))))
+          (wky ）)))
+      (wd ，)
+      (VP
+        (PP (p 比) (NP (NP (t 去年)) (f 同期)))
+        (VP (v 增长) (QP-EXT (m 百分之二十五))))
+      (wd ，)
+      (VP
+        (PP (p 比) (DP (NP (t 去年)) (DP (n 全年))))
+        (VP (v 增加) (QP-OBJ (m ５亿) (CLP (q 卢比)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 报道))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP
+          (NP (t 今年))
+          (DP (m 头) (QP (m １０) (CLP (q 个))))
+          (NP (n 月)))
+        (wd ，)
+        (NP-SBJ (NP-PN-SBJ (r 斯)) (NP (n 茶叶) (n 产量)))
+        (VP
+          (VP (v 为) (QP-PRD (m ２．３３亿) (CLP (q 公斤))))
+          (wd ，)
+          (VP
+            (PP (p 比) (NP (NP (t 去年)) (f 同期)))
+            (VP (v 增加) (QP-OBJ (m ９００万) (CLP (q 公斤)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (DNP (NP (v 增产)) (ude 的)) (ADJP (b 主要)) (NP (n 原因)))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-TMP (t 今年))
+            (NP-SBJ (n 气候) (n 条件))
+            (VP
+              (v 适宜)
+              (NP-OBJ (DNP (NP (n 茶叶)) (ude 的)) (NP (n 生长)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 茶叶) (n 出口))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP (NP-PN (ns 斯里兰卡)) (ude 的))
+      (ADJP (b 主要))
+      (NP (n 外汇) (n 来源) (r 之一))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ
+      (NP-APP
+        (DNP (NP (NP-PN (ns 斯里兰卡)) (NP (n 茶叶))) (ude 的))
+        (ADJP (b 主要))
+        (NP (n 买主)))
+      (NP-PN (ns 俄罗斯)))
+    (VP (NP-TMP (t 今年)) (VP (v 发生) (NP-OBJ (n 金融) (n 危机)))))
+  (VP
+    (PP-DIR (p 对) (NP (NP-PN (r 斯)) (NP (n 茶叶) (vi 出口))))
+    (VP (v 造成) (NP-OBJ (n 影响))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 使)
+        (NP-OBJ (n 茶叶) (n 出口) (n 市场))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 多元化))))))
+  (wd ，)
+  (NP-PN-SBJ (ns 斯里兰卡))
+  (VP
+    (NP-TMP (t 今年))
+    (ADVP (ad 努力))
+    (PP-LOC (p 在) (NP (NP-PN (ns 中东) (c 和) (ns 拉美)) (NP (n 地区))))
+    (VP (v 开拓) (NP-OBJ (ADJP (a 新)) (NP (n 市场)))))
+  (wj 。)))
+</S>

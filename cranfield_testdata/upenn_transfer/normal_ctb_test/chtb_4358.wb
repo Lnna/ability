@@ -1,0 +1,183 @@
+<S>
+( (IP
+  (CP (IP (NP-SBJ (-NONE- *pro*)) (VP (vshi 是))) (y 啊))
+  (wt ！)
+  (IP
+    (NP-PN-SBJ (nr 毛泽东))
+    (VP
+      (VP (v 带领) (uzhe 着) (NP-OBJ (NP-PN (ns 中国)) (NP (n 人民))))
+      (wd ，)
+      (VP
+        (p 经过)
+        (NP-OBJ
+          (DNP (QP (m 几十) (CLP (q 年))) (ude 的))
+          (NP (n 流血) (c 与) (n 奋斗))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (r 他)) (ude 的)) (QP (n 一生)))
+  (VP
+    (d 早已)
+    (VP
+      (v 证明)
+      (y 了)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (ADVP (d 都))
+            (VP
+              (vshi 是)
+              (PP
+                (p 为了)
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 让)
+                    (NP-OBJ (n 世界))
+                    (IP (NP-SBJ (-NONE- *PRO*)) (VP (ns 太平))))))))
+          (wn 、)
+          (VP
+            (ADVP (d 都))
+            (VP
+              (vshi 是)
+              (PP
+                (p 为了)
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 让)
+                    (NP-OBJ (n 人民))
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (VRD (v 过) (v 上))
+                        (NP-OBJ
+                          (CP
+                            (WHNP-1 (-NONE- *OP*))
+                            (CP
+                              (IP
+                                (NP-SBJ (-NONE- *T*-1))
+                                (VP (VCD (a 安宁) (a 幸福))))
+                              (ude 的)))
+                          (NP (n 日子))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (QP (m 八亿)) (NP (n 人民))) (ude 的)) (NP (n 领袖)))
+  (wd ，)
+  (VP
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ (NP (r 自已)) (DNP (ADJP (a 宝贵)) (ude 的)) (NP (n 一生)))
+        (VP
+          (v 献给)
+          (y 了)
+          (NP-OBJ (DNP (NP (n 无产阶级)) (ude 的)) (NP (n 人民))))))
+    (wf ；)
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP
+            (NP
+              (NP-APP (DNP (NP (r 自己)) (ude 的)) (NP (n 长子)))
+              (NP-PN (nr 毛岸英)))
+            (ude 的))
+          (NP (n 生命)))
+        (wd ，)
+        (VP
+          (v 献给)
+          (y 了)
+          (NP-OBJ
+            (NP
+              (NP-PN (ns 中国))
+              (DNP (NP (n 无产阶级)) (ude 的))
+              (NP (n 人民) (c 和) (n 祖国))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr1 毛) (n 主席))
+    (VP
+      (v 掌管)
+      (uzhe 着)
+      (NP-OBJ
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-MNR (-NONE- *T*-1))
+                (VP (v 支配) (NP-PN-OBJ (ns 中国)))))
+            (ude 的)))
+        (DP (r 一切))
+        (NP (n 权力)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这)) (DP (r 一切)) (NP (n 权力)))
+    (VP
+      (ADVP (d 始终))
+      (VP
+        (VP (PP-BNF (p 为) (NP (n 民))) (VP (usuo 所) (VP (v 谋))))
+        (wd ，)
+        (VP (PP-BNF (p 为) (NP (n 民))) (VP (usuo 所) (VP (v 用)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (nl 古今中外)) (ude 的)) (NP (n 史实)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 证明)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (ADVP (c 只有))
+          (NP (NP (r 他)) (DNP (NP (t 晚年)) (ude 的)) (NP (n 声音))))
+        (wd ，)
+        (VP
+          (VP
+            (v 能)
+            (VP
+              (v 让)
+              (NP-PN-OBJ (ns 中国))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 震动)))))
+          (wn 、)
+          (VP
+            (v 能)
+            (VP
+              (v 让)
+              (NP-PN-OBJ (n 世界))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 震动)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-Q
+    (IP
+      (ADVP (c 可))
+      (NP-SBJ (r 他))
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 物质)) (f 上)))
+        (wd ，)
+        (ADVP (d 都))
+        (VP (v 吃) (y 了) (NP-OBJ (QP (CLP (q 些))) (NP-WH (r 什么))))))
+    (y 呢))
+  (ww ？)
+  (CP-Q
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 都))
+        (VP (v 用) (y 了) (NP-OBJ (QP (CLP (q 些))) (NP-WH (r 什么))))))
+    (y 呢))
+  (ww ？)))
+</S>

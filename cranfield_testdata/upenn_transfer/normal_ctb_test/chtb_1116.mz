@@ -1,0 +1,1514 @@
+<S>
+( (IP-Q-HLN (NP-SBJ (r 谁)) (VP (ADVP (d 先)) (VP (v 挥杆))) (ww ？)))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 张静茹)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 高尔夫))
+  (wd ，)
+  (VP
+    (ADVP (d 向来))
+    (VP
+      (pbei 被)
+      (VP
+        (v 视为)
+        (NP-OBJ (DNP (NP (s 西方) (n 仕绅)) (ude 的)) (NP (n 休闲) (n 活动))))))
+  (wd ，)
+  (IP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (v 追溯) (NP-OBJ (NP (n 历史)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP (NP (v 源)) (VP (v 起) (p 于)))
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (NP-PN (ns 苏格兰)) (NP (n 牧羊人)))
+              (VP
+                (PP-LOC (p 在) (LCP (NP (n 草原)) (f 上)))
+                (VP (v 玩) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (QP (m 一) (CLP (q 种)))
+        (NP (n 球) (n 戏)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九九三年) (t 九月))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 英国)) (QP (m 一) (CLP (q 家))) (NP (n 通讯社)))
+  (VP
+    (VP (v 发布) (NP-OBJ (QP (m 一) (CLP (q 则))) (NP (n 新闻))))
+    (VP
+      (v 指出)
+      (wm ：)
+      (IP-OBJ
+        (IP
+          (NP-SBJ
+            (NP (wyz 「) (n 捶丸) (wyy 」))
+            (wd ，)
+            (PRN
+              (c 或)
+              (VP (v 曰) (NP-OBJ (NP-PN (ns 中国)) (NP (n 高尔夫球))))))
+          (wd ，)
+          (VP
+            (PP-TMP
+              (ADVP (a 早))
+              (PP
+                (p 在)
+                (NP
+                  (NP-PN (n 元世祖))
+                  (IP (VP (p 至) (NP (q 元))))
+                  (QP (m 十九) (CLP (q 年)))
+                  (PRN
+                    (wkz （)
+                    (NP (NP (f 西)) (NP (q 元)))
+                    (NP (t 一二八二年))
+                    (wky ）)))))
+            (ADVP (d 就))
+            (PP-LOC (p 在) (NP-PN (ns 中国)))
+            (VP (v 出现))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-ADV
+              (p 比)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (DP (r 这) (CLP (q 项))) (NP (n 运动)))
+                      (VP
+                        (NP-TMP (-NONE- *T*-1))
+                        (PP-LOC (p 在) (NP-PN (ns 英格兰)))
+                        (VP (v 出现))))
+                    (ude 的)))
+                (NP (n 时间))))
+            (VP
+              (a 早)
+              (y 了)
+              (QP-OBJ (QP (QP (m 四百)) (ADVP (m 多))) (CLP (q 年)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (n 捶丸)) (ude 的))
+    (NP (n 比赛) (n 场地) (wn 、) (n 球) (n 戏) (n 规则)))
+  (VP (ADVP (d 都)) (PP (p 与) (NP (n 高尔夫))) (ADVP (d 非常)) (VP (a 相似)))
+  (w ……)
+  (wj 。)))
+</S>
+<S>
+( (IP-Q-HLN
+  (NP-SBJ (NP-PN (ns 中国)) (ADJP (a 老)) (NP (n 祖先)))
+  (VP (ADVP (d 也)) (VP (v 打) (NP-OBJ (n 高尔夫球))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP (IP-SBJ (v 口说)) (VP (v 无) (NP-OBJ (v 凭))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (vyou 有) (IP-OBJ (NP-SBJ (n 图)) (VP (v 为) (NP-PRD (n 证))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nr 宣宗))
+  (VP (v 追逐) (NP-OBJ (ADJP (nr 小白)) (NP (n 球))))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ
+      (NP (nr 明宣宗))
+      (PRN
+        (wp ——)
+        (NP
+          (LCP-LOC (NP (n 画)) (f 中))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (VP (v 挥杆)))))
+          (NP (n 人)))))
+    (wd ，)
+    (VP
+      (PP-MNR (p 以) (NP (DNP (NP (n 皇帝)) (uzhi 之)) (NP (n 尊))))
+      (VP (vi 打球))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 排场))
+    (VP
+      (d 足以)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 让)
+          (NP-OBJ (DNP (NP (t 今天)) (ude 的)) (NP (n 运动) (n 明星)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 咋舌)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TTL-SBJ (wkz 《) (n 丸经) (wky 》))
+  (VP
+    (v 记载)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (ns 中国))
+        (VP
+          (PP-TMP (p 在) (NP-PN (t 宋朝)))
+          (ADVP (d 已))
+          (VP (v 出现) (NP-OBJ (n 捶丸) (n 运动)))))
+      (wd ，)
+      (IP
+        (NP-TMP (t 当时))
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (ADVP (d 最))
+                  (VP
+                    (v 爱)
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (v 追逐) (NP-OBJ (nr 小白) (NP (n 球))))))))
+              (ude 的)))
+          (NP (n 帝王)))
+        (VP (v 当) (VP (v 属) (NP-PN-OBJ (nr 宋徽宗) (c 与) (nr 金章宗)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q-HLN
+  (NP (NP (ns 蒙古)) (NP (n 人)))
+  (VP (VRD (v 带) (v 进)) (NP-PN-OBJ (ns 欧洲)))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-TTL (wkz 《) (n 丸经) (wky 》)) (NP (n 全书)) (NP (n 目录)))
+    (VP
+      (VP (vyou 有) (QP-OBJ (m 三十二) (CLP (q 章))))
+      (wd ，)
+      (VP
+        (PP-DIR
+          (NP
+            (PP (p 从) (NP (n 捶丸) (n 比赛) (n 规则)))
+            (PP (p 到) (NP (v 挥杆) (n 要领))))
+          (wd ，)
+          (NP
+            (PP
+              (p 从)
+              (NP
+                (DNP (IP (NP (n 球)) (VP (a 棒))) (ude 的))
+                (NP (v 制造))))
+            (PP
+              (v 到)
+              (IP (NP-SBJ (n 场地)) (VP (ADVP (r 如何)) (VP (v 保养)))))))
+        (wd ，)
+        (NP (z 洋洋) (v 洒洒)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (n 专业) (c 与) (a 精致) (NP-EXT (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 程度)))
+    (VP
+      (ADVP (d 似))
+      (ADVP (d 也))
+      (ADVP (d 不))
+      (VP
+        (v 输)
+        (NP-OBJ
+          (DNP
+            (LCP
+              (IP (NP-SBJ (n 工商业) (p 与) (n 科技)) (VP (a 发达)))
+              (f 下))
+            (ude 的))
+          (ADJP (t 现代))
+          (NP (n 高尔夫球) (n 运动))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 比如))
+    (NP-SBJ (DNP (NP (n 捶丸)) (ude 的)) (NP (n 球杆)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (NP-APP
+            (n 杓棒)
+            (wn 、)
+            (n 扑棒)
+            (wn 、)
+            (n 单手)
+            (wn 、)
+            (n 鹰嘴)
+            (udeng 等))
+          (QP (m 十) (CLP (q 种)))))))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-PRD
+          (p 与)
+          (IP
+            (NP-SBJ (n 高尔夫) (n 选手))
+            (VP
+              (PP-LOC (p 在) (LCP (NP (v 比赛)) (f 中)))
+              (VP
+                (v 需要)
+                (VP
+                  (VRD (v 用) (v 到))
+                  (NP-OBJ
+                    (n 木杆)
+                    (wn 、)
+                    (n 铁杆)
+                    (wn 、)
+                    (n 长杆)
+                    (wn 、)
+                    (n 短杆))
+                  (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 辅助))))))))))
+    (wd ，)
+    (NP-SBJ (DNP (NP (n 捶丸)) (ude 的)) (NP (n 讲究)))
+    (VP (ADVP (d 犹)) (VP (vyou 有) (uguo 过) (NP (r 之)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除了)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (v 利用) (NP-OBJ (ADJP (b 天然)) (NP (n 山坡))))
+        (VP (vi 打球)))))
+  (wd ，)
+  (DVP (VP (b 同样)) (ude 的))
+  (wd ，)
+  (PP-LOC
+    (ADVP (c 即使))
+    (PP
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 平坦))) (ude 的)))
+          (NP (n 草地)))
+        (f 上))))
+  (wd ，)
+  (NP-SBJ (DNP (NP (n 捶丸)) (ude 的)) (NP (n 场地)))
+  (VP
+    (ADVP (d 也))
+    (DVP (VP (d 人为)) (ude 地))
+    (VP
+      (v 设)
+      (NP-OBJ
+        (QP (CLP (q 些)))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (NP (n 高低) (a 不平)))
+            (ude 的)))
+        (NP (n 障碍)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV (NP-SBJ (-NONE- *pro*)) (VP (dl 林林总总)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 可以)
+    (VP
+      (v 说)
+      (IP-OBJ
+        (PP-ADV (p 除了) (IP (NP-SBJ (n 名称)) (VP (a 不同))))
+        (wd ，)
+        (NP-SBJ
+          (DNP (NP (n 捶丸)) (ude 的))
+          (DP (b 整套))
+          (NP (n 球戏) (n 模式)))
+        (wd ，)
+        (VP
+          (ADVP (d 几乎))
+          (VP
+            (vshi 是)
+            (NP-PRD (DNP (NP (n 高尔夫) (n 运动)) (ude 的)) (NP (n 翻版))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (IP
+    (wyz 「)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ-1 (-NONE- *T*-2))
+            (VP
+              (pbei 被)
+              (IP-OBJ
+                (NP-SBJ (s 西方))
+                (VP
+                  (v 称为)
+                  (NP-OBJ
+                    (CP
+                      (WHNP (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *-1))
+                          (VP
+                            (IP (NP (vi 发源)) (VP (p 于)))
+                            (NP-OBJ (QP (m 十四)) (NP (n 世纪))))))))))))
+          (ude 的)))
+      (NP (n 高尔夫球)))
+    (wd ，)
+    (VP
+      (VP (ADVP (v 是否)) (PP-ADV (p 与) (NP (n 火药))) (VP (a 一样)))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (VP
+          (vshi 是)
+          (VP
+            (PP-LGS (p 由) (NP (ns 蒙古) (n 大军)))
+            (PP-TMP (p 在) (NP (QP (m 十三)) (NP (n 世纪))))
+            (VP (VRD (v 带) (v 进)) (NP-PN-OBJ (ns 欧洲))))))))
+  (ww ？)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 不少)) (NP (n 人)))
+  (VP
+    (ADVP (d 正))
+    (VP
+      (v 试图)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 了解)
+          (IP-OBJ
+            (NP-SBJ (n 高尔夫球))
+            (VP
+              (ADVP (v 是否))
+              (PP-DIR
+                (p 由)
+                (NP
+                  (NP-PN (ns 中国))
+                  (DNP (NP (t 古代)) (ude 的))
+                  (NP (n 捶丸))))
+              (VP (VP (n 发展) (wn 、) (vi 演变)) (VP (c 而) (VP (v 成))))))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (IP-APP (NP-SBJ (nz 高尔夫)) (VP (vi 亡国))) (NP (v 记))))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-Q-SBJ
+      (NP-SBJ
+        (NP (NP-PN (ns 中国)) (NP (n 捶丸)))
+        (p 与)
+        (NP (ADJP (t 现代)) (NP (n 高尔夫))))
+      (VP
+        (ADVP-WH (v 是否))
+        (ADVP (d 真))
+        (VP
+          (vyou 有)
+          (NP-OBJ (NP (wyz 「) (n 祖孙) (wyy 」)) (NP (n 关系))))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (n 史家)) (VP (v 研究) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (ADJP (a 新))
+        (NP (n 领域)))))
+  (wf ；)
+  (IP
+    (ADVP (c 但))
+    (NP-TPC
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (NP-TMP (t 现代)) (VP (v 风靡) (NP-OBJ (n 全球)))))
+          (ude 的)))
+      (ADJP (n 标准))
+      (NP (QP (m 十八)) (NP (n 洞)))
+      (NP (n 高尔夫球) (n 运动)))
+    (wd ，)
+    (NP-SBJ (n 研究) (n 人员))
+    (VP
+      (ADVP (d 却))
+      (ADVP (d 很))
+      (VP
+        (a 确定)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (vshi 是)
+            (VP
+              (PP-LGS (p 由) (NP-PN (ns 苏格兰)))
+              (ADVP (d 首先))
+              (VP (VRD (v 带) (v 起)) (NP-OBJ (n 风气)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP-PN (ns 苏格兰) (NP (IP (VP (NP (a 圣))) (wj ．)) (NP (n 安卓))))
+        (NP (f 附近)))
+      (ude 的))
+    (ADJP (b 天然))
+    (NP (n 滨海) (n 球场)))
+  (wd ，)
+  (VP
+    (IP-TMP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-DIR
+          (p 从)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (NP-TMP (QP (m 十八)) (NP (n 世纪)))
+              (VP (v 成为) (NP-OBJ (n 比赛) (n 场地))))))
+        (VP (v 开始))))
+    (wd ，)
+    (VP
+      (ADVP (d 至今))
+      (ADVP (d 仍))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP (NP (ADJP (n 职业)) (NP (n 高尔夫球) (n 选手))) (ude 的))
+          (ADJP (n 梦幻))
+          (NP (n 球场))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (DNP
+        (NP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (DP-ADV (r 每年))
+                    (PP-LOC
+                      (p 在)
+                      (NP-PN
+                        (NP (IP (VP (NP (a 圣))) (wj ．)) (NP (n 安卓)))
+                        (n 球场)))
+                    (VP (v 举办))))
+                (ude 的)))
+            (NP (n 世界))
+            (QP (m 四))
+            (NP (n 大赛)))
+          (NP (r 之一)))
+        (ude 的))
+      (wyz 「)
+      (NP (DP (a 全)) (NP-PN (ns 英)))
+      (NP (n 公开赛))
+      (wyy 」))
+    (wd ，)
+    (NP-SBJ (n 盛况))
+    (VP
+      (PP-PRD
+        (ADVP (d 正))
+        (PP
+          (v 如)
+          (NP
+            (DNP
+              (NP
+                (NP (DP (a 全)) (NP-PN (ns 美)))
+                (NP (n 篮球) (wn 、) (n 足球)))
+              (ude 的))
+            (NP (n 冠亚军) (n 赛)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-MNR (v 透过) (NP (n 电子) (n 媒体)))
+      (wd ，)
+      (ADVP (a 早))
+      (PP-LOC (p 在) (NP (QP (m 许多)) (NP (n 国家))))
+      (VP (v 造成) (NP-OBJ (v 观看) (n 热潮)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 台湾)) (NP (f 早期)) (NP (n 高球) (n 好手)))
+    (NP-PN (nr 吕良焕)))
+  (VP
+    (ADVP (d 曾))
+    (PP-LOC (p 在) (NP (r 此)))
+    (VP (v 拿) (uguo 过) (NP-OBJ (NP (n 公开赛)) (QP (m 第二) (CLP (q 名))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 根据)
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (ns 英国))
+                (VP (v 出版) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的))
+          (NP-TTL (wkz 《) (n 高尔夫) (n 百科全书) (wky 》)))
+        (VP (v 记载))))
+    (wd ，)
+    (NP-SBJ (n 高尔夫))
+    (VP
+      (ADVP (d 约))
+      (PP-TMP (p 在) (LCP (NP (t 一三一九年)) (m 左右)))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (DNP (NP (NP (ns 苏格兰)) (NP (n 人))) (ude 的))
+          (NP (n 休闲) (n 活动))))))
+  (wd ，)
+  (IP
+    (ADVP (ulian 连))
+    (NP-SBJ (n 军人) (n 武士))
+    (VP
+      (ADVP (d 都))
+      (VP (VP (v 乐) (NP (r 此))) (VP (ADVP (d 不)) (VP (r 彼))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 随着)
+      (IP
+        (NP-TPC
+          (NP (NP (ns 苏格兰)) (NP (n 人)))
+          (DNP (PP (p 对) (NP (n 高尔夫))) (ude 的))
+          (NP (n 热爱)))
+        (QP-SBJ (m 一) (CLP (q 日)))
+        (VP (v 胜过) (QP-OBJ (m 一) (CLP (q 日))))))
+    (wd ，)
+    (NP-TPC (n 军事) (n 技能))
+    (ADVP (d 也))
+    (QP-SBJ (m 一) (CLP (q 日)))
+    (VP (v 不如) (QP-OBJ (m 一) (CLP (q 日)))))
+  (wd ，)
+  (IP
+    (ADVP (f 最后))
+    (NP-PN-SBJ (ns 苏格兰))
+    (VP (IP (NP (n 臣)) (VP (v 服))) (NP-PN-OBJ (ns 英国))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 高尔夫球))
+    (VP
+      (VP
+        (ADVP (d 却))
+        (ADVP (d 也))
+        (ADVP (c 因此))
+        (VP (v 席卷) (NP-PN-OBJ (ns 大英帝国))))
+      (wd ，)
+      (VP
+        (ADVP (m 一路))
+        (VP (v 跟随) (NP-OBJ (NP-PN (ns 英国)) (NP (n 殖民) (n 脚步)))))
+      (VP
+        (v 跨越)
+        (NP-PN-OBJ
+          (ns 美洲)
+          (wn 、)
+          (ns 澳)
+          (ns 纽)
+          (wn 、)
+          (ns 印度)
+          (wn 、)
+          (ns 非洲)))
+      (wd ，)
+      (VP
+        (ADVP (c 进而))
+        (PP-TMP (p 在) (NP (QP (m 二十)) (NP (n 世纪))))
+        (VP (wyz 「) (v 征服) (wyy 」) (NP-OBJ (n 全球))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 特别))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP
+        (NP-PN-SBJ (ns 苏格兰))
+        (VP (NP-TMP (-NONE- *T*-1)) (VP (v 发明) (NP-OBJ (n 高尔夫球)))))
+      (ude 的))
+    (NP (n 过程)))
+  (VP (ADVP (d 一直)) (VP (vi 停留) (PP-LOC (p 在) (NP (n 乡野) (n 奇谭)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 由于)
+    (IP
+      (NP-LOC (s 当地))
+      (NP-SBJ (t 冬季))
+      (VP (ADVP (d 非常)) (VP (a 寒冷)))))
+  (wd ，)
+  (NP-SBJ (n 牧羊人) (c 或) (n 渔夫) (k 们))
+  (VP
+    (VP (DP-ADV (r 每) (CLP (q 回))) (VP (VP (vi 出门)) (VP (vi 打球))))
+    (VP
+      (ADVP (d 总))
+      (PP-LOC (p 在) (NP (n 口袋)))
+      (VP (v 放) (NP-OBJ (QP (m 一) (CLP (q 瓶))) (n 烈酒))))
+    (wd ，)
+    (VP
+      (LCP-TMP (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 发球))) (f 前))
+      (ADVP (d 先))
+      (VP
+        (v 喝)
+        (NP-OBJ
+          (NP (QP (m 一)) (NP (ADJP (a 小)) (NP (n 瓶盖))))
+          (NP (n 酒))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 一) (CLP (q 瓶))) (NP (n 酒)))
+    (VP (QP-PRD (m 十八) (CLP (q 盎司)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 一)) (IP (NP (q 瓶)) (VP (v 盖))))
+    (VP (ADVP (z 正好)) (VP (QP-PRD (m 一) (CLP (q 盎司))))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VRD (v 打) (vi 完)) (NP-OBJ (QP (m 十八)) (NP (n 洞)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 酒))
+      (VP (ADVP (d 也)) (VP (VRD (v 喝) (vi 完)) (y 了)))))
+  (wd ，)
+  (IP
+    (NP (n 球友) (k 们))
+    (VP
+      (ADVP (d 就))
+      (PP-LOC (p 在) (LCP (NP (n 寒天)) (f 中)))
+      (VP (VP (vi 分手)) (VP (vi 回家)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (NP-ADV (QP (m 一) (CLP (q 场))) (NP (n 高尔夫球)))
+          (VP (v 打) (NP-OBJ (QP (m 十八)) (NP (n 洞))))))
+      (ude 的))
+    (NP (n 规则)))
+  (VP (ADVP (d 也)) (ADVP (d 就此)) (VP (v 定) (QP (CLP (n 桩)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q-HLN
+  (NP (NP (ns 罗马)) (NP (n 人)))
+  (VP (ADVP (ADVP (d 最)) (ADVP (a 早))) (VP (v 挥杆)))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (r 这样)) (ude 的))
+      (NP (nz 高尔夫) (NP (vi 创始) (p 论))))
+    (VP (IP (VP (VRD (v 听) (v 来)))) (VP (vl 顺理成章))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR
+              (p 以)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (wyz 「) (v 虐待) (NP-OBJ (n 兔子)) (wyy 」))))
+            (VP (v 作为) (NP-OBJ (n 高球) (n 起源)))))
+        (ude 的))
+      (NP (n 说法)))
+    (wd ，)
+    (VP
+      (ADVP (d 却))
+      (ADVP (d 很))
+      (VP
+        (a 难)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 说服) (NP-OBJ (n 运动史) (n 专家)))))))
+  (wm ：)
+  (IP-Q
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (NP-TMP (t 今天))
+              (IP-ADV
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (VRD (v 看) (v 起来))))
+              (VP (ADVP (r 这么)) (VP (a 高级)))))
+          (ude 的)))
+      (NP (n 运动)))
+    (VP
+      (ADVP (r 怎))
+      (VP
+        (v 会)
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (ADVP (r 如此)) (VP (a 荒谬))))
+                (ude 的)))
+            (NP (n 起源)))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-TMP
+        (ADVP (a 早))
+        (PP (p 在) (NP (NP-PN (n 罗马帝国)) (NP (n 时代)))))
+      (wd ，)
+      (ADVP (d 就))
+      (VP
+        (v 流行)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 种)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 名))
+                (VP (v 为) (NP-PN-OBJ (wyz 「) (nx Paganica) (wyy 」))))
+              (ude 的)))
+          (NP (n 球戏))))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 弯曲))) (ude 的)))
+        (NP (n 木杆)))
+      (wd ，)
+      (VP
+        (v 加上)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-3))
+                (VP
+                  (NP-LOC (f 内部))
+                  (VP (VRD (v 填) (a 满)) (NP-OBJ (n 羽毛)))))
+              (ude 的)))
+          (NP (n 皮革) (n 球)))))
+    (wd ，)
+    (VP
+      (ADVP (d 才))
+      (VP (vshi 是) (NP-PRD (DNP (NP (n 高尔夫球)) (ude 的)) (NP (n 远祖))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-MNR
+      (p 随着)
+      (IP
+        (NP-PN-SBJ (n 罗马帝国))
+        (VP
+          (PP-DIR
+            (PP (p 由) (NP (NP-PN (ns 地中海)) (NP (f 附近))))
+            (PP (p 向) (NP (f 外))))
+          (VP (v 扩张)))))
+    (wd ，)
+    (VP
+      (ADVP (d 才))
+      (VP
+        (v 造成)
+        (IP-OBJ
+          (NP-SBJ (DP (r 这种)) (NP (n 运动)))
+          (VP (PP-DIR (vd 对外)) (VP (v 流传)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (t 日后))
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP-PN (ns 北欧))
+        (DP (r 各种))
+        (NP (n 球杆) (p 与) (NP (n 球) (n 类型))))
+      (ude 的))
+    (NP (n 游戏))
+    (wd ，)
+    (PRN
+      (VP
+        (v 包括)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP-APP (ns 比利时) (wn 、) (ns 卢森堡) (udeng 等))
+              (NP (n 低地国)))
+            (ude 的))
+          (NP (n 高尔夫球))))))
+  (VP (ADVP (d 都)) (VP (v 起源于) (NP-OBJ (r 此))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-CND (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 不)) (VP (v 追究))))
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (y 则已)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 一)) (VP (v 追究))))
+      (ADVP (d 竟然))
+      (VP (vl 百花齐放))))
+  (wd ，)
+  (IP
+    (NP-SBJ (d 到处))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 类似) (NP-OBJ (n 高尔夫))))
+              (ude 的)))
+          (NP (n 民族) (n 游戏))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TTL-SBJ (wkz 《) (n 高尔夫) (n 百科全书) (wky 》))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (NP-APP (n 高尔夫))
+          (DP (r 这种))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 看来) (VP (a 简单))))
+              (ude 的)))
+          (IP-APP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (wyz 「) (VP (v 进) (NP (n 洞))) (wyy 」)))
+          (NP (n 游戏)))
+        (wd ，)
+        (VP
+          (ADVP (d 自古))
+          (ADVP (d 就))
+          (VP (v 风靡) (y 了) (NP-OBJ (QP (al 千千万万)) (NP (n 人))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (LCP-TMP (NP (n 人类) (n 历史)) (f 上))
+    (wd ，)
+    (NP-SBJ
+      (DNP
+        (NP
+          (NP
+            (wyz 『)
+            (FRAG (NP (n 球)) (QP (CLP (n 杆))))
+            (c 与)
+            (n 球)
+            (wyy 』))
+          (NP (n 类型)))
+        (ude 的))
+      (NP (n 球戏)))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (d 太)) (VP (a 多))))))))
+    (y 了))
+  (wd ，)
+  (wyy 」)
+  (NP-TTL-SBJ (wkz 《) (n 高尔夫) (n 百科全书) (wky 》))
+  (VP
+    (v 写道)
+    (wd ，)
+    (IP-OBJ
+      (IP (-NONE- *T*-1))
+      (IP
+        (NP-SBJ
+          (DNP (NP (n 高尔夫球) (n 起源)) (ude 的))
+          (DP (r 各种))
+          (NP (n 揣测)))
+        (VP (ADVP (d 也)) (ADVP (c 因此)) (VP (vl 层出不穷))))
+      (wd ，)
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (vl 众说纷纭)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 中国)) (NP (n 捶丸))) (ude 的))
+    (NP (wyz 「) (v 出土) (wyy 」) (c 与) (n 研究)))
+  (wd ，)
+  (VP
+    (ADVP (ad 显然))
+    (ADVP (d 更))
+    (VP
+      (v 证实)
+      (y 了)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (n 人类))
+          (DNP
+            (PP
+              (p 对)
+              (NP
+                (IP-APP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (IP (VP (v 进) (NP (n 洞)))))
+                (NP (n 游戏))))
+            (ude 的))
+          (NP (n 喜好)))
+        (VP
+          (ADVP (d 还))
+          (ADVP (d 真))
+          (ADVP (d 不))
+          (VP (v 分) (NP-OBJ (nl 古今中外)))))))
+  (wt ！)))
+</S>
+<S>
+( (PP-HLN (PP (p 从) (NP (n 马球))) (PP (v 到) (NP (n 捶丸)))))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 捶丸)))
+  (VP
+    (ADVP (d 又))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP-WH (r 怎么))
+                (VP (v 发明) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 研究者))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (n 捶丸))
+      (VP
+        (vshi 是)
+        (VP
+          (VP
+            (PP-DIR (p 由) (NP (NP-PN (t 唐朝)) (NP (n 马球))))
+            (VP (vi 演变)))
+          (VP (c 而) (VP (v 来)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (n 大陆)) (NP-PN (ns 上海) (n 博物馆)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (VRD (v 存) (vyou 有))
+        (NP-OBJ
+          (QP (m 一) (CLP (q 幅)))
+          (NP (NP (n 仕女) (IP (NP (n 步)) (VP (vi 打球)))) (NP (n 图画)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 证明)
+      (IP
+        (NP-TMP (t 当时))
+        (NP-SBJ (n 宫女))
+        (VP
+          (ADVP (r 如何))
+          (VP
+            (VP (ADVP (d 极)) (ADVP (d 尽)) (VP (v 巧思)))
+            (wd ，)
+            (vl 自得其乐))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TMP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 到) (y 了) (NP-PN-OBJ (n 中唐))))
+    (wd ，)
+    (NP (n 宫女) (k 们))
+    (VP (ADVP (d 又)) (VP (v 更新) (NP-OBJ (n 花样)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 她们))
+    (VP
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 草地)) (f 上)))
+        (VP
+          (v 挖)
+          (y 了)
+          (NP-OBJ (QP (m 几) (CLP (q 个))) (NP (wyz 「) (n 窟洞) (wyy 」)))))
+      (wd ，)
+      (VP (vi 分成) (QP-OBJ (m 两) (CLP (q 队))))
+      (VP (n 比赛))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 捶丸)) (ude 的)) (NP (n 形制)))
+    (VP (PP-TMP (p 到) (NP-PN (t 宋代))) (VP (VSB (v 发展) (a 完备)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (vi 运动)) (uzhi 之)) (NP (n 盛)))
+    (VP (ADVP (d 更)) (VP (vl 空前绝后))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (v 想来)))
+    (wd ，)
+    (NP-TPC (n 说话者))
+    (NP-SBJ (IP (VP (v 捶) (NP (n 丸)))) (n 功夫))
+    (VP (a 了得)))
+  (wd ，)
+  (IP
+    (ADVP (v 可惜))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VPT (v 看) (d 不) (v 出))
+      (IP-OBJ-Q
+        (NP-SBJ (DNP (NP (r 他)) (ude 的)) (ADJP (a 具体)) (NP (n 成绩)))
+        (VP
+          (VP-WH (r 如何))
+          (wd ，)
+          (VP
+            (v 差)
+            (NP-OBJ (wyz 「) (CLP (ADJP (n 标准)) (CLP (n 杆))) (wyy 」))
+            (VP-EXT (QP-WH-PRD (m 几) (CLP (q 杆)))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (IP (VP (ADVP (d 都)) (VP (v 会))))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 挥杆))))
+      (NP (n 人口)))
+    (VP (m 众多)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (vshi 是) (VP (ADVP (d 纯粹)) (VP (a 好玩))))
+      (wd ，)
+      (c 或)
+      (VP
+        (PP-PRD
+          (ADVP (d 也))
+          (PP
+            (v 如)
+            (IP
+              (ADVP (t 时下))
+              (NP-SBJ (n 人们))
+              (VP
+                (ADVP (a 多))
+                (VP
+                  (d 将)
+                  (IP-OBJ
+                    (NP-SBJ (v 挥杆))
+                    (VP
+                      (v 当成)
+                      (NP-OBJ
+                        (DNP (NP (n 商场) (n 社交)) (ude 的))
+                        (NP (n 工具)))))))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (PP-TPC
+    (p 至于)
+    (NP
+      (DP (r 这个))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 几乎))
+              (PP (p 与) (NP (ADJP (t 现代)) (NP (n 高尔夫球))))
+              (VP (vi 雷同))))
+          (ude 的)))
+      (NP (n 捶丸) (n 运动))))
+  (wd ，)
+  (NP-SBJ
+    (PP (p 在) (NP-PN (ns 中国)))
+    (DNP (ADJP (t 后来)) (ude 的))
+    (NP (n 发展)))
+  (VP (ADVP (d 却)) (IP (VP (ADVP (vi 无力)) (VP (v 为) (VP (v 继))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 只是))
+    (wd ，)
+    (NP-SBJ (DP (r 这) (QP (m 一))) (NP (v 说)))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 还))
+      (ADVP (d 未))
+      (VP
+        (pbei 被)
+        (IP-OBJ
+          (IP (VP (v 识) (NP (n 家))))
+          (VP (ADVP (ad 普遍)) (VP (v 接受)))))))
+  (wd ，)
+  (IP
+    (ADVP (d 尤其))
+    (NP-SBJ (n 捶丸))
+    (VP
+      (VP (FRAG (d 深) (v 得)) (NP-OBJ (n 帝王) (n 喜爱)))
+      (wd ，)
+      (VP
+        (ADVP (r 哪))
+        (VP
+          (v 会)
+          (VP
+            (vyou 有)
+            (NP-OBJ
+              (DP (r 什么))
+              (DNP (NP (n 场地)) (ude 的))
+              (NP (n 限制))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP-TPC
+    (NP-SBJ (n 帝王) (n 体力))
+    (VP
+      (VP (ADVP (d 不)) (VP (a 佳)))
+      (wd ，)
+      (VP (PP (p 对) (NP (n 运动))) (VP (v 没) (NP-OBJ (n 兴趣))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 可能)
+    (VP (ADVP (d 还)) (ADVP (d 比较)) (VP (VPT (v 说) (ude 得) (a 通)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TMP (dl 时至今日))
+  (wd ，)
+  (IP (ADVP (d 总算)) (NP-SBJ (n 后人)) (VP (vyou 有) (NP-OBJ (n 出息))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (DNP (NP (ADJP (a 先进)) (NP (n 机具))) (ude 的)) (NP (n 帮助)))
+        (f 下)))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 台湾)) (NP (n 高尔夫球场)))
+    (VP
+      (IP (VP (v 攻)) (DFL (p 向)))
+      (NP-OBJ (DNP (QP (m 一) (NP (n 球) (n 球))) (ude 的)) (NP (n 山坡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (IP-CND (NP-SBJ (f 上)) (VP (vyou 有) (NP-OBJ (n 好者))))
+      (wd ，)
+      (NP-SBJ (f 下))
+      (VP (ADVP (d 必)) (VP (vyou 有) (NP-OBJ (d 甚)))))
+    (y 焉))
+  (wd ，)
+  (IP
+    (NP-TPC (n 大陆))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (UCP
+          (NP
+            (NP-PN (nr 江泽民) (n 主席))
+            (QP (m 一) (CLP (q 声)))
+            (NP (n 号令)))
+          (p 与)
+          (IP (NP-SBJ (n 台商)) (VP (vl 推波助澜))))
+        (f 下)))
+    (wd ，)
+    (NP-SBJ (n 高尔夫))
+    (VP
+      (ADVP (d 也))
+      (PP-DIR (p 朝) (NP (ADJP (n 职业化)) (NP (n 运动))))
+      (VP (vi 迈进))))
+  (wd ，)
+  (IP
+    (IP-TPC
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (v 超) (NP-PN-OBJ (ns 英)))
+        (VP (v 赶) (NP-PN-OBJ (ns 美)))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (vl 指日可待)))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (n 华人)) (ADJP (a 老)) (NP (n 祖先)))
+    (VP
+      (ADVP (c 或))
+      (VP
+        (v 可)
+        (VP (IP (VP (v 告慰) (p 于))) (NP (QP (m 九)) (NP (n 泉)))))))
+  (ww ？)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (QP (m 96))))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (IP (VP (v 成) (p 于))) (NP-PN-OBJ (t 元朝))))
+        (ude 的)))
+    (NP-TTL (wkz 《) (n 丸经) (wky 》)))
+  (wd ，)
+  (NP-SBJ (n 内容))
+  (VP
+    (PP-DIR
+      (PP (p 从) (NP (n 比赛) (n 规则)))
+      (PP (p 到) (NP (v 挥杆) (n 要领))))
+    (wd ，)
+    (VP (vl 一应俱全)))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (IP-SBJ
+      (PRN (wkz （) (NP (f 右)) (wky ）))
+      (LCP-LOC
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (t 明朝) (nr 杜堇))
+                (VP (usuo 所) (VP (v 画) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP-TTL (wkz 《) (n 仕女) (n 图) (wky 》)))
+        (f 中))
+      (wd ，)
+      (LCP-LOC (NP (ADJP (a 老)) (NP (n 松树))) (f 下))
+      (wd ，)
+      (IP
+        (NP-SBJ (QP (m 两) (CLP (q 位))) (NP (ns 丫环)))
+        (VP (v 权充) (NP (QP (CLP (n 杆))) (NP (n 弟)))))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (QP (m 三) (CLP (q 位)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (n 簪花))))
+          (NP (n 仕女)))
+        (VP (ADVP (a 优雅)) (VP (n 推杆)))))
+    (wd ，)
+    (VP
+      (v 算是)
+      (NP-PRD
+        (DNP
+          (IP (NP-SBJ (n 女性)) (VP (v 打) (NP-OBJ (n 高尔夫))))
+          (ude 的))
+        (ADJP (a 老))
+        (NP (n 祖先)))))
+  (y 吧)
+  (ww ？)
+  (PRN
+    (VP
+      (wkz （)
+      (IP (VP (vi 取材) (NP (p 自))))
+      (NP-OBJ-TTL
+        (NP-PN (ns 中国))
+        (NP (t 古代) (n 体育) (n 文物))
+        (NP (n 图集)))
+      (wky ）)))))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (QP (m 99))))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (QP (m 100))))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 根据)
+    (IP
+      (NP-SBJ
+        (LCP (NP (n 坊)) (f 间))
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (ns 英国))
+                (VP (v 出版) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP-TTL (wkz 《) (n 高尔夫) (n 百科全书) (wky 》)))
+        (NP (n 中译本)))
+      (VP (v 指出))))
+  (wd ，)
+  (IP-ADV
+    (NP-PN
+      (ns 苏格兰)
+      (NP (IP (VP (NP (a 圣))) (wj ．)) (NP (n 安卓)))
+      (n 球场))
+    (VP
+      (ADVP (c 虽))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (ADVP (d 最)) (VP (a 早))))
+              (ude 的)))
+          (NP (NP (n 国际)) (NP (n 高尔夫) (n 比赛)) (NP (n 球场)))))))
+  (wd ，)
+  (ADVP (c 但))
+  (IP-Q-SBJ
+    (NP-SBJ (n 高尔夫球))
+    (VP
+      (ADVP (d 到底))
+      (VP (vshi 是) (NP-PRD (DNP (NP-WH (r 谁)) (ude 的)) (NP (n 发明))))))
+  (wd ，)
+  (VP
+    (ADVP (d 仍))
+    (VP (vshi 是) (NP-OBJ (QP (m 一) (CLP (q 团))) (NP (n 迷雾)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 荷兰) (wn 、) (ns 比利时))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 都))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (CP-APP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (v 挥杆) (vi 击球))))
+          (ude 的))
+        (NP (n 民族) (n 游戏)))))
+  (wj 。)))
+</S>

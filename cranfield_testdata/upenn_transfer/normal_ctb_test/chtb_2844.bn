@@ -1,0 +1,70 @@
+<S>
+( (IP
+  (IP
+    (PP-TMP (p 在) (NP (DP (f 下) (CLP (q 个))) (NP (n 星期))))
+    (wd ，)
+    (NP-TMP
+      (CP-APP
+        (IP
+          (NP-SBJ
+            (NP (NP (f 北)) (NP (ns 韩)))
+            (NP (n 政府))
+            (ADJP (a 高级))
+            (NP (n 官员)))
+          (VP (v 访问) (NP-OBJ-PN (ns 华盛顿))))
+        (ude 的))
+      (NP (f 前期)))
+    (wd ，)
+    (NP-PN-SBJ (ns 美国) (c 和) (NP (NP (ns 北)) (NP (ns 韩))))
+    (VP (PP-DIR (p 就) (NP (n 国际) (n 恐怖主义))))
+    (VP (v 进行) (y 了) (NP-OBJ (n 会谈))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (DNP (NP (NP-PN (ns 美国)) (NP (nt 国务院))) (ude 的))
+        (NP (n 发言人)))
+      (NP-PN (nr 鲍策)))
+    (VP
+      (PP-TMP (p 在) (NP (t 星期五)))
+      (VP
+        (v 说)
+        (wm ：)
+        (IP-OBJ
+          (wyz “)
+          (NP-SBJ (n 双方))
+          (VP
+            (ADVP (d 都))
+            (VP
+              (v 同意)
+              (IP-OBJ
+                (IP
+                  (NP-SBJ (n 恐怖主义))
+                  (VP
+                    (v 威胁)
+                    (NP-OBJ
+                      (NP (n 全球) (an 安全))
+                      (c 和)
+                      (NP (n 世界) (n 和平)))))
+                (wd ，)
+                (IP
+                  (CP-ADV
+                    (ADVP (c 无论))
+                    (IP
+                      (NP-SBJ (r 其))
+                      (VP
+                        (PP-MNR (p 以) (NP (DP (r 什么)) (NP (n 形式))))
+                        (VP (v 存在)))))
+                  (wd ，)
+                  (NP-SBJ-1 (-NONE- *pro*))
+                  (VP
+                    (ADVP (d 都))
+                    (VP
+                      (v 应该)
+                      (VP (pbei 被) (VP (v 制止) (NP-OBJ (-NONE- *-1))))))))))
+          (wj 。)))))
+  (wyy ”)))
+</S>
+<S>
+( (IP (NP-SBJ (f 以上)) (VP (vshi 是) (NP-PRD (n 国际) (n 新闻))) (wj 。)))
+</S>

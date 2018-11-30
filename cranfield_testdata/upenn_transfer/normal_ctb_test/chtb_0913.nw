@@ -1,0 +1,362 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP-PN (ns 利物浦) (n 足球队))
+    (ADJP (a 假))
+    (NP (n 面))
+    (NP (n 舞会)))
+  (VP (vi 出丑))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 伦敦)
+  (t １２月)
+  (t ２８日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 周杰)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (DP (r 该)) (NP (n 俱乐部)))
+          (VP
+            (NP-TMP (t 昨天) (t 晚上))
+            (VP (v 散发) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (QP (m 一) (CLP (q 份)))
+    (NP (nl 新闻公报)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP
+      (wyz “)
+      (IP
+        (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 队员)))
+        (VP
+          (DP-ADV (r 每年))
+          (ADVP (d 都))
+          (VP
+            (v 要)
+            (VP
+              (v 举行)
+              (NP-OBJ
+                (QP (m 一个))
+                (ADJP (a 假))
+                (NP (n 面))
+                (NP (n 舞会)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 我们))
+        (VP
+          (ADVP (d 也))
+          (ADVP (d 一直))
+          (VP
+            (v 提醒)
+            (NP-OBJ (n 运动员))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 注意)
+                (NP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-2))
+                        (VP
+                          (PP (p 作为) (NP (n 公众) (n 人物)))
+                          (CLP-LOC (s 身上))
+                          (VP (usuo 所) (VP (v 担)))))
+                      (ude 的)))
+                  (NP (n 责任))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我们))
+  (VP
+    (ADVP (d 将))
+    (PP-DIR
+      (p 对)
+      (NP
+        (DP (r 这) (CLP (q 次)))
+        (NP (ADJP (a 假)) (NP (n 面)) (NP (n 舞会)))
+        (NP (n 事件))))
+    (VP (v 进行) (NP-OBJ (n 调查) (c 和) (n 处理))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 今年) (t １２月) (t ２０日) (t 晚))
+    (wd ，)
+    (NP-SBJ
+      (QP (m 八) (CLP (q 名)))
+      (NP (NP (ns 利物浦)) (NP (n 队)))
+      (NP (n 运动员)))
+    (VP
+      (v 参加)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-LOC
+                  (p 在)
+                  (NP (NP (s 当地)) (QP (m 一个)) (NP (n 酒吧))))
+                (VP (v 举行) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (ADJP (a 假))
+        (NP (n 面))
+        (NP (n 舞会)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 加拉切尔))
+    (VP
+      (v 打扮)
+      (ude 得)
+      (VP-EXT (PP-PRD (v 像) (NP (NP-APP (n 圣母)) (NP-PN (nrf 玛利亚)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 保罗·因斯))
+    (VP (v 扮成) (NP-OBJ (n 剑) (n 客) (NP-PN (nrf 佐罗)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-APP (ADJP (a 神奇)) (NP (n 小子))) (NP-PN (nrf 欧文)))
+    (VP
+      (VRD (v 打扮) (v 成))
+      (NP-OBJ
+        (DNP
+          (LCP (NP (QP (m 一) (CLP (q 部))) (NP (n 电影))) (f 中))
+          (ude 的))
+        (NP (n 角色)))))
+  (wd ，)
+  (IP
+    (NP (nrf 杰米·莱得奈) (a 普))
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VRD (v 看) (v 起来))))
+      (PP-PRD (p 像) (NP-PN (nz 阿里巴巴)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 荷杰姆))
+    (VP
+      (ADVP (d 则))
+      (VP (PP-PRD (v 如) (NP (NP-PN (ns 美国)) (NP (n 橄榄球) (n 运动员)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nz 麦克缔尔))
+    (VP
+      (VP (NP-ADV (n 全身)) (VP (VRD (v 贴) (a 满)) (NP-OBJ (n 毛发))))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (r 自己))
+          (VP (VRD (v 打扮) (v 成)) (NP-OBJ (n 猩猩)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 麦克马拉曼))
+    (VP
+      (v 打扮)
+      (ude 得)
+      (PP-EXT (v 像) (NP (QP (CLP (q 个))) (NP (n 牧师))))))
+  (wd ，)
+  (c 而)
+  (IP
+    (NP-PN-SBJ (nrf 福勒))
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ (r 自己))
+        (VP
+          (VRD (v 打扮) (v 成))
+          (NP-OBJ
+            (NP (NP-PN (ns 美国)) (NP (n 棒球) (n 运动员)))
+            (NP (n 形象)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (IP (NP-SBJ (n 晚会)) (VP (v 开始))) (n 时))
+    (DP-SBJ (r 一切))
+    (VP (ADVP (d 都)) (ADVP (d 还)) (VP (a 顺利))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (LCP-TMP
+      (IP (NP (n 酒)) (VP (VP (v 过) (QP (m 半))) (VP (q 巡))))
+      (f 之后))
+    (wd ，)
+    (NP-PN-SBJ (nrf 加拉切尔))
+    (VP
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP (NP (DNP (NP (n 酒精)) (ude 的)) (NP (n 作用))) (f 下)))
+        (ADVP (d 已经))
+        (ADVP (ad 明显))
+        (VP (VPT (v 控制) (d 不) (vi 住)) (NP-OBJ (r 自己))))
+      (wd ，)
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ
+            (QP (m 一) (CLP (q 名)))
+            (VP (v 脱) (NP (n 衣) (n 舞女))))
+          (VP (v 举) (uguo 过) (LCP-OBJ (n 头顶)))))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-OBJ (r 她))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (PP-LOC (p 在) (NP (s 空中))) (VP (vi 翻滚)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP (NP (DNP (NP-PN (nrf 加拉切尔)) (ude 的)) (NP (n 带领))) (f 下)))
+  (wd ，)
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 参加) (NP-OBJ (n 晚会))))
+        (ude 的)))
+    (ADVP (d 约))
+    (QP (m ８０) (CLP (q 名)))
+    (NP (n 宾客)))
+  (QP-SBJ (m 很多))
+  (VP (ADVP (d 都)) (VP (VRD (v 参与) (v 进来))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC
+              (p 在)
+              (CLP
+                (NP (NP (NP (ns 利物浦)) (NP (n 队))) (NP (n 队员)))
+                (f 中)))
+            (wd ，)
+            (VP (v 参加) (NP-OBJ (ADJP (a 下流)) (NP (n 活动))))))
+        (ude 的))))
+  (VP
+    (ADVP (d 始终))
+    (IP (VP (ADVP (d 只)) (DFL (vyou 有))))
+    (VP (NP-PRD (NP-PN (nrf 加拉切尔)) (QP (m 一)) (NP (n 人)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (ADVP (d 刚)) (VP (v 满) (QP-OBJ (m １９) (CLP (q 岁))))))
+        (ude 的)))
+    (NP-PN (nrf 欧文)))
+  (VP
+    (VP
+      (DVP (z 远远地))
+      (VP
+        (v 坐)
+        (PP-LOC (p 在) (NP (DNP (NP (n 人群)) (ude 的)) (NP (f 背后))))))
+    (wd ，)
+    (VP
+      (DVP (VP (a 惊恐)) (ude 地))
+      (VP
+        (v 看)
+        (uzhe 着)
+        (DP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 发生))) (ude 的)))
+          (DP (r 一切))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-PN-SBJ (ns 利物浦) (n 俱乐部))
+      (VP
+        (QP-ADV (m 第二) (CLP (q 次)))
+        (VP
+          (v 出现)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 类似))))
+            (NP (n 事件)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (QP (m 两) (CLP (q 年))) (f 前))
+    (wd ，)
+    (NP-SBJ (NP (r 该队)) (NP (n 队员)))
+    (VP
+      (VP
+        (LCP-TMP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-LOC
+                      (p 在)
+                      (NP (QP (m 一) (CLP (q 家))) (NP (n 宾馆))))
+                    (VP (v 举行) (NP-OBJ (-NONE- *T*-1)))))))
+            (NP (t 圣诞))
+            (ADJP (a 欢乐))
+            (NP (n 活动)))
+          (n 时))
+        (VP (v 发生) (NP-OBJ (n 骚乱))))
+      (wd ，)
+      (VP
+        (pbei 被)
+        (CP-OBJ
+          (WHNP-2 (-NONE- *OP*))
+          (IP (NP-SBJ (n 警方)) (VP (v 干预) (NP-OBJ (-NONE- *T*-2))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (PP-DIR (p 对) (NP (r 他们)))
+      (VP (v 提出) (y 了) (NP-OBJ (ADJP (a 严重)) (NP (n 警告))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

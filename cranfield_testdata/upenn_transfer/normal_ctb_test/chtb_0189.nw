@@ -1,0 +1,262 @@
+<S>
+( (IP-HLN
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (pba 把)
+      (IP-OBJ (NP-SBJ (n 科技) (n 成果)) (VP (v 奉献) (NP-OBJ (n 人民))))))
+  (IP
+    (NP-SBJ (NP-PN (nz 王码)) (NP (n 电脑) (n 软件)))
+    (VP (PP-DIR (p 对) (NP (s 国内))) (VP (wyz “) (v 开放) (wyy ”))))))
+</S>
+<S>
+( (FRAG
+  (r 本报)
+  (ns 北京)
+  (t １月)
+  (t ５日)
+  (n 讯)
+  (n 记者)
+  (nr 何黄彪)
+  (v 报道)
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (DNP (NP-PN (ns 北京) (ns 中关村)) (ude 的))
+      (NP (ADJP (a 高)) (NP (n 科技)))
+      (NP (n 企业)))
+    (NP-PN (nz 王码) (n 电脑) (n 公司)))
+  (VP
+    (NP-TMP (t １月) (t ４日))
+    (PP-LOC (p 在) (NP-PN (n 人民) (n 大会堂)))
+    (VP
+      (VP (v 召开) (NP-OBJ (n 新闻) (n 发布会)))
+      (VP
+        (v 宣布)
+        (wm ：)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-PRP
+              (p 为了)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 满足)
+                  (NP-OBJ
+                    (DNP
+                      (NP
+                        (NP
+                          (NP (n 党) (wn 、) (n 政) (wn 、) (n 军))
+                          (DP (r 各))
+                          (NP (n 部门)))
+                        (NP (vi 办公) (vi 自动化)))
+                      (uzhi 之))
+                    (NP (n 急需))))))
+            (wd ，)
+            (VP
+              (v 决定)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (p 将)
+                  (IP-OBJ
+                    (NP-SBJ
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ-1 (-NONE- *T*-1))
+                            (VP
+                              (v 可)
+                              (VP
+                                (vi 盈利)
+                                (LCP-OBJ
+                                  (QP (m 百万) (CLP (q 元)))
+                                  (f 以上)))))
+                          (ude 的)))
+                      (QP (m 一整套))
+                      (NP
+                        (wyz “)
+                        (NP (NP-PN (nz 王码)) (NP (n 软件)))
+                        (NP (n 精品))
+                        (wyy ”)))
+                    (wd ，)
+                    (VP
+                      (VP (d 免) (VP (v 收) (NP-OBJ (n 技术) (n 费用))))
+                      (wd ，)
+                      (VP
+                        (ADVP (m 全部))
+                        (PP-MNR
+                          (p 以)
+                          (NP
+                            (CP
+                              (WHNP-2 (-NONE- *OP*))
+                              (CP
+                                (IP
+                                  (NP-SBJ (-NONE- *T*-2))
+                                  (VP (ADVP (d 不)) (VP (vi 加密))))
+                                (ude 的)))
+                            (NP (n 软盘) (n 方式))))
+                        (PP-DIR (p 对) (NP (s 国内)))
+                        (VP (wyz “) (v 开放) (wyy ”)))
+                      (wd ，)
+                      (VP
+                        (ADVP (c 从而))
+                        (VP
+                          (v 使)
+                          (NP-OBJ
+                            (NP (s 国内))
+                            (DP (r 任何))
+                            (NP (n 微机) (n 用户)))
+                          (IP
+                            (NP-SBJ (-NONE- *PRO*))
+                            (VP
+                              (ADVP (d 都))
+                              (VP (v 可以) (VP (VCD (v 拷贝) (v 使用))))))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nz 王码) (n 电脑) (n 公司))
+  (VP
+    (vshi 是)
+    (VP
+      (PP-LGS
+        (p 由)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-APP (ADJP (a 著名)) (NP (n 电脑) (n 专家)))
+                  (NP-PN (nr 王永民)))
+                (VP (v 发明) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (nz 汉字) (n 编码) (n 法))
+          (PRN (wp ———) (NP (wyz “) (nz 五笔字型) (wyy ”)))))
+      (VP (c 而) (VP (v 得名)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这种))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 简便) (wn 、) (b 高效)))
+        (ude 的)))
+    (NP (n 输入法)))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (VP
+        (v 覆盖)
+        (NP-OBJ
+          (NP (n 全国))
+          (DNP (LCP (QP (m ８５％)) (f 以上)) (ude 的))
+          (NP (n 用户))))
+      (wd ，)
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (NP (n 我国))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (v 占) (NP-OBJ (ADJP (n 主导)) (NP (n 地位)))))
+              (ude 的)))
+          (NP (nz 汉字) (n 输入) (n 技术))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (wd ，)
+  (PP-TMP
+    (p 随着)
+    (NP (DNP (NP (n 电脑) (n 事业)) (ude 的)) (ADJP (a 迅速)) (NP (n 发展))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 越来越)) (VP (a 多))))
+        (ude 的)))
+    (NP (n 电脑) (n 用户)))
+  (VP
+    (VP
+      (ADVP (d 纷纷))
+      (VP (VP (vi 前来)) (VP (wyz “) (VCD (vi 排队) (vi 挂号)) (wyy ”))))
+    (wd ，)
+    (VP
+      (v 购买)
+      (NP-OBJ
+        (NP (NP (wyz “) (nz 五笔字型) (wyy ”)) (ADJP (a 新)) (NP (n 版本)))
+        (c 和)
+        (NP (NP-PN (nz 王码)) (NP (nz 汉字) (nl 操作系统))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为了)
+    (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 造福) (NP-OBJ (n 社会)))))
+  (wd ，)
+  (NP-PN-SBJ (nz 王码) (n 电脑) (n 公司))
+  (VP
+    (VP
+      (ADVP (d 毅然))
+      (VP
+        (v 放弃)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 本来))
+                (VP (v 可以) (VP (v 赚) (NP-OBJ (n 大钱))))))
+            (ude 的))
+          (NP (n 机会)))))
+    (wd ，)
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 不)) (VP (vi 加密))))
+              (ude 的)))
+          (NP (n 软盘)))
+        (VP (VRD (v 奉献) (v 给)) (NP-OBJ (n 用户)))))
+    (wd ，)
+    (VP
+      (v 让)
+      (NP-OBJ (r 他们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 自行)) (VP (v 拷贝))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR
+    (p 对于)
+    (NP
+      (CP-APP
+        (IP (NP-PN-SBJ (nz 王码) (n 电脑) (n 公司)) (VP (vl 无私奉献)))
+        (ude 的))
+      (NP (n 决定))))
+  (wd ，)
+  (NP-SBJ (ADJP (n 与会)) (NP (n 领导) (wn 、) (n 专家) (c 和) (n 用户)))
+  (VP (v 给予) (y 了) (NP-OBJ (ADJP (d 高度)) (NP (v 评价))))
+  (wj 。)))
+</S>

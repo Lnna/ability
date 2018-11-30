@@ -1,0 +1,143 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 以色列)) (NP (n 总理))) (NP-PN (nrf 巴拉克)))
+  (VP
+    (QP (m １０) (CLP (q 号)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 并))
+          (ADVP (d 不))
+          (VP
+            (v 期盼)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (LCP-TMP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-ADV
+                        (p 与)
+                        (NP
+                          (NP-APP (NP-PN (ns 美国)) (NP (n 总统)))
+                          (NP-PN (nrf 克林顿))))
+                      (VP (vi 会谈))))
+                  (f 之后))
+                (VP
+                  (v 会)
+                  (VP
+                    (ADVP (d 重新))
+                    (VP
+                      (v 开启)
+                      (NP-OBJ
+                        (DNP (PP (p 与) (NP-PN (ns 巴勒斯坦))) (ude 的))
+                        (NP (n 和谈)))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 巴拉克))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (PP-DIR
+          (p 对)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-ADV (p 与) (NP-PN (nrf 克林顿)))
+                    (PP-TMP (p 在) (QP (m １２) (CLP (q 号))))
+                    (VP (v 召开) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (ADJP (b 既定))
+            (NP (n 会谈))))
+        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+        (VP
+          (VCD (v 抱) (v 持))
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (ADVP (d 太)) (VP (a 高))))
+                (ude 的)))
+            (NP (n 期望)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (VP
+      (PP-TMP
+        (p 在)
+        (NP
+          (NP (NP-PN (ns 美国)) (NP (n 时间)))
+          (QP (m ９) (CLP (q 号)))
+          (NP (t 当天))))
+      (ADVP (d 已经))
+      (ADVP (vi 先行))
+      (PP-ADV (p 与) (NP-PN (nrf 阿拉法特)))
+      (VP (v 召开) (y 了) (NP-OBJ (vi 会谈))))
+    (wd ，)
+    (VP
+      (c 以)
+      (VP
+        (v 结束)
+        (NP-OBJ
+          (NP-PN (ns 以) (ns 巴))
+          (DNP
+            (LCP (NP (QP (m ６) (CLP (q 个))) (NP (n 星期))) (v 来))
+            (ude 的))
+          (NP (n 暴力) (n 冲突))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 巴拉克))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ
+            (DP (r 这) (QP (m 一) (CLP (q 次))))
+            (DNP (PP (p 与) (NP-PN (nrf 克林顿))) (ude 的))
+            (NP (n 会谈)))
+          (VP
+            (v 有助于)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 终止) (NP-OBJ (ADJP (n 流血)) (NP (n 行动))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (QP (m １２) (CLP (q 号)))
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 前往) (NP-PN-OBJ (ns 华盛顿))))
+      (n 时))
+    (ADVP (d 将))
+    (ADVP (ad 努力))
+    (PP-ADV (p 与) (NP (n 美方)))
+    (ADVP (d 合力))
+    (VP (v 制止) (NP-OBJ (vi 暴动))))
+  (wj 。)))
+</S>

@@ -1,0 +1,213 @@
+<S>
+( (IP-HLN (NP-SBJ (NP (n 全国)) (NP (n 田径) (n 冠军赛))) (VP (v 结束))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 石家庄)
+  (t ８月)
+  (t ３１日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 景如月)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (NP (wyz “) (nz 奔腾) (wyy ”)) (NP (n 杯)))
+    (NP (n 全国))
+    (NP (n 田径) (n 冠军赛)))
+  (VP
+    (NP-TMP (t 今天) (t 上午))
+    (PP-LOC (p 在) (NP-PN (ns 河北省) (ns 唐山市) (n 体育) (n 中心)))
+    (VP (VRD (v 落) (v 下)) (NP-OBJ (n 帷幕))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 东道主)) (NP-PN (nt 河北队)))
+  (VP
+    (VP
+      (ADVP (d 共))
+      (VP (v 夺得) (NP-OBJ (QP (m ９) (CLP (q 枚))) (NP (n 金牌)))))
+    (wd ，)
+    (VP (v 列) (QP-OBJ (NP (n 金牌) (n 总数)) (QP (m 第一)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 广东队))
+  (VP
+    (VP (v 夺得) (NP-OBJ (QP (m ６) (CLP (q 枚))) (NP (n 金牌))))
+    (wd ，)
+    (VP (v 列) (QP-OBJ (m 第二))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 上海) (c 和) (nt 四川队))
+  (VP
+    (VP
+      (ADVP (r 各))
+      (VP (v 夺得) (NP-OBJ (QP (m ４) (CLP (q 枚))) (NP (n 金牌)))))
+    (wd ，)
+    (VP (v 名列) (QP-OBJ (m 第三))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-SBJ (DP (r 这次)) (NP (n 田径) (n 冠军赛)))
+      (VP (vshi 是) (VP (NP-TMP (t ８月) (t ２７日) (t 上午)) (VP (v 开始)))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (v 来自)
+              (NP-OBJ
+                (NP (n 全国))
+                (QP (m ３５) (CLP (q 个)))
+                (NP
+                  (n 省)
+                  (wn 、)
+                  (n 市)
+                  (wn 、)
+                  (n 自治区)
+                  (wn 、)
+                  (n 解放军)
+                  (c 及)
+                  (n 行业)
+                  (nt 体协)))))
+          (ude 的)))
+      (QP (QP (QP (m ５００)) (ADVP (m 多))) (CLP (q 名)))
+      (NP (n 男女) (n 运动员)))
+    (VP
+      (VP (v 参加) (y 了) (NP-OBJ (n 比赛)))
+      (wd ，)
+      (VP (vi 角逐) (NP-OBJ (QP (m ４２) (CLP (q 枚))) (NP (n 金牌))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP
+      (c 由于)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (vi 备战) (NP-PN-OBJ (n 广岛) (n 亚运会)))))
+    (wd ，)
+    (NP-SBJ (NP (n 我国)) (QP (m 大部分)) (NP (n 田径) (n 好手)))
+    (VP
+      (d 没有)
+      (VP (VSB (vi 报名) (v 参加)) (NP-OBJ (DP (r 此次)) (NP (n 比赛))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 国家队))
+    (VP
+      (ADVP (d 只))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ (QP (m ２１) (CLP (q 名))) (NP (n 选手)))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP
+                  (NP-APP
+                    (n 短跑)
+                    (wn 、)
+                    (n 接力)
+                    (wn 、)
+                    (vi 跳高)
+                    (wn 、)
+                    (vi 跳远)
+                    (wn 、)
+                    (n 铅球)
+                    (udeng 等))
+                  (NP (n 项目)))
+                (f 中)))
+            (VP (vi 露面)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 辽宁省) (n 女子) (n 中长跑) (n 队))
+    (VP (ADVP (d 也)) (VP (d 没有) (VP (vi 前来)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 加之))
+    (NP-SBJ (QP (m 许多)) (NP (n 队)))
+    (VP
+      (PP-TMP (p 在) (LCP (NP (t 去年) (n 全运会)) (f 后)))
+      (VP (v 进行) (NP-OBJ (ADJP (a 大)) (NP (n 调整))))))
+  (wd ，)
+  (IP (NP-SBJ (QP (m 大批)) (ADJP (a 优秀)) (NP (n 队员))) (VP (vi 退役)))
+  (wd ，)
+  (IP (NP-SBJ (n 新手)) (VP (ADVP (d 刚刚)) (VRD (v 接) (v 上))))
+  (wd ，)
+  (IP
+    (ADVP (c 因而))
+    (NP-SBJ
+      (DNP (NP (DP (r 这次)) (NP (n 比赛))) (ude 的))
+      (NP (n 整体) (n 水平)))
+    (VP (ADVP (d 不)) (VP (a 高))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (d 没有) (VP (v 出现) (NP-OBJ (ADJP (a 优异)) (NP (n 成绩))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (ADVP (v 如))
+    (NP
+      (NP-PN (nt 河北队))
+      (DNP (QP (m １７) (CLP (q 岁))) (ude 的))
+      (NP-PN (nr 冯婕))))
+  (VP
+    (VP
+      (PP-LOC (p 在) (LCP (NP (n 女子) (n 跳远) (n 决赛)) (f 中)))
+      (VP
+        (v 跳出)
+        (y 了)
+        (NP-OBJ
+          (DNP (QP (m ６．５８) (CLP (q 米))) (ude 的))
+          (ADJP (a 好))
+          (NP (n 成绩)))))
+    (wd ，)
+    (VP (v 夺得) (NP-OBJ (NP (DP (r 该)) (NP (n 项目))) (NP (n 银牌))))
+    (wd ，)
+    (VP (v 打破) (y 了) (NP-OBJ (NP (n 全国)) (NP (n 少年) (n 纪录)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 行家))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DNP (NP-PN (nr 冯婕)) (ude 的))
+          (NP-APP (n 体型) (wn 、) (vi 弹跳) (udeng 等))
+          (NP (n 条件)))
+        (VP (ADVP (d 较)) (VP (a 好))))
+      (wd ，)
+      (IP (NP-SBJ (n 发展) (n 潜力)) (VP (ADVP (d 很)) (VP (a 大))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

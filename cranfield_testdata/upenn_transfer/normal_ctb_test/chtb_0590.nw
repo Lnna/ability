@@ -1,0 +1,736 @@
+<S>
+( (IP-HLN (NP-SBJ (v 传销)) (VP (vi 停) (wn 、) (v 看) (wn 、) (v 听))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 李光真)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (NP (ADJP (a 多)) (NP (n 层次))) (NP (n 传销)))
+      (c 和)
+      (NP (n 老鼠会)))
+    (wd ，)
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR (p 靠) (NP (ADJP (n 人际)) (NP (n 网络))))
+            (VP (ADVP (ad 迅速)) (VP (v 扩张))))))))
+  (wd ，)
+  (IP-Q
+    (NP-SBJ (DNP (NP (r 它们)) (ude 的)) (NP (n 差别)))
+    (VP (p 在) (NP-WH-OBJ (r 哪里))))
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ
+    (NP (ADJP (a 正派)) (NP (n 经营)))
+    (c 和)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (VCD (vi 浮夸) (VP (ADVP (d 不)) (VP (a 实))))))
+          (ude 的)))
+      (ADJP (n 坑人))
+      (NP (n 陷阱))))
+  (wd ，)
+  (VP
+    (ADVP (d 又))
+    (VP (v 该) (VP (ADVP (r 怎)) (FLR (n 麽)) (VP (n 区分)))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 根据)
+      (NP
+        (DNP (NP-PN (n 行政院) (a 公平) (n 交易) (n 委员会)) (ude 的))
+        (NP (n 统计))))
+    (wd ，)
+    (PP-TMP (v 截至) (LCP (QP (m 八十四) (CLP (q 年))) (f 底)))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (NP-LOC (n 全国))
+              (VP (VSB (v 登记) (VP (vyou 有) (NP (n 案)))))))
+          (ude 的)))
+      (NP (NP (ADJP (a 多)) (NP (n 层次))) (NP (n 传销)))
+      (NP (n 公司)))
+    (wd ，)
+    (VP (ADVP (v 共计)) (VP (vyou 有) (QP-OBJ (m 五百四十八) (CLP (q 家))))))
+  (wd ，)
+  (IP
+    (ADVP (c 然而))
+    (PP-PRP (p 因为) (IP (NP-SBJ (v 竞争)) (VP (a 激烈))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (ADVP (ad 实际)) (VP (vyou 有) (NP-OBJ (n 活动)))))
+          (ude 的))))
+    (wd ，)
+    (VP
+      (ADVP (d 大约))
+      (ADVP (d 只))
+      (VP (vyou 有) (QP-OBJ (m 二百一十) (CLP (q 家))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 去年))
+    (NP-SBJ (DNP (NP (n 传销业)) (ude 的)) (NP (n 营业) (n 总额)))
+    (VP
+      (v 达到)
+      (NP-OBJ
+        (QP
+          (QP (QP (QP (m 四百四十)) (ADVP (m 多))) (QP (m 亿)))
+          (CLP (q 元)))
+        (ADJP (a 新))
+        (NP (n 台币)))))
+  (wd ，)
+  (IP (NP-SBJ (vi 成长)) (VP (ADVP (d 相当)) (VP (a 迅速))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 产品) (n 品类)) (VP (a 多)))
+  (wn 、)
+  (IP
+    (NP-SBJ (DNP (DP (r 各家)) (ude 的)) (NP (n 奖金) (n 制度)))
+    (VP (ADVP (d 又)) (VP (a 不同))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 消费者))
+    (VP
+      (VP
+        (IP-CND
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (c 如果))
+            (VP
+              (d 有意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP (v 购买) (NP-OBJ (n 产品)))
+                  (c 或)
+                  (VP (v 加入) (NP-OBJ (n 传销) (n 行列))))))))
+        (wd ，)
+        (VP
+          (v 可以)
+          (VP (v 切记) (NP-OBJ (QP (m 几) (CLP (q 个))) (NP (n 原则))))))
+      (wd ，)
+      (VP
+        (CP-CND
+          (ADVP (c 以免))
+          (IP (NP-SBJ (n 发财梦)) (VP (d 没) (VP (v 作成)))))
+        (wd ，)
+        (ADVP (d 反倒))
+        (VP (a 受气) (d 又) (vi 破财)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 一))
+  (wn 、)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 注意) (NP-OBJ (n 品质) (c 和) (n 售价)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (wyz 「) (n 产品) (wyy 」))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP (DP (r 任何)) (NP (n 传销) (n 事业))) (ude 的))
+        (NP (n 核心)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP (ADJP (a 正规)) (NP (n 传销) (n 公司))) (ude 的))
+      (NP (n 奖金) (n 制度)))
+    (wd ，)
+    (VP
+      (ADVP (d 一定))
+      (VP
+        (vshi 是)
+        (VP
+          (v 建立)
+          (PP-LOC
+            (p 在)
+            (LCP
+              (NP
+                (DNP (NP (n 个人) (c 或) (NP (n 组织) (n 网))) (ude 的))
+                (NP (n 销售) (n 业绩)))
+              (f 上)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (VP
+              (ADVP (d 不))
+              (VP
+                (v 强调)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 卖) (NP-OBJ (n 产品))))))
+            (wd ，)
+            (VP
+              (PP
+                (ADVP (d 光))
+                (PP-MNR
+                  (p 靠)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (wyz 「) (v 拉) (NP (n 人头)) (wyy 」)))))
+              (VP (v 为) (NP-OBJ (n 奖金) (n 来源))))))
+        (ude 的))))
+  (wd ，)
+  (VP
+    (ADVP (c 则))
+    (VP (vyou 有) (NP-OBJ (DNP (NP (n 老鼠会)) (ude 的)) (NP (n 嫌疑)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 产品)) (ude 的)) (NP (n 品质) (n 良窳)))
+  (wd ，)
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (n 消费者)) (VP (v 判断) (NP-OBJ (-NONE- *T*-3))))
+          (ude 的)))
+      (QP (m 第一))
+      (NP (n 条件))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 产品)) (ude 的)) (NP (n 售价)))
+  (VP (ADVP (d 也)) (VP (v 要) (VP (v 注意))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 传销) (n 原意))
+  (VP
+    (ADVP (d 本))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (v 避免)
+            (NP-OBJ
+              (NP
+                (DNP
+                  (NP
+                    (NP (n 传统) (n 通路))
+                    (NP (n 大盘) (wn 、) (n 中盘) (wn 、) (n 小盘) (udeng 等)))
+                  (ude 的))
+                (NP (q 层层) (n 剥削)))
+              (wd ，)
+              (c 以及)
+              (NP
+                (DNP
+                  (NP
+                    (NP-APP
+                      (n 广告)
+                      (wn 、)
+                      (n 店铺)
+                      (n 租金)
+                      (wn 、)
+                      (n 工作)
+                      (n 人员)
+                      (n 薪水))
+                    (NP (r 之类)))
+                  (ude 的))
+                (NP (n 支出)))))
+          (wd ，)
+          (VP
+            (LCP-TMP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (p 将)
+                  (IP-OBJ (NP-SBJ (n 费用)) (VP (VRD (n 省) (v 下来))))))
+              (f 後))
+            (ADVP (ad 直接))
+            (VP (v 回馈) (NP-OBJ (n 消费者))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (ADVP (c 不过))
+    (NP-SBJ (NP (ADJP (a 多)) (NP (n 层次))) (NP (v 传销)))
+    (VP (VRD (v 发展) (v 到)) (NP-OBJ (QP (m 一个)) (NP (n 阶段)))))
+  (wd ，)
+  (IP
+    (IP (NP-SBJ (v 组织)) (VP (ADVP (n 益形)) (VP (a 庞大))))
+    (wd ，)
+    (IP
+      (NP-SBJ (DNP (NP (n 奖金)) (ude 的)) (NP (n 拨付)))
+      (VP (ADVP (m 十分)) (VP (a 惊人)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 二))
+  (wn 、)
+  (NP-SBJ (NP (v 加入)) (NP (wyz 「) (n 门槛) (wyy 」)))
+  (VP (ADVP (d 不)) (VP (v 应) (VP (a 高))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP (IP (NP (-NONE- *T*-2)) (VP (a 正规))) (ude 的)))
+    (NP (n 传销) (n 公司)))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (v 会)
+      (VP
+        (v 要求)
+        (IP (VP (v 加入) (NP (k 者))))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 一定))
+            (VP
+              (v 要)
+              (VP
+                (VP
+                  (QP-ADV (m 一) (CLP (q 次)))
+                  (VP
+                    (VP (v 买) (NP (v 足)))
+                    (NP-OBJ (DNP (QP (m 大量)) (ude 的)) (NP (n 货)))))
+                (wd ，)
+                (c 或是)
+                (VP
+                  (VSB (v 缴) (v 交))
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 昂贵)))
+                        (ude 的)))
+                    (VP (v 入) (NP (n 会费))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (bl 事实上))
+  (wd ，)
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 避免)
+        (NP-OBJ
+          (IP-APP
+            (IP
+              (IP (VP (v 直销) (NP (n 商))))
+              (VP
+                (VP (ADVP (ad 不当)) (VP (v 囤) (NP (n 货))))
+                (VP
+                  (v 来)
+                  (VP
+                    (v 假造)
+                    (NP-OBJ
+                      (ADJP (wyz 「) (v 灌水) (wyy 」))
+                      (NP (n 业绩)))))))
+            (wd ，)
+            (c 或是)
+            (IP
+              (NP-SBJ (r 自己))
+              (VP
+                (VP
+                  (VP
+                    (IP (VP (v 当) (QP (CLP (v 起)))))
+                    (NP (n 大盘) (n 商)))
+                  (VP-PRP (v 赚取) (NP-OBJ (n 差价))))
+                (wd ，)
+                (VP
+                  (IP-ADV
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VPT (v 卖) (d 不) (vi 完))))
+                  (ADVP (d 再))
+                  (VP
+                    (pba 把)
+                    (IP-OBJ
+                      (NP-SBJ (n 货))
+                      (VP
+                        (VRD (wyz 「) (vi 倒) (wyy 」) (v 回))
+                        (NP-OBJ (n 公司))))))))
+            (udeng 等))
+          (NP (v 困扰))))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 正规))) (ude 的)))
+    (NP (n 传销) (n 公司)))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (v 会)
+      (VP
+        (VP
+          (PP-LOC (p 在) (LCP (NP (n 营业) (n 守则)) (f 中)))
+          (VP
+            (v 载明)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (NP-APP
+                    (ADVP (v 如))
+                    (NP
+                      (wyz 「)
+                      (QP (m 百分之七十))
+                      (NP (vi 销货) (n 原则))
+                      (wyy 」)))
+                  (NP (r 之类)))
+                (ude 的))
+              (NP (n 规定)))))
+        (wd ，)
+        (VP
+          (v 要)
+          (NP-OBJ (n 传销商))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (LCP-TMP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (d 将)
+                    (IP-OBJ
+                      (QP-SBJ
+                        (DNP (IP (VP (vi 进货) (NP (n 量)))) (ude 的))
+                        (QP (m 百分之七十)))
+                      (VP (VRD (n 去化) (vi 完毕))))))
+                (f 後))
+              (wd ，)
+              (ADVP (d 才))
+              (VP
+                (v 能)
+                (VP
+                  (VP (v 领取) (NP-OBJ (n 业绩) (n 奖金)))
+                  (c 或是)
+                  (VP
+                    (ADVP (d 再))
+                    (VP (v 补) (NP-OBJ (ADJP (a 新)) (NP (n 货)))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 三))
+  (wn 、)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (PP-DIR (NP (vi 兼职))) (VP (v 开始)))
+    (wn 、)
+    (VP (ADVP (ad 自由)) (VP (v 进出))))))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (IP (NP-SBJ (n 传销商)) (VP (v 退出))) (n 时))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (r 他))
+            (VP (usuo 所) (VP (v 订购) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (n 商品)))
+    (VP (ADVP (d 也)) (VP (v 可以) (VP (v 退还)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (VRD (v 拿) (v 回)) (NP-OBJ (-NONE- *T*-2))))
+          (ude 的)))
+      (NP (n 价金)))
+    (VP
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 应)
+          (VP
+            (v 低於)
+            (QP-OBJ
+              (DNP (NP (ADJP (t 当初)) (NP (n 进价))) (ude 的))
+              (QP (m 百分之九十))))))
+      (wd ，)
+      (VP
+        (ADVP (c 不过))
+        (VP
+          (v 可以)
+          (VP
+            (VRD (v 扣) (v 掉))
+            (NP-OBJ
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (n 公司))
+                    (VP
+                      (ADVP (d 已经))
+                      (VP (v 拨付) (NP-OBJ (-NONE- *T*-3)))))
+                  (ude 的)))
+              (DP (r 各项))
+              (NP (n 奖金))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (r 这样))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-4 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-4)) (VP (v 加入))))
+    (NP (k 者)))
+  (VP
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 若))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 想)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (ADVP (d 再)) (VP (VRD (v 做) (v 下去)))))))))
+    (wd ，)
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 即使))
+        (VP
+          (ADVP (d 不))
+          (VP (v 能) (VP (ADVP (n 全身)) (VP (c 而) (VP (v 退))))))))
+    (wd ，)
+    (VP
+      (ADVP (d 至少))
+      (VP
+        (v 可以)
+        (VP
+          (p 将)
+          (IP-OBJ (NP-SBJ (n 损失)) (VP (VRD (v 减) (v 到)) (VP (a 最低))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 要) (VP (ad 小心) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (wd ，)
+      (IP-PRD
+        (NP-SBJ (QP (m 许多)) (NP (n 传销) (n 公司)))
+        (VP
+          (vi 喜欢)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR
+                (p 用)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (VP (wyz 「) (ADVP (d 快速)) (VP (vi 致富)) (wyy 」))
+                    (wn 、)
+                    (VP
+                      (wyz 「)
+                      (ADVP (z 轻轻松松))
+                      (VP (IP (NP (n 月)) (VP (v 入))) (QP-OBJ (m 百万)))
+                      (wyy 」)))))
+              (VP
+                (v 来)
+                (VP
+                  (v 吸引)
+                  (NP-OBJ (n 消费者))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 加入) (NP-OBJ (n 传销) (n 行列))))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (VP (ADVP (d 最)) (VP (a 有效)))
+                (wn 、)
+                (VP
+                  (ADVP (d 却))
+                  (ADVP (d 也))
+                  (ADVP (d 最))
+                  (VP (v 误导)))))
+            (ude 的)))
+        (NP (n 号召) (n 方式)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP (VP (ADVP (a 公平)) (VP (v 会))))
+    (VP
+      (v 统计)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-TMP (t 去年))
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (ADVP (d 实际上))
+                    (VP (vyou 有) (VP (v 领取) (NP-OBJ (n 奖金))))))
+                (ude 的)))
+            (NP (n 传销商)))
+          (VP
+            (NP-PRD
+              (ADVP (v 共计))
+              (NP (QP (QP (m 五十八万)) (ADVP (m 多))) (NP (n 人))))))
+        (wd ，)
+        (IP
+          (ADVP (a 平均))
+          (NP-SBJ (QP (m 一个)) (NP (n 人)))
+          (VP
+            (QP-ADV (m 一) (CLP (q 年)))
+            (VP (v 领取) (QP-OBJ (m 三万五千) (CLP (q 元)))))))))
+  (wd ，)
+  (IP
+    (NP-TPC (DP (r 这个)) (NP (n 数字)))
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (ADVP (d 别)) (VP (v 说) (NP-OBJ (vi 发财)))))
+    (wd ，)
+    (ADVP (ulian 连))
+    (IP-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 养活) (NP-OBJ (r 自己))))
+    (VP (ADVP (d 都)) (a 不够)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 因此))
+    (NP-SBJ (ADJP (a 正规)) (NP (n 业者)))
+    (VP
+      (ADVP (d 一定))
+      (VP
+        (v 鼓励)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (vyou 有) (NP-OBJ (n 兴趣)))))
+          (NP (k 者)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR
+              (p 以)
+              (NP
+                (UCP
+                  (NP (wyz 「) (n 兼职) (wyy 」))
+                  (wn 、)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (wyz 「)
+                      (v 赚)
+                      (NP-OBJ (CLP (q 点)) (NP (n 外快)))
+                      (wyy 」)))
+                  (ude 的))
+                (NP (n 心态))))
+            (VP (v 进入)))))))
+  (wd ，)
+  (IP-IJ
+    (NP-SBJ
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-3))
+            (VP
+              (IP-ADV
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (d 一)) (VP (v 开始))))
+              (ADVP (d 就))
+              (VP
+                (v 鼓吹)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (VP (v 辞掉) (NP-OBJ (n 工作)))
+                    (VP (VRD (vi 跳) (v 进来))))))))
+          (ude 的))))
+    (wd ，)
+    (VP (ADVP (d 千万)) (ADVP (d 别)) (VP (v 参加))))
+  (wt ！)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 蔡智本)) (VP (vi 绘图)) (wky ）)))
+</S>

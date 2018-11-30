@@ -1,0 +1,216 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (n 现年) (QP-OBJ (m ３４) (CLP (q 岁)))))
+          (ude 的)))
+      (NP-APP (n 嫌犯))
+      (NP-PN (nr 王东志)))
+    (VP
+      (LCP-TMP
+        (IP
+          (NP-SBJ-2 (-NONE- *pro*))
+          (VP
+            (pbei 被)
+            (IP-OBJ
+              (NP-SBJ (n 警方))
+              (VP (VRD (v 带) (v 回)) (NP-OBJ (-NONE- *-2))))))
+        (n 时))
+      (ADVP (d 还))
+      (VP
+        (DVP (VP (v 羞愧)) (ude 的))
+        (PP-MNR (p 用) (NP (n 手)))
+        (VP (v 遮) (NP (n 脸))))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 仍然))
+      (ADVP (v 无法))
+      (VP
+        (v 掩饰)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (r 自己))
+              (VP
+                (IP
+                  (NP (ADJP (a 辣)) (NP (n 手)))
+                  (VP (ADVP (v 摧)) (VP (n 花))))
+                (wd ，)
+                (VP
+                  (ADVP (ad 连续))
+                  (VP (VRD (v 犯) (v 下)) (NP-OBJ (n 强暴) (n 案件))))))
+            (ude 的))
+          (ADJP (a 可耻))
+          (NP (n 罪行))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 王东志))
+  (VP
+    (v 涉嫌)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP
+          (v 利用)
+          (NP-OBJ
+            (DNP
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (VP (v 送) (NP-OBJ (n 瓦斯)))
+                      (VP (v 到) (NP-OBJ (n 住家)))))
+                  (ude 的))
+                (NP (n 工作)))
+              (uzhi 之))
+            (NP (n 便))))
+        (wd ，)
+        (VP
+          (LCP-TMP (QP (m 一) (CLP (q 年))) (f 之内))
+          (ADVP (ad 连续))
+          (VP
+            (VP (v 潜入) (LCP-OBJ (-NONE- *RNR*-1)))
+            (c 并且)
+            (VP
+              (vi 藏匿)
+              (PP-LOC
+                (p 于)
+                (LCP-1
+                  (NP
+                    (NP-PN (ns 大安区) (ns 基隆路))
+                    (QP (m 二) (CLP (q 段)))
+                    (DP (r 这) (CLP (q 栋)))
+                    (NP (n 大楼)))
+                  (f 之内)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 嫌犯))
+    (VP
+      (VRD (v 看) (a 准))
+      (y 了)
+      (IP-OBJ
+        (LCP-SBJ (NP (n 大楼) (n 电梯)) (f 内))
+        (VP (ADVP (d 没有)) (VP (v 装设) (NP-OBJ (n 监视器)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (c 因此))
+        (PP-MNR
+          (v 借)
+          (uzhe 着)
+          (NP (DNP (NP (r 自己)) (ude 的)) (NP (n 水电) (n 专长))))
+        (wd ，)
+        (ADVP (d 先))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ-2
+              (n 电梯)
+              (NP (NP (DP (f 上)) (NP (v 下))) (NP (n 楼)))
+              (n 按钮)
+              (n 箭头))
+            (VP
+              (IP (VP (IP (VP (p 对))) (VP (v 调))))
+              (NP-OBJ (-NONE- *-2))))))
+      (wd ，)
+      (VP
+        (ADVP (c 然后))
+        (ADVP (d 再))
+        (VP
+          (VP (v 戴) (uzhe 着) (NP-OBJ (n 口罩) (c 和) (n 手套)))
+          (VP (v 进入) (LCP-OBJ (NP (n 电梯)) (f 里)))
+          (wd ，)
+          (VP
+            (ADVP (d 专门))
+            (VP
+              (VP
+                (v 找)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (ADVP (n 单身)) (IP (NP (t 夜)) (VP (v 归))))))
+                  (NP (n 女子))))
+              (VP (vi 下手))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (VP
+      (ADVP (d 先))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (n 被害人))
+          (VP
+            (VRD (v 带) (v 到))
+            (NP-OBJ
+              (NP
+                (LCP (NP (n 大楼)) (f 内))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (b 无人))))
+                (NP (n 住宅)))
+              (wd ，)
+              (c 或是)
+              (NP
+                (DNP (NP (vi 办公)) (ude 的))
+                (ADJP (a 空))
+                (NP (n 楼层))))))))
+    (wd ，)
+    (VP (ADVP (d 再)) (VP (v 加以) (NP-OBJ (n 强暴)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (QP (m 一) (CLP (q 年))) (ADVP (m 多))) (f 之内))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (DP (r 这) (CLP (q 栋))) (NP (n 大楼))) (f 里面)))
+    (ADVP (d 已经))
+    (ADVP (ad 连续))
+    (VP (vi 得逞) (y 了) (QP-OBJ (m ３) (CLP (q 次)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 嫌犯))
+  (VP
+    (ADVP (c 另外))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (DNP (NP-PN (ns 复兴南路)) (ude 的))
+          (QP (m 一) (CLP (q 栋)))
+          (ADJP (a 旧))
+          (NP (n 大楼)))
+        (f 里面)))
+    (ADVP (d 也))
+    (VP
+      (v 强暴)
+      (NP-OBJ (QP (m 一) (CLP (q 名))) (ADJP (n 单身)) (NP (n 女子)))))
+  (wj 。)))
+</S>

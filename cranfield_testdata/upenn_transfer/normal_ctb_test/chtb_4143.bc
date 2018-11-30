@@ -1,0 +1,175 @@
+<S>
+( (IP
+  (NP-TMP
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (ADVP (r 那))
+          (ADVP (t 刚才))
+          (NP-SBJ (NP-PN (nr1 阮)) (NP (n 教授)))
+          (VP
+            (PP-TMP (-NONE- *T*-1))
+            (VP
+              (PP-LOC (p 在) (LCP (NP (n 新闻)) (f 当中)))
+              (NP (ADVP (v 连)) (NP (n 线))))))
+        (ude 的)))
+    (NP (n 时候)))
+  (NP-SBJ (r 我))
+  (VP
+    (v 听到)
+    (NP-SBJ (r 您))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 说)
+        (IP-OBJ
+          (NP (t 现在))
+          (NP-PN-TPC (ns 美国) (c 和) (ns 朝鲜))
+          (IP (VP (VCD (a 好) (n 象))))
+          (NP-SBJ (n 焦点))
+          (VP (ADVP (d 不)) (VP (v 在) (ADVP (s 一起))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (ADVP (r 那))
+  (NP-SBJ (NP-PN (ns 美国)) (NP (n 方面)))
+  (VP
+    (DP-ADV (r 这) (QP (m 一) (CLP (q 次))))
+    (VP (v 要) (VP (v 关注) (NP-OBJ-WH (r 什么)))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (FLR (r 这个))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 美国)) (NP (n 方面)))
+    (VP (ADVP (d 其实)) (DVP (ADVP (d 非常)) (ude 的)) (VP (an 明确))))
+  (wd ，)
+  (IP
+    (FLR (r 这个))
+    (PP-SBJ
+      (p 像)
+      (NP (NP-PN (nrf 希尔)) (c 和) (ADVP (NP (nrf 赖斯)) (ADVP (d 都)))))
+    (VP (v 发表) (uguo 过) (NP-OBJ (n 讲话)))
+    (wd ，))
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 非常)) (VP (a 明确))))
+  (wd ，)
+  (IP
+    (NP-TPC (DP (r 这) (QP (m 一))) (NP (q 点)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 就是说))
+      (wd ，)
+      (VP
+        (d 必须)
+        (VP
+          (VP
+            (v 执行)
+            (NP-OBJ
+              (DP (r 这个))
+              (NP (nr 九幺九))
+              (ADJP (d 共同))
+              (NP (v 声明))))
+          (wd ，)
+          (VP
+            (DVP (ADVP (vl 不折不扣)) (ude 地))
+            (VP (v 执行) (NP-OBJ (DP (r 这个)) (NP (n 声明)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (r 那么))
+    (ADVP (c 而且))
+    (wd ，)
+    (CP-CND
+      (ADVP (c 如果))
+      (CP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (v 细化) (ADVP-EXT (m 一点))))
+        (y 呢)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (VP
+          (v 要求)
+          (NP-OBJ (DP (r 这个)) (NP-PN (ns 朝鲜)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (d 必须) (VP (v 弃) (NP (n 核)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (IP (NP-SBJ (r 你)) (VP (ADVP (d 不)) (VP (v 弃) (NP (n 核)))))
+    (FRAG (ude 的) (NP (n 话))))
+  (DP-SBJ (r 其它))
+  (VP (ADVP (d 都)) (VP (vl 无从谈起)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (c 而且))
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 核计划)))
+        (y 呢)
+        (VP
+          (v 置于)
+          (LCP-OBJ
+            (NP
+              (DNP
+                (NP (DP (r 这个)) (NP (n 国际) (n 原子能) (n 机构)))
+                (ude 的))
+              (DP (r 这个))
+              (NP (n 监控)))
+            (f 之下))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (CP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 可能))) (udh 的话)))
+  (wd ，)
+  (NP-SBJ (NP-PN (nrf 希尔)) (NP (r 自己)))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 表示)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 希望)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (VP (vi 回家)) (VP (v 过) (NP-OBJ (t 圣诞节)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (INTJ (y 哎))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (ADVP (d 比较)) (VP (vyou 有) (QP-OBJ (m 一个))))
+    (wd ，)
+    (VP
+      (ADVP (d 起码))
+      (VP
+        (vyou 有)
+        (NP-OBJ (QP (m 一个)) (DNP (ADJP (b 初步)) (ude 的)) (NP (n 成果))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (y 嗯) (wj 。)))
+</S>

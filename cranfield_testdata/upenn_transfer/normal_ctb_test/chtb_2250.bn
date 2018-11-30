@@ -1,0 +1,489 @@
+<S>
+( (IP
+  (NP-TPC
+    (NP-APP (ADJP (n 专题)) (NP (n 报道)))
+    (NP-PN
+      (NP (wkz 《) (DNP (NP (n 特区)) (uzhi 之)) (NP (n 路)) (wky 》))
+      (NP
+        (wkz 《)
+        (IP (NP-SBJ (n 精神文明)) (VP (v 开) (NP-OBJ (n 鲜花))))
+        (wky 》))))
+  (NP-SBJ (v 采写))
+  (VP (NP-PRD (NP-APP (NP-PN (n 中央台)) (NP (n 记者))) (NP-PN (nr 王常权))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-SBJ
+    (NP (NP-PN (ns 深圳)) (NP (n 市委) (wn 、) (n 市政府)) (NP (n 办公楼)))
+    (f 前))
+  (VP
+    (vyou 有)
+    (NP-OBJ
+      (NP
+        (QP (m 一) (CLP (q 座)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 著名))) (ude 的)))
+        (NP (n 雕像)))
+      (wd ，)
+      (PRN
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (VSB (v 俯首) (VP (ADVP (ad 急)) (VP (v 进))))))
+                (ude 的)))
+            (NP (n 孺子牛)))
+          (VP (ADVP (d 奋力)) (VP (vi 拓荒)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 深圳市) (n 博物馆)) (NP (n 广场)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (NP (QP (m 一) (CLP (q 座))) (NP (n 雕像)))
+        (wd ，)
+        (PRN
+          (IP
+            (NP-SBJ
+              (QP (m 一个))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (VCD (a 魁梧) (a 有力))))
+                  (ude 的)))
+              (NP (n 勇士)))
+            (VP
+              (NP-MNR (n 双手))
+              (VP (VRD (v 撑) (v 断)) (y 了) (NP-OBJ (n 门槛)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 留连)
+      (PP (p 在) (NP (DNP (NP (n 特区)) (ude 的)) (NP (nl 大街小巷))))))
+  (wd ，)
+  (NP-SBJ
+    (QP (m 一组组))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 生动))) (ude 的)))
+    (NP (n 画面)))
+  (VP
+    (PP-MNR
+      (p 用)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (vi 无声))) (ude 的)))
+        (NP (n 语言))))
+    (VP
+      (v 告诉)
+      (NP-IO (r 我们))
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (n 特区)) (ude 的)) (NP (n 崛起)))
+        (PP-DIR (p 从) (NP (NP (wyz “) (v 闯) (wyy ”)) (NP (n 字))))
+        (VP (v 开始)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (t 今天)) (ude 的)) (NP (n 特区)))
+  (VP
+    (VP
+      (ADVP (c 不仅))
+      (VP
+        (VRD (v 闯) (v 出))
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 震惊) (NP-OBJ (n 世界))))
+              (ude 的)))
+          (NP
+            (NP (NP-PN (ns 深圳)) (NP (n 速度)))
+            (p 与)
+            (NP (n 经济) (n 奇迹))))))
+    (wd ，)
+    (VP
+      (ADVP (d 更))
+      (VP
+        (VRD (v 闯) (v 出))
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (n 社会主义) (n 精神文明)) (ude 的))
+          (ADJP (a 新))
+          (NP (n 路子))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (r 如何))
+      (VP
+        (VRD (v 处理) (a 好))
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (IP
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (v 管)))
+                (p 与)
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (v 放))))
+              (wn 、)
+              (IP
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (a 宽)))
+                (p 与)
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (a 严))))
+              (wn 、)
+              (IP
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (v 堵)))
+                (p 与)
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (v 导))))
+              (wn 、)
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 有所) (NP-OBJ (n 引进))))
+              (wn 、)
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (VP (v 有所) (NP-OBJ (n 抵制) (c 和) (n 排污)))
+                  (VP (ADVP (d 不)) (VP (a 排外))))))
+            (ude 的))
+          (NP (n 关系))))))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP
+      (DNP (NP (v 改革) (v 开放)) (ude 的))
+      (ADJP (b 总))
+      (NP (n 设计师)))
+    (NP-PN (nr 小平) (n 同志)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (vl 两手抓)))
+      (wn 、)
+      (IP
+        (NP-SBJ (QP (m 两)) (NP (n 手)))
+        (VP (ADVP (d 都)) (VP (v 要) (VP (a 硬))))))
+    (wyy ”))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (LCP (QP (m ２０) (CLP (q 年))) (f 来)) (ude 的))
+    (NP (n 实践) (c 与) (n 成果)))
+  (VP
+    (v 表明)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (n 特区))
+      (VP
+        (VP
+          (ADVP (c 不仅))
+          (VP (VRD (v 经受) (vi 住)) (y 了) (NP-OBJ (v 考验))))
+        (VP
+          (ADVP (c 而且))
+          (VP
+            (VRD (v 走) (v 在))
+            (y 了)
+            (NP-OBJ
+              (DNP (NP (n 社会主义) (n 精神文明) (n 建设)) (ude 的))
+              (NP (s 前沿))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今天))
+  (wd ，)
+  (PP-TMP
+    (p 当)
+    (IP
+      (NP-SBJ (r 你))
+      (VP
+        (VRD (v 踏) (v 上))
+        (NP-OBJ (NP (n 特区)) (DP (r 这) (CLP (q 片))) (NP (n 热土))))))
+  (wd ，)
+  (PP
+    (ADVP (c 不论是))
+    (PP-LOC
+      (p 在)
+      (NP
+        (NP
+          (DNP (NP-PN (ns 南粤)) (ude 的))
+          (NP-PN (ns 深圳) (wn 、) (ns 珠海) (wn 、) (ns 汕头)))
+        (wd ，)
+        (v 还是)
+        (NP (DNP (LCP (ns 黄浦江畔)) (ude 的)) (NP-PN (ns 浦东))))))
+  (wd ，)
+  (PP-DIR (p 从) (NP (NP (n 陆岛)) (NP-PN (ns 厦门))))
+  (PP-DIR (p 到) (NP (NP (ns 宝岛)) (NP-PN (ns 海南))))
+  (wd ，)
+  (NP-SBJ (QP (m 第一)) (NP (n 感觉)))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-TPC (n 特区))
+        (IP
+          (IP (NP-SBJ (n 天)) (VP (a 蓝)))
+          (wn 、)
+          (IP (NP-SBJ (n 草)) (VP (a 绿)))
+          (wn 、)
+          (IP (NP-SBJ (n 城)) (VP (a 美)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC (p 在) (NP (s 街头)))
+    (NP-SBJ (r 你))
+    (VP
+      (DVP (VP (a 不经意)) (ude 的))
+      (VP
+        (v 问起)
+        (NP-IO (NP (n 市民)))
+        (NP-OBJ
+          (DNP
+            (PP
+              (p 对)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (IP
+                    (NP-SBJ (r 自己))
+                    (VP
+                      (IP (VP (ADVP (usuo 所)) (VP (v 在))))
+                      (NP-OBJ (-NONE- *T*-1)))))
+                (NP (n 城市))))
+            (ude 的))
+          (NP (n 评价))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (d 总是))
+      (DVP (VP (a 热情)) (ude 的))
+      (PP-DIR (p 向) (NP (r 你)))
+      (VP
+        (v 介绍)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (IP (VP (ADVP (usuo 所)) (VP (v 在))))
+                        (NP-OBJ (-NONE- *T*-2)))))
+                  (NP (n 城市)))
+                (VP (v 获得) (NP-OBJ (-NONE- *T*-3))))
+              (ude 的)))
+          (QP (m 一个个))
+          (NP (n 殊荣))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (vl 常抓不懈) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 精神文明) (n 建设)))
+    (wd ，)
+    (NP
+      (ADJP (a 有序))
+      (DNP (NP (ADJP (a 高)) (NP (n 品味))) (ude 的))
+      (NP (n 城市) (n 生活))))
+  (wd ，)
+  (VP
+    (ADVP (d 快速))
+    (VP
+      (v 提升)
+      (uzhe 着)
+      (NP-OBJ (DNP (NP (n 人们)) (ude 的)) (NP (n 精神) (n 境界)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (NP (NP-PN (ns 深圳)) (NP (s 街头))))
+  (DP-ADV (r 每天))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (v 能)
+      (VP
+        (v 看到)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (n 市民))
+              (VP (ADVP (d 争相)) (ADVP (d 无偿)) (VP (vi 献血))))
+            (ude 的))
+          (ADJP (a 感人))
+          (NP (n 场景))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP (p 从) (NP (t １９９３年)))
+    (PP-TMP (p 至) (NP (t 今)))
+    (wd ，)
+    (NP-PN-SBJ (ns 深圳))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (vyou 有)
+        (IP
+          (NP-SBJ (QP (m １２万５) (m 千)) (NP (n 市民)))
+          (VP (ADVP (d 无偿)) (ADVP (d 志愿)) (VP (vi 献血)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 全市))
+    (VP
+      (LCP-TMP (QP (m 几) (CLP (q 年))) (f 前))
+      (ADVP (d 就))
+      (VP
+        (v 实现)
+        (y 了)
+        (IP-OBJ
+          (NP-SBJ (ADJP (n 临床)) (NP (n 医疗) (n 用血)))
+          (VP
+            (QP-ADV (m １００％))
+            (VP (v 来自) (NP-OBJ (ADJP (d 无偿)) (NP (v 捐献)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 深圳) (n 特区))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (NP
+          (QP (m 一个))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (VP (ADVP (d 更)) (VP (a 响亮)))
+                  (wn 、)
+                  (VP
+                    (ADVP (d 更))
+                    (VP (v 具) (NP-OBJ (ADJP (n 国际化)) (NP (n 色彩)))))))
+              (ude 的)))
+          (NP (n 名字)))
+        (PRN (NP (wyz “) (n 义工) (wyy ”))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR
+        (p 从)
+        (NP
+          (DNP (QP (m １０) (CLP (q 年))) (ude 的))
+          (QP (m １９))
+          (NP (n 人))))
+      (ADVP (d 已经))
+      (VP
+        (VRD (v 发展) (v 到))
+        (NP-OBJ
+          (NP (t 今天))
+          (FLR (VP (ADVP (d 已经)) (VP (v 进))))
+          (QP (m ４万))
+          (NP (n 人))))))
+  (wj 。)))
+</S>
+<S>
+( (NP
+  (NP-APP (NP-PN (ns 美国)) (ADJP (f 前)) (NP (n 国务卿)))
+  (NP-PN (nrf 亨利))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 基辛格))
+    (VP
+      (NP-TMP
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-TMP (-NONE- *T*-1))
+                (VP (v 访问) (NP-PN-OBJ (ns 深圳)))))
+            (ude 的)))
+        (NP (n 时候)))
+      (ADVP (d 曾))
+      (PP-LOC (p 在) (LCP (NP (vi 留言)) (f 中)))
+      (VP
+        (v 说)
+        (wyz “)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 深圳))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP
+                (NP
+                  (NP (NP-PN (ns 中国)) (NP (n 人民)))
+                  (NP (n 精神) (c 和) (n 能力)))
+                (ude 的))
+              (ADJP (a 有力))
+              (NP (n 证明)))))
+        (wyy ”))))
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 新加坡)) (ADJP (b 资深)) (NP (n 政治家)))
+      (NP-PN (nr 李光耀)))
+    (VP
+      (v 坦言)
+      (wyz “)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP-PN (ns 深圳)) (ude 的)) (NP (t 未来)))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (vshi 是)
+            (NP-PRD (DNP (NP-PN (ns 中国)) (ude 的)) (NP (t 未来))))))
+      (wyy ”)))
+  (wj 。)))
+</S>

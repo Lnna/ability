@@ -1,0 +1,186 @@
+<S>
+( (IP
+  (NP-TPC (DNP (NP-PN (ns 中东)) (ude 的)) (NP (n 动乱)))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 大家))
+          (VP (ADVP (d 最)) (VP (v 关心) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (ADVP (d 就))
+    (VP (vshi 是) (NP-PRD (DNP (NP (n 油价)) (ude 的)) (NP (n 飙涨)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (NP-PN (ns 美国)))
+  (NP-SBJ
+    (QP (m 两) (CLP (q 家)))
+    (DNP (ADJP (b 大型)) (ude 的))
+    (NP (n 石油) (n 公司)))
+  (VP
+    (VP (v 宣布) (y 了) (NP-OBJ (DNP (NP (v 合并)) (ude 的)) (NP (n 计划))))
+    (wd ，)
+    (VP
+      (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 合并))) (f 之后))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (NP (n 全世界))
+          (QP (m 第４))
+          (ADJP (a 大))
+          (NP (n 石油) (n 公司))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC (p 在) (NP-PN (ns 美国)))
+            (VP (vi 排名) (QP-OBJ (m 第２)))))
+        (ude 的)))
+    (NP-PN (nz 雪弗龙) (n 公司)))
+  (VP
+    (VP
+      (PP-MNR
+        (p 以)
+        (NP (DNP (QP (m ３５０亿) (CLP (q 美元))) (ude 的)) (NP (n 代价))))
+      (VP
+        (VRD (v 买) (v 下))
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (NP-APP (n 竞争) (n 对手)) (NP-PN (nrf 德氏古))) (ude 的))
+          (NP (n 股份)))))
+    (wd ，)
+    (VP
+      (ADVP (d 从此))
+      (VP
+        (VRD (vi 改名) (v 为))
+        (NP-PN-OBJ (nz 雪弗龙) (wp －) (nz 德氏古) (n 公司)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 两)) (ADJP (a 大)) (NP (n 公司)))
+    (VP
+      (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 结合))) (f 之后))
+      (wd ，)
+      (VP
+        (v 预计)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 将))
+            (VP
+              (v 裁撤)
+              (NP-OBJ (QP (m ４０００) (CLP (q 个))) (NP (n 职位)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (IP-SBJ (NP-SBJ (n 油价)) (VP (a 高涨)))
+            (VP (PP-DIR (n 对业者)) (VP (v 造成) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (n 压力)))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 需要)
+        (IP-OBJ
+          (NP-SBJ (QP (m 两)) (ADJP (a 大)) (NP (n 企业)))
+          (VP (ADVP (d 共同)) (VP (v 面对)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 产业) (n 分析师))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP (NP (QP (m 两)) (NP (a 大)) (NP (n 企业))) (ude 的))
+        (NP (n 合并)))
+      (VP
+        (VP
+          (ADVP (d 将))
+          (VP
+            (VP (v 提高) (NP-OBJ (n 工作) (n 效率)))
+            (wd ，)
+            (VP (v 降低) (NP-OBJ (n 成本)))))
+        (wd ，)
+        (VP
+          (ADVP (d 也))
+          (VP
+            (v 能够)
+            (VP
+              (VP (v 扩大) (NP-OBJ (n 市场占有率)))
+              (wd ，)
+              (VP
+                (v 加强)
+                (NP-OBJ
+                  (DNP
+                    (PP
+                      (p 对)
+                      (NP
+                        (NP-PN (ns 欧洲))
+                        (QP (m 两) (CLP (q 个)))
+                        (NP (n 石油) (n 公司))))
+                    (ude 的))
+                  (NP (n 竞争力)))))))
+        (wd ，)
+        (VP
+          (PP-DIR (p 对) (NP (QP (m 两) (CLP (q 家))) (NP (n 公司))))
+          (ADVP (d 都))
+          (VP (a 有利))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 两) (CLP (q 个))) (NP (n 企业)))
+  (VP
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 会)
+        (VP
+          (VRD (v 卖) (v 出))
+          (NP-OBJ (QP (m 一些)) (NP (n 加油站) (c 和) (n 炼油厂))))))
+    (wd ，)
+    (VP (v 缩小) (NP-OBJ (DNP (NP (n 企业)) (ude 的)) (NP (n 规模))))
+    (VP
+      (v 来)
+      (VP
+        (v 减少)
+        (NP-OBJ
+          (DNP (NP (NP-PN (ns 美国)) (NP (n 政府))) (ude 的))
+          (IP-NOM
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 反对) (NP-OBJ (v 独立))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (LCP (NP (ADJP (a 大)) (NP (n 企业))) (f 间)) (ude 的))
+    (ADJP (b 相互))
+    (NP (n 并购) (wn 、) (v 结合)))
+  (wd ，)
+  (VP
+    (ADVP (d 已经))
+    (VP (v 成为) (NP-OBJ (DNP (LCP (dl 近年来)) (ude 的)) (NP (n 趋势)))))
+  (wj 。)))
+</S>

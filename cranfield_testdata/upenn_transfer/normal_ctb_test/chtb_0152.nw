@@ -1,0 +1,246 @@
+<S>
+( (IP
+  (NP-TPC (NP-PN (ns 中国)) (NP (n 建材) (n 工业)) (PP (n 对外)) (NP (n 合作)))
+  (NP-SBJ (v 发展))
+  (VP (a 迅速))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 三月)
+  (t 十九日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 李建民)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 中国)) (NP (n 建材) (n 工业)))
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (IP-SBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 加强) (NP-OBJ (PP (n 对外)) (NP (n 合作)))))
+        (VP
+          (v 作为)
+          (NP-OBJ
+            (CP
+              (WHPP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-MNR (-NONE- *T*-3))
+                    (VP (v 加快) (NP-OBJ (v 发展)))))
+                (ude 的)))
+            (ADJP (a 重要))
+            (NP (n 措施)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHPP-4 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (PP-LOC (-NONE- *T*-4)) (VP (v 利用) (NP-OBJ (n 外资))))))
+      (NP (n 领域)))
+    (VP (ADVP (ad 迅速)) (VP (v 扩大))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (IP
+            (NP-SBJ (DP (a 全)) (NP (n 行业)))
+            (VP (v 吸引) (NP-OBJ (-NONE- *T*-2)))))
+        (NP (n 外资)))
+      (NP (n 总额)))
+    (VP (ADVP (d 已)) (VP (v 达) (QP-OBJ (m 五十亿) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (n 国家) (n 建材局))
+    (QP (m 一) (CLP (q 位)))
+    (NP (n 主管) (n 官员)))
+  (VP
+    (NP-TMP (t 今天))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 接受) (NP-OBJ (n 记者) (n 采访))))
+        (n 时)))
+    (VP
+      (v 透露)
+      (wd ，)
+      (IP-OBJ
+        (NP-TMP (t 目前))
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (NP-PN (ns 中国)) (NP (n 建材) (n 工业)))
+                (VP
+                  (VP
+                    (v 利用)
+                    (NP-OBJ
+                      (NP
+                        (NP-PN (n 世界) (n 银行))
+                        (c 和)
+                        (NP-PN (ns 亚洲) (n 银行)))
+                      (NP (n 贷款))))
+                  (VP (n 建设) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP-PN-APP (ns 安徽) (ns 铜陵) (wn 、) (ns 湖南湘乡) (udeng 等))
+          (QP (m 一) (CLP (ADJP (a 大)) (CLP (q 批))))
+          (NP (n 水泥) (n 工程) (n 项目)))
+        (VP (ADVP (d 已)) (ADVP (d 相继)) (VP (vi 投产))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 外商) (n 投资) (n 领域))
+  (VP
+    (ADVP (d 正))
+    (ADVP (ad 迅速))
+    (PP-DIR
+      (p 向)
+      (NP
+        (NP-APP
+          (NP (ADJP (b 新型)) (NP (n 建材)))
+          (wn 、)
+          (NP (n 高新技术))
+          (c 和)
+          (NP (NP (n 建材)) (ADJP (d 深)) (NP (v 加工)))
+          (udeng 等))
+        (NP (n 方面))))
+    (VP (v 发展)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (v 利用)
+              (NP-OBJ
+                (NP-PN (ns 意大利))
+                (QP (m 一亿) (CLP (q 美元)))
+                (NP (n 优惠) (n 出口) (n 信贷))))
+            (VP (n 建设) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (NP (ADJP (b 高档)) (NP (an 卫生) (n 陶瓷)))
+    (NP (n 技术) (n 改造) (n 项目)))
+  (VP
+    (ADVP (d 正))
+    (PP-LOC
+      (p 在)
+      (NP
+        (NP-PN-APP
+          (ns 陕西)
+          (wn 、)
+          (ns 山东)
+          (wn 、)
+          (ns 广东)
+          (wn 、)
+          (ns 吉林)
+          (c 和)
+          (ns 湖南)
+          (udeng 等))
+        (NP (n 地))))
+    (VP (v 取得) (NP-OBJ (ADJP (a 积极)) (NP (n 进展)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 最近))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (NP-PN (ns 中国)) (NP (n 建材) (n 工业)))
+            (VP
+              (PP
+                (p 与)
+                (NP
+                  (NP
+                    (NP
+                      (NP-PN-APP
+                        (ns 荷兰)
+                        (wn 、)
+                        (ns 德国)
+                        (wn 、)
+                        (ns 泰国)
+                        (wn 、)
+                        (ns 希腊)
+                        (wn 、)
+                        (ns 澳大利亚)
+                        (wn 、)
+                        (ns 日本)
+                        (wn 、)
+                        (ns 法国)
+                        (wn 、)
+                        (ns 丹麦)
+                        (udeng 等))
+                      (NP (n 国)))
+                    (NP (n 政府部门)))
+                  (c 和)
+                  (NP (n 跨国公司))))
+              (VP (v 签署) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (ADJP (n 双边))
+      (NP (n 合作) (n 协议)))
+    (wd ，)
+    (NP (NP (PP (n 对外)) (NP (n 合作))) (NP (n 伙伴))))
+  (VP (vyou 有) (y 了) (NP-OBJ (ADJP (d 大幅度)) (NP (v 增加))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 去年))
+  (IP
+    (IP
+      (NP-SBJ
+        (NP-PN (ns 中国))
+        (NP (n 建材) (n 产品) (n 出口) (n 创汇) (n 金额)))
+      (VP (v 超过) (QP-OBJ (m 二十一亿) (CLP (q 美元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (n 出口) (NP-OBJ (n 水泥)) (QP-EXT (m 一千二百万) (CLP (q 吨)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP (PP (p 比) (DP (t 上年))) (VP (v 增长) (QP-EXT (m 百分之四十六))))
+        (wd ，)
+        (VP
+          (v 创)
+          (NP-OBJ
+            (NP (n 历史))
+            (ADJP (ADVP (d 最)) (ADJP (a 好)))
+            (NP (n 水平)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

@@ -1,0 +1,162 @@
+<S>
+( (IP
+  (ADVP (c 于是))
+  (wd ，)
+  (NP-SBJ
+    (NP (DP (r 这) (QP (m 一))) (NP (q 身)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 增加) (NP-OBJ (LCP (s 水中)) (NP (n 阻力)))))
+        (ude 的)))
+    (NP (n 毛)))
+  (wd ，)
+  (VP (ADVP (d 便)) (VP (v 脱落) (y 了)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (DP (r 这种)) (NP (n 说法))) (ude 的)) (NP (n 理由)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (NP-SBJ
+        (NP (DNP (NP (n 人) (n 后背)) (ude 的)) (NP (n 汗毛)))
+        (NP (n 走向)))
+      (wd ，)
+      (VP
+        (VP (PP-ADV (p 和) (NP (n 猴子))) (VP (a 不同)))
+        (wd ，)
+        (VP
+          (vshi 是)
+          (CP-PRD
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-DIR (p 从) (NP (NP (f 一侧)) (NP (n 肩膀))))
+                (VP (v 走向) (NP-OBJ (n 脊柱)))))
+            (ude 的))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADVP (c 只有)) (NP (DNP (ADJP (r 这样)) (ude 的)) (NP (n 走向))))
+  (wd ，)
+  (VP
+    (VP
+      (ADVP (c 才))
+      (VP
+        (v 会)
+        (VP
+          (v 减少)
+          (NP-OBJ (DNP (PP (p 在) (LCP (s 水中))) (ude 的)) (NP (n 阻力))))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (PP-BNF
+        (p 为)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (PP-LOC (p 在) (LCP (s 水中))) (VP (vi 游泳))))
+              (ude 的)))
+          (NP (n 人))))
+      (VP
+        (v 提供)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (ADVP (d 更)) (VP (a 大))))
+              (ude 的)))
+          (NP (n 浮力))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 已)) (VP (v 发现) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (DP (b 所有))
+        (ADJP (a 原始))
+        (NP (v 采集) (n 聚落)))
+      (f 中)))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (ADVP (d 没有))
+    (VP
+      (v 看到)
+      (CP-OBJ
+        (IP
+          (NP-SBJ (DP (r 任何) (QP (m 一个))) (NP (n 聚落)))
+          (VP
+            (vshi 是)
+            (VP
+              (PP-MNR
+                (p 以)
+                (NP (DNP (ADJP (r 这样)) (ude 的)) (NP (n 方式))))
+              (VP (n 生活)))))
+        (ude 的))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (ADVP (d 倒))
+      (PP-ADV
+        (p 和)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (vyou 有) (NP-OBJ (n 毛))))
+              (ude 的)))
+          (NP (n 猴子))))
+      (VP (a 一样))))
+  (wm ：)
+  (IP
+    (NP-TMP
+      (CP
+        (WHPP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (PP-TMP (-NONE- *T*-2)) (VP (vi 下雨))))
+          (ude 的)))
+      (NP (n 时候)))
+    (wd ，)
+    (VP (PP-MNR (p 用) (NP (n 手))) (VP (v 抱) (NP-OBJ (uzhe 脑袋)))))
+  (n ，)
+  (IP
+    (NP-SBJ (DNP (ADJP (wd 这样)) (r 的)) (NP (ude 毛发) (n 走向)))
+    (n ，)
+    (VP
+      (wd 有利于)
+      (IP-OBJ
+        (NP-SBJ (vl 雨水))
+        (VP (VP (n 顺着) (p 着) (NP-OBJ (n 肘部))) (VCD (v 流) (v 走))))))))
+</S>

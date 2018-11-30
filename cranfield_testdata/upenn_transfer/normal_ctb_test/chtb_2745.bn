@@ -1,0 +1,71 @@
+<S>
+( (IP
+  (IP
+    (NP-TPC (NP-PN (wkz 《) (ns 北京) (n 晨报) (wky 》)) (NP (n 消息)))
+    (wd ，)
+    (QP (m ９) (CLP (q 号)))
+    (NP-SBJ
+      (NP-PN (ns 北京市))
+      (NP-PN (n 公路) (QP (ns 一) (CLP (m 环))))
+      (QP (q 一) (CLP (n 期)))
+      (NP (ad 工程)))
+    (VP (ADVP (v 全面)) (VP (wd 启动))))
+  (r ，)
+  (IP
+    (LCP-TMP (IP (NP-SBJ (DP (n 这个)) (NP (v 工程))) (VP (f 完成))) (p 后))
+    (PP-LOC
+      (n 从)
+      (LCP
+        (NP (NP-PN (n 首都) (p 机场)) (nz 到) (NP-PN (n 奥林匹克) (f 公园)))
+        (LC 之间)))
+    (NP-SBJ (d *pro*))
+    (VP
+      (ADVP (v 将))
+      (VP
+        (m 建成)
+        (NP-OBJ (QP (q 一) (CLP (v 条))) (ADJP (n 直达)) (wd 高速公路)))))
+  (n ，)
+  (IP
+    (NP-SBJ (NP-PN (m 公路) (n 一环)) (QP (m 一) (CLP (q 期))) (NP (n 工程)))
+    (VP
+      (PP-DIR (p 从) (NP-PN (NP (ns 八达岭)) (n 高速公路)))
+      (PP-DIR (v 到) (NP-PN (NP (n 机场)) (n 高速公路)))
+      (wd ，)
+      (VP (n 全长) (QP-EXT (m １５．２) (CLP (q 公里))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-MNR
+      (NP-SBJ (-NONE- *pro*))
+      (VP (PP-ADV (p 与) (NP-PN (n 四环))) (VP (a 一样))))
+    (wd ，)
+    (NP-PN-SBJ (n 公路) (QP (m 一)) (NP (n 环)))
+    (VP (v 为) (NP-PRD (ADJP (n 环城)) (n 高速公路))))
+  (wd ，)
+  (IP
+    (NP-SBJ (f 中间))
+    (VP
+      (VCP (v 设计) (v 为))
+      (NP-OBJ
+        (NP (ADJP (b 双向)) (QP (m 六)) (NP (n 车道)))
+        (v 加)
+        (NP (ADJP (a 紧急)) (NP (n 停车) (n 带))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 设计) (n 时速))
+    (VP (v 为) (QP-PRD (m １００) (CLP (q 公里)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一) (CLP (q 期))) (NP (n 工程)))
+  (VP
+    (ADVP (d 将))
+    (PP-TMP
+      (p 于)
+      (LCP (NP (DNP (NP (t 明年)) (ude 的)) (NP (t １０月))) (f 前)))
+    (VP (v 完成)))
+  (wj 。)))
+</S>

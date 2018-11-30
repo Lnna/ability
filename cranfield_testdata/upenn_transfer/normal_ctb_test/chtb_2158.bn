@@ -1,0 +1,130 @@
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (NP-SBJ (n 总部))
+          (VP (v 设) (PP (p 在) (NP (ns 伦敦)))))
+        (ude 的)))
+    (NP-PN (ns 西藏) (n 新闻网)))
+  (VP
+    (QP (m ２１) (CLP (q 号)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-PN-SBJ (nt 中共))
+          (VP
+            (PP-TMP
+              (p 在)
+              (LCP
+                (IP
+                  (NP-PN-SBJ (nz 嘎玛巴) (n 活佛))
+                  (VP
+                    (LCP-TMP (t 今年初))
+                    (DVP (VP (a 成功)) (ude 的))
+                    (PP-DIR (p 从) (NP-PN (ns 西藏)))
+                    (VP (VRD (v 逃) (v 到)) (NP-PN-OBJ (ns 印度)))))
+                (f 之后)))
+            (VP
+              (VP
+                (ADVP (d 已经))
+                (PP-DIR (p 向) (NP-PN (ns 尼泊尔)))
+                (VP (v 施压)))
+              (wd ，)
+              (VP
+                (v 要求)
+                (NP-PN-OBJ (ns 尼泊尔))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 加强) (NP-OBJ (n 边界) (an 安全) (n 管制))))))))
+        (wd ，)
+        (IP
+          (ADVP (c 而))
+          (NP-PN-SBJ (ns 尼泊尔))
+          (VP
+            (VP
+              (ADVP (d 也))
+              (VP
+                (vi 屈服)
+                (PP
+                  (p 在)
+                  (LCP
+                    (NP (DNP (NP-PN (nt 中共)) (ude 的)) (NP (n 压力)))
+                    (f 下)))))
+            (wd ，)
+            (VP
+              (ADVP (d 已经))
+              (VP
+                (v 开始)
+                (VP
+                  (v 遣返)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-2))
+                          (VP (v 逃离) (NP-PN-OBJ (ns 西藏))))
+                        (ude 的)))
+                    (NP (n 难民)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 尼泊尔)) (NP (n 政府)))
+  (VP
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 已经))
+      (VP
+        (v 加强)
+        (NP-OBJ
+          (DNP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (PP-ADV (p 跟) (NP-PN (ns 印度))) (VP (n 交界)))))
+              (NP (n 地区)))
+            (ude 的))
+          (NP (an 安全) (n 管制)))))
+    (wd ，)
+    (c 并且)
+    (VP
+      (v 逮捕)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (v 意图)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (PP-DIR
+                      (p 从)
+                      (NP
+                        (DNP
+                          (NP
+                            (NP
+                              (NP-PN (ns 西藏))
+                              (ADJP (v 流亡))
+                              (NP (n 政府)))
+                            (NP (n 所在地)))
+                          (ude 的))
+                        (NP-PN (ns 印度))
+                        (NP (f 北部))))
+                    (VP (v 返回) (NP-PN-OBJ (ns 西藏)))))))
+            (ude 的)))
+        (NP (ns 西藏))
+        (NP (n 人)))))
+  (wj 。)))
+</S>

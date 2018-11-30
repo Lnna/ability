@@ -1,0 +1,120 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (t 当年))
+      (DNP (LCP (NP-PN (ns 朝鲜) (n 战争)) (f 中)) (ude 的))
+      (NP-PN (ns 韩国))
+      (NP (n 难民) (IP (VP (vi 生还) (NP (k 者))))))
+    (VP
+      (v 拒绝)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 接受)
+          (NP-OBJ
+            (NP
+              (NP-APP (NP-PN (ns 美国)) (NP (n 总统)))
+              (NP-PN (nrf 克林顿)))
+            (DNP (NP (t 星期四)) (ude 的))
+            (NP (n 声明)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 克林顿))
+    (VP
+      (PP-DIR
+        (p 对)
+        (IP
+          (NP-TMP (t 当年))
+          (NP-SBJ (NP-PN (ns 美国)) (NP (n 军人)))
+          (VP
+            (IP (VP (VRD (v 打) (v 死))))
+            (NP-OBJ (NP-PN (ns 韩国)) (NP (n 平民)))))))
+    (VP (v 表示) (NP-OBJ (a 遗憾))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (c 并))
+    (VP
+      (n 誓言)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 要)
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ (r 此案))
+              (VP (v 送交) (NP-OBJ (n 国际) (n 法庭)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (NP-SBJ (DNP (DP (r 那) (CLP (q 次))) (ude 的)) (NP (n 事件)))
+      (VP
+        (v 留下)
+        (NP-OBJ
+          (DNP
+            (NP (NP (n 战争) (n 悲剧)) (c 和) (NP (n 战争) (n 创伤)))
+            (ude 的))
+          (NP (a 痛苦) (n 记忆))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (t 后来))
+  (NP-SBJ (NP-APP (n 国防部长)) (NP-PN (nrf 科恩)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-PN-SBJ (ns 美国))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP
+            (PP-BNF
+              (p 为)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (NP-TMP (t 当年)) (VP (v 伤亡))))
+                    (ude 的)))
+                (NP (n 平民))))
+            (VP (v 树立) (NP-OBJ (QP (m 一) (CLP (q 座))) (NP (n 纪念碑)))))
+          (wd ，)
+          (VP
+            (ADVP (c 并且))
+            (VP
+              (VP (v 设立) (NP-OBJ (QP (m 一个)) (NP (n 奖学金))))
+              (VP (n 纪念) (NP-OBJ (n 战争) (n 死难者)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 死难者) (n 家属))
+  (VP
+    (v 要求)
+    (NP-PN-OBJ (ns 美国))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (ADVP (ad 明确)) (VP (vi 道歉)))
+        (wd ，)
+        (VP
+          (ADVP (c 并且))
+          (VP (v 给予) (NP-OBJ (ADJP (a 直接)) (NP (n 赔偿))))))))
+  (wj 。)))
+</S>

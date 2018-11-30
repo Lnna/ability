@@ -1,0 +1,50 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 美国)) (NP (n 总统))) (NP-PN (nrf 克林顿)))
+  (VP
+    (NP-TMP (t 昨天))
+    (PP-LOC (p 在) (NP-PN (n 白宫)))
+    (VP
+      (v 会见)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 来访))) (ude 的)))
+        (NP-APP
+          (NP
+            (NP-PN (ns 朝鲜))
+            (NP (n 国防) (n 委员会))
+            (QP (m 第一))
+            (NP (ADJP (b 副)) (NP (n 委员长))))
+          (wn 、)
+          (NP (n 人民军) (ADJP (b 总)) (NP (n 政治局)) (n 局长)))
+        (NP-PN
+          (NP (NP (nr 赵明)) (NP (n 路)))
+          (QP (CLP (a 次)))
+          (NP (n 帅))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方))
+  (VP
+    (PP-DIR
+      (p 就)
+      (NP
+        (NP-APP
+          (NP (NP (QP (m 两)) (NP (n 国))) (NP (n 关系)))
+          (wd ，)
+          (NP (NP-PN (ns 朝鲜) (n 半岛)) (NP (n 局势)))
+          (udeng 等))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 共同)) (VP (v 关心) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (NP (n 问题))))
+    (VP (v 交换) (y 了) (NP-OBJ (n 意见))))
+  (wj 。)))
+</S>

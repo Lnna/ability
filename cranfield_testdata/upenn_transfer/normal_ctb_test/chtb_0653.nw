@@ -1,0 +1,265 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 朝鲜))
+  (VP
+    (v 要求)
+    (NP-PN-OBJ (ns 美国))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 停止)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (PP-DIR (p 对) (NP (r 其))) (VP (v 施加) (NP-OBJ (n 压力))))))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (t １２月) (t ２７日) (n 电) (wkz （) (n 记者) (nr 张利) (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (NP-PN (ns 朝鲜)) (NP-TTL (wkz 《) (n 劳动) (n 新闻) (wky 》)))
+  (VP
+    (NP-TMP (t 今天))
+    (VP
+      (VP (v 发表) (NP-OBJ (n 评论)))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (IP-SBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 选择)
+                (NP-OBJ
+                  (DP (r 何种))
+                  (NP (n 政治) (n 制度) (c 和) (n 经济) (n 管理) (n 方式)))))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (NP (r 各国)) (NP (n 人民)))
+                      (VP
+                        (ADVP (d 自行))
+                        (VP (v 决定) (NP-OBJ (-NONE- *T*-1)))))
+                    (ude 的)))
+                (NP (n 问题)))))
+          (wd ，)
+          (IP
+            (IP-SBJ
+              (NP-PN-SBJ (ns 美国))
+              (VP
+                (PP-LOC
+                  (p 在)
+                  (LCP (NP (DP (r 此)) (NP (n 问题))) (f 上)))
+                (PP-DIR (p 对) (NP-PN (ns 朝鲜)))
+                (VP (v 施加) (NP-OBJ (n 压力)))))
+            (VP
+              (ADVP (d 只))
+              (VP (v 会) (VP (v 破坏) (NP-OBJ (n 和平) (c 与) (an 稳定))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 评论))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-SBJ
+          (NP-PN-SBJ (ns 美国))
+          (VP
+            (LCP-TMP (NP (t 今年) (t ８月)) (f 以来))
+            (QP-ADV (m 多次))
+            (VP
+              (VP
+                (v 提出)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 要)
+                    (VP
+                      (v 检查)
+                      (NP-OBJ
+                        (DNP (NP-PN (ns 朝鲜)) (ude 的))
+                        (ADJP (v 所谓))
+                        (NP
+                          (wyz “)
+                          (ADJP (s 地下))
+                          (NP (n 核) (n 设施))
+                          (wyy ”)))))))
+              (wd ，)
+              (VP
+                (v 指责)
+                (NP-OBJ
+                  (DNP (NP-PN (ns 朝鲜)) (ude 的))
+                  (ADJP (v 所谓))
+                  (NP (wyz “) (n 导弹) (n 威胁) (wyy ”)))))))
+        (wd ，)
+        (VP
+          (ADVP (d 都))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (ADVP (ad 严重))
+                      (VP
+                        (VP
+                          (v 侵犯)
+                          (NP-OBJ (NP-PN (ns 朝鲜)) (NP (n 主权))))
+                        (c 和)
+                        (VP
+                          (v 干涉)
+                          (NP-OBJ (NP-PN (ns 朝鲜)) (NP (n 内政)))))))
+                  (ude 的)))
+              (NP (n 行为))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 目的))
+        (VP
+          (vshi 是)
+          (PP-PRD
+            (p 为了)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 寻找)
+                (NP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-2))
+                        (VP (v 点燃) (NP-OBJ (n 战火))))
+                      (ude 的)))
+                  (NP (n 导火索))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 评论))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-SBJ
+          (ADVP (c 只有))
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (VP
+                (v 尊重)
+                (NP-OBJ
+                  (DNP (NP-PN (ns 朝鲜)) (ude 的))
+                  (NP (n 社会主义) (n 制度))))
+              (wd ，)
+              (VP
+                (v 取消)
+                (NP-OBJ
+                  (DNP (PP (p 对) (NP-PN (ns 朝鲜))) (ude 的))
+                  (ADJP (a 不当))
+                  (NP (n 制裁)))))))
+        (wd ，)
+        (NP-SBJ
+          (DNP (NP-PN (ns 朝鲜) (n 半岛)) (ude 的))
+          (NP (n 和平) (c 与) (an 稳定)))
+        (VP (ADVP (c 才)) (VP (v 能) (VP (v 得到) (NP-OBJ (n 保障))))))
+      (wf ；)
+      (IP
+        (IP-SBJ
+          (NP-PN-SBJ (ns 美国))
+          (VP (PP-LOC (p 在) (NP-PN (ns 韩国))) (VP (n 驻军))))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (DNP (PP (p 对) (NP (NP-PN (ns 朝鲜)) (NP (n 主权)))) (ude 的))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 最)) (VP (a 残暴))))
+                (ude 的)))
+            (NP (n 蹂躏)))))
+      (wd ，)
+      (IP
+        (IP-CND
+          (NP-SBJ (n 美军))
+          (VP
+            (ADVP (d 不))
+            (PP-DIR (p 从) (NP-PN (ns 韩国)))
+            (VP (v 撤出))))
+        (wd ，)
+        (NP-SBJ
+          (DNP (NP-PN (ns 朝鲜) (n 半岛)) (ude 的))
+          (NP (n 军事) (n 对峙) (c 和) (n 战争) (n 气氛)))
+        (VP (ADVP (d 就)) (ADVP (v 无法)) (VP (v 消除))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 评论))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-PN-SBJ (ns 美国))
+            (VP
+              (VP (v 尊重) (NP-OBJ (NP-PN (ns 朝鲜)) (NP (n 主权))))
+              (wd ，)
+              (VP
+                (ADVP (d 不))
+                (VP (v 干涉) (NP-OBJ (NP-PN (ns 朝鲜)) (NP (n 内政)))))
+              (wd ，)
+              (VP
+                (ADVP (d 不))
+                (PP-DIR (p 对) (NP-PN (ns 朝鲜)))
+                (VP (v 施加) (NP-OBJ (n 压力)))))))
+        (wd ，)
+        (NP-PN-SBJ (ns 朝鲜))
+        (VP
+          (v 会)
+          (VP
+            (v 作出)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 相应)))
+                  (ude 的)))
+              (NP (n 行动))))))
+      (wd ，)
+      (IP
+        (ADVP (c 否则))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (v 采取)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-2)) (VP (vi 相应)))
+                  (ude 的)))
+              (ADJP (n 应对))
+              (NP (n 措施))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

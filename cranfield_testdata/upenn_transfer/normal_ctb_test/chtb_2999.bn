@@ -1,0 +1,961 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (NP-TMP (t 现在)) (VP (VCD (v 播) (v 送)) (NP-OBJ (n 新闻) (n 人物))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP (DNP (NP (t 今天)) (ude 的)) (NP (n 新闻) (n 人物)) (NP (n 节目)))
+      (f 里)))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (v 要)
+    (VP
+      (PP-DIR (p 向) (NP (DP (r 各位)) (NP (n 听众))))
+      (VP
+        (v 介绍)
+        (NP-OBJ
+          (NP-APP (NP-PN (ns 英国)) (NP-PN (ns 伦敦市)) (NP (n 市长)))
+          (IP (VP (nrf 肯) (IP (v ·) (NP (wj 利文思)) (VP (VV 通)))))))))
+  (PU 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 伦敦))
+    (VP
+      (VP
+        (vshi 是)
+        (NP-PRD (DNP (NP-PN (ns 英国)) (ude 的)) (NP (n 首都))))
+      (wd ，)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP (NP-PN (ns 英国)) (ude 的))
+          (DNP
+            (NP (n 政治) (wn 、) (n 经济) (wn 、) (n 文化) (c 和) (n 金融))
+            (ude 的))
+          (NP (n 中心))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 伦敦))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ
+          (QP (QP (m ７００)) (QP (ADVP (m 多)) (QP (m 万))))
+          (NP (n 人口)))
+        (wd ，)
+        (VP
+          (ADVP (d 分别))
+          (VP
+            (v 居住)
+            (PP
+              (p 在)
+              (LCP
+                (NP
+                  (QP (QP (QP (m ２０)) (ADVP (m 多))) (CLP (q 个)))
+                  (NP (n 市区)))
+                (f 内))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (a 多) (CLP (q 年))) (f 以来))
+  (wd ，)
+  (NP-SBJ (DNP (NP-PN (ns 伦敦)) (ude 的)) (NP (n 行政) (n 管理)))
+  (VP
+    (ADVP (d 大约))
+    (ADVP (d 就))
+    (VP (vshi 是) (NP-PRD (DP (r 这个)) (NP (n 样子)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (NP (t 最近)) (QP (m 几) (CLP (q 年)))) (f 来))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 英国)) (NP (n 政府)))
+  (VP
+    (VP
+      (PP-PRP
+        (p 为)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 加强)
+            (NP-OBJ
+              (DNP (PP (p 对) (NP-PN (ns 伦敦))) (ude 的))
+              (NP (n 管理))))))
+      (wd ，)
+      (VP
+        (v 决定)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 设立)
+            (NP-OBJ
+              (DNP (NP (NP-PN (ns 伦敦)) (NP (n 市长))) (ude 的))
+              (NP (n 职务)))))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (PP-TMP (p 在) (NP (t 今年) (NP (QP (m 五)) (NP (n 月份)))))
+      (QP-ADV (m 第一) (CLP (q 次)))
+      (VP
+        (v 进行)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (NP-PN (ns 伦敦)) (NP (n 市长))) (ude 的))
+          (NP (n 选举))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 经过)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 激烈))) (ude 的)))
+      (NP (n 选举战))))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP (ADJP (n 老资格)) (NP (n 政界) (n 人士)))
+    (IP (VP (nrf 肯) (IP (v ·) (NP (v 利文思)) (VP (v 通))))))
+  (VP
+    (VCP (b 首任))
+    (NP-OBJ (QP (ns 首) (CLP (n 任))) (NP-PN (wj 伦敦)) (NP (NN 市长))))
+  (PU 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 利文思通))
+    (VP
+      (ADVP (d 本))
+      (VP (vshi 是) (NP-PRD (NP-PN (n 工党)) (NP (n 成员))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ
+        (DNP (LCP (QP (a 多) (CLP (q 年))) (f 来)) (ude 的))
+        (NP (n 政治) (n 生涯)))
+      (wd ，)
+      (VP
+        (ADVP (d 一直))
+        (VP
+          (vshi 是)
+          (VP
+            (PP-MNR (p 以) (NP-PN (n 工党)))
+            (VP (v 为) (NP-PRD (n 基础)))))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 曾))
+      (VP
+        (v 说)
+        (IP-OBJ
+          (NP-SBJ (r 自己))
+          (VP
+            (VP
+              (IP-TMP (NP-SBJ (-NONE- *pro*)) (VP (v 生)))
+              (VP (vshi 是) (NP (NP (n 工党)) (NP (n 人)))))
+            (wd ，)
+            (VP
+              (IP-TMP (NP-SBJ (-NONE- *pro*)) (VP (v 死)))
+              (VP (vshi 是) (NP (NP (n 工党)) (NP (n 鬼))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 竞选) (NP-OBJ (NP-PN (ns 伦敦)) (NP (n 市长)))))
+        (n 时)))
+    (wd ，)
+    (PP-PRP
+      (c 因为)
+      (IP
+        (NP-SBJ
+          (NP-APP (NP-PN (n 工党)) (NP (n 领袖)))
+          (NP-PN (nrf 布莱尔)))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 支持)
+            (NP-OBJ (r 他))
+            (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 竞选)))))))
+    (wd ，)
+    (NP-PN-SBJ (nrf 利文思通))
+    (VP
+      (PP-ADV (c 和) (NP-PN (nrf 布莱尔) (c 以及) (n 工党)))
+      (ADVP (d 都))
+      (VP (vi 闹翻) (y 了))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (VP (VP (v 愤)) (c 而) (VP (v 脱离) (NP-PN-OBJ (n 工党))))
+      (wd ，)
+      (VP
+        (PP-MNR
+          (p 以)
+          (NP
+            (DNP (NP (ADJP (a 独立)) (NP (n 候选人))) (ude 的))
+            (NP (n 身份))))
+        (VP (v 参加) (NP-OBJ (v 选举))))
+      (wd ，)
+      (VP
+        (ADVP (n 结果))
+        (VP
+          (VP (vl 大获全胜))
+          (wd ，)
+          (VP
+            (ADVP (vi 如愿))
+            (VP
+              (VCP (v 当选) (v 为))
+              (NP-OBJ (NP-PN (ns 伦敦)) (NP (n 市长)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 虽然))
+    (IP
+      (IP-MNR
+        (NP (-NONE- *pro*))
+        (VP (PP-MNR (p 在) (LCP (NP (n 理论)) (f 上))) (VP (v 说))))
+      (wd ，)
+      (NP-SBJ (NP-PN (ns 伦敦市)) (NP (n 市长)))
+      (VP (vshi 是) (NP-PRD (n 地方) (n 官员)))))
+  (wd ，)
+  (ADVP (c 但是))
+  (PP-PRP
+    (p 鉴于)
+    (NP (DNP (NP-PN (ns 伦敦市)) (ude 的)) (ADJP (a 特殊)) (NP (n 地位))))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 伦敦)) (NP (n 市长))) (ude 的))
+    (NP (NP (n 言谈)) (wn 、) (NP (n 政策) (n 举动))))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (v 得到)
+      (NP-OBJ
+        (DNP
+          (NP (NP-PN (ns 英国)) (NP (n 社会) (c 和) (n 新闻) (n 媒体)))
+          (ude 的))
+        (ADJP (ADVP (d 很)) (ADJP (a 大)))
+        (NP (n 关注)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (d 其实))
+    (NP-SBJ
+      (DNP (PP (p 对) (NP (NP-PN (ns 伦敦)) (NP (n 市长)))) (ude 的))
+      (NP (n 关注)))
+    (VP (ADVP (c 不仅)) (VP (v 限于) (NP-PN (ns 英国)))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (p 在)
+      (NP
+        (DNP (NP (NP-PN (ns 大西洋)) (NP (n 彼岸))) (ude 的))
+        (NP-PN (ns 美国))))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN-APP
+        (NP-PN (wkz 《) (ns 纽约) (n 时报) (wky 》))
+        (NP-PN (wkz 《) (ns 华盛顿) (n 邮报) (wky 》))
+        (udeng 等))
+      (ADJP (a 重要))
+      (NP (n 报刊)))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 经常))
+      (PP-DIR (p 对) (NP-PN (nz 利文思通)))
+      (VP (v 进行) (NP-OBJ (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 最近))
+    (NP-SBJ
+      (DNP (NP (r 他)) (ude 的))
+      (QP (m 几) (CLP (q 项)))
+      (NP (n 政策)))
+    (VP
+      (ADVP (d 又))
+      (VP
+        (v 引起)
+        (y 了)
+        (NP-OBJ (DNP (NP (n 人们)) (ude 的)) (NP (n 争议))))))
+  (wd ，)
+  (IP
+    (QP-SBJ (m 一个))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (r 他))
+        (VP
+          (v 决定)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 要)
+              (VP
+                (pba 把)
+                (IP-OBJ
+                  (NP-SBJ-1
+                    (DNP
+                      (NP (NP-PN (ns 伦敦市)) (QP (m 一些)) (n 公共场所))
+                      (ude 的))
+                    (NP (n 塑像)))
+                  (VP (v 搬走) (NP-OBJ (-NONE- *-1)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 事情))
+    (VP (vshi 是) (NP-PRD (DNP (NP (r 这样)) (ude 的)))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (p 在)
+      (NP
+        (DNP (NP-PN (ns 伦敦)) (ude 的))
+        (QP (m 一些))
+        (NP (NP (n 公共场所)) (c 和) (NP (ADJP (b 主要)) (NP (n 街道))))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 树立) (uzhe 着) (NP-OBJ (QP (m 许多)) (NP (n 塑像)))))
+  (wd ，)
+  (IP
+    (PP
+      (ADVP (c 如果))
+      (PP-MNR
+        (p 从)
+        (LCP
+          (NP
+            (DNP (NP (ADJP (a 纯)) (NP (n 艺术))) (ude 的))
+            (NP (n 角度)))
+          (u 来说))))
+    (wd ，)
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (d 自然))
+      (DP-ADV (r 每天))
+      (ADVP (d 都))
+      (PP-BNF
+        (p 给)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 过往))))
+          (NP (n 行人))))
+      (VP (v 带来) (NP-OBJ (n 美感)))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-PN-SBJ (nz 利文思通))
+    (VP (ADVP (d 不)) (ADVP (r 这样)) (VP (v 看))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 看)
+      (ude 得)
+      (VP-EXT (ADVP (d 更)) (VP (a 深) (QP-EXT (m 一) (CLP (q 层)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-SBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 知道)
+              (IP-OBJ
+                (NP-SBJ (DP (r 这些)) (NP (n 塑像)))
+                (VP (vshi 是) (NP-WH-PRD (r 谁)))))))
+        (VP (ADVP (d 倒)) (ADVP (d 也)) (VP (y 罢了))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (NP-SBJ
+          (DNP (NP (QP (m 许多)) (NP (n 塑像))) (ude 的))
+          (NP (n 原形)))
+        (VP
+          (ADVP (d 都))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (NP (t 过去))
+              (DNP (NP-PN (ns 大英帝国)) (ude 的))
+              (NP (n 将军) (n 总督) (k 们)))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (r 他们))
+      (VP
+        (ADVP (d 曾经))
+        (PP-LOC
+          (p 在)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (NP-TMP (t 过去))
+                    (VP (v 属于) (NP-PN-OBJ (ns 英国)))))
+                (ude 的)))
+            (NP (n 殖民地))))
+        (VP
+          (VP (vl 耀武扬威))
+          (wd ，)
+          (VP
+            (v 推行)
+            (NP-OBJ (DNP (NP-PN (ns 英国)) (ude 的)) (NP (n 殖民) (n 政策)))))))
+    (wd ，)
+    (IP (ADVP (c 然而)) (NP-SBJ (n 殖民) (n 时代)) (VP (d 早已) (VP (v 结束))))
+    (wd ，)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (ADVP (d 曾经)) (VP (v 属于) (NP-PN-OBJ (ns 大英帝国)))))
+            (ude 的)))
+        (NP (n 殖民地)))
+      (VP (ADVP (d 也)) (ADVP (d 纷纷)) (VP (a 独立))))
+    (wd ，)
+    (IP
+      (ADVP (c 所以))
+      (IP (NP (NP (v 利)) (NP (n 文思))) (VP (vd 通)))
+      (VP
+        (v 认为)
+        (wd ，)
+        (CP-OBJ
+          (IP
+            (NP-SBJ (t 现在))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHPP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (PP-TMP (-NONE- *T*-3))
+                        (VP
+                          (pba 把)
+                          (IP-OBJ
+                            (NP-SBJ-4
+                              (DP (r 这些))
+                              (NP (n 将军) (wn 、) (n 总督) (k 们)))
+                            (VP
+                              (PP-DIR (p 从) (NP (n 公共场所)))
+                              (VP (v 搬走) (NP-OBJ (-NONE- *-4))))))))
+                    (ude 的)))
+                (NP (n 时候)))))
+          (y 了)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (ADVP (v 如))
+      (NP
+        (DNP (NP (n 议会) (n 广场)) (ude 的))
+        (NP-PN (nrf 帕尔墨斯顿))
+        (NP (n 塑像))))
+    (wd ，)
+    (NP-PN (nrf 帕尔墨斯顿))
+    (VP
+      (ADVP (d 曾))
+      (PP-TMP (p 在) (NP (NP (QP (m １９)) (NP (n 世纪))) (f 中期)))
+      (VP (v 任) (NP-OBJ (NP-PN (ns 英国)) (NP (n 首相))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 就))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (r 他))
+            (VP
+              (PP-TMP (p 在) (NP (t １８５６年)))
+              (VP
+                (v 派)
+                (NP-OBJ (NP-PN (ns 英国)) (NP (n 军队)))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (VP (v 侵略) (NP-PN-OBJ (ns 中国)))
+                    (wd ，)
+                    (VP
+                      (v 发动)
+                      (NP-OBJ (QP (m 第二) (CLP (q 次))) (NP (nz 鸦片战争))))))))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nz 利文思通))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (r 他))
+        (VP (vshi 是) (NP-PRD (NP-PN (ns 伦敦)) (NP (n 市长)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 他))
+        (VP
+          (VP (vyou 有) (NP-OBJ (n 权力)))
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ-1 (DP (r 这些)) (NP (n 塑像)))
+              (VP (v 搬走) (NP-OBJ (-NONE- *-1)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 当然))
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (VSB (vi 妥协) (v 说))
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他))
+        (VP
+          (v 可以)
+          (VP
+            (v 考虑)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (pba 把)
+                (IP-OBJ
+                  (NP-SBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP (v 搬走) (NP-OBJ (-NONE- *T*-1))))
+                        (ude 的)))
+                    (NP (n 塑像)))
+                  (VP
+                    (v 放置)
+                    (PP
+                      (p 在)
+                      (LCP (NP (QP (m 一个)) (NP (n 公园))) (f 里))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (NP-TMP (f 上面)) (VP (v 提到) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (DP (r 那些))
+      (NP (n 塑像)))
+    (VP
+      (v 代表)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (NP-PN (ns 英国)) (NP (n 历史))) (ude 的))
+        (QP (m 一))
+        (NP (n 方面)))))
+  (wd ，)
+  (c 或者)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 代表)
+          (y 了)
+          (NP-OBJ
+            (NP (n 人们))
+            (DNP
+              (PP (p 对) (NP (NP-PN (ns 大英帝国)) (NP (n 历史))))
+              (ude 的))
+            (NP (c 一方面))
+            (NP (n 看法)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP (NP-PN (ns 伦敦)) (NP (s 街头))) (ude 的))
+      (DP (r 另) (QP (m 一些)))
+      (NP (n 塑像)))
+    (VP
+      (ADVP (d 则))
+      (VP
+        (v 代表)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (n 历史)) (ude 的))
+          (DP (r 另) (QP (m 一)))
+          (NP (q 面))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-PN (nz 利文思通))
+      (VP
+        (vshi 是)
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 打算)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (pba 把)
+                (IP-OBJ
+                  (NP-SBJ-2 (DP (r 这些)) (NP (n 塑像)))
+                  (VP (v 搬走) (NP-OBJ (-NONE- *-2))))))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (ADVP (v 如))
+    (NP
+      (NP-APP
+        (NP
+          (DNP (ADJP (a 著名)) (ude 的))
+          (VP (vi 反) (NP (n 殖民主义)))
+          (NP (n 斗士)))
+        (NP (NP-PN (ns 印度)) (NP (n 圣雄))))
+      (NP-PN (n 甘地))))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (VP
+      (v 领导)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP-PN (ns 印度)) (ude 的))
+        (ADJP (n 非暴力))
+        (d 不)
+        (v 合作)
+        (NP (vi 运动))))
+    (wd ，)
+    (VP (PP-DIR (p 从) (NP-PN (ns 英国))) (VP (v 取得) (NP-OBJ (an 独立)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 利文思通))
+    (VP
+      (vshi 是)
+      (NP-PRD (DNP (ADJP (a 地道)) (ude 的)) (NP (ns 伦敦)) (NP (n 人)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (VP (PP-TMP (p 于) (NP (t １９４５年))) (VP (vi 出生)))
+      (wd ，)
+      (VP (NP-TMP (t 今年)) (QP-PRD (m ５５) (CLP (q 岁))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-PN-SBJ (nz 利文思通))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-TMP (p 在) (LCP (NP (QP (m ７０)) (NP (n 年代))) (f 初)))
+          (LCP-TMP
+            (IP
+              (NP-SBJ (r 他))
+              (VP (QP-PRD (QP (QP (m ２０)) (ADVP (m 多))) (CLP (q 岁)))))
+            (n 时))
+          (VP (v 进入) (NP-OBJ (n 政界))))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (VP-FOC
+        (v 竞选)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP-PN (ns 伦敦))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (r 他) (n 家庭))
+                  (VP (n 所在) (NP-OBJ (-NONE- *T*-1)))))
+              (NP (s 市区)))
+            (ude 的))
+          (NP (NP (n 区) (n 议会)) (n 议员))
+          (NP (n 职务))))
+      (VP (v 获得) (NP-OBJ (an 成功)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC (p 在) (NP (n 区) (n 议会)))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP (v 负责) (uguo 过) (NP-OBJ (n 住房) (n 问题))))
+  (wd ，)
+  (IP
+    (ADVP (c 与此同时))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (ad 积极))
+        (VP
+          (v 参加)
+          (NP-OBJ
+            (DNP (NP (NP-PN (ns 伦敦)) (NP (n 地区))) (ude 的))
+            (NP-PN (n 工党))
+            (NP (n 活动)))))
+      (wd ，)
+      (VP
+        (ADVP (c 并))
+        (PP-MNR
+          (p 在)
+          (LCP (NP (DNP (NP-PN (n 工党)) (ude 的)) (NP (n 支持))) (f 下)))
+        (PP-TMP (p 于) (NP (t １９８７年)))
+        (LCP-TMP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (QP-PRD (m ４２) (CLP (q 岁)))))
+          (n 时))
+        (QP-ADV (m 第一) (CLP (q 次)))
+        (VP
+          (VCP (v 当选) (v 为))
+          (NP-OBJ (NP-PN (ns 英国)) (NP (n 下院) (n 议员)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (NP-TMP (t １９９２年)) (VP (VSB (v 当选) (v 连任))))
+      (wd ，)
+      (VP (NP-TMP (t １９９７年)) (QP-ADV (m 第三) (CLP (q 次))) (VP (v 当选)))))
+  (wd ，)
+  (IP
+    (PP-LOC (p 在) (NP (n 下议院)))
+    (wd ，)
+    (NP-PN-SBJ (nz 利文思通))
+    (VP
+      (PP-MNR
+        (p 以)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (IP (VP (v 擅长) (p 于))) (NP-OBJ (n 经济) (n 政策)))))
+      (VP (c 而) (VP (a 有名)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC (p 在) (NP (NP (n 个人) (n 生活)) (NP (n 方面))))
+    (wd ，)
+    (NP-PN-SBJ (nz 利文思通))
+    (VP (v 离) (uguo 过) (NP-OBJ (QP (m 一) (CLP (q 次))) (NP (n 婚)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (t 现在)) (ude 的)) (NP (n 伴侣)))
+    (VP (vshi 是) (NP-PN-PRD (nrf 艾伦) (n 女士))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP (ADVP (d 已经)) (VP (vi 相识) (QP-EXT (m 多年)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 艾伦) (n 女士))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (NP
+          (NP-PN (wyz “) (v 大赦) (n 国际) (wyy ”))
+          (NP-PN (ns 英国))
+          (NP (n 分部)))
+        (ude 的))
+      (NP (n 负责人))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (IP-SBJ
+        (NP-PN-SBJ (nz 利文思通))
+        (VP
+          (PP-LOC (p 在) (NP (NP-PN (ns 英国)) (NP (n 政界))))
+          (VP (v 引起) (NP-OBJ (DNP (NP (n 人们)) (ude 的)) (NP (n 争议))))))
+      (wd ，)
+      (VP
+        (ADVP (d 已经))
+        (ADVP (d 不))
+        (VP
+          (vshi 是)
+          (QP-PRD (QP (m 一) (CLP (q 天))) (QP (m 两) (CLP (q 天)))))))
+    (y 了))
+  (wd ，)
+  (IP
+    (PP (ADVP (a 早)) (PP-TMP (p 在) (NP (QP (m ８０)) (NP (n 年代)))))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (LCP-TMP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (v 初涉) (NP-OBJ (n 政坛))))
+        (n 时))
+      (wd ，)
+      (ADVP (d 就))
+      (PP-MNR
+        (p 以)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 敢于)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (PP-DIR (p 向) (NP (n 权威))) (VP (vi 挑战)))))))
+      (VP (c 而) (VP (a 有名)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 当时))
+    (NP-SBJ (r 他))
+    (VP
+      (PP-ADV
+        (c 和)
+        (NP
+          (NP-APP (NP-PN (ns 英国)) (NP (n 首相)))
+          (NP-PN (nrf 撒切尔) (n 夫人))))
+      (VP (v 发生) (NP-OBJ (an 矛盾)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 撒切尔) (n 夫人))
+    (VP
+      (VP (v 施加) (NP-OBJ (n 影响)))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-PN-OBJ (nz 利文思通))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 丢掉)
+            (y 了)
+            (NP-OBJ
+              (DNP (NP (r 他)) (ude 的))
+              (NP (NP (n 区) (n 议员)) (n 职务))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (t 后来))
+  (PP-TMP
+    (p 在)
+    (NP
+      (IP-APP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 竞选) (NP-OBJ (NP-PN (ns 伦敦)) (NP (n 市长)))))
+      (NP (f 期间))))
+  (wd ，)
+  (NP-PN-SBJ (nz 利文思通))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 接受) (NP-OBJ (n 记者) (n 采访))))
+        (n 时)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (DP (r 有些)) (NP (n 毒品)))
+          (PRN
+            (PP (v 如) (NP (NP (ADJP (v 迷幻)) (NP (n 药))) (udeng 等)))))
+        (VP (v 应该) (VP (v 合法化))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 最近))
+  (NP-PN-SBJ (wkz 《) (ns 纽约) (n 时报) (wky 》))
+  (VP
+    (ADVP (d 又))
+    (VP
+      (VSB (v 报道) (v 说))
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (NP-PN (nz 利文思通))
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 要)
+                (VP
+                  (v 改善)
+                  (NP-OBJ
+                    (NP-PN (ns 伦敦))
+                    (ADJP (b 公共))
+                    (NP (n 交通) (n 系统))))))
+            (ude 的))
+          (NP (n 计划)))
+        (VP (ADVP (d 又)) (VP (v 引起) (y 了) (NP-OBJ (n 争议)))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,123 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 叙利亚)) (NP (n 总统))) (NP-PN (nrf 巴沙尔阿萨德)))
+  (VP
+    (v 敦促)
+    (NP-OBJ (NP-PN (ns 阿拉伯)) (NP (n 国家)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (d 共同))
+        (VP
+          (v 推动)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 结束)
+              (NP-OBJ
+                (LCP (NP (n 国际)) (f 间))
+                (DNP (PP (p 对) (NP-PN (ns 伊拉克))) (ude 的))
+                (NP (n 制裁)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 巴沙尔) (n 总统))
+  (VP
+    (NP-TMP (t 星期一))
+    (PP-LOC (p 在) (NP-PN (ns 埃及) (ns 开罗)))
+    (VP
+      (VP (v 告诉) (NP-IO (n 记者)))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (ADVP (a 长))
+                    (VP (v 达) (QP-EXT (m １０) (CLP (q 年))))))
+                (ude 的)))
+            (NP (n 禁运) (n 制裁)))
+          (VP
+            (VP
+              (IP (VP (ADVP (d 并)) (VP (d 没有))))
+              (VP
+                (VRD (v 惩罚) (v 到))
+                (NP-OBJ (NP-PN (ns 巴格达)) (NP (n 当局)))))
+            (wd ，)
+            (VP
+              (ADVP (c 但是))
+              (ADVP (d 却))
+              (VP (v 毁灭) (y 了) (NP-PN-OBJ (ns 伊拉克)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (NP-PN (ns 阿拉伯)) (NP (n 世界)))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 想)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 看到)
+              (IP-OBJ
+                (NP-PN-SBJ-1 (ns 伊拉克))
+                (VP (pbei 被) (VP (v 毁灭) (NP-OBJ (-NONE- *-1)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-SBJ (DP (r 这) (CLP (q 位))) (NP-PN (ns 叙利亚)) (NP (n 领导人)))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-TMP
+            (p 在)
+            (LCP
+              (IP
+                (NP-SBJ (r 他))
+                (VP
+                  (PP-ADV
+                    (p 跟)
+                    (NP
+                      (NP-APP (NP-PN (ns 埃及)) (NP (n 总统)))
+                      (NP-PN (nrf 穆巴拉克))))
+                  (VP (vi 会面))))
+              (f 以后)))
+          (VP (v 发表) (NP-OBJ (DP (r 这) (CLP (q 番))) (NP (n 谈话)))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-PN-SBJ (nrf 巴沙尔) (n 总统))
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (NP-TMP (t 今年) (t ７月)) (VP (v 就任))))
+            (f 以后)))
+        (QP (m 第一) (CLP (q 次)))
+        (VP (VP (v 到) (NP-OBJ (n 外国))) (VP (v 访问))))))
+  (wj 。)))
+</S>

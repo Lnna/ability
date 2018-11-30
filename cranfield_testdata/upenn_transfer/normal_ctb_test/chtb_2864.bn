@@ -1,0 +1,118 @@
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 美国))
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (NP-PN-SBJ (nrf 克林顿) (n 总统))
+        (VP
+          (ADVP (p 在))
+          (VP
+            (v 考虑)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 访问) (NP-PN-OBJ (nr 北韩)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 美国)) (NP (n 国务卿)))
+      (NP-PN (nrf 奥尔布赖特)))
+    (VP (NP-TMP (t 星期四)) (VP (v 宣布) (NP-OBJ (DP (r 这个)) (NP (n 事))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 她))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (DNP (NP (n 双方)) (ude 的)) (NP (n 关系)))
+        (VP
+          (ADVP (d 已经))
+          (VP
+            (vyou 有)
+            (y 了)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 很)) (VP (a 大))))
+                  (ude 的)))
+              (NP (n 进展))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (NP-SBJ
+          (DNP (LCP (NP (n 双方)) (f 之间)) (ude 的))
+          (DP (b 所有))
+          (NP (n 分歧)))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 会)
+            (VP
+              (LCP-TMP (NP (QP (m 一)) (NP (q 夜))) (f 之间))
+              (VP (vi 消失))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (CP-ADV
+      (ADVP (c 尽管))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 没有)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-PN-SBJ (nrf 克林顿))
+                (VP (v 访问) (NP-PN-OBJ (nrf 北韩))))
+              (ude 的))
+            (ADJP (a 公开))
+            (NP (n 时间表))))))
+    (wd ，)
+    (ADVP (c 但是))
+    (NP-PN-SBJ (nrf 克林顿) (n 总统))
+    (VP
+      (ADVP (d 将))
+      (PP-TMP (p 在) (NP (DP (f 下) (CLP (q 个))) (NP (n 月))))
+      (VP (v 访问) (NP-PN-OBJ (ns 文莱) (c 和) (ns 越南)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 可能)
+      (VP
+        (v 会)
+        (VP
+          (PP-TMP (p 在) (NP (DP (r 那个)) (NP (n 时候))))
+          (PP-LOC (p 在) (NP-PN (n 北韩)))
+          (VP (vi 停留))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP
+      (IP
+        (NP-PN-SBJ (nrf 奥尔布赖特))
+        (VP (v 讲) (NP-OBJ (DP (r 这) (CLP (q 番))) (NP (n 话)))))
+      (f 之前)))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (nz 北韩))
+    (QP (m 一) (CLP (q 位)))
+    (ADJP (a 高级))
+    (NP (n 官员)))
+  (VP
+    (NP-TMP (DP (r 这)) (NP (n 星期)))
+    (VP (v 访问) (y 了) (NP-PN-OBJ (ns 华盛顿))))
+  (wj 。)))
+</S>

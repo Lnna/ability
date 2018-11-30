@@ -1,0 +1,587 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 欢迎)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 收看)
+        (NP-OBJ
+          (DNP (NP (t 今天)) (ude 的))
+          (NP (wkz 《) (NP-PN (n 华视)) (NP (t 午间) (n 新闻)) (wky 》))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (VP (v 拥) (NP (n 核))) (wn 、) (VP (vi 反) (NP (n 核)))))
+        (ude 的))
+      (NP (n 争议)))
+    (VP
+      (NP-TMP (t 今天))
+      (VP
+        (v 引爆)
+        (y 了)
+        (NP-OBJ (DNP (NP (n 民众)) (ude 的)) (ADJP (n 流血)) (NP (n 冲突))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP (DNP (VP (v 立) (NP (n 法院))) (ude 的)) (NP-PN (nr 王新平)))
+      (DNP (PP (p 在) (NP-PN (nr 凤山))) (ude 的))
+      (NP (n 办事处)))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ
+          (DNP (QP (ADVP (d 将近)) (QP (m 千) (CLP (q 名)))) (ude 的))
+          (VP (vi 反) (NP (n 核)))
+          (NP (n 人士)))
+        (VP
+          (v 扬言)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 罢免) (NP-PN-OBJ (nr 王新平))))))))
+  (wd ，)
+  (IP
+    (ADVP (d 结果))
+    (NP-SBJ
+      (NP (r 他们))
+      (c 和)
+      (NP
+        (DNP (NP (s 现场)) (ude 的))
+        (NP (NP (n 采访) (n 记者)) (c 以及) (NP (n 警方)))))
+    (VP (v 发生) (y 了) (NP-OBJ (n 冲突))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ (QP (m 一) (CLP (q 位))) (NP (n 民众)))
+        (VP
+          (pbei 被)
+          (VP
+            (v 打)
+            (ude 得)
+            (VP-EXT
+              (NP (ADJP (a 满)) (NP (n 脸)))
+              (VP (vshi 是) (NP-PRD (n 血)))))))))
+  (wd ，)
+  (IP (NP-SBJ (s 现场)) (VP (DVP (ADVP (d 非常)) (ude 的)) (VP (an 混乱))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (QP (ADVP (a 近)) (QP (m 千) (CLP (q 名))))
+    (IP (VP (vi 反) (NP (n 核))))
+    (NP (n 民众)))
+  (VP
+    (pba 把)
+    (IP-OBJ
+      (NP-SBJ
+        (NP (DNP (VP (v 立) (NP (n 法院))) (ude 的)) (NP-PN (nr 王新平)))
+        (DNP (PP (p 在) (NP-PN (nr 凤山))) (ude 的))
+        (NP (n 办事处)))
+      (VP (v 挤) (ude 的) (VP-EXT (vshi 是) (VP (al 水泄不通))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (IP (VP (vi 反) (NP (n 核)))) (NP (n 人士)))
+  (VP
+    (PP-PRP
+      (c 因为)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (a 不满)
+          (NP-OBJ
+            (DNP (NP (NP (s 现场)) (NP (n 媒体) (n 记者))) (ude 的))
+            (NP (n 采访))))))
+    (wd ，)
+    (ADVP (c 因此))
+    (VP (v 爆发) (y 了) (NP-OBJ (n 冲突))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 警方))
+  (VP
+    (PP-TMP (p 在) (NP (DP (r 这个)) (NP (n 时候))))
+    (VP
+      (VP (VP (v 出动) (y 了) (NP-OBJ (n 限暴) (n 部队))) (VP (v 维护)))
+      (wd ，)
+      (c 并且)
+      (VP
+        (DVP (QP (m 两) (CLP (q 度))) (ude 的))
+        (VP
+          (n 宣布)
+          (IP-OBJ
+            (NP-SBJ (DNP (NP (s 现场)) (ude 的)) (NP (n 民众)))
+            (VP
+              (v 违反)
+              (y 了)
+              (NP-OBJ (wkz 《) (n 集会) (n 游行) (n 法) (wky 》))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 违反) (NP-OBJ (wkz 《) (n 集会) (n 游行法) (wky 》))))
+  (wd ，)
+  (FLR (r 我) (t 现在))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (NP-TMP (t 现在))
+      (ADVP (d 依法))
+      (VP (VSB (VP (v 举) (NP (n 牌))) (n 警告)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 没))
+    (VP
+      (v 想到)
+      (IP-OBJ
+        (ADVP (d 就))
+        (PP-TMP (p 在) (LCP (IP (NP-SBJ (n 警方)) (VP (v 宣布))) (f 之后)))
+        (NP-SBJ
+          (QP (m 第二) (CLP (n 波)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 更)) (VP (a 激烈))))
+              (ude 的)))
+          (ADJP (n 流血))
+          (NP (n 冲突)))
+        (VP (vshi 是) (VP (ADVP (d 再度)) (VP (v 上演)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DP (r 这) (CLP (q 位)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 受伤))) (ude 的)))
+      (NP (n 民众)))
+    (VP
+      (vshi 是)
+      (PP
+        (PP
+          (p 因为)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (a 不满)
+              (NP-OBJ
+                (DNP (VP (vi 反) (NP (n 核))) (ude 的))
+                (NP (n 言论))))))
+        (wd ，)
+        (PP
+          (c 因为)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (pbei 被) (VP (v 打) (ude 得) (VP-EXT (al 头破血流)))))))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (NP (s 现场)) (DNP (QP (CLP (q 层层))) (ude 的)) (NP (n 包围)))
+        (f 之中)))
+    (wd ，)
+    (NP-SBJ (n 警方))
+    (VP
+      (ADVP (f 最后))
+      (VP
+        (v 护送)
+        (NP-OBJ
+          (DP (r 这) (CLP (q 位)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (vi 受伤))) (ude 的)))
+          (NP (n 民众)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 上) (y 了) (NP-OBJ (n 救护车)))))))
+  (wd ，)
+  (IP
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 送) (NP (n 医))))
+      (f 之后))
+    (ADVP (d 还))
+    (ADVP (a 好))
+    (NP-SBJ (n 生命))
+    (VP (v 没有) (NP-OBJ (an 危险))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-SBJ (DNP (NP (n 核电厂)) (ude 的)) (NP (n 员工)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (VP
+        (v 到)
+        (LCP-OBJ
+          (NP
+            (DNP (VP (v 立) (NP (n 法院))) (ude 的))
+            (QP (m 一))
+            (NP (n 墙)))
+          (f 外)))
+      (VP
+        (VP (v 支持) (NP-OBJ (n 核试)))
+        (wd ，)
+        (VP (v 谴责) (NP-OBJ (n 暴力))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 来自) (NP-OBJ (NP (n 全国)) (r 各地))))
+          (ude 的)))
+      (IP (VP (vi 反) (NP (n 核))))
+      (NP (n 团体)))
+    (VP
+      (NP-TMP (t 上午))
+      (VP
+        (VP
+          (v 集合)
+          (PP
+            (p 在)
+            (LCP
+              (NP (DNP (VP (v 立) (NP (n 法院))) (ude 的)) (NP (n 大门)))
+              (f 前))))
+        (VP
+          (DVP (VP (a 强烈)) (ude 的))
+          (VP
+            (n 表达)
+            (NP-OBJ
+              (DNP (IP (VP (vi 反) (NP (n 核)))) (ude 的))
+              (NP (n 立场))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (IP (VP (vi 反) (NP (n 核)))) (NP (n 团体)))
+    (VP
+      (ADVP (d 同时))
+      (ADVP (d 也))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (n 矛头))
+          (VP
+            (ADVP (ad 直接))
+            (VP (v 指向) (NP-OBJ (NP (n 立法) (n 院长)) (NP-PN (nr 王新平)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (IP (VP (vi 反) (NP (n 核)))) (NP (n 团体)))
+  (VP
+    (PP-SBJ
+      (p 除了)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 强调)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 支持)
+                (NP-OBJ
+                  (CP-APP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (a 废) (NP-OBJ (n 核试))))
+                    (ude 的))
+                  (NP (n 立场)))))))
+        (f 之外)))
+    (wd ，)
+    (ADVP (c 同时))
+    (ADVP (d 也))
+    (VP
+      (v 抨击)
+      (IP-OBJ
+        (NP-SBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 罢免) (NP-PN (nr 陈水扁) (n 总统))))
+            (ude 的))
+          (NP (n 提案)))
+        (FLR (p 向))
+        (VP
+          (n 会)
+          (VP
+            (v 激发)
+            (NP-OBJ (DNP (QP (CLP (n 层层))) (ude 的)) (NP (n 对立))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (PP-LOC (p 在) (IP (VP (v 立) (NP (n 法院)))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vyou 有)
+        (IP (NP-SBJ (nl 人民团体)) (VP (v 进行) (NP-OBJ (vi 请愿)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (r 他们)) (VP (v 声援) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 对象)))
+    (VP (vshi 是) (NP-PRD (NP (n 立法) (n 院长)) (NP-PN (nr 王金平)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (IP (VP (vi 反) (NP (n 核)))) (c 与) (n 罢免))
+      (NP (n 提案)))
+    (VP
+      (VP
+        (ADVP (d 已经))
+        (VP
+          (v 成)
+          (y 了)
+          (NP-OBJ (DNP (NP (n 政治)) (ude 的)) (ADJP (n 连体)) (NP (n 因)))))
+      (wd ，)
+      (VP (ADVP (d 根本)) (ADVP (v 无法)) (ADVP (d 单独)) (VP (v 处理)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 民众))
+    (VP
+      (v 担心)
+      (IP-OBJ
+        (IP-CND
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (r 这样)) (VP (v 下去))))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 只))
+          (VP
+            (v 会)
+            (VP
+              (VP
+                (v 造成)
+                (NP-OBJ (DNP (NP (n 社会) (n 成本)) (ude 的)) (NP (n 增加))))
+              (wd ，)
+              (c 并且)
+              (VP (v 扩大) (NP-OBJ (n 冲突)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (VP (v 立) (NP (n 法院))) (ude 的)) (NP (s 场外)))
+    (VP (vyou 有) (NP-OBJ (n 抗议))))
+  (wd ，)
+  (IP
+    (LCP-SBJ (NP (n 立场)) (f 内))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 充满)
+        (y 了)
+        (NP-OBJ
+          (CP-APP (IP (NP-SBJ (n 山雨)) (VRD (d 预) (v 来))) (ude 的))
+          (NP (n 气氛))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (n 国民党) (wn 、) (n 亲民党)) (NP (nt 立委)))
+    (VP
+      (VP
+        (ADVP (vi 联手))
+        (PP-DIR (p 向) (NP-PN (nr 王新平)))
+        (VP (VRD (v 送) (v 上)) (NP-OBJ (n 鲜花))))
+      (wd ，)
+      (VP (v 谴责) (NP-OBJ (n 暴力)))
+      (wd ，)
+      (VP
+        (v 让)
+        (LCP-OBJ (NP (VP (v 立) (NP (n 法院))) (NP (n 会场))) (f 上))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 充满)
+            (FLR (d 不))
+            (vi 了)
+            (NP-OBJ (ADJP (a 温馨)) (NP (n 气氛))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ
+      (LCP (NP (n 朝野)) (f 间))
+      (DNP (PP (p 因为) (NP (n 总统) (NP (v 罢免) (n 案)))) (ude 的))
+      (NP (n 对峙) (n 状况)))
+    (VP
+      (IP (VP (ADVP (d 并)) (VP (d 没有))))
+      (VP (v 冲淡) (ADVP (ADVP (d 太)) (ADVP (a 多))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC (NP (n 国事) (n 论坛)) (f 上))
+  (NP-SBJ (NP (n 在野党)) (NP (nt 立委)))
+  (VP
+    (VP (vshi 是) (IP (NP (n 骂声)) (VP (a 连连))))
+    (wd ，)
+    (VP
+      (v 要求)
+      (NP-OBJ (ADJP (a 新)) (NP (n 政府)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (PP-DIR (p 对) (NP (n 现况))) (VP (n 责任))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (ADVP-WH (r 为什么))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 出现) (NP-OBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 逆转))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 了解)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (NP-PN (n 国民党)) (NP (n 方面)))
+      (VP (v 出现) (y 了) (NP-OBJ (ADJP (n 保留)) (NP (n 态度))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (ADVP (t 这时候))
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 该) (VP (v 提出) (NP (v 罢免) (n 案)))))
+      (ude 的))
+    (NP (n 时机)))
+  (VP (ADVP (d 并)) (ADVP (d 不)) (VP (v 适合)))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (CP
+    (IP
+      (NP-SBJ (n 总统府) (n 方面))
+      (VP (ADVP (d 也)) (VP (vshi 是) (VP (a 一样)))))
+    (y 啊))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 也))
+        (VP (v 希望) (IP-OBJ (NP-SBJ (r 大家)) (VP (vi 降温))))))
+    (y 啊))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 要)
+        (VP
+          (PP-PRP (p 因为) (NP (DP (r 这个)) (NP (n 事件))))
+          (VP
+            (VP (ADVP (d 越)) (VP (v 演)))
+            (VP (ADVP (d 越)) (VP (a 烈))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (ADVP (d 一定))
+        (VP
+          (v 要)
+          (VP
+            (v 选择)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 最)) (VP (a 好))))
+                  (ude 的)))
+              (NP (n 时机))))))
+      (wd ，)
+      (VP
+        (ADVP (c 然后))
+        (PP-LOC
+          (p 在)
+          (LCP
+            (LCP
+              (NP
+                (CP-APP (IP (NP-SBJ (n 民意)) (VP (v 支持))) (ude 的))
+                (NP (n 情况)))
+              (f 下))
+            (wd ，)
+            (LCP
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ
+                      (DNP
+                        (NP
+                          (NP (n 全党))
+                          (c 和)
+                          (NP (ADJP (n 在野)) (NP (n 联盟))))
+                        (ude 的))
+                      (NP (n 委员)))
+                    (VP (ADVP (d 都)) (VP (p 在) (NP-OBJ (n 立场)))))
+                  (ude 的))
+                (NP (n 情况)))
+              (f 之下))))
+        (wd ，)
+        (ADVP (d 才))
+        (VP (v 会) (VP (VRD (v 提) (v 出来)))))))
+  (wj 。)
+  (wyy ”)))
+</S>

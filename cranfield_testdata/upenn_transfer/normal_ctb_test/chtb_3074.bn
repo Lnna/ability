@@ -1,0 +1,142 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 老挝)) (NP (n 当局)))
+  (VP
+    (v 允许)
+    (NP-OBJ (NP-PN (ns 澳大利亚)) (NP (n 官员)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 探望)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ-2 (-NONE- *T*-1))
+                (VP
+                  (PP-LOC (p 在) (NP-PN (ns 老挝)))
+                  (VP (pbei 被) (VP (v 监禁) (NP-OBJ (-NONE- *-2))))))
+              (ude 的)))
+          (QP (m 一) (CLP (q 对)))
+          (NP-PN (ns 澳大利亚))
+          (NP (n 夫妇))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (nrf 戴恩斯))
+    (c 和)
+    (NP
+      (NP-APP (DNP (NP (r 他)) (ude 的)) (NP (n 妻子)))
+      (NP-PN (nr 凯姬))))
+  (VP
+    (NP-TMP (t １２月) (QP (m ２３) (CLP (q 号))))
+    (PP-LOC
+      (p 在)
+      (NP (NP-APP (NP-PN (ns 越南)) (NP (n 首都))) (NP-PN (ns 河内))))
+    (NP (vi 被捕)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 戴恩斯))
+    (VP
+      (PP-BNF (p 为) (NP (QP (m 一个)) (NP (n 蓝宝石) (n 采矿) (n 公司))))
+      (VP (v 提供) (NP-OBJ (an 安全) (n 服务)))))
+  (wd ，)
+  (IP
+    (NP-SBJ-1 (DP (r 那个)) (NP (n 公司)))
+    (VP
+      (PP-TMP (p 在) (NP (t ５月)))
+      (VP
+        (pbei 被)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (ns 老挝)) (NP (n 当局)))
+          (VP (v 没收) (NP-OBJ (-NONE- *-1)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 澳大利亚)) (NP (n 领事馆) (n 官员)))
+    (VP
+      (ADVP (v 无法))
+      (VP
+        (v 证实)
+        (NP-OBJ
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ-3
+                  (DP (r 这) (QP (m 两) (CLP (q 个))))
+                  (NP (n 人)))
+                (VP
+                  (PP-PRP (-NONE- *T*-1))
+                  (VP (pbei 被) (VP (v 拘留) (NP-OBJ (-NONE- *-3))))))
+              (ude 的)))
+          (NP (n 原因))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (NP-APP (NP-PN (ns 澳大利亚)) (NP (n 外长))) (NP-PN (nrf 唐纳)))
+    (VP
+      (NP-TMP (t 星期五))
+      (VP
+        (v 说)
+        (wm ：)
+        (IP-OBJ
+          (wyz “)
+          (NP-SBJ
+            (NP-PN (ns 老挝))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (v 驻) (NP-PN-OBJ (ns 澳大利亚)))))
+            (NP (n 大使)))
+          (VP
+            (v 说)
+            (wm ：)
+            (IP-OBJ
+              (wyz ‘)
+              (NP-PN-SBJ (nrf 戴恩斯) (n 夫妇))
+              (VP
+                (v 可能)
+                (VP
+                  (v 会)
+                  (VP
+                    (v 收到)
+                    (NP-OBJ
+                      (DNP (NP (n 诈骗) (n 罪)) (ude 的))
+                      (NP (n 起诉))))))))))))
+  (wj 。)
+  (wyy ’)))
+</S>
+<S>
+( (IP
+  (wyy ”)
+  (PP-MNR
+    (p 据)
+    (IP (NP-PN-SBJ (wkz 《) (n 澳大利亚人) (n 报) (wky 》)) (VP (v 报道))))
+  (NP-SBJ (NP-PN (ns 老挝) (n 共产党)) (NP (n 官员)))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-PN-SBJ (nrf 戴恩斯) (n 夫妇))
+      (VP
+        (PP-ADV
+          (p 同)
+          (NP
+            (CP-APP
+              (IP
+                (NP-SBJ (QP (m １３０) (CLP (q 公斤))) (NP (n 蓝宝石)))
+                (VP (vi 失踪)))
+              (ude 的))
+            (NP (n 事件))))
+        (VP (v 有关)))))
+  (wj 。)))
+</S>

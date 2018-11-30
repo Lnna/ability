@@ -1,0 +1,517 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nrf 清水宏保))
+  (VP
+    (v 获)
+    (NP-OBJ
+      (NP (t １９９８年))
+      (NP-APP (wyz “) (NP-PN (ns 日本)) (NP (n 体育) (n 奖)) (wyy ”))
+      (ADJP (a 最高))
+      (NP (n 奖))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 东京)
+  (t １２月)
+  (t ２９日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 张可喜)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (wyz “) (NP-PN (ns 日本)) (NP (n 体育) (n 奖)) (wyy ”))
+      (NP (n 评审) (n 委员会)))
+    (VP
+      (ADVP (t 前不久))
+      (VP
+        (VRD (v 评) (v 出))
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (NP-TMP (t １９９８年))
+              (IP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 最)) (VP (a 活跃))))
+                (c 和)
+                (IP
+                  (NP-TPC (-NONE- *T*-1))
+                  (NP-SBJ (n 成绩))
+                  (VP (ADVP (d 最)) (VP (a 突出)))))
+              (ude 的)))
+          (NP (n 运动员))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-APP (n 速滑) (n 运动员)) (NP-PN (nrf 清水宏保)))
+    (VP (v 获) (NP-OBJ (ADJP (a 最高)) (NP (n 奖)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (QP (m ２４) (CLP (q 岁))) (ude 的)) (NP-PN (nrf 清水宏保)))
+    (VP (v 获得) (NP-OBJ (NP (n 体育)) (ADJP (a 最高)) (NP (n 奖)))))
+  (wd ，)
+  (IP (NP-SBJ (n 奖金)) (VP (QP-PRD (m ２００万) (CLP (n 日元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (DNP (CLP (t 今年初)) (ude 的)) (NP-PN (ns 长野) (n 冬奥会)))
+        (f 上)))
+    (VP
+      (v 获得)
+      (UCP-OBJ
+        (NP
+          (NP (NP (n 男子)) (QP (m ５００) (CLP (q 米))) (NP (n 速滑)))
+          (NP (n 冠军)))
+        (c 和)
+        (QP
+          (NP (NP (n 男子)) (QP (m ３０００) (CLP (q 米))) (NP (n 速滑)))
+          (QP (m 第３) (CLP (q 名)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (PP-LOC
+    (p 在)
+    (LCP (NP (NP (t ３月份)) (NP-PN (n 世界) (n 单项) (n 锦标赛))) (f 中)))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (PP-MNR
+      (p 以)
+      (NP
+        (DNP (QP (QP (m ３４) (CLP (q 秒))) (QP (m ８２))) (ude 的))
+        (ADJP (a 优异))
+        (NP (n 成绩))))
+    (VP
+      (v 创造)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (DP (r 这个)) (NP (n 项目))) (ude 的))
+        (NP (n 世界))
+        (ADJP (a 新))
+        (NP (n 纪录)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (DP (r 其他)) (NP (n 获奖者))) (VP (vshi 是)) (wm ：)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 高桥尚子))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ２６) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (PP-LOC (p 在) (LCP (NP-PN (ns 曼谷) (n 亚运会)) (f 上)))
+      (PP-MNR
+        (p 以)
+        (NP
+          (DNP
+            (QP
+              (NP (QP (m １)) (NP (n 小时)))
+              (QP (m ２１) (CLP (q 分)))
+              (QP (m ４７) (CLP (q 秒))))
+            (ude 的))
+          (NP (n 成绩))))
+      (VP
+        (VP
+          (v 刷新)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (r 她) (r 自己))
+                  (VP (v 保持) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (NP-PN (NP (n 全国)) (NP (n 马拉松)))
+            (ADJP (ADVP (d 最)) (ADJP (a 好)))
+            (NP (n 成绩))))
+        (wd ，)
+        (VP
+          (PP-BNF (p 为) (NP-PN (ns 日本)))
+          (VP (v 争得) (NP-OBJ (QP (m 第一) (CLP (q 枚))) (NP (n 金牌))))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP (NP (ns 中村)) (NP (ADVP (a 真)) (NP (n 衣))))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m １９) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (t １月)) (ude 的))
+            (NP-PN (n 世界) (n 游泳) (n 锦标赛)))
+          (f 上)))
+      (VP
+        (v 获得)
+        (NP-OBJ
+          (NP (n 女子))
+          (NP
+            (NP (QP (m １００) (CLP (q 米))) (NP (n 银牌)))
+            (wn 、)
+            (NP (QP (m ２００) (CLP (q 米))) (NP (n 铜牌)))
+            (c 和)
+            (NP
+              (NP (QP (m ４００) (CLP (q 米))) (NP (n 接力)))
+              (NP (n 铜牌))))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP (NP (nz 高桥)) (NP (n 凉子)))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ２５) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (PP-LOC (p 在) (LCP (NP-PN (ns 长野) (n 冬奥会)) (f 上)))
+      (VP
+        (v 获得)
+        (QP-OBJ
+          (NP
+            (QP (m １５) (CLP (q 公里)))
+            (NP (QP (t ４点)) (NP (n 射击)))
+            (NP (n 滑雪赛)))
+          (QP (m 第６) (CLP (q 名)))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 杉山爱))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ２３) (CLP (q 岁))))
+    (wd ，)
+    (VP (NP-PRD (n 网球) (n 运动员)))
+    (wd ，)
+    (VP
+      (NP-TMP (t 今年))
+      (VP
+        (v 获得)
+        (NP-OBJ
+          (NP
+            (NP-PN (ns 日本) (n 公开赛))
+            (c 和)
+            (NP-PN (n 黄金) (n 海岸) (n 锦标赛)))
+          (NP (n 冠军)))))
+    (wd ，)
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP (DNP (NP (t 今年)) (ude 的)) (NP (n 世界) (n 排名榜)))
+          (f 上)))
+      (wd ，)
+      (VP (v 名列) (QP-OBJ (m 第１８) (CLP (q 位))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (nrf 米本育代))
+    (PRN (wkz （) (QP (m ２３) (CLP (q 岁))) (wky ）))
+    (c 和)
+    (NP-PN (nz 中屋朱美))
+    (PRN (wkz （) (QP (m １９) (CLP (q 岁))) (wky ）)))
+  (wd ，)
+  (VP
+    (VP (NP-PRD (NP (ADJP (b 软式)) (NP (n 网球))) (NP (n 运动员))))
+    (wd ，)
+    (VP
+      (NP-PRD
+        (NP
+          (QP (m 第５３) (CLP (q 届)))
+          (NP-PN (ADJP (n 综合)) (NP (n 锦标赛))))
+        (NP (n 冠军))))
+    (wd ，)
+    (VP
+      (NP-TMP (DP (r 本)) (NP (n 年度)))
+      (NP-LOC (DP (a 全)) (NP-PN (ns 日本)))
+      (VP (vi 排名) (QP-OBJ (m 第１) (CLP (q 位))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 宫崎正裕))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 男)))
+    (wd ，)
+    (VP (QP-PRD (m ３５) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (NP-PRD
+        (NP (t １９９８年))
+        (NP-PN (NP (DP (a 全)) (NP-PN (ns 日本))) (NP (n 剑道) (n 锦标赛)))
+        (NP (n 冠军))))
+    (wd ，)
+    (VP
+      (NP-TMP (t １９９０年) (c 和) (t １９９１年))
+      (ADVP (d 曾))
+      (VP (v 蝉联) (NP-OBJ (n 冠军))))
+    (wd ，)
+    (VP
+      (PP-LOC (p 在) (LCP (NP-PN (n 世界) (n 锦标赛)) (f 上)))
+      (ADVP (d 也))
+      (ADVP (d 曾))
+      (VP (v 获得) (NP-OBJ (n 金牌)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (VP (DVP (NP (n 正法)) (ude 地)) (VP (t 清)))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 男)))
+    (wd ，)
+    (VP (QP-PRD (m ４８) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (t 今年)) (ude 的))
+            (NP (DP (a 全)) (NP-PN (ns 日本)))
+            (NP (n 弓道) (n 锦标赛)))
+          (f 上)))
+      (wd ，)
+      (PP-MNR
+        (p 以)
+        (NP
+          (DNP
+            (NP
+              (NP (QP (m ６)) (NP (v 射)))
+              (NP (QP (m ６)) (NP (f 中))))
+            (ude 的))
+          (NP (n 成绩))))
+      (VP (v 获得) (NP-OBJ (n 弓道) (n 冠军)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 田宫启司))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 男)))
+    (wd ，)
+    (VP (QP-PRD (m ２２) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (NP-PRD
+        (NP
+          (NP-PN (NP (n 全国)) (NP (n 学生) (n 相扑) (n 锦标赛)))
+          (c 和)
+          (NP-PN (n 世界) (n 相扑) (n 锦标赛)))
+        (NP (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (b 无差别))) (NP (n 级)))
+        (NP (n 冠军))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP (NP (n 世界)) (ADJP (b 业余)) (NP (n 相扑界))) (ude 的))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 最)) (VP (a 优秀)))))
+        (NP (n 运动员)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 八木三枝子))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ４８) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (PP-DIR (p 从) (LCP (NP (t １９９４年)) (f 起)))
+      (wd ，)
+      (QP-ADV (ADVP (a 连续)) (QP (m ５) (CLP (q 次))))
+      (VP
+        (v 荣获)
+        (NP-OBJ
+          (NP-PN
+            (NP (DP (a 全)) (NP-PN (ns 日本)))
+            (NP (n 马场) (n 马术))
+            (NP (n 锦标赛)))
+          (NP (n 冠军))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 滨口京子))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ２０) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (v 蝉联)
+      (NP-OBJ
+        (NP-PN (n 世界) (n 摔跤) (n 锦标赛))
+        (NP (QP (m ７５) (CLP (q 公斤))) (NP (n 级)))
+        (NP (n 冠军))))
+    (wd ，)
+    (VP
+      (pbei 被)
+      (IP-OBJ
+        (NP-PN-SBJ (n 世界) (n 摔跤) (n 联合会))
+        (VP
+          (VRD (v 评选) (v 为))
+          (NP-OBJ
+            (DNP (ADJP (b 唯一)) (ude 的))
+            (ADJP (b 女))
+            (ADJP (a 优秀))
+            (NP (n 运动员)))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 太田真一))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 男)))
+    (wd ，)
+    (VP (QP-PRD (m ２３) (CLP (q 岁))))
+    (wd ，)
+    (VP (NP-PRD (n 自行车) (n 运动员)))
+    (wd ，)
+    (VP
+      (v 具有)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (PP (p 与) (NP (n 世界) (n 强手))) (VP (v 较量))))
+          (ude 的))
+        (NP (n 实力)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP (VP (NP (t 今)) (VP (NP (n 冈益) (a 美)))))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ２２) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (UCP-PRD
+        (NP
+          (NP-PN
+            (NP (DP (a 全)) (NP-PN (ns 日本)))
+            (NP (n 女子) (n 举重) (n 锦标赛)))
+          (NP (n 亚军)))
+        (wn 、)
+        (QP (NP-PN (n 世界) (n 学生) (n 锦标赛)) (QP (m 第３) (CLP (q 名))))
+        (wn 、)
+        (QP (NP-PN (n 世界) (n 锦标赛)) (QP (m 第４) (CLP (q 名))))))
+    (wd ，)
+    (VP (VP-FOC (vi 进步)) (VP (a 显著))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (NP (nr 小林) (nr 弘子))
+  (wd ，)
+  (VP
+    (VP (ADJP-PRD (b 女)))
+    (wd ，)
+    (VP (QP-PRD (m ２８) (CLP (q 岁))))
+    (wd ，)
+    (VP
+      (PP-TMP (p 在) (NP (t ９月)))
+      (PP-LOC
+        (p 于)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (NP-PN-LOC (ns 西班牙)) (VP (v 举行))))
+                (ude 的)))
+            (NP (n 划艇) (n 世界杯赛)))
+          (f 中)))
+      (wd ，)
+      (VP
+        (v 取得)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 名列) (QP-OBJ (m 第１３) (CLP (q 位)))))
+            (ude 的))
+          (ADJP (a 好))
+          (NP (n 成绩))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (wyz “) (NP-PN (ns 日本)) (NP (n 体育) (n 奖)) (wyy ”))
+  (VP
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (PRN-PN-TTL-SBJ (wkz 《) (nz 读卖新闻) (wky 》))
+              (VP (v 主办) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 评奖) (n 活动))))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 从)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (NP-TMP (t １９５１年)) (VP (v 开办))))
+          (f 以来)))
+      (wd ，)
+      (ADVP (d 一直))
+      (VP (d 没有) (VP (vi 间断)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

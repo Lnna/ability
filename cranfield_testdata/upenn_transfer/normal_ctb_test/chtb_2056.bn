@@ -1,0 +1,191 @@
+<S>
+( (IP
+  (PP-MNR (p 根据) (IP (NP-PN (ns 伊拉克) (n 新闻社)) (VP (v 报导))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 伊拉克)) (QP (m 两) (CLP (q 架))) (NP (n 民航机)))
+  (VP
+    (QP (m ６) (CLP (q 号)))
+    (ADVP (d 分别))
+    (VP
+      (v 飞越)
+      (NP-OBJ (NP (f 南北)) (QP (m 两) (CLP (q 个))) (NP (n 禁航区)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ns 伊拉克) (n 新闻社))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (DP (r 这) (QP (m 两) (CLP (q 架)))) (NP (n 飞机)))
+        (VP
+          (ADVP (d 分别))
+          (PP-DIR
+            (p 从)
+            (NP
+              (NP (NP-APP (n 首都)) (NP-PN (ns 巴格达)))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 重新)) (VP (vi 开幕))))
+                  (ude 的)))
+              (NP-PN (nz 海山) (n 国际) (n 机场))))
+          (VP (vi 起飞))))
+      (wd ，)
+      (IP
+        (QP-SBJ (m 一) (CLP (q 架)))
+        (VP
+          (v 飞往)
+          (NP-OBJ
+            (NP-APP
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (p 距离)
+                      (NP-PN-OBJ (ns 巴格达))
+                      (QP-EXT (m ６００) (CLP (q 公里)))))
+                  (ude 的)))
+              (NP (f 南部) (n 城市)))
+            (NP-PN (nrf 巴斯拉)))))
+      (wd ，)
+      (IP
+        (QP-SBJ (ADVP (r 另外)) (QP (m 一) (CLP (q 架))))
+        (VP
+          (PP-DIR (p 向) (NP (f 北)))
+          (VP
+            (v 飞往)
+            (NP-OBJ
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-3))
+                    (VP
+                      (p 距离)
+                      (NP-OBJ (n 首都))
+                      (QP-EXT (m ４５０) (CLP (q 公里)))))
+                  (ude 的)))
+              (NP-PN (nrf 摩斯沃尔))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-SBJ (NP (n 班机)) (f 上))
+  (VP
+    (ADVP (d 分别))
+    (VP
+      (v 载有)
+      (NP-OBJ
+        (NP (QP (m ８) (CLP (q 名))) (NP (n 乘客)))
+        (c 和)
+        (NP (QP (m １４) (CLP (q 名))) (NP (n 乘客))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 伊拉克) (n 航空) (n 公司))
+    (VP
+      (NP-TMP (t 昨天) (NP (QP (m ５)) (NP (q 号))))
+      (VP
+        (v 派遣)
+        (NP-OBJ
+          (QP (m 两) (CLP (q 架)))
+          (DNP (ADJP (a 老) (a 旧)) (ude 的))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (ns 俄罗斯))
+                (VP (v 制造) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 客机)))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 飞越) (NP-OBJ (n 禁航区)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (QP-PRD
+        (DNP
+          (PP
+            (p 自)
+            (LCP (NP (NP (t １９９１年)) (NP-PN (ns 波斯湾) (n 战争))) (f 以来)))
+          (ude 的))
+        (QP (m 第一) (CLP (q 次))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC
+              (p 在)
+              (NP (NP-PN (ns 伊拉克)) (NP (f 南北)) (NP (ns 禁航区))))
+            (VP (v 执行) (NP-OBJ (n 禁航) (n 任务)))))
+        (ude 的)))
+    (NP-PN (ns 美) (ns 英))
+    (QP (m 两))
+    (NP (n 国)))
+  (VP
+    (PP-TMP (p 在) (NP (QP (m 一个)) (NP (n 星期))))
+    (ADVP (d 就))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 反对)
+            (NP-OBJ
+              (DNP (DP (r 这) (CLP (q 类))) (ude 的))
+              (NP (n 民航) (n 飞行)))))
+        (wd ，)
+        (PP-PRP
+          (c 因为)
+          (IP
+            (NP-SBJ (ns 禁航区))
+            (VP
+              (ADVP (d 只是))
+              (ADVP (p 在))
+              (VP (v 禁止) (NP-OBJ (n 军事) (n 活动)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (NP-SBJ (NP-PN (nt 联合国)) (NP (n 官员)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 表示)
+      (wd ，)
+      (CP-OBJ
+        (IP
+          (PP-MNR (p 根据) (NP (NP-PN (nt 联合国)) (NP (n 制裁) (n 行动))))
+          (wd ，)
+          (NP-SBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (NP-PN (ns 伊拉克)) (NP (n 飞机)))
+                (VP (v 飞越) (NP-OBJ (ns 禁航区))))
+              (ude 的))
+            (NP (n 行动)))
+          (VP (vshi 是) (VP (vi 违法))))
+        (ude 的))))
+  (wj 。)))
+</S>

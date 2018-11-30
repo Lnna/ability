@@ -1,0 +1,327 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 香港) (nt 证监会)) (NP (t 明年) (d 重点)))
+  (VP (v 制订) (NP-OBJ (ADJP (a 新)) (NP (n 证券法))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 香港) (t 十二月) (t 三十一日) (NP (n 电))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 香港) (nt 证监会))
+      (DNP (NP (t 明年)) (ude 的))
+      (NP (n 工作) (n 重点) (r 之一)))
+    (VP (vshi 是) (VP (v 制订) (NP-OBJ (ADJP (a 新)) (NP (n 证券法))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (ADJP (n 综合)) (NP (n 条例))) (NP (n 草案)))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 会)
+        (VP
+          (PP-TMP (p 在) (NP (t 明年)))
+          (VP (v 提交) (NP-PN-OBJ (n 立法会)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP
+        (NP (n 证券))
+        (PRN (wkz （) (NP (n 权益) (v 披露)) (wky ）))
+        (NP (n 条例)))
+      (NP (n 咨询) (n 报告)))
+    (VP
+      (VP (ADVP (d 也)) (VP (v 接近) (NP-OBJ (v 完成))))
+      (wd ，)
+      (VP (ADVP (v 可望)) (PP-TMP (p 于) (NP (t 明年))) (VP (vi 出台)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 香港) (nt 证监会)) (NP (n 主席)))
+    (NP-PN (nr 沈联涛)))
+  (VP
+    (NP-TMP (t 三十日))
+    (PP-LOC (p 在) (LCP (NP (t 年终) (n 报告会)) (f 上)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP (ADJP (a 新)) (NP (n 科技)))
+                  (c 及)
+                  (NP (ADJP (a 新)) (NP (n 产品))))
+                (VP (v 带来) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP
+            (NP (ADJP (a 新)) (NP (n 挑战)))
+            (c 及)
+            (NP (ADJP (a 新)) (NP (n 风险)))))
+        (wd ，)
+        (VP
+          (VP
+            (ADVP (d 将))
+            (PP-DIR (p 对) (NP (ADJP (b 现行)) (NP (n 法律) (n 架构))))
+            (VP (v 带来) (NP-OBJ (ADJP (a 重大)) (NP (n 影响)))))
+          (wd ，)
+          (c 并)
+          (VP
+            (v 会)
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (NP-PN (ns 香港))
+                (NP (t 未来))
+                (DNP (ADJP (b 主要)) (ude 的))
+                (NP (n 挑战)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 因此))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (VP (vyou 有) (NP-OBJ (an 必要)))
+      (VP
+        (VP (v 更新) (NP-OBJ (ADJP (n 综合)) (NP (n 条例))))
+        (wd ，)
+        (c 并)
+        (VP
+          (ADVP (d 已))
+          (VP
+            (v 筹组)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (PP-LGS (p 由) (NP (r 他)))
+                      (VP (v 率领) (NP-OBJ (-NONE- *-2)))))
+                  (ude 的)))
+              (NP (n 专家) (n 小组)))))
+        (wd ，)
+        (VP
+          (v 研究)
+          (NP-OBJ (NP-PN (ns 英) (ns 美)) (NP (n 证券法) (n 改革))))))
+    (wd ，)
+    (VP
+      (c 以)
+      (VP
+        (v 确定)
+        (NP-OBJ (DNP (NP (t 未来)) (ude 的)) (NP (n 改革) (n 方向))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (ADJP (b 副)) (NP (n 主席))) (NP-PN (nrf 查美史伦)))
+  (VP
+    (v 解释)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TPC
+          (ADJP (n 有关))
+          (NP
+            (NP (n 上市) (n 条例))
+            (c 和)
+            (NP (NP (n 收购) (c 及) (n 合并)) (NP (n 守则)))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (v 拟)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (p 将)
+                (IP-OBJ
+                  (NP-SBJ (QP (m 部分)) (NP (n 条例)))
+                  (VP (v 赋予) (NP-OBJ (n 法律) (n 效力)))))))
+          (wd ，)
+          (c 并)
+          (VP (ADVP (d 已)) (VP (v 完成) (NP-OBJ (f 内部) (n 咨询))))))
+      (wd ，)
+      (IP
+        (LCP-TMP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 收集) (NP-OBJ (n 上市) (n 委员会) (n 意见))))
+          (f 后))
+        (wd ，)
+        (IP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (v 可望))
+              (PP-TMP (p 于) (NP (NP (t 明年)) (QP (m 第一)) (NP (n 季度))))
+              (VP (v 作) (NP-OBJ (ADJP (a 公开)) (NP (n 咨询))))))
+          (c 及)
+          (IP (NP-SBJ (n 草拟法)) (VP (v 提交) (NP-PN-OBJ (n 立法会))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 构思)
+    (IP-OBJ
+      (PP-DIR
+        (p 对)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (ADVP (d 曾))
+                  (VP
+                    (VP (ADVP (ad 公开)) (VP (v 声明)))
+                    (VP (v 误导) (NP-OBJ (n 投资者)))
+                    (VP
+                      (v 令)
+                      (NP-OBJ (r 其))
+                      (IP (NP-SBJ (-NONE- *PRO*)) (VP (n 损失)))))))
+              (ude 的)))
+          (NP (n 上市) (n 公司) (c 或) (n 中介) (n 团体))))
+      (wd ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 需) (VP (v 承担) (NP-OBJ (b 民事) (n 责任))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 她))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 透露)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (ADVP (d 将))
+            (PP-LOC (p 在) (LCP (NP (n 法律) (n 改革)) (f 中)))
+            (ADVP (d 重新))
+            (VP (v 调整) (NP-OBJ (VP (v 发) (NP (n 牌))) (n 制度))))
+          (wd ，)
+          (VP
+            (NP-TMP (t 日后))
+            (VP
+              (v 会)
+              (VP
+                (VP
+                  (p 将)
+                  (IP-OBJ (NP-SBJ (n 中介人) (n 角色)) (VP (dl 分门别类))))
+                (wd ，)
+                (VP
+                  (v 划分)
+                  (NP-OBJ
+                    (DNP
+                      (PP (p 对) (NP (n 保荐人) (c 与) (n 财务) (n 顾问)))
+                      (ude 的))
+                    (ADJP (a 不同))
+                    (NP (n 要求)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 同时))
+      (VP
+        (v 会)
+        (VP
+          (PP-DIR (p 就) (NP (n 企业) (n 融资) (n 人士)))
+          (VP (v 引进) (NP-OBJ (n 标准) (n 守则)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP (n 上市) (n 委员会))
+      (DNP
+        (PP
+          (p 对)
+          (NP
+            (DNP
+              (NP
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (a 新)) (VP (n 上市)))))
+                (NP (n 公司)))
+              (ude 的))
+            (NP (n 资料) (c 及) (n 董事局) (n 成员))))
+        (ude 的))
+      (NP (n 审批)))
+    (VP (ADVP (d 亦)) (VP (v 会) (VP (a 严谨)))))
+  (wd ，)
+  (IP
+    (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+    (NP-SBJ (n 招股书))
+    (VP
+      (VNV (v 会) (v 否))
+      (VP (v 存在) (NP-OBJ (NP (v 夸大) (c 或) (v 误导)) (NP (n 成分))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV (p 除了) (LCP (NP (vi 立法) (v 改革)) (f 外)))
+  (wd ，)
+  (NP-PN-SBJ (nr 沈联涛))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (NP-TMP (t 未来))
+          (ADVP (d 也))
+          (VP
+            (v 会)
+            (VP
+              (v 致力)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 加强)
+                  (NP-OBJ
+                    (NP (n 市场))
+                    (DNP (PP (p 在) (NP (n 技术) (n 方面))) (ude 的))
+                    (NP (n 基础)))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 包括)
+          (UCP-OBJ
+            (NP
+              (DNP (NP-PN (nt 联交所)) (ude 的))
+              (QP (m 第二) (CLP (q 代)))
+              (ADJP (n 对盘))
+              (NP (n 系统)))
+            (wd ，)
+            (IP
+              (NP-PN-SBJ (nt 期交所))
+              (VP (ADVP (ad 全面)) (VP (v 推行) (NP-OBJ (n 电子化)))))
+            (c 及)
+            (NP (NP (wyz “) (n 千年虫) (wyy ”)) (NP (n 问题))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

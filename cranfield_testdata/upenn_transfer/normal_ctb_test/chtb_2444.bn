@@ -1,0 +1,190 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 台北市)) (NP (n 建管处)))
+    (VP
+      (NP-TMP (t 上午))
+      (ADVP (ad 强力))
+      (VP
+        (v 拆除)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP
+                (NP-APP
+                  (ADJP (f 前))
+                  (NP-PN (n 中央) (n 电台))
+                  (NP (n 董事长)))
+                (NP-PN (nr 朱婉清)))
+              (NP (s 家中)))
+            (ude 的))
+          (NP (n 顶楼) (n 违建))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP (DNP (NP-PN (nr 朱婉清)) (ude 的)) (NP (n 先生)))
+      (NP-PN (nr 何景贤)))
+    (VP
+      (DVP (VP (a 激动)) (ude 的))
+      (VP
+        (v 说)
+        (wm ：)
+        (IP-OBJ (NP-SBJ (r 这)) (VP (vshi 是) (NP-PRD (n 政治) (n 迫害)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (n 政治))
+  (VP
+    (ADVP (d 已经))
+    (VP
+      (v 逼)
+      (ude 得)
+      (NP-OBJ (r 他))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (IP (NP (n 妻) (n 离子)) (VP (v 散))) (al 家破人亡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DP (r 这))
+      (NP (QP (m 两) (CLP (q 层))) (NP (n 楼)))
+      (NP (n 违建)))
+    (VP (ADVP (d 相当)) (VP (a 豪华))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (VRD (v 设计) (v 成)) (NP-OBJ (s 空中) (n 花园))))
+  (wd ，)
+  (IP
+    (NP-SBJ (f 外头))
+    (VP (vyou 有) (NP-OBJ (NP (n 绿树)) (c 和) (NP (n 假山)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 豪华))) (ude 的)))
+            (NP (n 住宅)))
+          (f 中)))
+      (VP
+        (ADVP (d 相当))
+        (VP
+          (v 引)
+          (NP-OBJ (n 人))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 注目)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 建管处))
+    (VP
+      (NP-TMP (t 上午))
+      (ADVP (d 先))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ-1 (ADJP (n 落地)) (NP (n 窗)))
+          (VP
+            (QP-MNR (QP (m 一) (CLP (q 片))) (QP (m 一) (CLP (q 片))))
+            (VP (v 拆除) (NP-OBJ (-NONE- *-1))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP (DNP (NP-PN (nr 朱婉清)) (ude 的)) (NP (n 丈夫)))
+      (NP-PN (nr 何景贤)))
+    (VP (ADVP (d 相当)) (VP (a 激动))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (PP-MNR (p 以) (NP (QP (m ８) (CLP (q 个))) (NP (n 字))))
+      (VP (v 形容) (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 感受))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP (NP-SBJ (n 人)) (VP (v 为) (NP-PRD (n 刀俎))))
+  (wd ，)
+  (IP (NP-SBJ (r 我)) (VP (v 为) (NP-PRD (n 鱼肉))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 我)) (VP (VRD (v 感觉) (v 到))))
+  (wd ，)
+  (IP (NP-SBJ (r 我)) (VP (ADVP (d 不)) (VP (v 知道))))
+  (IP (NP-SBJ (r 我)) (VP (v 认为)))
+  (wd ，)
+  (IP (NP-SBJ (r 我)) (VP (VRD (v 感觉) (v 到))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (VNV (a 好) (d 不) (a 好))))
+  (IP
+    (ADVP (d 也许))
+    (NP-SBJ (r 你们))
+    (VP (ADVP (d 没)) (VP (VRD (v 感觉) (v 到)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 你们))
+    (VP (NP-TMP (t 现在)) (VP (v 看到) (NP-OBJ (n 情况)))))
+  (wd ，)
+  (IP-Q
+    (ADVP (r 为什么))
+    (NP-SBJ (DNP (DP (b 所有)) (ude 的)) (NP (n 事情)))
+    (VP
+      (VP
+        (NP-MNR (NP (QP (m 八)) (NP (q 方))) (NP (n 风雨)))
+        (ADVP (d 同时))
+        (VP (v 来) (y 了)))
+      (wd ，)
+      (VP
+        (ADVP (r 为什么))
+        (PP-TMP (p 在) (NP (DP (b 同一个)) (NP (n 时间))))
+        (VP (v 来)))))
+  (wd ，)
+  (IP-Q (NP-SBJ (-NONE- *pro*)) (VP (r 为什么)))
+  (ww ？)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN (nr 何景贤))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (r 他))
+          (VP (ADVP (d 已经)) (IP (NP (n 妻) (n 离子)) (VP (a 散)))))
+        (wd ，)
+        (IP
+          (IP-SBJ
+            (NP-TMP (t 今天))
+            (NP-SBJ-1 (n 房子))
+            (VP (pbei 被) (VP (v 拆) (NP-OBJ (-NONE- *-1)))))
+          (wd ，)
+          (VP (v 算是) (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (al 家破人亡))))))))
+  (wd ，)
+  (IP
+    (PP-DIR
+      (p 对于)
+      (IP
+        (NP-PN-SBJ (nr 朱婉清))
+        (VP (ADVP (d 到底)) (VP (VNV (v 回) (d 不) (v 回来))))))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP (ADVP (d 并)) (ADVP (d 不)) (VP (v 了解))))
+  (wj 。)))
+</S>

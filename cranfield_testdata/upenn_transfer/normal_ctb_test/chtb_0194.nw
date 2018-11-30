@@ -1,0 +1,433 @@
+<S>
+( (IP-HLN
+  (IP
+    (NP-SBJ (QP (m 百) (CLP (q 家))) (NP (n 乡镇企业)))
+    (VP (v 重视) (NP-OBJ (n 思想) (n 政治) (n 工作))))
+  (IP
+    (NP-SBJ (NP-PN (nt 中宣部)) (NP-PN (nt 农业部)))
+    (VP (ADVP (v 联合)) (VP (v 表彰))))
+  (IP (NP-SBJ (NP-PN (nr 李瑞环)) (udeng 等)) (VP (vi 颁奖)))))
+</S>
+<S>
+( (FRAG (r 本报) (ns 北京) (t １月) (t ５日) (n 讯)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (NP-APP (NP-PN (nt 新华社)) (NP (n 记者))) (NP-PN (nr 王言彬)))
+      (wn 、)
+      (NP (NP-APP (NP (r 本报)) (NP (n 记者))) (NP-PN (nr 何加正))))
+    (VP (v 报道)))
+  (wm ：)
+  (IP
+    (LCP-LOC
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (NP-TMP (t 今天))
+                (PP-LOC (p 在) (NP-PN (n 人民) (n 大会堂)))
+                (VP (v 召开))))
+            (ude 的)))
+        (NP (n 全国))
+        (NP (n 乡镇企业) (n 思想) (n 政治) (n 工作))
+        (NP (n 会议)))
+      (f 上))
+    (wd ，)
+    (NP-SBJ
+      (NP (n 全国))
+      (QP (m １０２) (CLP (q 个)))
+      (NP (n 乡镇企业) (n 思想) (n 政治) (n 工作))
+      (ADJP (a 先进))
+      (NP (n 单位)))
+    (VP
+      (v 受到)
+      (NP-OBJ
+        (NP-PN (nt 中宣部) (wn 、) (nt 农业部))
+        (ADJP (v 联合))
+        (NP (v 表彰)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP (NP-PN (nt 中共中央) (n 政治局)) (NP (n 常委)))
+      (NP-PN (nr 李瑞环)))
+    (wn 、)
+    (NP (NP-APP (nl 国务委员)) (NP-PN (nr 陈俊生)))
+    (c 以及)
+    (NP (NP-APP (NP-PN (nt 中宣部)) (NP (n 部长))) (NP-PN (nr 王忍之)))
+    (wn 、)
+    (NP (NP-APP (NP-PN (nt 农业部)) (NP (n 部长))) (NP-PN (nr 刘中一)))
+    (udeng 等))
+  (VP
+    (VP (v 出席) (NP-OBJ (n 会议)))
+    (c 并)
+    (VP
+      (PP-DIR (p 向) (NP (NP (ADJP (a 先进)) (NP (n 单位))) (NP (n 代表))))
+      (VP (vi 颁奖))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (nt 中宣部)) (ADJP (b 常务)) (ADJP (b 副)) (NP (n 部长)))
+    (NP-PN (nr 徐惟诚)))
+  (VP (v 主持) (y 了) (NP-OBJ (DNP (NP (t 今天)) (ude 的)) (NP (n 会议))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (nt 农业部)) (ADJP (b 副)) (NP (n 部长)))
+    (NP-PN (nr 陈耀邦)))
+  (VP (PP-LOC (p 在) (LCP (t 会上))) (VP (v 讲) (y 了) (NP-OBJ (n 话))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 回顾)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (n 乡镇企业) (n 发展))
+                    (VP (v 取得) (NP-OBJ (-NONE- *T*-1))))
+                  (ude 的)))
+              (ADJP (a 重大))
+              (NP (n 成就)))))
+        (f 后)))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (r 这))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (PP
+                        (p 与)
+                        (IP
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP
+                            (v 加强)
+                            (NP-OBJ
+                              (NP (n 党))
+                              (DNP (PP (p 在) (NP (n 乡镇企业))) (ude 的))
+                              (NP (n 思想) (n 政治) (n 工作))))))
+                      (VP (VPT (v 分) (d 不) (v 开)))))
+                  (ude 的))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 思想) (n 政治) (n 工作))
+          (VP
+            (v 保证)
+            (y 了)
+            (IP-OBJ
+              (NP-SBJ (n 乡镇企业))
+              (VP
+                (DVP (VP (vd 持续) (wn 、) (a 健康)) (ude 地))
+                (VP (v 发展)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (DP (r 各级)) (NP (n 乡镇企业)))
+    (NP (n 主管) (n 部门) (c 与) (n 宣传) (n 部门)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (DNP (NP (NP (r 各地)) (NP (n 党委) (c 和) (n 政府))) (ude 的))
+          (NP (n 领导)))
+        (f 下)))
+    (wd ，)
+    (VP
+      (VP (vl 通力合作))
+      (wd ，)
+      (VP
+        (v 指导)
+        (NP-OBJ (n 企业))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 坚持)
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP-TPC (NP (n 物质文明) (c 和) (n 精神文明)) (NP (n 建设)))
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (vl 两手抓)))
+                (ude 的))
+              (NP (n 方针))))))
+      (wd ，)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (n 思想) (n 政治) (n 工作))
+          (VP
+            (ADVP (d 紧紧))
+            (VP
+              (v 融合)
+              (PP-LOC (p 于) (LCP (NP (DP (r 各项)) (NP (n 工作))) (n 中)))))))
+      (f ，)
+      (VP
+        (wd 取得)
+        (v 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (y *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (VA 可喜))) (a 的)))
+          (NP (ude 成绩))))
+      (n ：)
+      (VP
+        (wm 保证)
+        (v 了)
+        (NP-OBJ
+          (NP
+            (DNP (NP (y 党)) (n 的))
+            (NP (ude 路线) (n 、) (wn 方针) (n 、) (wn 政策)))
+          (DNP (PP-LOC (n 在) (NP (p 农村))) (n 的))
+          (NP (ude 贯彻) (n 落实))))
+      (n ，)
+      (VP
+        (wd 调动)
+        (v 了)
+        (NP-OBJ
+          (DNP (NP (ADJP (y 广大)) (NP (b 干部) (n 职工))) (n 的))
+          (NP (ude 积极性))))
+      (n ，)
+      (VP
+        (wd 坚定)
+        (v 了)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (y *OP*))
+            (CP
+              (IP
+                (NP-SBJ (QP (CD 亿万)) (NP (m 农民)))
+                (VP
+                  (NP-ADV (n *T*-3))
+                  (VP (VV 发展) (NP-OBJ (v 乡镇企业)))))
+              (n 的)))
+          (NP (ude 信心))))
+      (n ；)
+      (VP
+        (wf 增强)
+        (v 了)
+        (NP-OBJ
+          (DNP (NP (y 农民)) (n 的))
+          (NP (ude 改革) (n 开放) (n 意识) (n 和) (c 商品经济) (n 经济) (n 意识))))
+      (wd ，)
+      (VP (v 提高) (y 了) (NP-OBJ (n 职工) (n 素质)))
+      (wd ，)
+      (VP
+        (VCD (v 培养) (v 造就))
+        (y 了)
+        (NP-OBJ (QP (m 一) (CLP (q 批))) (ADJP (b 新型)) (NP (n 农民))))
+      (wf ；)
+      (VP
+        (v 促进)
+        (y 了)
+        (NP-OBJ
+          (DNP
+            (NP (NP (n 农村)) (DP (r 各项)) (NP (n 建设) (n 事业)))
+            (ude 的))
+          (NP (n 发展))))
+      (wd ，)
+      (VP (v 巩固) (y 了) (NP-OBJ (n 社会主义) (n 农村)))
+      (wd ，)
+      (VP (v 稳定) (y 了) (NP-OBJ (n 农村)))
+      (wd ，)
+      (VP (v 稳定) (y 了) (NP-OBJ (n 社会)))
+      (wd ，)
+      (VP (v 稳定) (y 了) (NP-OBJ (n 大局)))
+      (wf ；)
+      (VP
+        (v 保证)
+        (y 了)
+        (IP-OBJ
+          (NP-SBJ (n 乡镇企业))
+          (VP
+            (PP-DIR (p 沿着) (NP (n 社会主义) (n 方向)))
+            (ADVP (ad 健康))
+            (VP (v 发展)))))
+      (wd ，)
+      (VP
+        (PP-DIR
+          (p 对)
+          (NP
+            (DNP
+              (NP
+                (NP (n 农村) (n 经济))
+                (c 和)
+                (NP (DP (b 整个)) (NP (n 国民经济))))
+              (ude 的))
+            (ADJP (d 稳步))
+            (NP (v 发展))))
+        (wd ，)
+        (VP
+          (VRD (v 起) (v 到))
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 重要))) (ude 的)))
+            (NP (n 推动) (n 作用)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LGS (p 由) (NP-PN (nt 中宣部) (wn 、) (nt 农业部)))
+            (QP-ADV (m 首) (CLP (q 次)))
+            (ADVP (v 联合))
+            (VP (v 召开))))
+        (ude 的)))
+    (DP (r 这次))
+    (NP (n 会议)))
+  (wd ，)
+  (VP
+    (ADVP (d 将))
+    (PP-MNR
+      (p 根据)
+      (NP
+        (NP
+          (DNP (NP (n 党)) (ude 的))
+          (QP (m 十三) (CLP (q 届)))
+          (NP
+            (NP (nt 四中))
+            (wn 、)
+            (NP (nt 五中))
+            (wn 、)
+            (NP (QP (m 六)) (NP (f 中)))
+            (wn 、)
+            (NP (nt 七中)))
+          (NP (n 全会)))
+        (NP (n 精神))))
+    (wd ，)
+    (VP
+      (VP
+        (VCD (v 总结) (v 交流))
+        (NP-OBJ
+          (DNP (NP (n 乡镇企业) (n 思想) (n 政治) (n 工作)) (ude 的))
+          (NP (n 经验))))
+      (wd ，)
+      (VP
+        (VCD (v 研究) (v 部署))
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (NP-ADV (-NONE- *T*-2))
+                  (ADVP (d 进一步))
+                  (VP
+                    (v 加强)
+                    (NP-OBJ
+                      (NP (n 党))
+                      (PP (p 在) (NP (n 乡镇企业)))
+                      (NP (n 思想) (n 政治) (n 工作))))))
+              (ude 的)))
+          (NP (n 措施))))
+      (wd ，)
+      (VP
+        (DVP (VP (ADVP (d 更)) (VP (a 好))) (ude 地))
+        (VP
+          (v 保证)
+          (NP-OBJ
+            (DNP
+              (NP (DNP (NP (n 党)) (ude 的)) (ADJP (a 基本)) (NP (n 路线)))
+              (ude 的))
+            (NP (n 贯彻) (n 落实)))))
+      (wd ，)
+      (VP
+        (ADVP (d 进一步))
+        (VP
+          (v 促进)
+          (IP-OBJ
+            (NP-SBJ (n 乡镇企业))
+            (VP
+              (DVP
+                (VP
+                  (vd 持续)
+                  (wn 、)
+                  (a 稳定)
+                  (wn 、)
+                  (a 协调)
+                  (wn 、)
+                  (a 健康))
+                (ude 地))
+              (VP (v 发展))))))
+      (wd ，)
+      (VP
+        (v 培育)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 代)))
+          (NP (n 社会主义))
+          (ADJP (a 新))
+          (NP (n 农民))))
+      (wd ，)
+      (VP
+        (ADVP (d 不断))
+        (VP
+          (VP (v 影响) (NP-OBJ (-NONE- *RNR*-3)))
+          (wn 、)
+          (VP (v 辐射) (NP-OBJ (-NONE- *RNR*-3)))
+          (c 和)
+          (VP
+            (v 带动)
+            (NP-OBJ-3
+              (DNP
+                (NP
+                  (NP (n 农村))
+                  (NP
+                    (wyz “)
+                    (QP (m 两) (CLP (q 个)))
+                    (NP (n 文明))
+                    (wyy ”))
+                  (NP (n 建设)))
+                (ude 的))
+              (NP (n 发展))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 刘中一))
+  (VP
+    (ADVP (d 也))
+    (PP-LOC (p 在) (LCP (t 会上)))
+    (VP (v 讲) (y 了) (NP-OBJ (n 话))))
+  (wj 。)))
+</S>

@@ -1,0 +1,402 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 迎) (NP-OBJ (t 猪年)))
+  (w －－)
+  (PRN
+    (NP
+      (NP-PN (NP (ns 大华府)) (NP-PN (ns 北京) (n 同乡会)))
+      (QP (bl 一年一度))
+      (NP (t 新春) (NP (NP (v 涮)) (NP (n 羊肉))) (vi 聚会))))))
+</S>
+<S>
+( (FRAG (NP-PN (nx angstrom))))
+</S>
+<S>
+( (IP-HLN
+  (NP-APP (n 标题))
+  (wm ：)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 迎) (NP-OBJ (t 猪年)))
+    (w －－)
+    (PRN
+      (NP
+        (NP-PN (NP (ns 大华府)) (NP-PN (ns 北京) (n 同乡会)))
+        (QP (bl 一年一度))
+        (NP (t 新春) (NP (NP (v 涮)) (NP (n 羊肉))) (vi 聚会)))))))
+</S>
+<S>
+( (FRAG
+  (NP (NP-APP (n 发信站)) (NP-PN (wm BBS) (nx 未名) (nz 空间站)))
+  (n （)
+  (NP (wkz WedJan) (nx 17) (m 10：09：13) (t ：) (m 2007))
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP (NP-SBJ (t 新年)) (VP (ADVP (d 已)) (VP (v 过)))))
+    (wd ，)
+    (ADVP (v 可))
+    (PP-DIR (p 对) (LCP (NP (NP (ns 中国)) (NP (n 人))) (u 来讲)))
+    (VP
+      (VP (ADVP (d 没)) (VP (v 过) (NP (n 农历) (q 年))))
+      (VP
+        (ADVP (d 就))
+        (ADVP (v 好像))
+        (ADVP (d 还))
+        (VP
+          (v 少)
+          (y 了)
+          (NP-OBJ
+            (QP (m 点儿))
+            (CP-APP
+              (IP (NP-SBJ (-NONE- *pro*)) (VP (vl 除旧迎新)))
+              (ude 的))
+            (NP (n 感觉)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (NP (-NONE- *PRO*))
+          (VP
+            (LCP-TMP (NP (n 浮日)) (f 里))
+            (VP (v 想) (ude 得) (VP-EXT (ADVP (d 最)) (VP (a 多))))))
+        (ude 的))))
+  (VP
+    (ADVP (d 自然))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (ADVP (r 怎么)) (VP (v 过) (NP-OBJ (t 春节)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 今年))
+    (NP-SBJ (DNP (NP-PN (nx DC)) (ude 的)) (NP (t 冬天)))
+    (VP
+      (ADVP (c 或者))
+      (ADVP (v 无法))
+      (VP
+        (v 令)
+        (NP-OBJ (r 您))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VRD (v 领略) (v 到))
+            (NP-OBJ (DNP (NP (t 数九)) (ude 的)) (NP (n 寒意))))))))
+  (wd ，)
+  (IP
+    (ADVP (v 可))
+    (NP-SBJ
+      (DNP (NP-PN (NP (ns 大华府)) (NP-PN (ns 北京) (n 同乡会))) (ude 的))
+      (NP (NP (v 涮) (n 羊肉)) (vi 聚会)))
+    (VP
+      (ADVP (d 一定))
+      (VP
+        (v 能)
+        (VP
+          (vi 叫)
+          (NP-OBJ (r 您))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VRD (v 感受) (v 到))
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-CLR (p 在) (NP (n 家乡))) (VP (vi 过年))))
+                  (ude 的))
+                (NP (n 气氛)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (IP-APP
+        (NP-PN-SBJ (ns 北京) (n 同乡会))
+        (VP
+          (QP-ADV (bl 一年一度))
+          (VP (v 涮) (NP (n 羊肉)))
+          (VP (v 迎) (NP-OBJ (t 新春)))))
+      (NP (vi 聚会)))
+    (VP
+      (ADVP (d 已))
+      (VP (v 延续) (y 了) (QP-OBJ (QP (m 四) (wn 、) (m 五) (CLP (q 年)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (ADVP (d 凡是))
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 参加) (uguo 过)))
+            (ude 的)))
+        (NP (n 人))))
+    (wd ，)
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 会)
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (DNP (NP-PN (ns 北京) (n 同乡会)) (ude 的))
+              (ADJP (b 独门))
+              (NP (n 配料))))
+          (VP (VP (vl 记忆犹新)) (wd ，) (VP (vl 赞不绝口)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (VPT (v 听) (d 不) (vi 完))))
+          (ude 的)))
+      (NP (n 笑话)))
+    (wn 、)
+    (NP
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (VPT (v 逗) (d 不) (vi 完))))
+          (ude 的)))
+      (NP (an 乐))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (IP (VP (v 到) (NP (n 时候))))
+    (wd ，)
+    (ADVP (d 就))
+    (VP
+      (v 恨)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 只))
+          (VP
+            (v 生)
+            (y 了)
+            (NP-OBJ
+              (NP (QP (m 一) (CLP (q 双))) (NP (n 耳朵)))
+              (wn 、)
+              (NP (QP (m 一) (CLP (q 张))) (NP (n 嘴)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 北京) (n 同乡会))
+    (VP
+      (ADVP (ad 热烈))
+      (VP
+        (v 欢迎)
+        (NP-OBJ
+          (NP (DP (n 全体)) (NP (n 会员)))
+          (c 及)
+          (NP
+            (DP (b 所有))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (VP (v 热爱) (NP-PN-OBJ (ns 北京)) (wn 、))
+                    (VP (v 热爱) (NP-PN-OBJ (ns 北京) (n 同乡会)))))
+                (ude 的)))
+            (NP (n 朋友))))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VSB (vi 前来) (v 参加))
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP (ADJP (b 金)) (NP (n 猪)))
+                  (VP (v 送) (NP-OBJ (n 福))))
+                (ude 的))
+              (NP (t 新春) (vi 聚会))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 会)
+        (VP
+          (p 给)
+          (NP-IO (r 您))
+          (NP-OBJ (NP (a 快乐)) (c 与) (NP (ADJP (a 意外)) (NP (a 惊喜))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 时间))
+  (VP
+    (VCP (v 定) (v 为))
+    (NP-OBJ
+      (NP (QP (m 二零零七) (CLP (q 年))) (t 二月) (t 十一日))
+      (PRN (wkz （) (t 星期日) (wky ）))
+      (wd ，)
+      (NP (NP (t 晚) (t 五时)) (ADVP (m 整)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 地点))
+    (VP (p 在) (NP-PN-OBJ (NP (ADJP (a 大)) (NP (a 富贵))) (n 餐馆))))
+  (wj 。)
+  (IP (NP-SBJ (n 地址)) (VP (vi 如下)))
+  (wm ：)))
+</S>
+<S>
+( (FRAG (QP (m 19204)) (NP-PN (nx MontgomeryVillageAve)) (wd ，)))
+</S>
+<S>
+( (FRAG (NP-PN (nx MontgomeryVillage)) (wd ，) (nx MD20886)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 电话))
+  (wm ：)
+  (QP (m 301) (wp －) (m 963) (wp －) (m 8088))))
+</S>
+<S>
+( (IP
+  (IP-IMP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-PRP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 介于) (IP-OBJ (NP-SBJ (n 座位)) (VP (a 有限)))))
+      (wd ，)
+      (CP-CND
+        (ADVP (v 如))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 已))
+            (VP
+              (v 决定)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 参加) (NP-OBJ (DP (r 此次)) (NP (n 盛会)))))))))
+      (wd ，)
+      (VP (v 请) (VP (ADVP (d 及早)) (VP (vi 报名))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (IP-ADV (NP-SBJ (n 额)) (VP (a 满))) (c 及) (VP (v 止))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 费用))
+    (wm ：)
+    (VP (NP-ADV (r 每人)) (QP-PRD (m 十五) (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (LCP (QP (m 八) (CLP (q 岁))) (f 以下)) (NP (n 儿童)))
+    (VP (vi 免费)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-IMP
+    (NP-SBJ (n 报名者))
+    (VP
+      (v 请)
+      (VP
+        (PP (p 与) (NP (NP-PN (ns 北京) (n 同乡会)) (NP (n 理事))))
+        (VP (v 联系)))))
+  (wd ，)
+  (IP (NP-SBJ (n 联络) (n 电话)) (VP (vi 如下)))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (n 会长)) (wm ：) (NP-PN (nr 王捷)))
+  (QP (m 301) (wp －) (m 661) (wp －) (m 8927))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-APP (n 理事)) (wm ：) (NP-PN (nr 师云志)))
+    (QP (m 240) (wp －) (m 463) (wp －) (m 1868)))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 李蔚华))
+    (QP (m 301) (wp －) (m 869) (wp －) (m 4918)))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 李凯伦))
+    (QP (m 571) (wp －) (m 276) (wp －) (m 0212)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 赵京华))
+    (QP (QP (m 204)) (wp －) (QP (QP (m 246)) (wp －) (QP (m 5703)))))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 马心怡))
+    (QP (m 240) (wp －) (m 246) (wp －) (m 4853)))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 王燕平))
+    (QP (m 301) (wp －) (m 540) (wp －) (m 8085)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 杨克冰))
+    (QP (QP (m 301)) (wp －) (QP (QP (m 424)) (wp －) (QP (m 0566)))))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 刘玲))
+    (QP (m 301) (wp －) (m 395) (wp －) (m 4344)))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 龚锦))
+    (QP (m 240) (wp －) (m 631) (wp －) (m 0390)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 周键))
+    (QP (QP (m 301)) (wp －) (QP (QP (m 984)) (wp －) (QP (m 8888)))))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 李江))
+    (QP (m 703) (wp －) (m 948) (wp －) (m 6889)))
+  (wj ．)
+  (IP
+    (NP-PN-SBJ (nr 黄雷))
+    (QP (m 703) (wp －) (m 626) (wp －) (m 9423)))))
+</S>
+<S>
+( (FRAG (wp －－)))
+</S>

@@ -1,0 +1,212 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nr 刘华清))
+  (VP (v 会见) (NP-OBJ (NP-PN (ns 泰国)) (ADJP (b 副)) (NP (n 总理))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 九月)
+  (t 一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 杨国钧)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (nt 中央军委) (ADJP (b 副)) (NP (n 主席)))
+    (NP-PN (nr 刘华清)))
+  (VP
+    (NP-TMP (t 今天))
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 钓鱼台) (n 国宾馆)))
+          (VP
+            (v 会见)
+            (NP-OBJ
+              (NP-APP
+                (NP (NP-PN (ns 泰国)) (NP (ADJP (b 副)) (NP (n 总理))))
+                (v 兼)
+                (NP (n 内政部长)))
+              (NP-PN
+                (IP (VP (a 差) (NP (NP (n 瓦)) (NP (nrf 立·永猜裕)))))
+                (n 上将))))))
+      (n 时))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 中国))
+        (VP
+          (ADVP (m 十分))
+          (VP
+            (v 重视)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 发展)
+                (NP
+                  (NP-OBJ
+                    (DNP
+                      (PP
+                        (p 同)
+                        (LCP
+                          (NP
+                            (NP-PN (ns 泰国))
+                            (NP (n 政府) (wn 、) (n 人民) (c 和) (n 军队)))
+                          (f 之间)))
+                      (ude 的))
+                    (NP (n 友谊)))
+                  (wd ，)
+                  (NP
+                    (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+                    (DNP
+                      (LCP
+                        (NP (NP (QP (m 两)) (NP (n 国))) (NP (n 经贸)))
+                        (f 之间))
+                      (ude 的))
+                    (NP (n 合作)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 刘华清))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (NP (NP-PN (ns 中) (ns 泰)) (QP (m 两)) (NP (n 国)))
+          (NP (n 人民)))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 传统))) (ude 的)))
+            (NP (n 友谊)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (DNP (NP (QP (m 两)) (NP (n 国))) (ude 的)) (NP (n 关系)))
+        (VP (ADVP (d 也)) (ADVP (m 十分)) (VP (a 友好))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (NP
+          (DNP (NP-PN (nr 差瓦立) (ADJP (b 副)) (NP (n 总理))) (ude 的))
+          (DP (r 这) (CLP (q 次)))
+          (NP (n 来访)))
+        (c 以及)
+        (NP
+          (DNP
+            (NP
+              (NP (NP-PN (ns 中) (ns 泰)) (QP (m 两)) (NP (n 国)))
+              (DP (r 其他))
+              (NP (n 高层) (n 领导人)))
+            (ude 的))
+          (NP (n 互访))))
+      (wd ，)
+      (VP
+        (vl 有利于)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (vi 推进)
+            (NP-OBJ
+              (NP
+                (DNP
+                  (NP (NP (QP (m 两)) (NP (n 国))) (NP (n 关系)))
+                  (ude 的))
+                (ADJP (b 进一步))
+                (NP (n 发展)))
+              (c 以及)
+              (NP
+                (DNP (PP (p 在) (NP (DP (r 各)) (NP (n 领域)))) (ude 的))
+                (ADJP (a 有效))
+                (NP (n 合作)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 差瓦立))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (ADVP (m 十分))
+        (VP
+          (a 高兴)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 会见) (NP-PN-OBJ (nr1 刘) (ADJP (b 副)) (NP (n 主席)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (LCP-TMP (dl 近年来))
+        (wd ，)
+        (NP-TPC (NP-PN (ns 中国)) (NP (n 经济)))
+        (NP-SBJ (v 发展))
+        (VP (a 迅速)))
+      (wd ，)
+      (IP
+        (NP-SBJ (NP-PN (ns 泰国)) (NP (n 政府) (c 和) (n 人民)))
+        (VP
+          (v 感到)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (ADVP (m 十分)) (VP (a 高兴))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (VP
+      (v 表示)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 赞同)
+          (NP-OBJ (DNP (NP-PN (nr 刘华清)) (ude 的)) (NP (n 看法))))))
+    (wd ，)
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ (NP-PN-APP (ns 泰) (ns 中)) (QP (m 两)) (NP (n 国)))
+        (VP
+          (v 应)
+          (VP
+            (ADVP (d 进一步))
+            (VP
+              (v 发展)
+              (NP-OBJ
+                (DNP (NP (DP (r 各种)) (NP (n 形式))) (ude 的))
+                (NP (n 经贸) (n 合作)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

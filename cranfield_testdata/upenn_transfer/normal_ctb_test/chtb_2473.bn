@@ -1,0 +1,66 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (VP
+        (ADVP (d 一度))
+        (VP
+          (VCD (v 研) (v 判))
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (vshi 是)
+              (NP-PRD (DNP (NP (n 军方)) (ude 的)) (NP (t 八一) (n 迫击炮)))))))
+      (wd ，)
+      (VP
+        (ADVP (c 不过))
+        (ADVP (t 后来))
+        (VP
+          (n 调查)
+          (IP-OBJ
+            (NP-SBJ (n 体积))
+            (VP (ADVP (ad 显然)) (ADVP (d 比较)) (VP (a 大))))))
+      (wd ，)
+      (VP
+        (NP-TMP (t 目前))
+        (ADVP (d 已经))
+        (VP
+          (v 通知)
+          (NP-OBJ
+            (n 军方)
+            (IP (VP (ADVP (d 未)) (VP (v 爆) (NP (n 弹)))))
+            (n 处理)
+            (n 小组))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (VSB (vi 前来) (v 处理))))))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 没有)
+          (NP
+            (CP-APP
+              (IP (NP-SBJ (-NONE- *pro*)) (VP (vl 一触即发)))
+              (ude 的))
+            (NP (an 危险))))))
+    (wd ，)
+    (ADVP (c 但是))
+    (NP-SBJ (n 危机))
+    (VP (ADVP (d 并)) (ADVP (d 没有)) (VP (v 解除))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 民众)) (VP (VP (a 好奇)) (VP (vi 围观))))
+    (VP
+      (v 让)
+      (NP-OBJ (n 警方))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (vshi 是) (VP (ADVP (d 大为)) (VP (a 紧张)))))))
+  (wj 。)))
+</S>
+<S>
+( (wd ，))
+</S>

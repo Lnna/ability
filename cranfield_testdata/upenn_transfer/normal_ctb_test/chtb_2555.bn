@@ -1,0 +1,244 @@
+<S>
+( (IP
+  (CP
+    (IP
+      (IP-TMP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 再)) (VP (v 过) (QP-EXT (m 几) (CLP (q 天))))))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 就))
+        (VP (vshi 是) (NP-PRD (ADJP (a 连续)) (NP (t 假期))))))
+    (y 了))
+  (wd ，)
+  (IP
+    (CP-CND
+      (ADVP (c 如果))
+      (CP
+        (IP
+          (NP-SBJ (r 您))
+          (VP (v 安排) (y 了) (NP-OBJ (vi 出国) (vi 旅游))))
+        (y 呢)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 要)
+      (VP (DVP (ADVP (a 特别)) (ude 地)) (VP (v 注意) (NP-OBJ (an 安全))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 因为)
+    (IP
+      (NP-SBJ
+        (DNP (NP-PN (nz 逢甲) (n 大学)) (ude 的))
+        (NP-PN (nr1 梁) (n 教授)))
+      (VP
+        (VP
+          (QP (m 十))
+          (NP (n 月份))
+          (PP (p 随) (NP (n 团)))
+          (VP
+            (VP
+              (v 到)
+              (NP-OBJ (DNP (NP-PN (ns 印尼)) (ude 的)) (NP-PN (ns 巴厘岛))))
+            (VP (v 去) (VP (vi 旅游)))))
+        (wd ，)
+        (VP
+          (PP-TMP
+            (p 在)
+            (NP
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-TMP (-NONE- *T*-1))
+                      (VP (v 参加) (NP-OBJ (n 拖弋伞) (n 活动)))))
+                  (ude 的)))
+              (NP (n 时候))))
+          (wd ，)
+          (ADVP (d 不慎))
+          (VP (VSB (v 坠落) (vi 死亡)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 没有))
+    (VP
+      (v 想到)
+      (IP-OBJ
+        (NP-SBJ (NP (NP (s 当地)) (p 跟) (NP (n 我国))) (NP (n 旅行社)))
+        (VP (ADVP (d 都)) (VP (v 推卸) (NP-OBJ (n 责任)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 家属))
+  (VP
+    (VP (v 气不过))
+    (wd ，)
+    (VP (PP-DIR (p 向) (NP (nt 消基会))) (VP (v 去) (VP (v 申诉)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (nr1 梁) (n 教授))
+          (VP (v 参加) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的))))
+  (VP
+    (ADVP (d 就))
+    (VP (vshi 是) (NP-PRD (DP (r 这种)) (NP (n 拖弋伞) (n 活动)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 十月))
+    (PP-LOC (p 在) (NP (NP-PN (ns 印尼) (ns 巴厘岛) (ns 南湾)) (NP (n 海岸))))
+    (wd ，)
+    (NP-PN-SBJ (nr1 梁) (n 教授))
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 降落))) (n 时)))
+      (VP (v 偏离) (y 了) (NP-OBJ (ADJP (n 预定)) (NP (n 地点))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 头部))
+    (VP
+      (VRD (v 撞击) (v 到))
+      (NP-OBJ (QP (m 一) (CLP (q 辆))) (VP (v 拖) (NP (n 板车))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP
+        (IP-APP (NP-SBJ (-NONE- *pro*)) (VP (v 送) (NP (n 医))))
+        (NP (s 途中)))
+      (VP (ADVP (d 不)) (VP (v 治) (vi 死亡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (NP-SBJ (NP (s 当地)) (NP (n 急救) (n 应变) (n 措施)))
+      (VP (a 不足)))
+    (VP (ADVP (d 也)) (ADVP (d 就)) (VP (y 罢了))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (v 让)
+              (NP-PN-OBJ (nr1 梁) (n 太太))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP (ADVP (c 既)) (VP (a 难过)))
+                  (VP (ADVP (d 亦)) (VP (a 伤心)))))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (LCP-TMP
+          (IP (NP-SBJ (DP (b 整个)) (NP (ad 意外))) (VP (v 发生)))
+          (f 后))
+        (wd ，)
+        (NP-TPC (NP (n 法律) (n 责任) (n 归属)) (c 和) (NP (n 赔偿) (n 问题)))
+        (wd ，)
+        (NP-SBJ (DNP (NP (f 两边)) (ude 的)) (NP (n 旅行社)))
+        (VP (ADVP (d 都)) (VP (v 没有) (NP-OBJ (n 诚意)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-ADV
+      (CP-APP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 谈))) (ude 的))
+      (NP (n 结果)))
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 只))
+      (VP (v 愿) (VP (v 赔) (QP-OBJ (m 十万) (CLP (q 块)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 知道)
+        (CP-OBJ
+          (IP
+            (NP-SBJ (DNP (NP (r 我) (n 先生)) (ude 的)) (NP (n 生命)))
+            (VP
+              (VP (ADVP (r 那么)) (ADVP (d 不)) (VP (a 值钱)))
+              (wd ，)
+              (VP
+                (ADVP (d 只))
+                (VP (vyou 有) (QP-OBJ (m 十万) (CLP (q 块)))))))
+          (y 吗)))))
+  (ww ？)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-TPC
+    (NP-PN (ns 东南亚))
+    (CP-APP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 赶) (NP (n 杏))))
+      (ude 的))
+    (NP (n 部分)))
+  (wd ，)
+  (FLR (c 因为))
+  (NP-TMP (t 现在))
+  (NP-SBJ (QP (m 好多)) (DNP (ADJP (b 资深)) (ude 的)) (NP (n 领队)))
+  (VP
+    (ADVP (d 都))
+    (ADVP (d 不))
+    (VP (v 愿意) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 带)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (v 造成)
+    (IP-OBJ
+      (PP-LOC
+        (p 在)
+        (NP
+          (DNP (NP (QP (m 很多)) (NP (a 意外) (n 事件))) (ude 的))
+          (NP (n 应变) (n 处理))))
+      (FLR (y 呢))
+      (wd ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 就))
+        (VP
+          (v 可能)
+          (VP
+            (ADVP (d 就))
+            (VP
+              (v 造成)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *pro*))
+                (VP (vyou 有) (NP-OBJ (QP (m 一些)) (NP (n 误差)))))))))))
+  (wyy ”)
+  (wj 。)))
+</S>

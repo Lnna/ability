@@ -1,0 +1,312 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 巴拿马)) (NP (n 警方)))
+    (VP
+      (v 拘留)
+      (y 了)
+      (NP-OBJ
+        (QP (m ４) (CLP (q 名)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (v 涉嫌)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (v 策划)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (v 暗杀)
+                        (NP-OBJ
+                          (NP-APP (NP-PN (ns 古巴)) (NP (n 总统)))
+                          (NP-PN (nrf 卡斯特罗)))))))))
+            (ude 的)))
+        (NP (NP (NP (ns 古巴)) (NP (n 裔))) (NP (ns 美国)) (NP (n 人))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 卡斯特罗))
+    (VP
+      (NP-TMP (t 星期五))
+      (VP
+        (VP (v 抵达) (NP-PN-OBJ (ns 巴拿马城)))
+        (VP
+          (v 参加)
+          (NP-OBJ
+            (NP-PN (ns 伊比利亚))
+            (NP-PN (ns 美洲))
+            (NP (n 国家) (n 首脑) (n 会议)))))))
+  (wd ，)
+  (IP-IMP
+    (NP-TMP (f 下面))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 请)
+      (VP
+        (v 听)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-APP (NP-PN (n 美国之音)) (NP (n 记者)))
+                  (NP-PN (nrf 伯莱库斯)))
+                (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-2))))
+              (ude 的)))
+          (ADJP (n 有关))
+          (NP (n 报道))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 巴拿马)) (NP (n 当局)))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (r 他们))
+        (VP
+          (LCP-TMP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (NP-TMP (t 星期五))
+                (PP-LOC
+                  (p 在)
+                  (NP
+                    (DNP (NP-PN (ns 巴拿马城)) (ude 的))
+                    (QP (m 一) (CLP (q 家)))
+                    (NP (n 旅馆))))
+                (VP
+                  (v 发现)
+                  (y 了)
+                  (NP-OBJ
+                    (DP (r 这) (QP (m ４) (CLP (q 名))))
+                    (NP (n 男子))))))
+            (f 之后))
+          (wd ，)
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ-1 (r 他们))
+              (VP (VP (v 拘留) (NP-OBJ (-NONE- *-1))) (VP (n 问话)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 警方))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 行动)))
+            (VP (VCP (v 描述) (v 为)) (NP-OBJ (n 预防) (n 措施))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC (p 在) (LCP (NP (DP (r 这些)) (NP (n 人))) (f 中)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (QP (m 一个))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 名叫) (NP-PN-OBJ (nrf 卡里诺斯))))
+            (ude 的)))
+        (NP (n 人)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 卡斯特罗))
+    (VP
+      (VSB (QP (v 点) (CLP (n 名))) (v 指出))
+      (IP-OBJ (NP-SBJ (r 他)) (VP (vshi 是) (NP-PRD (n 主谋))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-PN-SBJ (nrf 卡斯特罗))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-TMP (p 在) (NP (t 星期五)))
+          (VP (v 提出) (NP-OBJ (v 上诉) (v 指控))))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (n 政府)))
+        (VP
+          (PP-TMP
+            (p 在)
+            (LCP
+              (IP (NP-SBJ (r 他)) (VP (v 离开) (NP-PN-OBJ (ns 古巴))))
+              (f 之前)))
+          (ADVP (d 就))
+          (VP
+            (v 获悉)
+            (y 了)
+            (NP-OBJ
+              (DNP
+                (PP (p 有关) (NP (DP (r 这) (QP (m 一))) (NP (n 阴谋))))
+                (ude 的))
+              (NP (n 情况))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (r 他))
+    (VP (ADVP (d 照旧)) (VP (v 前往) (NP-PN-OBJ (ns 巴拿马)))))
+  (wd ，)
+  (IP
+    (IP-MNR
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-MNR (p 按) (NP (DNP (NP (r 他)) (ude 的)) (NP (n 话))))
+        (VP (u 来说))))
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (PP
+        (p 为了)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 表明)
+            (IP-OBJ
+              (NP-SBJ (r 他们))
+              (VP (ADVP (d 并)) (ADVP (d 不)) (VP (v 害怕)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DP (r 这) (CLP (q 位)))
+      (NP-PN (ns 古巴) (n 共产党))
+      (NP (n 领袖)))
+    (VP
+      (v 说)
+      (wm ：)
+      (CP-OBJ
+        (wyz “)
+        (IP
+          (NP-SBJ
+            (CP-APP
+              (IP (NP-SBJ (-NONE- *pro*)) (VP (v 刺杀) (NP-OBJ (r 他))))
+              (ude 的))
+            (NP (n 阴谋)))
+          (VP
+            (vshi 是)
+            (IP-PRD
+              (NP-PN
+                (NP-PN (ns 古巴))
+                (NP (ns 美国))
+                (NP (n 人))
+                (ADJP (n 全国))
+                (NP (n 基金)))
+              (VP (ADVP (d 一手)) (VP (v 策划))))))
+        (ude 的))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (QP (m 一个))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 设) (PP (p 在) (NP-PN (ns 美国)))))
+            (ude 的)))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (vi 反) (NP-PN-OBJ (nrf 卡斯特罗)))))
+        (ADJP (n 流亡))
+        (NP (n 组织)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (n 警方))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 并))
+          (ADVP (d 没有))
+          (VP
+            (VP (v 发现) (NP-OBJ (DP (r 任何)) (NP (n 证据))))
+            (VP (v 来) (VP (v 支持) (NP-OBJ (DP (r 这项)) (NP (v 指控))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (LCP-TMP
+          (IP
+            (NP-TMP (t １９５９年))
+            (NP-PN-SBJ (nrf 卡斯特罗))
+            (VP (v 夺取) (NP-OBJ (NP-PN (ns 古巴)) (NP (n 政权)))))
+          (f 之后))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (QP (m 首) (CLP (q 次))) (VP (v 访问) (NP-PN-OBJ (ns 巴拿马)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 巴拿马))
+    (VP
+      (ADVP (d 曾经))
+      (VP
+        (vyou 有)
+        (NP-OBJ (QP (a 多) (CLP (q 个))) (NP (n 美军) (n 基地))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-TMP (t 去年))
+    (PP-MNR
+      (p 根据)
+      (NP
+        (DNP
+          (NP
+            (NP (t １９７７年))
+            (NP (wkz 《) (NP-PN (ns 巴拿马) (n 运河)) (NP (n 条约)) (wky 》)))
+          (ude 的))
+        (NP (n 规定))))
+    (NP-SBJ
+      (NP (DP (r 这些)) (NP (n 基地)))
+      (c 和)
+      (NP (DNP (DP (r 其它)) (ude 的)) (NP (n 财产))))
+    (VP
+      (PP-ADV (p 与) (NP-PN (ns 巴拿马) (n 运河)))
+      (ADVP (d 一道))
+      (ADVP (d 都))
+      (ADVP (d 已经))
+      (VP
+        (VRD (v 交还) (v 给))
+        (y 了)
+        (NP-OBJ (NP-PN (ns 巴拿马)) (NP (n 当局))))))
+  (wj 。)))
+</S>

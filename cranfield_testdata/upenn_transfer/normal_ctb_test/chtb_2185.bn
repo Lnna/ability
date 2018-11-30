@@ -1,0 +1,324 @@
+<S>
+( (IP-HLN
+  (NP (NP-PN (nt 新华社)) (NP (n 消息)))
+  (wm ：)
+  (NP-PN (ns 中国) (nz 天主教) (n 爱国会))
+  (wn 、)
+  (NP-PN (ns 中国) (nz 天主教) (n 主教团))
+  (c 和)
+  (NP-PN
+    (NP (ns 中国))
+    (NP (nz 基督教))
+    (NP (n 三自))
+    (ADJP (a 爱国))
+    (NP (n 运动))
+    (NP (n 委员会)))
+  (wn 、)
+  (NP-PN (ns 中国) (nz 基督教) (n 协会))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (NP-TMP (t 昨天)) (ADVP (d 分别)) (VP (v 举行) (NP-OBJ (n 座谈会))))
+    (wd ，)
+    (VP
+      (ADVP (ad 一致))
+      (VP
+        (v 表示)
+        (wm ：)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (ad 坚决))
+            (VP
+              (v 拥护)
+              (NP-OBJ
+                (NP (NP (NP (r 我)) (NP (nt 外交部))) (NP (n 声明)))
+                (c 和)
+                (NP
+                  (DNP (NP (n 国家) (n 宗教局) (n 发言人)) (ude 的))
+                  (NP (n 谈话)))))))))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP
+          (CP-APP
+            (IP
+              (NP-PN-SBJ (ns 梵蒂冈))
+              (VP
+                (VP (v 借助) (NP-OBJ (n 封圣)))
+                (VP (v 进行) (NP-OBJ (n 反华)))))
+            (ude 的))
+          (NP (n 行径))))
+      (VP (v 表示) (NP-OBJ (a 愤慨)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 要)
+    (VP
+      (VP
+        (PP-ADV (p 同) (NP (NP (n 全国)) (NP (n 人民))))
+        (VP (vi 站) (IP (VP (p 在) (ADVP (s 一起))))))
+      (wd ，)
+      (VP
+        (ADVP (ad 坚决))
+        (VP (v 维护) (NP-OBJ (n 国家) (n 主权) (c 和) (n 民族) (n 尊严))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 出席) (NP-PN-OBJ (ns 中国) (nz 天主教) (n 议会) (n 议团))))
+        (ude 的)))
+    (NP (NP-PN (ns 北京)) (NP (n 座谈会)))
+    (NP (n 与会者)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (IP-SBJ
+          (NP-PN-SBJ (ns 梵蒂冈))
+          (VP
+            (DP-ADV (r 此次))
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-SBJ
+                  (QP (m 一些))
+                  (CP
+                    (CP
+                      (NP-2 (-NONE- *PRO*))
+                      (IP
+                        (NP-SBJ (-NONE- *T*-2))
+                        (VP
+                          (PP-DIR
+                            (p 对)
+                            (NP (NP-PN (ns 中国)) (NP (n 人民))))
+                          (VP
+                            (VRD (v 犯) (v 下))
+                            (NP-OBJ (ADJP (a 严重)) (NP (n 罪行)))))))
+                    (c 或)
+                    (CP
+                      (WHNP-3 (-NONE- *OP*))
+                      (IP
+                        (NP-TPC (-NONE- *T*-3))
+                        (NP-SBJ (n 劣迹))
+                        (VP (z 斑斑)))))
+                  (NP (n 外国) (n 传教士)))
+                (VP (IP (NP (v 封)) (VP (v 为))) (NP-OBJ (n 圣人)))))))
+        (wd ，)
+        (VP
+          (VP
+            (ADVP (ad 充分))
+            (VP
+              (v 暴露)
+              (NP-OBJ
+                (NP
+                  (LCP (NP-PN (ns 罗马) (n 教廷)) (f 中))
+                  (QP (m 一些))
+                  (NP (n 人)))
+                (CP
+                  (WHNP-4 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-4))
+                      (VP
+                        (VP
+                          (PP-MNR
+                            (v 借)
+                            (NP
+                              (DNP (NP (n 封圣)) (uzhi 之))
+                              (NP (n 名))))
+                          (VP (v 歪曲) (NP-OBJ (n 历史))))
+                        (wd ，)
+                        (VP
+                          (VP (v 利用) (NP-OBJ (n 宗教) (n 问题)))
+                          (VP
+                            (v 干涉)
+                            (NP-OBJ (NP-PN (ns 中国)) (NP (n 内政)))))))
+                    (ude 的)))
+                (NP (n 图谋)))))
+          (wd ，)
+          (VP
+            (ADVP (d 也))
+            (VP
+              (vshi 是)
+              (VP
+                (PP-DIR (p 对) (NP-PN (ns 中国) (n 天主教会)))
+                (ADVP (ad 公开))
+                (VP (v 羞辱) (c 和) (v 蔑视)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 我们))
+        (VP
+          (DVP (al 理所当然) (ude 地))
+          (VP
+            (v 要)
+            (VP
+              (PP-DIR
+                (p 对)
+                (uzhe 着)
+                (NP (VP (vi 反) (NP (n 华))) (NP (n 行径))))
+              (VP (v 进行) (NP-OBJ (n 抵制) (c 和) (n 反对)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 梵蒂冈))
+    (VP
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-4
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (n 传教士))
+                  (VP (v 干) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (QP (m 许多))
+            (n 坏事))
+          (VP (VRD (v 掩盖) (v 起来)) (NP-OBJ (-NONE- *-4)))))
+      (wd ，)
+      (VP (v 进行) (NP-OBJ (DNP (ADJP (v 所谓)) (ude 的)) (NP (n 封圣))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-PN (ns 中国))
+                  (NP (n 天主教徒) (wn 、) (n 基督) (n 教徒)))
+                (VP
+                  (ADVP (ad 坚决))
+                  (VP (v 反对) (NP-OBJ (-NONE- *T*-2)))))
+              (ude 的)))))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (NP-PN (ns 中国)) (NP (n 人民)))
+                  (VP
+                    (ADVP (ad 坚决))
+                    (VP (v 反对) (NP-OBJ (-NONE- *T*-3)))))
+                (ude 的))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP
+        (NP-PN
+          (NP-PN (ns 中国))
+          (NP (nz 基督教))
+          (NP (n 三自))
+          (ADJP (a 爱国))
+          (NP (n 运动))
+          (NP (n 委员会)))
+        (NP (n 主席)))
+      (NP-PN (nr 罗贯中)))
+    (wn 、)
+    (NP
+      (NP-APP (NP-PN (ns 中国)) (NP (nz 基督教) (n 协会)) (NP (n 会长)))
+      (NP-PN (nr 韩文藻)))
+    (udeng 等))
+  (VP
+    (ADVP (ad 一致))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (IP-SBJ (NP-PN-SBJ (ns 梵蒂冈)) (VP (ADVP (r 这样)) (VP (v 做))))
+        (VP
+          (VP
+            (d 必将)
+            (VP (v 激怒) (NP-OBJ (NP-PN (ns 中国)) (NP (n 人民)))))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (ADVP (d 将))
+            (ADVP (ad 严重))
+            (VP
+              (v 阻碍)
+              (NP-OBJ
+                (DNP (NP (NP-PN (ns 中国)) (NP (n 教会))) (ude 的))
+                (NP (n 复传) (n 事业)))))
+          (wd ，)
+          (VP
+            (ADVP (ad 严重))
+            (VP
+              (v 危害)
+              (NP-OBJ
+                (DNP (NP (NP-PN (ns 中国)) (NP (n 教会))) (ude 的))
+                (NP (n 前途)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (v 了解)))
+    (wd ，)
+    (LCP-TMP
+      (IP
+        (NP-TMP (t ９月) (QP (m ２６) (CLP (q 号))))
+        (NP-PN-SBJ
+          (ns 中国)
+          (nz 天主教)
+          (n 爱国会)
+          (c 和)
+          (ns 中国)
+          (nz 天主教)
+          (n 主教团))
+        (VP
+          (PP-DIR
+            (p 就)
+            (IP
+              (NP-PN-SBJ (ns 梵蒂冈))
+              (VP (v 册封) (NP-OBJ (ADJP (v 所谓)) (NP (n 圣人))))))
+          (VP (v 发表) (NP-OBJ (ADJP (a 严正)) (NP (n 声明))))))
+      (f 后))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (dl 连日来))
+      (VP
+        (v 收到)
+        (NP-OBJ
+          (NP
+            (NP (NP (r 各地)) (NP (n 天主教会) (wn 、) (n 神掌教友)))
+            (c 和)
+            (NP (DP (r 其他)) (ADJP (r 各)) (NP (n 宗教) (n 团体))))
+          (QP (m 大批))
+          (NP (vi 来电) (vi 来函))))))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (ad 一致)) (VP (v 表示) (NP-OBJ (v 支持)))))
+  (wj 。)))
+</S>

@@ -1,0 +1,247 @@
+<S>
+( (IP
+  (NP-TPC
+    (NP
+      (NP-PN (nt 新华社))
+      (NP-PN (ns 巴黎))
+      (NP (t １２月) (t １５日))
+      (NP (n 电)))
+    (PRN (wkz （) (NP (NP-APP (n 记者)) (NP-PN (nr 卢苏燕))) (wky ）)))
+  (NP-TMP (t ２００６年))
+  (wd ，)
+  (IP-SBJ
+    (NP-SBJ (-NONE- *pro*))
+    (VP (VP (v 利用) (NP-OBJ (n 卫星))) (VP (n 管理) (NP-OBJ (n 农业)))))
+  (VP
+    (PP-LOC (p 在) (NP-PN (ns 法国)))
+    (VP (v 得到) (NP-OBJ (ADJP (a 迅速)) (NP (n 普及)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (NP-PN (ns 法国)) (NP (n 土地) (n 信息) (n 公司)))
+  (VP
+    (NP-TMP (t 日前))
+    (VP
+      (v 宣布)
+      (wd ，)
+      (IP-OBJ
+        (NP-TPC
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (DP (r 该)) (NP (n 公司)))
+                (VP (v 经营) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (wyz “)
+          (NP-PN (DNP (NP (n 土地)) (uzhi 之)) (NP (n 星)))
+          (wyy ”)
+          (NP (n 卫星) (n 管理) (n 系统)))
+        (NP-TMP (t 目前))
+        (NP-SBJ (DNP (PP (p 在) (NP (n 全国))) (ude 的)) (NP (n 用户)))
+        (VP
+          (ADVP (d 已经))
+          (VP
+            (v 达到)
+            (QP-OBJ (QP (QP (m １万)) (ADVP (m 多))) (CLP (q 家)))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 涉及) (NP-OBJ (-NONE- *T*-2)))))
+            (NP (n 种植) (n 面积)))
+          (VP (QP-PRD (m ２６万) (CLP (q 公顷))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (wyz “)
+    (NP-PN (DNP (NP (n 土地)) (uzhi 之)) (NP (n 星)))
+    (wyy ”)
+    (NP (n 卫星) (n 管理) (n 系统)))
+  (VP
+    (vshi 是)
+    (CP-PRD
+      (IP
+        (NP-SBJ (NP-PN (ns 法国)) (ADJP (n 有关)) (NP (n 部门)))
+        (VP
+          (PP-PRP
+            (p 为了)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP (v 利用) (NP-OBJ (n 卫星)))
+                (VP (v 进行) (NP-OBJ (n 农业) (n 管理))))))
+          (VP (c 而) (VP (ADVP (d 专门)) (VP (v 设计))))))
+      (ude 的)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (v 可以)
+      (VP
+        (VP
+          (PP-MNR
+            (p 通过)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ
+                      (NP-PN (nx ＳＰＯＴ))
+                      (NP (n 地球) (n 观测) (n 卫星)))
+                    (VP
+                      (PP-LOC
+                        (p 自)
+                        (NP (QP (m ８７０) (CLP (q 公里))) (NP (s 高空))))
+                      (VP (v 拍摄) (NP-OBJ (-NONE- *T*-1)))))
+                  (ude 的)))
+              (NP (n 图像))))
+          (wd ，)
+          (VP
+            (v 分析)
+            (NP-OBJ
+              (DNP (NP (n 农作物)) (ude 的))
+              (NP (n 叶绿素) (n 含量) (c 和) (n 枝叶) (n 状态)))))
+        (wd ，)
+        (VP
+          (ADVP (c 从而))
+          (VP
+            (v 掌握)
+            (NP-OBJ (DNP (NP (n 农作物)) (ude 的)) (NP (n 生长) (n 情况)))))
+        (wd ，)
+        (VP
+          (ADVP (c 并))
+          (PP-LGS
+            (p 由)
+            (NP (DNP (NP (n 农业) (n 研究所)) (ude 的)) (NP (n 专家))))
+          (VP
+            (VP
+              (n 综合)
+              (NP-OBJ
+                (NP-APP
+                  (NP (n 气象) (n 数据))
+                  (c 和)
+                  (NP (n 土地) (n 情况))
+                  (udeng 等))
+                (NP (n 因素))))
+            (wd ，)
+            (VP
+              (PP-BNF (p 向) (NP (n 农业生产者)))
+              (VP
+                (v 提供)
+                (NP-OBJ (DNP (NP (nl 田间管理)) (ude 的)) (NP (n 建议))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (n 施肥)
+        (n 量)
+        (wn 、)
+        (NP (n 施肥) (n 时间))
+        (wn 、)
+        (NP (n 灌溉) (n 时间))
+        (c 和)
+        (NP (NP (n 收获)) (ADJP (z 最佳)) (NP (n 季节)))
+        (udeng 等))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (v 介绍)))
+    (wd ，)
+    (NP-SBJ
+      (wyz “)
+      (NP-PN (DNP (NP (n 土地)) (uzhi 之)) (NP (n 星)))
+      (wyy ”)
+      (NP (n 系统)))
+    (VP
+      (PP-TMP (ADVP (a 早)) (PP (p 在) (NP (t ２００２年))))
+      (ADVP (d 即))
+      (ADVP (d 已))
+      (VP (v 投入) (NP-OBJ (v 使用)))))
+  (wd ，)
+  (IP (ADVP (c 但)) (NP-SBJ (n 客户)) (VP (ADVP (d 很)) (VP (a 少))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP
+      (IP
+        (NP-PN (NP-PN (ns 法国)) (NP (n 土地) (n 信息) (n 公司)))
+        (VP (NP-TMP (t 今年) (t １月)) (VP (vi 成立))))
+      (f 后))
+    (wd ，)
+    (NP-SBJ (n 用户))
+    (VP
+      (ADVP (r 每年))
+      (ADVP (d 只))
+      (VP
+        (v 需)
+        (VP
+          (v 支付)
+          (NP-OBJ
+            (DNP
+              (QP (DP (r 每) (CLP (q 公顷))) (QP (m １０) (CLP (q 欧元))))
+              (ude 的))
+            (NP (n 费用)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 公司))
+    (VP
+      (ADVP (d 便))
+      (VP
+        (v 可)
+        (VP
+          (ADVP (ad 及时))
+          (PP-BNF (p 为) (NP (r 其)))
+          (VP
+            (v 提供)
+            (NP-OBJ
+              (DNP (ADJP (a 详细)) (ude 的))
+              (NP (nl 田间管理) (n 指导) (n 建议) (c 和) (n 图表))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (v 统计))
+  (VP
+    (v 显示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP
+          (NP
+            (wyz “)
+            (NP-PN (DNP (NP (n 土地)) (uzhi 之)) (NP (n 星)))
+            (wyy ”)
+            (NP (n 系统)))
+          (ude 的))
+        (NP (n 使用)))
+      (VP
+        (DVP (VP (a 有效)) (ude 地))
+        (VP
+          (v 避免)
+          (y 了)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 滥用) (NP-OBJ (n 农肥) (n 农药))))
+              (ude 的))
+            (NP (n 现象)))))))
+  (wj 。)))
+</S>

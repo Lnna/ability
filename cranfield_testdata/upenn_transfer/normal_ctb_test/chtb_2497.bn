@@ -1,0 +1,109 @@
+<S>
+( (PP
+  (ADVP (c 而))
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 防止)
+        (IP-OBJ
+          (IP-SBJ
+            (NP-SBJ
+              (DNP (NP (n 基层) (n 金融) (n 机构)) (ude 的))
+              (NP (n 财务) (n 经营)))
+            (VP (DVP (ADVP (b 进一步)) (ude 的)) (VP (n 恶化))))
+          (wd ，)
+          (VP (v 引发) (NP-OBJ (n 金融) (n 风波)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 其中))
+  (VP
+    (v 规定)
+    (IP-OBJ
+      (IP-CND
+        (NP-SBJ (DNP (NP (nt 农渔会)) (ude 的)) (NP (n 信用) (n 部)))
+        (VP
+          (ADVP (c 如果))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TMP (-NONE- *T*-1))
+                    (IP
+                      (IP
+                        (NP-SBJ (n 财务))
+                        (VP (ADVP (ad 显著)) (VP (vi 恶化))))
+                      (IP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP
+                          (VP (v 没有) (NP-OBJ (n 办法)))
+                          (VP
+                            (v 支付)
+                            (NP-OBJ
+                              (DNP (NP (r 它)) (ude 的))
+                              (NP (n 债务))))))
+                      (c 或者)
+                      (IP (NP (n 净值)) (VP (v 为) (NP-PRD (n 负数))))))
+                  (ude 的)))
+              (NP (n 时候))))))
+      (wd ，)
+      (ADVP (c 那么))
+      (NP-SBJ (n 主管) (n 机关))
+      (VP
+        (v 得)
+        (VP
+          (v 强制)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-ADV (c 和) (NP (DP (r 其它)) (NP (n 银行))))
+              (VP (v 合并))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (NP-SBJ-2 (DNP (NP (n 资产)) (ude 的)) (NP (n 处理)))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-LGS (p 由) (NP (n 资产) (n 管理) (n 公司)))
+        (VP (v 来) (VP (v 处理) (NP-OBJ (-NONE- *-2)))))))
+  (wd ，)
+  (IP
+    (PP-TPC
+      (p 至于)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 体制)) (VP (a 好)))
+            (ude 的)))
+        (NP (n 银行))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-PRP
+        (p 基于)
+        (NP
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (ad 稳定)) (VP (v 发展))))
+            (ude 的))
+          (NP (n 考量))))
+      (ADVP (d 也))
+      (VP
+        (v 可以)
+        (VP
+          (ADVP (d 自行))
+          (VP (v 申请) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 合并))))))))
+  (wj 。)))
+</S>

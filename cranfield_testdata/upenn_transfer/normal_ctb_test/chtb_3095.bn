@@ -1,0 +1,133 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (v 继续))
+    (PP-LGS (p 由) (NP-PN (nr 肖静)))
+    (VP
+      (v 播报)
+      (NP-OBJ
+        (DNP (QP (m ５) (IP (VP (q 分) (v 种)))) (ude 的))
+        (NP-PN (ns 中国))
+        (NP (n 简讯)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP
+          (NP-PN (ns 中国) (ns 内蒙古) (n 自治区))
+          (NP (f 中部) (c 和) (f 东部)))
+        (ude 的))
+      (ADJP (a 严重))
+      (NP (n 雪灾)))
+    (VP
+      (v 造成)
+      (IP-OBJ
+        (NP-SBJ (QP (ADVP (d 至少)) (QP (m ３０) (m 多))) (NP (n 人)))
+        (VP (vi 死亡) (c 或者) (vi 失踪)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 受灾))))
+      (NP (n 地区)))
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (QP (m １９) (CLP (q 个)))
+        (NP (n 旗) (wd ，) (n 县) (c 和) (n 市)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-2)) (VP (n 受灾))))
+      (NP (n 人数)))
+    (VP (NP-PRD (QP (ADVP (a 近)) (QP (m ６６万))) (NP (n 人)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-3)) (VP (n 受灾))))
+      (NP (n 牧场)))
+    (VP (v 达) (QP-OBJ (m ２千万) (CLP (q 公顷)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 气象) (n 人员))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DP (r 这种))
+          (CP-APP
+            (IP (NP-SBJ (n 暴风雪)) (VP (v 加) (NP-OBJ (n 沙尘))))
+            (ude 的))
+          (ADJP (a 异常))
+          (NP (n 天气)))
+        (VP
+          (vshi 是)
+          (VP
+            (NP-PN-LOC (ns 内蒙古) (n 地区))
+            (LCP-TMP (QP (m ４０) (CLP (q 年))) (f 来))
+            (QP-ADV (m 第一) (CLP (q 次)))
+            (VP (v 出现)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 风雪) (c 和) (an 严寒))
+        (VP
+          (v 可能)
+          (VP
+            (ADVP (d 还))
+            (VP
+              (v 会)
+              (VP
+                (vi 持续)
+                (NP-EXT (QP (m 一) (CLP (q 段))) (NP (n 时间))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (CP
+      (nx
+        (WHNP-4 (-NONE- *OP*))
+        CP
+        (IP
+          (NP-SBJ (n 地方) (n 当局))
+          (VP (ADVP (d 正在)) (VP (v 组织) (NP-OBJ (-NONE- *T*-4)))))
+        (ude 的)))
+    (ADJP (a 紧急))
+    (NP (n 求援)))
+  (wd ，)
+  (ADVP (c 但是))
+  (PP-MNR (p 据) (NP (v 报道)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (QP (QP (m １)) (ADVP (m 多))) (VP (a 深))))
+        (ude 的)))
+    (NP (n 大雪)))
+  (VP
+    (PP-BNF (p 给) (NP (n 求援) (n 工作)))
+    (VP
+      (v 造成)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 极大))) (ude 的)))
+        (NP (an 困难)))))
+  (wj 。)))
+</S>

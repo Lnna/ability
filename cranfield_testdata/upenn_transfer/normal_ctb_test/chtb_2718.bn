@@ -1,0 +1,187 @@
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-3 (-NONE- *T*-2))
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (LCP (NP (n 国际)) (f 上))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 杰出)))
+                    (ude 的)))
+                (NP (n 商界) (c 及) (n 企业) (n 领袖))))
+            (VP (v 组成) (NP-OBJ (-NONE- *-3)))))
+        (ude 的)))
+    (NP-PN
+      (wyz “)
+      (NP (NP-PN (ns 香港) (n 特区)) (NP (n 行政) (n 长官)))
+      (ADJP (v 特设))
+      (NP (n 国际) (n 顾问) (n 委员会))
+      (wyy ”)))
+  (VP
+    (NP-TMP (t １１月) (QP (m ３０) (CLP (q 号))))
+    (VP (v 举行) (NP-OBJ (QP (m 第三) (CLP (q 次))) (NP (n 会议)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 该)) (NP (n 委员会)))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (CP-APP
+          (IP (NP-SBJ (NP-PN (ns 香港)) (NP (n 经济))) (VP (vi 复苏)))
+          (ude 的))
+        (NP (n 情况)))
+      (VP
+        (PP-ADV (p 比) (NP (NP-PN (ns 亚洲)) (DP (r 其他)) (NP (n 国家))))
+        (ADVP (d 都))
+        (VP (v 要) (VP (a 好))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 香港) (n 特区)) (NP (n 行政) (n 长官)))
+    (NP-PN (nr 董建华)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (LCP-TMP (t 会后)) (VP (v 举行))))
+              (ude 的)))
+          (NP (n 新闻) (n 发布会)))
+        (f 上)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (n 国际) (n 顾问))
+          (VP
+            (v 认为)
+            (IP-OBJ
+              (NP-PN-SBJ (ns 香港))
+              (VP
+                (ADVP (d 已经))
+                (ADVP (ad 成功))
+                (VP (v 克服) (NP-OBJ (n 金融) (n 风暴)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 他们))
+          (VP
+            (VP
+              (v 欢迎)
+              (IP-OBJ
+                (NP-PN-SBJ (ns 香港))
+                (VP
+                  (v 巩固)
+                  (NP-OBJ
+                    (DNP (NP (r 本地)) (ude 的))
+                    (NP (n 金融) (n 市场))))))
+            (wd ，)
+            (VP
+              (ADVP (c 并))
+              (VP
+                (v 相信)
+                (IP-OBJ
+                  (NP-SBJ (r 这))
+                  (VP
+                    (v 有助于)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (v 加强)
+                        (NP-OBJ
+                          (DNP-PN (NP (ns 香港)) (ude 的))
+                          (NP (n 国际) (n 地位))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-PN-SBJ (nr 董建华))
+  (VP
+    (v 透露)
+    (wd ，)
+    (IP-OBJ
+      (NP (n 顾问) (k 们))
+      (VP
+        (ADVP (d 同时))
+        (VP
+          (v 认为)
+          (IP-OBJ
+            (IP
+              (NP-SBJ (DNP (NP (t 明年)) (ude 的)) (NP (n 经济) (n 发展)))
+              (VP
+                (ADVP (d 仍然))
+                (VP (v 存在) (uzhe 着) (NP-OBJ (QP (m 一些)) (NP (n 隐忧))))))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 包括)
+                (IP-OBJ
+                  (IP (NP-SBJ (n 欧元) (n 汇率)) (VP (n 变动)))
+                  (wn 、)
+                  (IP
+                    (NP-SBJ (NP-PN (ns 亚洲)) (NP (n 资金)))
+                    (VP (n 流动)))
+                  (wn 、)
+                  (IP (NP-SBJ (n 油价)) (VP (n 波动)))
+                  (c 及)
+                  (IP
+                    (NP-SBJ (NP-PN (ns 美国)) (NP (n 经济)))
+                    (VP (v 可能) (VP (VP-FOC (v 增长)) (VP (a 缓慢)))))
+                  (udeng 等)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 委员会))
+  (VP
+    (n 预期)
+    (wd ，)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-TMP (t 明年))
+        (NP-SBJ
+          (DNP
+            (NP
+              (NP (NP-PN (ns 中国)) (NP (s 内地)))
+              (wn 、)
+              (NP-PN (nt 欧盟) (c 及) (ns 日本)))
+            (ude 的))
+          (NP (n 经济)))
+        (VP (ADVP (vd 持续)) (VP (v 向好))))
+      (VP
+        (PP-DIR (p 对) (NP (DNP (NP-PN (ns 香港)) (ude 的)) (NP (n 发展))))
+        (VP (v 会) (VP (ADVP (d 更)) (VP (a 有利)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (n 中央台))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (ns 香港)))))
+    (NP (n 记者)))
+  (VP (n 报道))
+  (wj 。)))
+</S>

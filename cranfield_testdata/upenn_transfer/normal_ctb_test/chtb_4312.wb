@@ -1,0 +1,861 @@
+<S>
+( (IP
+  (NP (n 母亲))
+  (wp －)
+  (NP
+    (NP-PN (ns 江南) (VP (v 无) (NP (n 水))))
+    (wp －)
+    (NP (NP-PN (nz 搜狐)) (NP (n 博客))))))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 前天) (t 晚上))
+  (wd ，)
+  (NP-SBJ (DNP (NP (n 同村)) (ude 的)) (NP-PN (nr 军伟)))
+  (VP
+    (VP (v 拿) (y 了) (NP-OBJ (QP (m 一) (CLP (q 袋))) (NP (n 鸡蛋))))
+    (VP (v 过来))
+    (wd ，)
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vshi 是)
+          (CP-PRD
+            (IP
+              (NP-SBJ (r 我) (n 母亲))
+              (VP
+                (v 托)
+                (NP-OBJ (r 他))
+                (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 带来)))))
+            (ude 的))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (DP (f 前) (QP (m 几) (CLP (q 天))))
+      (VP (VP (vi 打电话)) (VP (v 到) (NP-OBJ (s 家里))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 刚好)) (VP (vshi 是) (VP (v 立) (NP (t 夏))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 母亲))
+    (VP
+      (ADVP (d 还))
+      (PP-LOC (p 在) (LCP (NP (n 电话)) (f 里)))
+      (VP
+        (VSB (v 解释) (wd ，) (v 说))
+        (IP-OBJ
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 原本))
+                (VP
+                  (v 想)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (VP
+                        (v 寄)
+                        (NP-OBJ (QP (CLP (q 点))) (NP (n 鸡蛋))))
+                      (VP (v 下来)))))))
+            (ude 的))
+          (wd ，)
+          (IP
+            (ADVP (c 但))
+            (DP (r 这) (QP (m 几) (CLP (q 天))))
+            (NP (-NONE- *pro*))
+            (VP
+              (ADVP (d 一直))
+              (VP (v 没) (IP (NP-SBJ (n 人)) (VP (v 上去))))))
+          (wd ，)
+          (IP (NP-SBJ (n 庄稼)) (VP (ADVP (d 又)) (VP (a 忙))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 也))
+              (VP (v 没) (NP-OBJ (n 时间)))
+              (VP (ADVP (d 亲自)) (VP (VRD (v 送) (v 过来))))))))))
+  (wd ，)
+  (IP
+    (LCP-SBJ (NP (n 语气)) (f 里))
+    (VP (ADVP (d 满)) (VP (vshi 是) (NP-PRD (a 愧疚) (c 和) (a 不安)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC (NP (DP (r 那) (CLP (q 次))) (NP (n 电话))) (f 里))
+  (wd ，)
+  (NP-SBJ (n 母亲))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 告诉)
+      (NP-IO (r 我))
+      (IP-OBJ
+        (IP (NP-SBJ (n 外婆)) (VP (p 在) (NP-OBJ (r 自己) (n 家))))
+        (wd ，)
+        (IP
+          (NP-TMP (DNP (NP (t 往年)) (ude 的)) (NP (n 时候)))
+          (wd ，)
+          (NP-SBJ (n 母亲))
+          (VP
+            (ADVP (d 就))
+            (VP
+              (v 会)
+              (VP
+                (VP (v 准备) (NP-OBJ (QP (m 一些)) (NP (n 东西))))
+                (wd ，)
+                (VP
+                  (v 让)
+                  (NP-OBJ (n 父亲))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VRD (v 送) (v 到)) (NP-OBJ (n 外婆) (n 家))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 外婆) (n 家))
+    (VP
+      (PP-ADV (v 离) (NP (n 我家)))
+      (LCP-PRD (QP (ADVP (d 大约)) (QP (m 五) (CLP (q 华里)))) (m 左右))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 不过))
+      (VP
+        (VP (vshi 是) (NP-PRD (n 山路)))
+        (wd ，)
+        (VP (v 绕) (uzhe 着) (NP-OBJ (n 群山)))
+        (wd ，)
+        (VP (DVP (ADVP (a 异常)) (ude 的)) (ADVP (ad 难)) (VP (v 走))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (ADVP (r 每次))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 竟然))
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (n 外婆) (r 自己))
+          (VP (NP-MNR (QP (m 一个)) (NP (n 人))) (VP (v 过来)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 要)
+      (VP
+        (v 知道)
+        (CP-OBJ
+          (IP
+            (NP-SBJ (n 外婆))
+            (VP
+              (ADVP (d 已经))
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (DNP (QP (m 八十) (m 多) (CLP (q 岁))) (ude 的))
+                  (NP (n 老人家))))))
+          (y 了)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 我)) (VP (ADVP (r 有些)) (VP (v 抱怨) (NP-OBJ (n 母亲)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP-WH (r 为什么))
+      (ADVP (d 不))
+      (VP (v 去) (VP (v 接) (ADVP (m 一下))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 母亲))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (n 外婆))
+          (VP (PP-ADV (v 像) (NP (n 小孩子))) (VP (uyy 一样))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 又))
+            (ADVP (d 不))
+            (VP
+              (v 知道)
+              (IP-OBJ
+                (NP-SBJ (r 她))
+                (VP
+                  (ADVP-WH (r 什么))
+                  (VP
+                    (v 想)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 来)))))))))
+        (wd ，)
+        (CP-Q
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP-WH (r 怎么)) (VP (v 去) (VP (v 接)))))
+          (y 呢)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 山里人)) (ude 的)) (NP (n 命)))
+    (VP (ADVP (d 总是)) (ADVP (r 那么)) (VP (a 硬朗))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (QP (QP (QP (m 八十)) (ADVP (m 多))) (CLP (q 岁))) (ude 的))
+      (NP (n 老人)))
+    (VP
+      (v 可以)
+      (VP
+        (NP-MNR (QP (m 一个)) (NP (n 人)))
+        (DVP (ADVP (a 顽强)) (ude 的))
+        (VP (vi 生活) (uzhe 着)))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 即使))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (n 膝下)) (NP (n 儿女)) (VP (n 满堂)))))
+    (wd ，)
+    (ADVP (c 但))
+    (NP-SBJ (DNP (NP (t 晚年)) (ude 的)) (NP (r 他们)))
+    (wd ，)
+    (VP
+      (ADVP (d 总是))
+      (DVP (VP (ADVP (r 如此)) (VP (a 孤独))) (ude 的))
+      (VP (n 生活) (y 着))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 母亲))
+  (VP
+    (ADVP (d 总是))
+    (VP
+      (VP (a 笑笑))
+      (wd ，)
+      (VP
+        (v 说)
+        (CP-OBJ
+          (IP
+            (IP-SBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (VP (v 做人)) (VP (v 做人))))
+            (wd ，)
+            (VP (ADVP (d 就)) (VP (vshi 是) (VP (v 要) (VP (v 做))))))
+          (y 嘛)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (d 其实))
+    (NP-SBJ (r 我))
+    (VP
+      (NP-LOC (s 心里))
+      (VP
+        (v 明白)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ (n 父母))
+          (VP
+            (ADVP-WH (r 为什么))
+            (ADVP (m 终日))
+            (DVP (VP (ADVP (d 不)) (VP (vi 停歇))) (ude 的))
+            (VP (vi 忙活)))))))
+  (wd ，)
+  (IP
+    (NP-TMP (f 以前))
+    (NP-SBJ (r 他们))
+    (VP
+      (PP-BNF (p 为) (NP (QP (m 两) (CLP (q 个))) (NP (n 儿子))))
+      (VP (vi 忙活))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 如今))
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (d 却))
+      (PP-BNF
+        (p 为)
+        (NP
+          (DNP (NP (QP (m 两) (CLP (q 个))) (NP (n 儿子))) (ude 的))
+          (NP (n 家))))
+      (VP (a 忙碌) (uzhe 着))))
+  (wd ，)
+  (IP
+    (ADVP (t 小时候))
+    (NP-SBJ (r 他们))
+    (VP
+      (vi 供)
+      (NP-OBJ (r 我们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 读书)))))
+  (wd ，)
+  (IP
+    (ADVP (d 而今))
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (d 却))
+      (VP
+        (vi 供)
+        (uzhe 着)
+        (NP-IO (r 我们))
+        (NP-OBJ
+          (NP (n 粮食))
+          (wd ，)
+          (v 还有)
+          (NP
+            (DP (r 其他))
+            (DP (r 任何))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 可以)
+                    (VP
+                      (v 送给)
+                      (NP-IO (r 我们))
+                      (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (n 东西)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TMP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (r 每次)) (VP (vi 回家))))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 往往))
+      (ADVP (d 都))
+      (VP (vshi 是) (VP (ADVP (n 空手)) (VP (c 而) (VP (v 去)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-TMP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (PP-TMP (-NONE- *T*-1)) (VP (vl 打道回府))))
+          (ude 的)))
+      (NP (n 时候)))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 却))
+      (VP
+        (vshi 是)
+        (VP
+          (DVP
+            (NP
+              (NP (ADJP (a 大)) (NP (n 包)))
+              (NP (ADJP (a 小)) (NP (n 包))))
+            (ude 地))
+          (VRD (v 拎) (v 回))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 总是))
+      (VP
+        (VP (PP-ADV (p 跟) (NP (n 母亲))) (VP (vi 开玩笑)))
+        (VP
+          (v 说)
+          (wd ，)
+          (IP-OBJ
+            (IP-SBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 生)
+                (y 了)
+                (NP-OBJ (QP (m 两) (CLP (q 个))) (NP (n 儿子)))))
+            (VP
+              (ADVP (d 就))
+              (VP
+                (v 像)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 生)
+                    (y 了)
+                    (NP-OBJ
+                      (QP (m 两) (CLP (q 个)))
+                      (NP (n 强盗) (c 和) (n 土匪))))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 母亲))
+    (VP
+      (ADVP (d 却))
+      (VP
+        (VP (v 骂) (uguo 过))
+        (wd ，)
+        (VP
+          (v 说)
+          (IP-OBJ
+            (IP-CND
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 不))
+                (PP-BNF (p 给) (NP (r 你们)))
+                (VP
+                  (v 弄)
+                  (NP-OBJ (QP (ADVP (r 那么)) (QP (a 多))) (NP (n 东西))))))
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 干吗)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 昨天))
+      (ADVP (d 又))
+      (PP-DIR (p 给) (NP (s 家里)))
+      (VP (vi 打电话))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 母亲))
+    (VP
+      (v 说)
+      (IP-OBJ (NP-SBJ (n 外婆)) (VP (ADVP (d 已经)) (VP (vi 回家) (y 了))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (v 问)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VNV (vshi 是) (d 不) (vshi 是))
+          (VP
+            (ADVP (d 又))
+            (VP
+              (vshi 是)
+              (CP-PRD
+                (IP
+                  (NP-SBJ (r 她))
+                  (VP
+                    (NP-MNR (QP (m 一个)) (NP (n 人)))
+                    (VP (VRD (v 走) (v 回去)))))
+                (ude 的))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 母亲))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (CP (IP (NP-SBJ (r 那)) (VP (ADVP (r 怎么)) (VP (v 会)))) (y 呢))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 当然))
+            (VP
+              (vshi 是)
+              (CP-PRD
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 送)
+                    (NP-OBJ (r 她))
+                    (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 回去)))))
+                (ude 的))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (ADVP (c 但)) (NP-SBJ (n 母亲)) (VP (ADVP (v 没有))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 她))
+    (VP
+      (v 注定)
+      (y 了)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 成为)
+          (y 了)
+          (NP-OBJ
+            (NP (DNP (NP (r 我)) (ude 的)) (NP (n 母亲)))
+            (wd ，)
+            (NP
+              (QP (m 一个))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (n 性格))
+                    (VP (a 刚烈)))
+                  (ude 的)))
+              (NP (n 母亲)))
+            (wd ，)
+            (NP
+              (QP (m 一个))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (LCP-LOC (NP (ADJP (a 刚烈)) (NP (n 外表))) (f 下))
+                      (VP (vl 柔情似水))))
+                  (ude 的)))
+              (NP (n 母亲))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (DP-WH (r 什么)) (NP (n 时候)))
+  (wd ，)
+  (NP-VOC (n 母亲))
+  (wd ，)
+  (NP-VOC (n 妈妈))
+  (wd ，)
+  (NP-SBJ (r 你))
+  (VP
+    (v 能否)
+    (VP
+      (VP
+        (DVP (VP (d 静静)) (ude 地))
+        (VP
+          (p 将)
+          (IP
+            (NP-SBJ (DP (r 这)) (NP (r 一切)))
+            (VP (v 告诉) (NP-OBJ (DNP (NP (r 我)) (ude 的)) (NP (n 孩子)))))))
+      (wd ，)
+      (VP
+        (v 让)
+        (NP-OBJ (r 他) (wkz （) (r 她) (wky ）))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 知道)
+            (IP-OBJ
+              (LCP-LOC (NP (DP (r 这个)) (NP (n 世界))) (f 上))
+              (NP-SBJ (r 她) (wkz （) (r 他) (wky ）))
+              (VP
+                (v 拥有)
+                (NP-OBJ
+                  (NP (ADJP (r 这样)) (QP (m 一个)) (NP (n 奶奶)))
+                  (wd ，)
+                  (NP
+                    (QP (m 一个))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP
+                            (ADVP (m 一辈子))
+                            (ADVP (d 都))
+                            (VP (v 辛苦) (uzhe 着))))
+                        (ude 的)))
+                    (NP (n 奶奶)))
+                  (wd ，)
+                  (NP
+                    (QP (m 一个))
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-2))
+                          (VP
+                            (ADVP (m 一辈子))
+                            (ADVP (d 都))
+                            (VP
+                              (v 会)
+                              (VP (v 宠) (uzhe 着) (NP-OBJ (r 我们))))))
+                        (ude 的)))
+                    (NP (n 奶奶)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (DP (r 这) (CLP (q 段))) (NP (n 时间)))
+    (wd ，)
+    (NP-SBJ (n 母亲))
+    (VP
+      (ADVP (d 总))
+      (VP
+        (v 担忧)
+        (uzhe 着)
+        (NP-OBJ (DNP (NP (n 哥哥)) (ude 的)) (NP (n 事情))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (VP (ADVP (d 总是)) (VP (v 感到) (NP-OBJ (a 内疚) (c 和) (a 惭愧))))
+      (wd ，)
+      (VP
+        (VP (ADVP (d 没)) (VP (v 能) (VP (v 帮助) (NP-OBJ (n 哥哥)))))
+        (wd ，)
+        (VP
+          (ADVP (d 更))
+          (ADVP (d 没))
+          (VP (v 能) (VP (v 帮助) (NP-OBJ (n 母亲))))))
+      (wd ，)
+      (VP
+        (v 让)
+        (NP-OBJ (r 他们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VP (VPT (v 吃) (a 不好))) (wd ，) (VP (VPT (v 睡) (a 不安))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 祝福)
+    (IP-OBJ
+      (NP-SBJ (n 哥哥))
+      (VP
+        (VP (a 成功))
+        (wd ，)
+        (VP
+          (ADVP (ad 努力))
+          (VP
+            (v 让)
+            (NP-OBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 母亲)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (ADVP (d 不)) (VP (v 担忧)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 听说)
+      (CP-OBJ
+        (IP
+          (NP-SBJ (t 明天))
+          (VP
+            (ADVP (d 就))
+            (VP
+              (vshi 是)
+              (NP-PRD (DNP (NP (n 西方人)) (ude 的)) (NP (t 母亲节))))))
+        (y 了))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 我们)) (NP-PN (ns 中国)))
+    (VP (v 没有) (NP-OBJ (DNP (ADJP (r 这样)) (ude 的)) (NP (n 节日)))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (DP (r 每个)) (NP (n 人)))
+    (VP
+      (ADVP (d 都))
+      (VP (vyou 有) (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 母亲))))))
+  (wd ，)
+  (IP
+    (ADVP (c 那么))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 让)
+        (NP-OBJ (r 我们) (s 心里))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP
+              (VRD (v 装) (v 下))
+              (NP-OBJ
+                (DP (r 这个))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 属于) (NP-OBJ (DP (r 每个)) (NP (n 母亲)))))
+                    (ude 的)))
+                (NP (t 母亲节))))
+            (wd ，)
+            (c 或者)
+            (wd ，)
+            (VP
+              (pba 把)
+              (IP
+                (DP-SBJ
+                  (CP
+                    (WHPP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (n 母亲))
+                        (VP (PP-TMP (-NONE- *T*-2)) (VP (vi 健在))))
+                      (ude 的)))
+                  (DP (r 每) (QP (m 一) (CLP (q 天)))))
+                (VP (ADVP (d 都)) (VP (v 当成) (NP-OBJ (t 母亲节))))))
+            (wd ，)
+            (VP
+              (PP-MNR
+                (p 用)
+                (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 心意))))
+              (wd ，)
+              (PP-MNR
+                (p 用)
+                (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 行动))))
+              (wd ，)
+              (VP
+                (v 祝福)
+                (IP-OBJ
+                  (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 母亲)))
+                  (wd ，)
+                  (VP (a 健康) (wd ，) (a 幸福))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (pba 把)
+      (IP
+        (DP-SBJ
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 母亲))
+                (VP (PP-TMP (-NONE- *T*-1)) (VP (vi 健在))))
+              (ude 的)))
+          (DP (r 每) (QP (m 一) (CLP (q 天)))))
+        (VP (ADVP (d 都)) (VP (v 当成) (NP-OBJ (t 母亲节))))))
+    (wd ，)
+    (VP
+      (PP-MNR (p 用) (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 心意))))
+      (wd ，)
+      (PP-MNR (p 用) (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 行动))))
+      (wd ，)
+      (VP
+        (v 祝福)
+        (IP-OBJ
+          (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 母亲)))
+          (wd ，)
+          (VP (a 健康) (wd ，) (a 幸福))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 祝福) (NP-OBJ (r 你))))
+  (wd ，)
+  (IP-IMP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (DVP (z 好好的))
+      (VP
+        (v 珍惜)
+        (DP-OBJ
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 母亲))
+                (VP (PP-TMP (-NONE- *T*-1)) (VP (vi 健在))))
+              (ude 的)))
+          (DP (r 每) (QP (m 一) (CLP (q 天))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-MNR (p 用) (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 心意))))
+    (wd ，)
+    (PP-MNR (p 用) (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 行动))))
+    (wd ，)
+    (VP
+      (v 祝福)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 母亲)))
+        (wd ，)
+        (VP (a 健康) (wd ，) (a 幸福)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 写) (ude 的) (VP-EXT (ADVP (d 真)) (VP (a 好))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP (NP-SBJ (r 我)) (VP (PP-BNF (p 给) (NP (s 家里))) (VP (vi 打电话))))
+    (y 了))
+  (wd ，)
+  (IP (NP-SBJ (n 母爱)) (VP (a 伟大)))
+  (wj ．)))
+</S>
+<S>
+( (IP
+  (DP-TMP (r 这天))
+  (wd ，)
+  (NP-SBJ
+    (n 偶家哒)
+    (w ＂)
+    (n 蛋)
+    (n 公子)
+    (w ＂)
+    (wkz （)
+    (NP (nr 老爸))
+    (wky ）))
+  (VP
+    (VP
+      (y 了)
+      (IP-OBJ
+        (NP-SBJ (r 我))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 爱)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 吃) (NP-OBJ (n 蛋黄))))))))
+    (wd ，)
+    (VP
+      (ADVP (ad 主动))
+      (VP (v 剩下) (NP-OBJ (QP (m 三) (CLP (q 个))) (NP (n 蛋白))))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 愿) (IP-OBJ (NP-SBJ (n 老人家)) (VP (VCD (an 健康) (a 快乐)))))
+  (wt ！)))
+</S>

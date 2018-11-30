@@ -1,0 +1,256 @@
+<S>
+( (IP
+  (NP-TMP (t 五号))
+  (NP-SBJ
+    (NP-APP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 发动) (NP-OBJ (vi 政变))))
+          (ude 的)))
+      (NP-PN (ns 斐济))
+      (NP (nl 武装部队))
+      (NP (n 司令)))
+    (NP-PN (nrf 姆拜尼马拉马)))
+  (VP
+    (VP
+      (NP-TMP (t 今天))
+      (PP-LOC (p 在) (NP (NP-APP (n 首都)) (NP-PN (ns 苏瓦))))
+      (VP (v 主持) (NP-OBJ (n 宣誓) (n 就职) (n 仪式))))
+    (wd ，)
+    (VP
+      (v 授权)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (v 没有) (NP-OBJ (n 政治) (n 背景))))
+            (ude 的)))
+        (NP (nrf 乔纳)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 出任)
+          (NP-OBJ (NP (ADJP (n 过渡)) (NP (n 政府))) (NP (n 总理)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (t 同一天))
+  (wd ，)
+  (NP-PN-SBJ (nrf 姆拜尼马拉马))
+  (VP
+    (VP
+      (v 宣布)
+      (IP-OBJ (NP-SBJ (n 全国)) (VP (v 进入) (NP-OBJ (nl 紧急状态)))))
+    (wd ，)
+    (VP
+      (ADVP (c 并且))
+      (VP
+        (v 下令)
+        (IP-OBJ
+          (NP-SBJ (DP (b 所有)) (NP (n 预备役) (n 军人)))
+          (VP (v 返回) (NP-OBJ (n 军营)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 姆拜尼马拉马))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-PN-SBJ (nrf 塞尼兰加卡利))
+        (VP
+          (v 出任)
+          (NP-OBJ (NP (ADJP (n 过渡)) (NP (n 政府))) (NP (n 总理)))))
+      (VP
+        (v 符合)
+        (NP-OBJ
+          (DNP (NP (NP-PN (ns 斐济)) (NP (n 宪法))) (ude 的))
+          (ADJP (n 相关))
+          (NP (n 规定))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 总理)) (ude 的)) (ADJP (b 主要)) (NP (n 职责)))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 协助)
+        (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (v 解散) (NP-OBJ (n 议会)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 姆拜尼马拉马))
+  (VP
+    (ADVP (d 同时))
+    (VP
+      (v 宣布)
+      (IP-OBJ (NP-SBJ (n 全国)) (VP (v 进入) (NP-OBJ (nl 紧急状态))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 目前))
+        (NP-SBJ (NP-PN (ns 斐济)) (NP (n 军方)))
+        (VP
+          (VP
+            (ADVP (d 已))
+            (ADVP (ad 完全))
+            (VP (v 接管) (NP-OBJ (n 政府) (wd ，) (n 议会))))
+          (VP (ADVP (c 并)) (VP (v 控制) (NP-OBJ (n 全国))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 军政府)) (ude 的)) (QP (m 一个)) (NP (n 军事) (n 委员会)))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (v 负责)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 管理) (NP-OBJ (n 国家) (n 事务))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 军政府))
+    (VP (v 属于) (NP-OBJ (ADJP (n 过渡)) (NP (n 性质)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其) (n 目标))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ (n 国家))
+              (VP
+                (IP (VP (v 引) (DFL (p 向))))
+                (NP-OBJ (ADJP (a 良好)) (NP (n 管理))))))
+          (wd ，)
+          (VP (v 交出) (NP-OBJ (an 腐败) (n 恶行)))
+          (c 和)
+          (VP (ADVP (d 尽快)) (VP (v 增加) (NP-OBJ (n 国民) (n 福祉))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 公报))
+  (VP
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (CP-CND
+              (ADVP (v 如))
+              (IP (NP-SBJ (-NONE- *pro*)) (VP (vyou 有) (NP (an 必要)))))
+            (wd ，)
+            (NP-SBJ (n 军政府))
+            (VP (ADVP (d 将)) (VP (v 实行) (NP-OBJ (vi 宵禁))))))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (VP
+        (v 呼吁)
+        (NP-OBJ (NP-PN (ns 斐济)) (NP (n 国民)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 给予) (NP-OBJ (n 支持)))
+            (c 和)
+            (VP (v 保持) (NP-OBJ (an 耐心))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (ADVP (d 另))
+    (PP
+      (p 据)
+      (NP
+        (NP
+          (NP-APP (NP-PN (ns 斐济)) (NP (n 电视台)))
+          (NP-PN (vi 联想) (w ～) (nx ＦＭ)))
+        (v 报道))))
+  (wd ，)
+  (NP-SBJ-1
+    (NP-PN (nrf 恩加拉塞))
+    (c 和)
+    (NP (NP-APP (n 妻子)) (NP (nrf 勒巴))))
+  (VP
+    (ADVP (d 已))
+    (PP-TMP (p 在) (LCP (NP (t 六号) (t 拂晓)) (f 前)))
+    (VP
+      (VP
+        (pbei 被)
+        (IP-OBJ
+          (NP-SBJ (n 人))
+          (VP
+            (PP-DIR (p 从) (LCP (NP (n 住所)) (f 内)))
+            (VP
+              (IP (VP (ADVP (v 接)) (VP (v 走))))
+              (NP-OBJ (-NONE- *-1))))))
+      (wd ，)
+      (VP (v 乘) (NP-OBJ (vi 包机)))
+      (VP
+        (v 前往)
+        (NP-OBJ
+          (NP-APP
+            (NP (DNP (NP (r 他)) (ude 的)) (NP (n 家乡)))
+            (wd ，)
+            (NP
+              (NP-PN (ns 斐济))
+              (NP (f 东北部))
+              (ADJP (a 偏远))
+              (NP (n 省份))))
+          (wd ，)
+          (NP-PN (ns 劳省))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (ADVP (d 就)) (PP (p 在) (DP (t 此前) (QP (m 一) (CLP (q 天))))))
+  (wd ，)
+  (NP-PN-SBJ (nrf 恩加拉塞))
+  (VP
+    (ADVP (d 仍))
+    (VP
+      (v 坚持)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (r 自己))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP (NP (ns 斐济)) (ude 的))
+              (ADJP (a 合法))
+              (NP (n 领导人)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (QP (m 很多)) (NP (n 人)))
+          (VP (ADVP (d 仍然)) (VP (v 支持) (NP-OBJ (r 自己))))))))
+  (wj 。)))
+</S>

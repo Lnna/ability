@@ -1,0 +1,168 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (n 囚犯))
+  (VP (VP (v 参与) (NP-OBJ (n 剧本) (n 创作))) (VP (v 获) (NP-OBJ (n 殊荣))))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (m 七) (CLP (q 名)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (v 来自)
+              (NP-OBJ
+                (NP-PN (ns 大屿山))
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP (ADVP (d 高度)) (VP (vi 设防))))
+                    (ude 的)))
+                (NP-PN (n 石壁) (n 监狱)))))
+          (ude 的)))
+      (NP (n 犯人)))
+    (VP
+      (v 参与)
+      (NP-OBJ
+        (QP (m 一) (CLP (q 项)))
+        (NP (NP (n 广播) (n 剧本)) (NP (n 创作)))
+        (NP (n 比赛)))))
+  (wd ，)
+  (IP (NP-SBJ (n 成绩)) (VP (n 蜚然)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ-2 (-NONE- *T*-1))
+            (VP
+              (VP
+                (PP-LGS
+                  (p 由)
+                  (NP
+                    (NP-PN (nt 教育署))
+                    (c 及)
+                    (NP (QP (m 两) (CLP (q 间))) (NP (n 传播) (n 机构)))))
+                (VP (v 合办) (NP-OBJ (-NONE- *-2))))
+              (VP
+                (PP-MNR
+                  (p 以)
+                  (IP
+                    (wyz 「)
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 敬) (NP-OBJ (n 师))))
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 爱) (NP-OBJ (v 生))))
+                    (wyy 」)))
+                (VP (v 为) (NP-OBJ (n 主题))))))
+          (ude 的)))
+      (NP (n 剧本) (n 创作))
+      (NP (n 比赛)))
+    (f 中))
+  (wd ，)
+  (NP-SBJ (r 他们))
+  (VP (v 获得) (NP-OBJ (QP (m 两) (CLP (q 个))) (NP (n 奖项))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC (p 在) (NP-PN (n 石壁) (n 监狱)))
+            (wd ，)
+            (VP
+              (VP
+                (v 鼓励)
+                (NP-OBJ (r 他们))
+                (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 参赛))))
+              (c 及)
+              (VP (v 给予) (NP-OBJ (n 指导))))))
+        (ude 的)))
+    (NP (n 主任) (n 教师)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (n 剧本))
+      (VP
+        (v 环绕)
+        (NP-OBJ
+          (NP
+            (CP-APP
+              (IP
+                (NP-SBJ
+                  (QP (m 一) (CLP (q 名)))
+                  (NP (FRAG (NP (ns 中)) (QP (m 四))) (n 学生)))
+                (VP
+                  (LCP-TMP
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (QP-ADV (m 第一) (CLP (q 日)))
+                        (VP
+                          (VP
+                            (v 前往)
+                            (NP-OBJ
+                              (QP (m 一) (CLP (q 间)))
+                              (NP (n 学校))))
+                          (VP (VSB (VP (v 插) (NP (n 班))) (vi 报到))))))
+                    (n 时))
+                  (VP (v 接触) (NP-OBJ (n 教师) (c 和) (n 校长)))))
+              (ude 的))
+            (NP (n 经历)))
+          (c 及)
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-DIR (d 从中))
+                    (VP (usuo 所) (VP (v 得到) (NP-OBJ (-NONE- *T*-2))))))
+                (ude 的)))
+            (NP (n 启发)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (ADJP (v 有关)) (ude 的)) (NP (n 比赛)))
+  (VP
+    (v 有助)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP
+          (v 推动)
+          (NP-OBJ (NP (n 参赛者)) (NP (v 学习) (c 及) (n 创作)) (NP (n 兴趣))))
+        (wd ，)
+        (c 并)
+        (VP
+          (v 促进)
+          (NP-OBJ
+            (NP (r 他们))
+            (DNP (PP (p 对) (NP (n 教师) (c 及) (n 社会))) (ude 的))
+            (NP (n 尊敬) (c 和) (n 了解)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (vi 完)))
+</S>

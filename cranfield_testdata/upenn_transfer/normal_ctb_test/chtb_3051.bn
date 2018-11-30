@@ -1,0 +1,25 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 总统))) (NP-PN (nrf 普京)))
+  (VP
+    (NP-TMP (t 星期一))
+    (VP
+      (VP
+        (v 会见)
+        (NP-OBJ
+          (NP
+            (NP-APP (NP-PN (ns 加拿大)) (NP (n 总理)))
+            (NP-PN (nrf 克雷蒂安)))
+          (c 及)
+          (NP (DP (r 其它)) (NP (n 官员)))))
+      (VP (v 讨论) (NP-OBJ (NP (n 经济) (c 以及) (an 安全)) (NP (n 问题))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 以上))
+  (VP
+    (vshi 是)
+    (NP-PRD (DNP (NP-PN (n 美国之音)) (ude 的)) (NP (n 国际) (n 新闻))))
+  (wj 。)))
+</S>

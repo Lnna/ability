@@ -1,0 +1,96 @@
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (DNP (NP (n 防检局)) (ude 的)) (NP (n 追查))) (ude 的))
+            (NP (n 过程)))
+          (f 当中)))
+      (ADVP (d 也))
+      (VP
+        (v 发现)
+        (IP-OBJ
+          (NP-SBJ (DNP (NP-PN (ns 桃园)) (ude 的)) (NP (n 肉品) (n 市场)))
+          (VP
+            (ADVP (d 竟然))
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP
+                  (CP-APP
+                    (IP
+                      (NP-SBJ (DNP (QP (n 部分)) (ude 的)) (NP (n 单位)))
+                      (VP
+                        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+                        (VP (v 提供) (NP-OBJ (n 免疫) (n 证明书)))))
+                    (ude 的))
+                  (NP (n 情况)))
+                (f 之下)))
+            (wd ，)
+            (VP
+              (v 让)
+              (NP (NP (n 猪)) (ADVP (d 只)))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 交易)))))))))
+  (IP
+    (NP-SBJ-1 (-NONE- *pro*))
+    (VP (ADVP (d 将)) (VP (pbei 被) (VP (v 处罚) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP (NP-SBJ (n 防检局)) (VP (ADVP (d 逆向)) (VP (v 追踪))))
+        (f 后)))
+    (VP (v 发现) (wd ，) (IP-OBJ (NP-SBJ (n 地方) (n 防疫)) (VP (al 漏洞百出)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 桃园)) (NP (n 肉品) (n 市场)))
+    (VP
+      (ADVP (d 将))
+      (PP-MNR
+        (p 以)
+        (NP-PN (wkz 《) (n 动物) (n 传染病) (n 防治) (n 条例) (wky 》)))
+      (VP
+        (NP (vi 处) (p 以))
+        (NP-OBJ (QP (m １万) (p 到) (m ５万) (CLP (q 元))) (NP (n 罚款))))))
+  (wd ，)
+  (IP
+    (ADVP (c 此外))
+    (PP-PRP
+      (p 为了)
+      (LCP (IP (NP-SBJ (-NONE- *pro*)) (VP (n 科学))) (u 起见)))
+    (wd ，)
+    (NP-SBJ (n 防检局))
+    (VP
+      (VP
+        (ADVP (d 也))
+        (VP
+          (v 采集)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP-PN-APP (nz 亚胜) (udeng 等))
+                (QP (m １９) (CLP (q 个)))
+                (NP (n 供应) (n 单位)))
+              (ude 的))
+            (NP (NP (NP (n 猪)) (ADVP (d 只))) (vi 检疫)))))
+      (wd ，)
+      (VP
+        (ADVP (f 最后))
+        (VP (v 追查) (IP-OBJ (NP-SBJ (n 疫情)) (VP (v 是否) (VP (v 扩大))))))))
+  (wj 。)))
+</S>

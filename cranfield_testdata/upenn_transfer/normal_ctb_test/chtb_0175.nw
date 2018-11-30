@@ -1,0 +1,56 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (DNP (QP (m ５６％)) (ude 的)) (NP (ns 法国)) (NP (n 人)))
+  (VP
+    (v 要求)
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 立即)) (VP (vi 停战)))))))
+</S>
+<S>
+( (FRAG (p 据) (nt 新华社) (ns 巴黎) (t ２月) (t １３日) (n 电)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 据)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (NP-PN (ns 法国))
+                (NP-TTL (wkz 《) (n 政治) (n 周刊) (wky 》)))
+              (VP
+                (NP-TMP (t 今天))
+                (VP (v 公布) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (QP (m 一) (CLP (q 项)))
+        (NP (n 民意测验)))
+      (VP (v 表明))))
+  (wd ，)
+  (NP-SBJ (DNP (QP (m ５６％)) (ude 的)) (NP (ns 法国)) (NP (n 人)))
+  (VP
+    (v 主张)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 立即))
+        (VP
+          (VP (VP (v 停止) (NP-OBJ (NP-PN (n 海湾)) (NP (n 战争)))))
+          (wd ，)
+          (VP
+            (v 开始)
+            (VP
+              (v 谋求)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (ADVP (ad 和平))
+                      (VP (v 解决) (NP-OBJ (NP-PN (n 海湾)) (NP (n 危机))))))
+                  (ude 的))
+                (NP (n 谈判)))))))))
+  (wj 。)))
+</S>

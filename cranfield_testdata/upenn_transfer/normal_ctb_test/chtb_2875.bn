@@ -1,0 +1,160 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-APP (NP-PN (ns 中国)) (NP (n 总理))) (NP-PN (nrf 朱容基)))
+    (VP
+      (NP-TMP (t 星期五))
+      (VP (v 开始) (VP (PP-LOC (p 在) (NP-PN (ns 日本))) (VP (v 访问))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 应该)
+          (VP
+            (v 让)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (LCP (NP (QP (m 两)) (NP (n 国))) (f 之间))
+                    (VP (ADVP (d 经常)) (VP (v 呈现))))
+                  (ude 的)))
+              (ADJP (a 紧张))
+              (NP (n 关系)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 展开)
+                (QP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新)))
+                      (ude 的)))
+                  (QP (m 一) (CLP (q 页)))))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 朱容基))
+    (VP
+      (LCP-TMP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-ADV
+              (p 与)
+              (NP
+                (NP-APP (NP-PN (ns 日本)) (NP (n 首相)))
+                (NP-PN (nrf 森喜良))))
+            (VP (vi 会谈))))
+        (n 时))
+      (wd ，)
+      (ADVP (ad 显然))
+      (VP
+        (v 绕开)
+        (NP-OBJ
+          (QP (m 一些))
+          (NP
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-3))
+                  (VP (vyou 有) (NP-OBJ (n 争议))))
+                (ude 的)))
+            (NP (n 问题)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 表示)
+    (IP-OBJ
+      (NP-SBJ-PN (ns 中国))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP
+            (PP-MNR (p 以) (NP (n 历史)))
+            (VP (p 为) (VP (v 借) (NP (n 镜)))))
+          (wd ，)
+          (VP (v 面向) (NP-OBJ (t 未来)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 感谢)
+    (NP-OBJ-PN (ns 日本))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-TMP (p 在) (LCP (QP (m ２０) (CLP (q 年))) (f 来)))
+        (PP-DIR (p 对) (NP (ns 中国)))
+        (VP
+          (v 提供)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (n 价值) (QP-OBJ (m ２３０亿) (CLP (q 美元)))))
+                (ude 的)))
+            (NP (n 经济) (n 援助)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 两) (CLP (q 位))) (NP (n 领导人)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (QP (m 一) (CLP (q 系列)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 建立) (NP-OBJ (v 互信))))
+                (ude 的)))
+            (NP (n 措施)))
+          (f 上)))
+      (VP (v 达成) (NP-OBJ (n 协议)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 包括)
+      (IP-OBJ (NP-SBJ (n 双方)) (VP (v 进行) (NP-OBJ (n 军事) (n 交流))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 朱容基))
+  (VP
+    (PP-DIR (p 对) (NP-PN (ns 日本)))
+    (VP
+      (v 进行)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (vi 为期) (QP-EXT (m ６) (CLP (q 天)))))
+            (ude 的)))
+        (NP (n 访问)))))
+  (wj 。)))
+</S>

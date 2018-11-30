@@ -1,0 +1,116 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 嫌犯))
+    (VP
+      (PP-PRP
+        (c 因为)
+        (IP
+          (NP-SBJ (n 被害人))
+          (VP
+            (NP-TMP
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-TMP (-NONE- *T*-1))
+                      (PP-LOC (p 在) (NP (nx ｋｔｖ)))
+                      (VP (vi 唱歌))))
+                  (ude 的)))
+              (NP (n 时候)))
+            (VP (v 瞄) (y 了) (NP-OBJ (n 对方)) (ADVP (d 一眼))))))
+      (ADVP (d 就))
+      (VP (v 围殴) (NP-OBJ (n 被害人)))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 尽管))
+      (IP
+        (NP-SBJ (n 被害人))
+        (VP (DVP (ADVP (d 一再)) (ude 的)) (VP (n 道歉)))))
+    (NP-SBJ (n 嫌犯))
+    (VP
+      (ADVP (d 还是))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ-2 (r 他))
+          (VP (VRD (v 砍) (v 死)) (NP-OBJ (-NONE- *-2)))))))
+  (wd ，)
+  (IP (NP-SBJ (n 手段)) (VP (a 残暴)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (m ４) (CLP (q 个)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 杀人))) (ude 的)))
+      (NP (n 嫌犯)))
+    (VP
+      (PP-DIR (p 从) (NP (DNP (NP (n 警察局)) (ude 的)) (NP (n 拘留所))))
+      (VP (VRD (v 押解) (v 出来)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (PP-MNR
+        (p 在)
+        (LCP
+          (NP (DNP (NP (n 严囚道) (c 和) (n 员警)) (ude 的)) (NP (an 拘束)))
+          (f 下)))
+      (VP
+        (VP (VRD (v 押) (v 上)) (y 了) (NP-OBJ (n 侦防车)))
+        (VP (VSB (v 移送) (vi 法办))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 嫌犯))
+  (VP
+    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 行凶))) (f 之后))
+    (ADVP (d 就))
+    (VP (VP (v 骑) (uzhe 着) (NP-OBJ (n 机车))) (VP (vi 逃逸))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (PP-MNR (p 经过) (NP (v 布线) (v 查访)))
+      (VP
+        (v 锁定)
+        (NP-OBJ (NP (r 其中)) (QP (m 一) (CLP (q 名))) (NP (n 嫌犯))))))
+  (wd ，)
+  (IP
+    (NP-SBJ-1 (-NONE- *pro*))
+    (VP
+      (ADVP (f 最后))
+      (VP
+        (VP
+          (PP-LGS (p 由) (NP (DNP (NP (n 嫌犯)) (ude 的)) (NP (n 爸爸))))
+          (VP (v 带) (uzhe 着) (NP-OBJ (-NONE- *-1))))
+        (VP (VSB (vi 出面) (vi 投案))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 并且))
+      (VP
+        (VRD (VSB (VP (v 寻) (NP (n 线))) (v 追查)) (v 到))
+        (NP-OBJ (DP (r 其他) (QP (m ３) (CLP (q 个)))) (NP (n 共犯))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 其中)) (QP (m 一个)) (NP (n 人)))
+    (VP (ADVP (v 还)) (n 未成年)))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (a 全)) (NP (n 案)))
+    (VP (PP-MNR (p 以) (NP (n 杀人) (n 罪嫌))) (VP (VSB (v 移送) (vi 法办)))))
+  (wj 。)))
+</S>

@@ -1,0 +1,224 @@
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 海口)
+  (t 二月)
+  (t 三日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 胡辛)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP (n 专家) (k 们))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (DNP (NP-PN (ns 中国)) (ude 的))
+              (QP (m 五) (CLP (q 个)))
+              (NP (nl 经济特区)))
+            (f 中)))
+        (wd ，)
+        (NP-SBJ
+          (DNP (NP-PN (ns 海南)) (ude 的))
+          (NP
+            (n 地理)
+            (n 位置)
+            (wn 、)
+            (n 资源)
+            (n 条件)
+            (wn 、)
+            (n 经济)
+            (n 发展)
+            (n 状况)))
+        (VP (ADVP (d 较为)) (VP (a 特殊))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 应)
+          (VP (ADVP (d 进一步)) (VP (v 扩大) (NP-OBJ (vl 对外开放))))
+          (wd ，)
+          (VP
+            (ADVP (d 率先))
+            (VP
+              (v 实现)
+              (NP-OBJ
+                (DNP
+                  (PP
+                    (p 与)
+                    (IP
+                      (IP
+                        (NP-SBJ
+                          (ADVP (NP (ns 亚)) (ADVP (n 太)))
+                          (n 区域)
+                          (n 经济))
+                        (VP (n 一体化)))
+                      (c 和)
+                      (IP (NP-SBJ (n 国际) (n 贸易)) (VP (vi 自由化)))))
+                  (ude 的))
+                (NP (n 对接)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这些)) (NP (n 建议)))
+    (VP (v 分为) (NP-OBJ (QP (m 六) (CLP (q 个))) (NP (n 部分)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 分别))
+      (VP
+        (vshi 是)
+        (wm ：)
+        (IP-PRD
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (PP-MNR
+                (p 按照)
+                (NP
+                  (CP-APP
+                    (wyz “)
+                    (IP
+                      (IP (NP-SBJ (n 一线)) (VP (v 放开)))
+                      (wd ，)
+                      (IP (NP-SBJ (n 二线)) (VP (vi 隔离))))
+                    (wyy ”)
+                    (ude 的))
+                  (NP (n 原则))))
+              (VP
+                (vi 加速)
+                (NP-OBJ
+                  (DNP (NP-PN (ns 洋浦) (n 保税区)) (ude 的))
+                  (NP (n 开发) (n 建设)))))
+            (wf ；)
+            (VP
+              (VP (v 借鉴) (NP-OBJ (n 国际) (n 经验)))
+              (wd ，)
+              (VP
+                (ADVP (d 尽快))
+                (VP
+                  (pba 把)
+                  (IP-OBJ
+                    (NP-PN-SBJ (ns 三亚))
+                    (VP
+                      (VRD (v 建设) (v 成))
+                      (NP-OBJ (ADJP (n 国际性)) (NP (n 旅游) (n 城市))))))))
+            (wf ；)
+            (VP
+              (VP (v 采取) (NP-OBJ (n 优惠) (n 政策)))
+              (VP
+                (VP (v 扶持) (NP-OBJ (-NONE- *RNR*-1)))
+                (c 和)
+                (VP
+                  (v 鼓励)
+                  (NP-OBJ-1
+                    (DNP
+                      (NP
+                        (NP-PN (ns 海南))
+                        (NP (n 热带) (n 农业) (c 及) (n 加工业)))
+                      (ude 的))
+                    (NP (n 发展))))))
+            (wf ；)
+            (VP
+              (ADVP (ad 努力))
+              (VP
+                (v 争取)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (v 实现)
+                    (NP-OBJ
+                      (DNP
+                        (LCP
+                          (NP (NP-PN (nz 琼台)) (NP (n 农业) (n 项)))
+                          (f 下))
+                        (ude 的))
+                      (ADJP (a 自由))
+                      (NP (n 贸易)))))))
+            (wf ；)
+            (VP
+              (VP
+                (VP
+                  (v 鼓励)
+                  (NP-PN-OBJ (-NONE- *RNR*-2))
+                  (IP (-NONE- *RNR*-3)))
+                (c 和)
+                (VP
+                  (v 支持)
+                  (NP-PN-OBJ-2 (ns 海南))
+                  (IP-3
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (VP (PP (p 与) (NP (n 外资))) (VP (n 合作)))
+                      (wd ，)
+                      (VP
+                        (v 开发)
+                        (NP-OBJ (NP-PN (ns 南海)) (NP (n 海洋) (n 资源)))))))))
+            (wf ；)
+            (VP
+              (PP-MNR
+                (p 按照)
+                (NP
+                  (CP-APP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 扩大) (NP-OBJ (vl 对外开放))))
+                    (ude 的))
+                  (NP (n 要求))))
+              (wd ，)
+              (VP
+                (VP
+                  (v 允许)
+                  (NP-PN-OBJ (-NONE- *RNR*-4))
+                  (IP (-NONE- *RNR*-5)))
+                (c 和)
+                (VP
+                  (v 鼓励)
+                  (NP-PN-OBJ-4 (ns 海南))
+                  (IP-5
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (ADVP (ad 大胆))
+                      (VP
+                        (v 进行)
+                        (NP-OBJ (DP (r 各项)) (NP (n 改革) (n 试验)))))))))
+            (udeng 等))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 建议))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 提出)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-TMP (p 在) (NP (t 近期)))
+                (VP (v 应) (VP (v 实施) (NP-OBJ (-NONE- *T*-1))))))
+            (ude 的)))
+        (QP (m 一) (CLP (q 系列)))
+        (NP (NP (ADJP (a 具体)) (NP (n 措施))) (c 和) (NP (n 政策) (n 要点))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

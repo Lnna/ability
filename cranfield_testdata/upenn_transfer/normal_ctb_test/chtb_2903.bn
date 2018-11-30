@@ -1,0 +1,200 @@
+<S>
+( (IP
+  (IP
+    (PP-LOC (p 在) (NP-PN (ns 香港)))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 香港)) (NP (n 政府)))
+    (VP
+      (v 发现)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 可能) (VP (v 带有) (NP-OBJ (n 禽流感) (n 病毒)))))
+            (ude 的)))
+        (NP (n 鸡只)))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 尽管))
+      (IP
+        (NP-SBJ (n 官员))
+        (VP
+          (v 表示)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ
+              (CP-APP
+                (IP (NP-SBJ (n 禽流感)) (VP (ADVP (d 再度)) (VP (vi 暴发))))
+                (ude 的))
+              (NP (n 可能性)))
+            (VP (ADVP (d 并)) (ADVP (d 不)) (VP (a 高)))))))
+    (wd ，)
+    (ADVP (c 但是))
+    (NP-SBJ (r 这))
+    (VP
+      (ADVP (d 仍然))
+      (VP
+        (v 引起)
+        (y 了)
+        (NP-OBJ (DNP (NP (n 舆论)) (ude 的)) (ADJP (a 密切)) (NP (n 关注))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 渔护署))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (NP-TMP (t 未来))
+        (ADVP (d 将))
+        (VP
+          (VP
+            (v 展开)
+            (NP-OBJ (DNP (ADJP (a 深入)) (ude 的)) (NP (n 检验))))
+          (wd ，)
+          (VP
+            (ADVP (d 也))
+            (VP
+              (v 要)
+              (VP
+                (v 检验)
+                (NP-OBJ
+                  (NP (f 附近))
+                  (DNP (DP (r 其他)) (ude 的))
+                  (NP (n 养鸡场))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 证实)
+        (IP-OBJ
+          (NP (NP (n 鸡)) (ADVP (d 只)))
+          (VP (v 感染) (y 了) (NP-OBJ (NP (nx ｈ)) (QP (m ５)) (n 病毒)))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 要)
+    (VP
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ-1 (r 它们))
+          (VP
+            (NP (ADVP (d 全)) (NP (v 数)))
+            (VP (v 销毁) (NP-OBJ (-NONE- *-1))))))
+      (wd ，)
+      (VP
+        (v 防止)
+        (IP-OBJ (NP-SBJ (n 病毒)) (VP (ADVP (d 进一步)) (VP (v 扩散)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP (NP (nt 渔护署)) (ADJP (n 助理)) (NP (n 署长)))
+      (NP-PN (nr 廖继坚)))
+    (VP
+      (NP-TMP (t 星期六))
+      (PP-DIR (p 对) (NP (n 调查) (n 结果)))
+      (VP (v 进行) (y 了) (NP-OBJ (n 解释)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP
+        (CP-ADV
+          (ADVP (c 尽管))
+          (IP
+            (NP-SBJ (v 调查))
+            (VP (v 发现) (NP-OBJ (NP (nx ｈ)) (QP (m ５)) (n 病毒)))))
+        (wd ，)
+        (ADVP (c 但是))
+        (NP-SBJ (DNP (NP (n 病毒)) (ude 的)) (NP (n 浓度)))
+        (VP
+          (VP (ADVP (d 很)) (VP (a 低)))
+          (wd ，)
+          (VP
+            (v 显示)
+            (IP-OBJ
+              (NP-SBJ (b 传染性))
+              (VP (ADVP (d 并)) (ADVP (d 不)) (VP (a 强)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 同时))
+    (NP-SBJ
+      (NP (DP (r 这家)) (NP (n 养鸡场)))
+      (DNP (DP (r 其它)) (ude 的))
+      (NP (n 鸡只)))
+    (wd ，)
+    (VP (ADVP (d 也)) (ADVP (d 都)) (VP (v 没有) (NP-OBJ (n 病毒) (v 显示)))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (ADVP (d 不))
+        (ADVP (d 太))
+        (VP
+          (v 可能)
+          (VP
+            (ADVP (d 再))
+            (VP
+              (vi 暴发)
+              (NP-OBJ
+                (PP (n 象) (NP (t ９７年)))
+                (NP (r 那样))
+                (DNP (NP (b 大规模)) (ude 的))
+                (NP (n 禽流感)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (dl 从此以后))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 香港)) (NP (n 政府)))
+  (VP
+    (v 加强)
+    (y 了)
+    (NP-OBJ
+      (DNP
+        (PP-DIR (p 对) (NP (NP (NP (n 鸡)) (ADVP (d 只))) (a 安全)))
+        (ude 的))
+      (NP (n 检验))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 通过) (y 了) (NP-OBJ (DNP (NP (t ８月份)) (ude 的)) (NP (n 检验)))))
+  (wd ，)
+  (IP
+    (ADVP (t 后来))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 约))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ (QP (m ４千) (CLP (q 只))) (NP (n 鸡)))
+          (VP (VRD (v 出售) (v 到)) (LCP-OBJ (NP (n 市面)) (f 上)))))))
+  (wj 。)))
+</S>

@@ -33,7 +33,8 @@ class LtpNlp():
     #http://pyltp.readthedocs.io/zh_CN/latest/api.html#id10
     '''
     def __init__(self):
-        model_path = '/home/lnn/Documents/postag/ltp_data_v3.4.0/'
+        # model_path = '/home/lnn/Documents/postag/ltp_data_v3.4.0/'
+        model_path = '/home/nana/Documents/ltp_data_v3.4.0/'
         self.seg = pyltp.Segmentor()
         self.seg.load(model_path + 'cws.model')
         self.pos = pyltp.Postagger()

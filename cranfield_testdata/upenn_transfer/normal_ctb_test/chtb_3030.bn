@@ -1,0 +1,635 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 美国)) (NP (QP (m 第七)) (NP (n 舰队))) (NP (n 司令)))
+    (NP-PN (nrf 梅策) (n 中将)))
+  (VP
+    (NP-TMP (t 星期五))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (PP-PRP
+          (p 由于)
+          (IP
+            (NP-SBJ
+              (DNP
+                (NP
+                  (NP (NP-PN (ns 中国)) (NP (n 大陆)))
+                  (p 与)
+                  (NP-PN (ns 台湾)))
+                (ude 的))
+              (NP (n 关系)))
+            (VP
+              (ADVP (d 正))
+              (PP-MNR
+                (v 延)
+                (uzhe 着)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 积极)))
+                      (ude 的)))
+                  (NP (n 方向))))
+              (VP (v 发展)))))
+        (wd ，)
+        (NP-PN-SBJ (ns 美国))
+        (VP
+          (ADVP (c 因此))
+          (VP
+            (v 能够)
+            (VP
+              (v 放松)
+              (NP-OBJ
+                (NP (NP-PN (ns 美国)) (NP (n 海军)))
+                (DNP (PP (p 在) (NP-PN (ns 东亚))) (ude 的))
+                (NP (n 战备) (n 状态)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-TMP (f 下面))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 请)
+    (VP
+      (v 听)
+      (NP-OBJ
+        (DNP
+          (NP (NP-APP (NP-PN (n 美国之音)) (NP (n 记者))) (NP-PN (nr 江臣)))
+          (ude 的))
+        (ADJP (n 综合))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 据)
+    (IP
+      (NP-SBJ
+        (NP-PN (nt 法新社))
+        (c 和)
+        (NP-PN (wkz 《) (ns 台北) (n 时报) (wky 》)))
+      (VP (v 报道))))
+  (wm ：)
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (n 基地))
+              (VP (v 设) (PP (p 在) (NP (NP (f 西)) (NP-PN (ns 太平洋))))))
+            (ude 的)))
+        (NP-PN (ns 美国))
+        (QP (m 第七))
+        (NP (n 舰队)))
+      (NP (n 司令)))
+    (NP-PN (nrf 梅策) (n 中将)))
+  (VP
+    (NP-TMP (t 星期五))
+    (VP
+      (VP (v 发表) (NP-OBJ (n 讲话)))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (PP-PRP
+            (p 由于)
+            (IP
+              (NP-SBJ
+                (DNP (NP-PN (ns 中国) (p 与) (ns 台湾)) (ude 的))
+                (NP (n 关系)))
+              (VP
+                (ADVP (d 正))
+                (PP-MNR
+                  (v 延)
+                  (uzhe 着)
+                  (NP
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 积极)))
+                        (ude 的)))
+                    (NP (n 方向))))
+                (VP (v 发展)))))
+          (wd ，)
+          (NP-PN-SBJ (ns 美国))
+          (VP
+            (ADVP (c 因此))
+            (VP
+              (v 能够)
+              (VP
+                (v 放松)
+                (NP-OBJ
+                  (NP (NP-PN (ns 美国)) (NP (n 海军)))
+                  (DNP (PP (p 在) (NP-PN (ns 东亚))) (ude 的))
+                  (NP (n 战备) (n 状态))))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (PP-MNR (p 据) (NP (v 报道)))
+    (wm ：)
+    (NP-PN-SBJ (nrf 梅策) (n 中将))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-LOC
+          (p 在)
+          (NP
+            (DNP (NP-PN (ns 香港)) (ude 的))
+            (NP (n 外国) (n 记者) (n 俱乐部))))
+        (VP (v 讲) (NP-OBJ (DP (r 这) (CLP (q 番))) (NP (n 话)))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyy ”)
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (v 预见)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 美国))
+          (VP
+            (ADVP (d 将))
+            (VP
+              (VP (v 继续) (VP (v 发挥) (NP-OBJ (n 作用))))
+              (wd ，)
+              (VP
+                (v 使)
+                (NP-OBJ (n 双方))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 能够) (VP (v 实现) (NP-OBJ (vi 对话))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (nt 法新社))
+    (c 和)
+    (NP-PN (wkz 《) (ns 台北) (n 时报) (wky 》)))
+  (VP
+    (v 报道)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ
+        (NP-APP (NP-PN (ns 美国)) (NP (n 海军) (n 中将)))
+        (NP-PN (nr 梅策)))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ
+            (DP (r 这种))
+            (DNP (PP (p 对) (NP-PN (ns 台湾))) (ude 的))
+            (ADJP (a 好战))
+            (NP (n 态度)))
+          (wd ，)
+          (VP
+            (ADVP (d 将))
+            (ADVP (d 不))
+            (VP (v 会) (VP (v 得到) (NP-OBJ (n 容忍)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (NP-SBJ (DP (r 这) (QP (m 两) (CLP (q 家)))) (NP (n 媒体)))
+  (VP
+    (v 报道)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (nr 梅策))
+      (VP
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-PN-SBJ (ns 中国))
+                    (VP
+                      (PP-DIR
+                        (p 对)
+                        (NP
+                          (NP (NP-PN (ns 美国)) (NP (n 舰队)))
+                          (DNP (PP (p 在) (NP (ns 亚太地区))) (ude 的))
+                          (NP (n 存在))))
+                      (VP
+                        (usuo 所)
+                        (VP (v 持) (NP-OBJ (-NONE- *T*-1))))))
+                  (ude 的)))
+              (ADJP (n 否定))
+              (NP (n 态度))))
+          (VP (vl 不以为然)))
+        (wd ，)
+        (VP
+          (ADVP (c 而))
+          (PP-DIR
+            (p 对)
+            (NP
+              (DNP
+                (NP (NP-PN (ns 美) (wn 、) (ns 中)) (NP (n 海军)))
+                (ude 的))
+              (NP (n 合作) (n 前景))))
+          (VP (v 表示) (NP-OBJ (a 乐观)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP-PN (ns 美国)) (NP (n 海军)))
+    (NP-PN (wyz “) (NP (n 钱)) (NP (t 瑟勒维尔号)) (wyy ”))
+    (NP (n 军舰)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 今年) (t ８月份))
+    (QP-ADV (m 首) (CLP (q 次)))
+    (VP (v 访问) (NP-OBJ (NP-PN (ns 中国)) (NP-PN (ns 青岛港)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP
+      (NP (NP-PN (nr 梅策)) (DP (r 这) (CLP (q 番))) (NP (n 讲话)))
+      (f 之前)))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP
+      (ADJP (f 前))
+      (NP-PN (ns 美国))
+      (NP (n 国家) (an 安全) (n 会议))
+      (NP (NP-PN (ns 亚洲)) (NP (n 事务)))
+      (ADJP (b 资深))
+      (NP (n 主任)))
+    (NP-PN (nr 李坎如)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 星期四))
+    (PP-TMP
+      (p 在)
+      (NP
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-TMP (-NONE- *T*-1))
+                (PP-DIR (p 对) (NP-PN (ns 台湾)))
+                (VP (v 进行) (NP-OBJ (n 访问)))))
+            (ude 的)))
+        (NP (n 时候))))
+    (VP
+      (v 强调)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 要)
+          (VP
+            (v 降低)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (DNP
+                    (LCP (NP-PN (ns 中国) (p 与) (ns 台湾)) (f 之间))
+                    (ude 的))
+                  (NP (n 军事) (n 对抗)))
+                (ude 的))
+              (NP (n 可能性))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (wkz 《) (ns 台北) (n 时报) (wky 》))
+  (VP
+    (VP
+      (IP (VP (ADVP (d 原)) (VP (v 引))))
+      (NP-OBJ
+        (DNP (NP (QP (m 一) (CLP (q 位))) (NP (n 观察) (n 人士))) (ude 的))
+        (NP (n 话))))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-PN-SBJ (nr 李坎如))
+        (VP
+          (v 可能)
+          (VP
+            (vshi 是)
+            (VP
+              (ADVP (p 在))
+              (VP
+                (v 建议)
+                (wd ，)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 让)
+                    (NP-PN-OBJ (ns 美国))
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (VP
+                          (pba 把)
+                          (IP-OBJ
+                            (NP-PN-SBJ (ns 台湾))
+                            (VP
+                              (v 排除)
+                              (PP
+                                (p 在)
+                                (LCP
+                                  (NP
+                                    (NP (n 战区) (n 导弹) (n 防御) (n 系统))
+                                    (NP (n 保护伞)))
+                                  (f 之外))))))
+                        (wd ，)
+                        (VP
+                          (PP-MNR (d 以此))
+                          (VP
+                            (v 换取)
+                            (IP-OBJ
+                              (NP-SBJ (-NONE- *pro*))
+                              (VP
+                                (v 让)
+                                (NP-PN-OBJ (ns 中国))
+                                (IP
+                                  (NP-SBJ (-NONE- *PRO*))
+                                  (VP
+                                    (v 减少)
+                                    (IP-OBJ
+                                      (NP-SBJ (-NONE- *PRO*))
+                                      (VP
+                                        (nt 布署)
+                                        (NP-OBJ
+                                          (CP
+                                            (WHNP-1 (-NONE- *OP*))
+                                            (CP
+                                              (IP
+                                                (NP-SBJ
+                                                  (-NONE- *T*-1))
+                                                (VP
+                                                  (v 用)
+                                                  (VP
+                                                    (v 来)
+                                                    (VP
+                                                      (v 进攻)
+                                                      (NP-PN-OBJ
+                                                        (ns 台湾))))))
+                                              (ude 的)))
+                                          (NP (n 导弹))))))))))))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (wkz 《) (ns 台北) (n 时报) (wky 》))
+  (VP
+    (VP
+      (IP (VP (ADVP (d 原)) (VP (v 引))))
+      (NP-OBJ
+        (DNP
+          (NP (NP-PN (wkz 《) (ns 中国) (n 时报) (wky 》)) (NP (v 主编)))
+          (ude 的))
+        (NP (n 话))))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (IP
+          (CP-CND
+            (ADVP (c 如果))
+            (CP
+              (IP
+                (NP-PN-SBJ (ns 中国) (p 与) (ns 美国))
+                (VP (v 达成) (NP-OBJ (n 军事) (n 协议))))
+              (udh 的话)))
+          (wd ，)
+          (NP-PN-SBJ (ns 中国))
+          (VP
+            (NP-TMP (t 将来))
+            (VP
+              (v 可能)
+              (VP
+                (v 会)
+                (VP
+                  (VP (vyou 有) (NP-OBJ (n 权)))
+                  (VP
+                    (v 禁止)
+                    (NP-PN-OBJ (ns 美国))
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (PP-DIR (p 向) (NP-PN (ns 台湾)))
+                        (VP (v 出售) (NP-OBJ (n 军备)))))))))))
+        (wd ，)
+        (IP
+          (ADVP (c 而))
+          (NP-SBJ (r 这))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-PN-SBJ (ns 台湾))
+                    (VP (usuo 所) (VP (v 担心) (NP-OBJ (-NONE- *T*-1)))))
+                  (ude 的)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyy ”)
+  (NP-PN-SBJ (wkz 《) (ns 台北) (n 时报) (wky 》))
+  (VP
+    (VSB (v 报道) (v 说))
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (NP-APP (NP-PN (nt 民进党)) (NP (n 立法) (n 委员)))
+          (NP-PN (nr 张绪成)))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 赞同)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (NP-PN (wkz 《) (ns 中国) (n 时报) (wky 》))
+                  (NP (v 主编)))
+                (ude 的))
+              (NP (n 观点))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 他))
+        (VP
+          (v 说)
+          (IP-OBJ
+            (NP-SBJ (r 他))
+            (VP
+              (v 认为)
+              (IP-OBJ
+                (NP-SBJ (r 这))
+                (VP
+                  (vshi 是)
+                  (NP-PRD
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 不切实际)))
+                        (ude 的)))
+                    (NP (n 想法)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-SBJ
+        (NP-PN (ns 中国))
+        (c 和)
+        (NP (NP-PN (ns 美国)) (NP-PN (n 共和党))))
+      (VP
+        (ADVP (d 都))
+        (ADVP (d 不))
+        (VP
+          (v 会)
+          (VP (v 接受) (NP-OBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 建议))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (VSB (v 补充) (v 说))
+      (wd ，)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 台湾))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (VP
+              (ADVP (ad 努力))
+              (VP
+                (v 争取)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 加入) (NP-OBJ (n 战区) (n 导弹) (n 防御) (n 系统))))))
+            (wd ，)
+            (c 或者)
+            (VP
+              (ADVP (ad 努力))
+              (VP
+                (v 提高)
+                (NP-OBJ
+                  (DNP (NP (r 他) (r 自己)) (ude 的))
+                  (NP (n 导弹) (n 防卫) (n 能力))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (wkz 《) (ns 台北) (n 时报) (wky 》))
+  (VP
+    (VSB (v 报道) (v 说))
+    (wm ：)
+    (IP-OBJ
+      (NP-PN-SBJ (nr 李坎如))
+      (VP
+        (v 否认)
+        (y 了)
+        (NP-OBJ
+          (NP (n 媒体))
+          (DNP
+            (PP
+              (p 对)
+              (IP
+                (NP-SBJ (r 他))
+                (VP
+                  (v 提议)
+                  (IP-OBJ
+                    (NP-PN-SBJ (ns 中国) (p 与) (ns 台湾))
+                    (VP (v 达成) (NP-OBJ (n 军备) (n 控制) (n 协议)))))))
+            (ude 的))
+          (NP (n 报道))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (wkz 《) (ns 台湾) (n 时报) (wky 》))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (DP (r 其他)) (NP-PN (ns 中国)) (NP (n 学者)))
+        (VP
+          (ADVP (d 也))
+          (VP
+            (v 怀疑)
+            (IP-OBJ
+              (NP-PN-SBJ (ns 中国))
+              (VP
+                (v 会)
+                (VP
+                  (PP-ADV (p 与) (NP-PN (ns 台湾)))
+                  (VP
+                    (v 签署)
+                    (NP-OBJ (DP (r 任何)) (NP (n 军备) (n 控制) (n 协议)))))))))
+        (wd ，)
+        (PP-PRP
+          (c 因为)
+          (IP
+            (NP-SBJ (r 这))
+            (VP
+              (v 意味着)
+              (IP-OBJ
+                (NP-SBJ
+                  (NP-PN (ns 北京))
+                  (DNP (NP (t 目前)) (ude 的))
+                  (DNP (NP (n 军事) (n 优势)) (ude 的))
+                  (NP (n 建立)))
+                (VP
+                  (ADVP (d 将))
+                  (VP (v 会) (VP (v 受到) (NP-OBJ (n 限制))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 以上))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (NP (NP-APP (NP-PN (n 美国之音)) (NP (n 记者))) (NP-PN (nr 江臣)))
+        (ude 的))
+      (ADJP (n 综合))
+      (NP (n 报道))))
+  (wj 。)))
+</S>

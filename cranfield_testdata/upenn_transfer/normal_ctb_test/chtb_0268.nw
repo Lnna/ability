@@ -1,0 +1,146 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ
+    (NP (t 一九九四年) (n 版))
+    (NP-TTL
+      (wkz 《)
+      (NP (n 经济) (n 白皮书))
+      (wm ：)
+      (NP (NP (NP-PN (ns 中国)) (NP (n 经济) (n 形势))) (c 与) (NP (n 展望)))
+      (wky 》)))
+  (VP (ADVP (d 即将)) (VP (v 出版)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 四月)
+  (t 二十三日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 姜军)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ-1
+    (NP (t 一九九四年) (n 版))
+    (NP-TTL
+      (wkz 《)
+      (NP (n 经济) (n 白皮书))
+      (wm ：)
+      (NP (NP (NP-PN (ns 中国)) (NP (n 经济) (n 形势))) (c 与) (NP (n 展望)))
+      (wky 》)))
+  (wd ，)
+  (VP
+    (ADVP (t 近日))
+    (PP-LGS (p 由) (NP-PN (ns 中国) (n 发展) (n 出版社)))
+    (VP (v 出版) (NP-OBJ (-NONE- *-1))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *-1))
+            (VP
+              (PP-LGS
+                (p 由)
+                (NP-PN
+                  (NP-PN (nt 国务院) (n 发展) (n 研究) (n 中心))
+                  (NP
+                    (NP
+                      (NP (ADJP (n 名誉)) (NP (n 主任)))
+                      (NP-PN (nr 马洪)))
+                    (wn 、)
+                    (NP (NP (n 主任)) (NP-PN (nr 孙尚清))))))
+              (VP (v 主编)))))
+        (ude 的))
+      (NP (n 经济) (n 白皮书)))
+    (wd ，)
+    (VP
+      (ADVP (d 曾))
+      (VP
+        (v 获)
+        (NP-OBJ
+          (NP-APP
+            (wyz “)
+            (NP-PN (ns 中国))
+            (ADJP (n 十佳))
+            (NP (n 经济) (n 读物))
+            (wyy ”))
+          (NP (n 称号))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (PP-LOC (p 在) (NP (s 海内外)))
+      (VP
+        (v 拥有)
+        (NP-OBJ
+          (QP (m 一) (CLP (ADJP (a 大)) (CLP (q 批))))
+          (DNP
+            (NP
+              (NP (ADJP (a 知名)) (NP (n 机构)))
+              (c 和)
+              (NP (n 专家) (NP (n 学者) (n 层))))
+            (ude 的))
+          (NP (n 读者))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (r 其)) (ADJP (b 主要)) (NP (n 作者)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (NP
+          (NP-PN (n 国家) (nt 计委))
+          (wn 、)
+          (NP-PN (nt 外经贸委))
+          (wn 、)
+          (NP-PN (n 国家) (nt 体改委))
+          (wn 、)
+          (NP-PN (n 国家) (n 统计局))
+          (wn 、)
+          (NP-PN (nt 国务院) (n 特区) (n 办公室))
+          (wn 、)
+          (NP-PN (ns 中国) (n 社会) (n 科学院))
+          (c 和)
+          (NP-PN (nt 国务院) (n 发展) (n 研究) (n 中心)))
+        (ude 的))
+      (NP (n 专家) (c 与) (n 研究) (n 人员))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (r 他们))
+    (PP
+      (p 在)
+      (LCP
+        (NP
+          (DNP (QP (ADVP (t 以往)) (QP (m 几) (CLP (q 年)))) (ude 的))
+          (NP (n 白皮书)))
+        (f 中)))
+    (DNP
+      (PP (p 对) (NP (NP-PN (ns 中国)) (NP (n 经济) (n 发展) (n 轨迹))))
+      (ude 的))
+    (ADJP (a 准确))
+    (NP (n 描述) (c 与) (n 预言)))
+  (wd ，)
+  (VP
+    (v 受到)
+    (NP-OBJ (n 学术界) (c 与) (n 实业界))
+    (IP (NP-SBJ (-NONE- *PRO*)) (VP (n 好评))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

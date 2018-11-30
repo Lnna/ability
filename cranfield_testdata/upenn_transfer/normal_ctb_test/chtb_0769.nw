@@ -1,0 +1,260 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ
+    (ns 刚果)
+    (PRN (wkz （) (NP-PN (ns 布)) (wky ）))
+    (c 和)
+    (ns 刚果)
+    (PRN (wkz （) (NP-PN (t 金)) (wky ）)))
+  (VP
+    (v 签署)
+    (NP-OBJ
+      (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (d 互不) (VP (v 侵犯))))
+      (NP (n 条约))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 布拉柴维尔)
+  (t １２月)
+  (t ２９日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 张克千)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP
+        (NP-PN (ns 刚果) (PRN (wkz （) (NP-PN (ns 布)) (wky ）)))
+        (NP (n 总统)))
+      (NP-PN (nrf 萨苏)))
+    (p 与)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 到访))) (ude 的)))
+      (NP-APP
+        (NP-PN (ns 刚果) (PRN (wkz （) (NP-PN (t 金)) (wky ）)))
+        (NP (n 总统)))
+      (NP-PN (nrf 卡比拉))))
+  (VP
+    (NP-TMP (t ２９日))
+    (PP-LOC (p 在) (NP (r 此间)))
+    (VP (v 举行) (NP-OBJ (ADJP (d 单独)) (NP (v 会晤)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (vi 会谈)) (f 后))
+    (NP-SBJ (n 双方))
+    (VP
+      (VP
+        (v 签署)
+        (y 了)
+        (NP-OBJ
+          (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (d 互不) (VP (v 侵犯))))
+          (NP (n 条约))))
+      (wd ，)
+      (VP
+        (v 决定)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (vi 成立)
+            (NP-OBJ (QP (m 一) (CLP (q 支))) (ADJP (n 混合)) (NP (n 部队)))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 负责)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (v 维护)
+                    (NP-OBJ
+                      (DNP
+                        (NP
+                          (LCP (NP (QP (m 两)) (NP (n 国))) (f 间))
+                          (NP (n 边界)))
+                        (ude 的))
+                      (NP (an 安全))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方))
+  (VP
+    (VP (v 发表) (NP-OBJ (QP (m 一) (CLP (q 项))) (n 联合公报)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (QP (m 两) (CLP (q 位))) (NP (n 领导人)))
+        (VP
+          (v 讨论)
+          (y 了)
+          (NP-OBJ
+            (NP-APP
+              (NP
+                (DNP
+                  (NP (NP (NP (f 中部)) (NP-PN (ns 非洲))) (NP (n 地区)))
+                  (ude 的))
+                (NP (n 和平) (c 与) (an 稳定)))
+              (c 以及)
+              (NP (ADJP (n 双边)) (NP (n 合作)))
+              (udeng 等))
+            (NP (n 问题)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他们))
+  (VP
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP
+          (DNP
+            (NP
+              (NP (NP-PN (ns 非洲)) (NP (n 大陆)))
+              (wn 、)
+              (NP
+                (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+                (NP (NP (ns 大湖)) (NP (n 地区)))))
+            (ude 的))
+          (NP (n 武装) (n 冲突))))
+      (VP (v 表示) (NP-OBJ (v 忧虑))))
+    (wd ，)
+    (VP
+      (v 呼吁)
+      (NP-OBJ (n 国际) (n 社会))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 支持)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (ns 非洲))
+                  (VP
+                    (PP-BNF
+                      (p 为)
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (v 解决) (NP-OBJ (f 内部) (n 冲突)))))
+                    (VP (usuo 所) (VP (v 作) (NP-OBJ (-NONE- *T*-1))))))
+                (ude 的)))
+            (NP (an 努力)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (NP (t 本月)) (NP (t １８日))) (f 以来))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 刚果) (PRN (wkz （) (NP-PN (ns 布)) (wky ）)))
+    (IP (VP (vi 反) (NP (n 政府))))
+    (NP (n 武装)))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP (NP (NP-APP (n 首都)) (NP-PN (ns 布拉柴维尔))) (NP (f 南部) (n 地区))))
+    (VP
+      (v 进行)
+      (y 了)
+      (NP-OBJ (DNP (QP (m 数) (CLP (q 天))) (ude 的)) (NP (n 袭扰)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (IP (vi 事发)) (f 后))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 刚果) (PRN (wkz （) (NP-PN (ns 布)) (wky ）)))
+    (NP (n 政府)))
+  (VP
+    (v 指责)
+    (NP-OBJ (r 某国))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-BNF (p 为) (NP (r 之)))
+        (VP (v 提供) (y 了) (NP-OBJ (n 基地))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (wd ，)
+    (NP-TPC
+      (DNP (NP (DP (r 该)) (NP (n 地区))) (ude 的))
+      (QP (ADVP (d 约)) (QP (m ２０万)))
+      (NP (n 居民)))
+    (QP-SBJ (m 大部分))
+    (VP
+      (ADVP (d 已))
+      (VP (VP (v 弃) (NP-OBJ (n 家))) (VP (NP-ADV (f 北)) (VP (v 迁))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 政府军))
+    (VP
+      (ADVP (d 正在))
+      (PP-DIR
+        (p 对)
+        (NP
+          (DNP (NP (VP (vi 反) (NP (n 政府))) (NP (n 武装))) (ude 的))
+          (NP (n 残余))))
+      (VP (v 进行) (NP-OBJ (ADJP (f 最后)) (NP (v 清剿))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 不时))
+      (ADVP (d 还))
+      (VP
+        (v 可以)
+        (VP
+          (v 听到)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (b 零星))) (ude 的)))
+            (NP (n 枪声)))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-PN-SBJ (nrf 卡比拉))
+    (VP
+      (vshi 是)
+      (VP
+        (PP (v 应) (NP (DNP (NP-PN (nrf 萨苏)) (ude 的)) (NP (n 邀请))))
+        (PP-TMP (p 于) (NP (t ２９日)))
+        (PP-DIR
+          (p 对)
+          (NP-PN (ns 刚果) (PRN (wkz （) (NP-PN (ns 布)) (wky ）))))
+        (VP (v 进行) (NP-OBJ (ADJP (a 短暂)) (NP (n 工作) (n 访问)))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 已))
+    (PP-TMP (p 于) (NP (t 当天) (t 傍晚)))
+    (VP (VP (vi 乘船)) (VP (v 离开) (NP-PN-OBJ (ns 布拉柴维尔))) (VP (vi 回国))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

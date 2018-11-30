@@ -1,0 +1,44 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 韩国)) (NP (n 统一部) (n 长官)))
+      (NP (NP (nr1 朴)) (PP (p 在) (NP (v 归)))))
+    (VP
+      (QP (m １２) (CLP (q 号)))
+      (VP
+        (VP
+          (VP (v 率领) (NP-OBJ (NP-PN (ns 韩国)) (NP (n 代表团))))
+          (VP (p 乘) (NP-OBJ (n 专机)))
+          (VP (v 抵达) (NP-PN-OBJ (ns 平壤))))
+        (wd ，)
+        (VP
+          (v 参加)
+          (NP-OBJ
+            (NP-PN (n 朝) (wn 、) (ns 韩))
+            (QP (m 第４) (CLP (q 次)))
+            (ADJP (b 部长级))
+            (NP (n 会谈)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (ns 朝) (wn 、) (ns 韩))
+              (VP
+                (NP-TMP (t 今年))
+                (QP-ADV (ADJP (f 最后)) (QP (m 一) (CLP (q 次))))
+                (VP (v 举行) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (DNP (LCP (NP (n 政府)) (f 之间)) (ude 的))
+        (NP (n 对话)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP (n 中央台)) (VP (VSB (n 编译) (n 报道))) (wj 。)))
+</S>

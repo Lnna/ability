@@ -1,0 +1,241 @@
+<S>
+( (IP
+  (NP-TMP (t 现在))
+  (PP-LOC (p 在) (NP (s 海外)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (PP-ADV (p 与) (NP-PN (ns 中国))) (VP (v 有关))))
+        (ude 的)))
+    (NP (n 书籍)))
+  (FLR (y 呀))
+  (VP
+    (ADVP (d 总))
+    (VP
+      (v 能)
+      (VP
+        (v 引起)
+        (NP-OBJ
+          (DNP
+            (NP (NP (n 读者)) (c 和) (NP (ADJP (n 专业)) (n 人士)))
+            (ude 的))
+          (NP (n 注意))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 来)
+    (VP
+      (v 看)
+      (NP-OBJ
+        (DNP (NP-PN (ns 日本) (nz 大富) (n 电视台)) (ude 的))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 日前))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-2 (-NONE- *T*-1))
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (NP-PN (ns 日本) (ns 美) (ns 日) (n 新闻社))
+                (c 和)
+                (NP-PN (ns 亚洲) (n 调查会))))
+            (VP (v 主办) (NP-OBJ (-NONE- *-2))))
+          (ude 的)))
+      (NP (QP (m 第十八) (CLP (q 届))) (NP-PN (ns 亚洲) (ns 太平洋) (n 奖)))
+      (NP (n 颁奖) (n 仪式))))
+  (VP (PP-LOC (p 在) (NP-PN (ns 日本) (n 记者) (n 中心))) (VP (v 举行)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 王曙光) (n 教授))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 颁奖) (n 仪式)) (f 上)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (PP-MNR (p 作为) (NP (QP (m 一个)) (NP (n 华人) (n 学者))))
+            (wd ，)
+            (VP
+              (v 能够)
+              (VP
+                (v 获得)
+                (NP-OBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 荣誉))))))
+          (wd ，)
+          (VP
+            (v 感到)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (ADVP (d 非常)) (VP (a 高兴)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 也))
+    (PP-PRP
+      (p 对)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (NP-APP
+                  (NP (NP-PN (ns 日本)) (NP (n 友人)))
+                  (c 和)
+                  (NP-PN (nz 拓殖) (n 大学))
+                  (udeng 等))
+                (DP (r 各))
+                (NP (n 方面)))
+              (VP (v 给予) (NP-IO (r 自己)) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 支持))))
+    (VP (v 表示) (NP-OBJ (v 感谢))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 本届)) (NP-PN (ns 亚洲) (ns 太平洋) (n 奖)))
+  (VP
+    (ADVP (d 共))
+    (VP
+      (VRD (v 评选) (v 出))
+      (NP-OBJ
+        (NP
+          (NP (QP (m 一) (CLP (q 部))) (NP (ADVP (d 最)) (NP (n 优秀奖))))
+          (c 和)
+          (NP (QP (m 三) (CLP (q 部))) (NP (n 优秀奖))))
+        (NP (n 作品)))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-LOC
+          (p 从)
+          (LCP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 应征)))
+                  (ude 的)))
+              (QP (QP (QP (m 八十)) (ADVP (m 多))) (CLP (q 部)))
+              (NP (n 作品)))
+            (f 中)))
+        (VP (VRD (v 遴选) (v 出来))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (PP-MNR (p 据) (IP (NP-SBJ (n 评委会)) (VP (v 介绍))))
+    (wd ，)
+    (PP-LOC (p 在) (LCP (NP (ADJP (n 应征)) (NP (n 作品))) (f 中)))
+    (NP-SBJ (DNP (QP (ADVP (v 近)) (QP (m 半数))) (ude 的)) (NP (n 内容)))
+    (VP (vshi 是) (VP (PP-ADV (p 与) (NP-PN (ns 中国))) (VP (v 有关)))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (LCP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 获奖))) (ude 的)))
+      (QP (m 四) (CLP (q 部)))
+      (NP (n 作品)))
+    (f 中))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vyou 有)
+      (CP
+        (IP
+          (NP-SBJ (QP (m 两) (CLP (q 部))) (NP (n 作品)))
+          (VP
+            (vshi 是)
+            (VP
+              (p 有关)
+              (NP-OBJ
+                (NP-PN (ns 中国) (c 和) (ns 中) (ns 日))
+                (NP (n 题材))))))
+        (ude 的))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 亚洲) (ns 太平洋) (n 奖))
+  (VP
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (v 奖励)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (v 研究)
+                        (NP-OBJ
+                          (NP-APP
+                            (NP (NP-PN (ns 亚洲) (ns 太平洋)) (n 地区))
+                            (NP
+                              (n 政治)
+                              (wd ，)
+                              (n 经济)
+                              (wd ，)
+                              (n 外交)
+                              (wd ，)
+                              (n 文化))
+                            (udeng 等))
+                          (NP (n 方面))))))
+                  (ADJP (a 优秀))
+                  (NP (n 著作)))))
+            (ude 的)))
+        (QP (m 一个))
+        (NP (n 奖项))))
+    (wd ，)
+    (VP
+      (PP-LOC (p 在) (NP (NP-PN (ns 日本)) (NP (n 学术界) (c 和) (n 出版界))))
+      (VP (v 具有) (NP-OBJ (ADJP (a 重要)) (NP (n 影响))))))
+  (wj 。)))
+</S>

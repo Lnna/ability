@@ -1,0 +1,79 @@
+<S>
+( (IP
+  (NP-PN-SBJ (nr 谢长廷))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP-APP
+        (IP (NP-PN-SBJ (nt 民进党)) (VP (VCD (v 止跌) (v 回升))))
+        (ude 的))
+      (NP (wyz “) (n 选举) (n 天王))
+      (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-PN-SBJ (ns 高雄)) (VSB (v 胜) (v 选)))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (vi 受伤) (VP-EXT (ADVP (d 最)) (VP (a 重)))))
+          (ude 的))))
+    (VP (vl 莫过于) (NP-PN-OBJ (nr 吕秀莲) (c 和) (nr 苏贞昌))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (PP-TMP (p 在) (LCP (NP (v 选)) (f 前)))
+      (ADVP (v 急于))
+      (PP-ADV (p 与) (NP-PN (nr 陈水扁)))
+      (VP
+        (v 做)
+        (NP-OBJ
+          (CP-APP
+            (wyz “)
+            (IP (NP-SBJ (n 政治)) (VP (v 切割)))
+            (wyy ”)
+            (ude 的))
+          (wyz “)
+          (NP (ns 天王))
+          (wyy ”)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (LCP (NP (v 选)) (f 后))
+      (PP-MNR
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (NP-PN (nr 陈水扁)) (NP (n 大位)))
+            (VP (v 得以) (NP-OBJ (v 巩固))))
+          (f 之下)))
+      (wd ，)
+      (ADVP (d 随时))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ-1 (-NONE- *pro*))
+              (VP
+                (pbei 被)
+                (IP
+                  (NP-PN-SBJ (a 扁))
+                  (wyz “)
+                  (VP (v 切割) (NP-OBJ (-NONE- *-1)))
+                  (wyy ”))))
+            (ude 的))
+          (NP (n 可能))))))
+  (wj 。)))
+</S>

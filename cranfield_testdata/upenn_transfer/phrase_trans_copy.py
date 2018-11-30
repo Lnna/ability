@@ -124,6 +124,7 @@ def analysis_v2(ctb_dir,fileid):
     trees=parse_trees(ctb_dir,fileid)
     new_trees=[]
     mmbroken_phrases={}
+    mmtext=[]
     mmbroken_trees=[]
     other_broken_trees=[]
     other_broken_phrase={}
@@ -189,7 +190,7 @@ def analysis_v2(ctb_dir,fileid):
                                 # break
 
                     else:
-                        # print("cannot find correct boson parse phrases")
+                        # boson词语被stanford parser 拆分　print("cannot find correct boson parse phrases")
                         key='{}: {}'.format(ctb[ctb_index[0]][0],' '.join(text))
                         if other_broken_phrase.get(key,0)==0:
                             other_broken_phrase[key]=1
@@ -235,13 +236,59 @@ def analysis_v2(ctb_dir,fileid):
                         tstr=re.sub(r'(\n)+','\n',tstr)
                         t = Tree.fromstring(tstr)
                     else:
-                        key = '{}: {}'.format(' '.join([ctb[i][0] for i in ctb_index]),boson[bos_index[0]][0])
-                        if other_broken_phrase.get(key, 0) == 0:
-                            other_broken_phrase[key] = 1
+                        broken_flg=True
+                        replace_id=ctb_index[0]
+                        if (lpp[:-1]==com) ^ (last_parent(t, ctb_index[-1])[:-1]==com):
+                            broken_flg = False
+
+                            if lpp[:-1]==com:#与后面结构粘连
+                                rightest=last_parent(t, ctb_index[len(ctb_index)-1])
+                                replace_id=ctb_index[-1]
+                                for i in range(len(ctb_index)-2,0,-1):
+                                    tmp=last_parent(t, ctb_index[i])
+                                    if tmp[:-1]!=rightest[:-1]:
+                                        if tmp[:-1]!=com:
+                                            broken_flg=True
+                                        break
+                            else:#与前面结构粘连
+
+                                for i in range(1, len(ctb_index)):
+                                    tmp = last_parent(t, ctb_index[i])
+                                    if tmp[:-1] != lpp[:-1]:
+                                        if tmp[:-1] != com:
+                                            broken_flg = True
+                                        break
+
+                        #前后都有粘连,或者某一方内部还有层级粘连
+                        #例如：1. (... x)x(x...)
+                        # 2. ((x)(x))(x...)
+                        # 3. x(x(x)...)
+                        # 暂时搁置
+                        if broken_flg:
+
+                            key = '{}: {}'.format(' '.join([ctb[i][0] for i in ctb_index]),boson[bos_index[0]][0])
+                            if other_broken_phrase.get(key, 0) == 0:
+                                other_broken_phrase[key] = 1
+                            else:
+                                other_broken_phrase[key] = int(other_broken_phrase[key]) + 1
+                            other_broken_trees.append(t)
+                            break
                         else:
-                            other_broken_phrase[key] = int(other_broken_phrase[key]) + 1
-                        other_broken_trees.append(t)
-                        break
+                            t[t.leaf_treeposition(replace_id)[:-1]]='({} {})'.format(boson[bos_index[0]][1],boson[bos_index[0]][0])
+                            # tstr=t.__str__().replace(replace_text,'({} {})'.format(boson[bos_index[0]][1],boson[bos_index[0]][0]),1)
+                            # for s in rstr:
+                            #     tstr=tstr.replace(s,'',1)
+                            # t=Tree.fromstring(tstr)
+                            if replace_id==ctb_index[0]:
+                                for i in range(len(ctb_index)-1,0,-1):
+                                    # t.pop(t.leaf_treeposition(ctb_index[i])[:-1])
+                                    t[t.leaf_treeposition(ctb_index[i])[:-1]] = ''
+                            else:
+                                for i in range(len(ctb_index)-2,-1,-1):
+                                    # t.pop(ctb_index[i])
+                                    t[t.leaf_treeposition(ctb_index[i])[:-1]] = ''
+                            t=Tree.fromstring(t.__str__())
+
                 ctb_copy = ctb
                 ctb = ctb[:ctb_index[0]]
                 if ctb_index != []:
@@ -256,6 +303,7 @@ def analysis_v2(ctb_dir,fileid):
                 else:
                     mmbroken_phrases[key]=int(mmbroken_phrases[key])+1
                 mmbroken_trees.append(t)
+                mmtext.append(([ctb[i] for i in ctb_index],ctb,[boson[i] for i in bos_index],boson))
                 break
             pattern, leaf_diff, ctb_index, bos_index = sentence_diff(t, ctb, boson)  # 每一个不同找出来后，应立即更新树结构
 
@@ -268,7 +316,7 @@ def analysis_v2(ctb_dir,fileid):
                     t[k[:-1]].set_label(l[1])
             new_trees.append(t)
         # print(t)
-    return new_trees,mmbroken_phrases,mmbroken_trees,other_broken_trees,other_broken_phrase,value_error
+    return new_trees,mmbroken_phrases,mmbroken_trees,other_broken_trees,other_broken_phrase,value_error,mmtext
 
 def common_index(ids):
     def common_seq(a,b):
@@ -355,10 +403,12 @@ def ctb2boson_seg(ctb_pos):
 
 # new_trees,mod_count=analysis('chtb_0613.nw')
 # print(new_trees)
+def mm_out(res:list):
+    return ['{}/{}'.format(i,j) for i,j in res]
 def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_dir):
     # ctb_dir = '/home/lnn/Downloads/new_ctb'
     # ctb_dir = '/home/lnn/Downloads/ctb_test'
-    ctb_dir = path.join(home_dir,'ctb_bracket')
+    ctb_dir = path.join(home_dir,'otherbroken_ctb_test')
     # ctb_dir = path.join(home_dir,'ctb_test')
     # reg = 'chtb_0040.nw'
     reg = '(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*'
@@ -369,11 +419,21 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
     sum_mmbrokens={}
     for fid in fileids:
         print(fid)
-        normal_trees,mmbrokens,mmbroken_trees,other_brokens,broken_phrases,value_error=analysis_v2(ctb_dir,fid)
+        normal_trees,mmbrokens,mmbroken_trees,other_brokens,broken_phrases,value_error,mmtext=analysis_v2(ctb_dir,fid)
         statis[0]+=len(normal_trees)
         statis[1]+=len(other_brokens)
         statis[2]+=len(value_error)
         statis[3]+=len(mmbroken_trees)
+        # f=open('mmtext.txt',mode='a')
+        # f.write('{}: \n'.format(fid))
+        # for line in mmtext:
+        #     f.write(' '.join(mm_out(line[0]))+'\n')
+        #     f.write(' '.join(mm_out(line[1]))+'\n')
+        #     f.write(' '.join(mm_out(line[2]))+'\n')
+        #     f.write(' '.join(mm_out(line[3]))+'\n')
+        #     f.write('\n')
+        # f.write('\n\n')
+        # f.close()
         for k, v in broken_phrases.items():
             if sum_broken_phrases.get(k,0)==0:
                 sum_broken_phrases[k]=v
@@ -385,23 +445,23 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
             else:
                 sum_mmbrokens[k]=sum_mmbrokens[k]+v
         if len(value_error)>0:
-            f = open(value_error_dir+'/'+fid, mode='w')
+            f = open(value_error_dir+'/'+fid, mode='a')
             for i in value_error:
                 f.write('<S>\n')
                 f.write('( {})\n'.format(i.__str__()))
                 f.write('</S>\n')
 
             f.close()
-        
+
         if len(normal_trees)>0:
-            f = open(normal_save_dir+'/'+fid, mode='w')
+            f = open(normal_save_dir+'/'+fid, mode='a')
             for i in normal_trees:
                 f.write('<S>\n')
                 f.write('( {})\n'.format(i.__str__()))
                 f.write('</S>\n')
             f.close()
         if len(mmbroken_trees)>0:
-            f = open(mmbroken_dir+'/'+fid, mode='w')
+            f = open(mmbroken_dir+'/'+fid, mode='a')
             for i in mmbroken_trees:
                 f.write('<S>\n')
                 f.write('( {})\n'.format(i.__str__()))
@@ -414,6 +474,7 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
                 f.write('( {})\n'.format(i.__str__()))
                 f.write('</S>\n')
             f.close()
+
     if len(sum_broken_phrases)>0:
         f = open(phrases_dir+'/broken_phrases.txt', mode='w')
         for k,v in sum_broken_phrases.items():
@@ -423,17 +484,17 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
         f = open(mmbroken_dir + '/mmbrokens.txt', mode='w')
         for k, v in sum_mmbrokens.items():
             f.write('{} {}\n'.format(k, v))
-            
+
         f.close()
 
     print(statis)
 if __name__=='__main__':
-    # rules(path.join(home_dir,'normal_ctb_test'),
-    #       path.join(home_dir,'mmbroken_ctb_test'),
-    #       path.join(home_dir,'otherbroken_ctb_test'),
-    #       path.join(home_dir,'broken_phrases'),
-    #       path.join(home_dir,'value_error')
-    #       )
+    rules(path.join(home_dir,'normal_ctb_test'),
+          path.join(home_dir,'mmbroken_ctb_test'),
+          path.join(home_dir,'one2multi_otherbroken_ctb_test'),
+          path.join(home_dir,'broken_phrases'),
+          path.join(home_dir,'value_error')
+          )
     sum=0
     f=open(path.join(home_dir,'broken_phrases','broken_phrases.txt'),mode='r')
     phrases=[]
@@ -449,4 +510,6 @@ if __name__=='__main__':
         f.write(k)
     f.close()
     print(sum)
+    # tree=stanford_parser("这个开发区中国著名风景旅游城。")
+    # print(tree.__str__())
 

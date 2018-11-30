@@ -1,0 +1,35 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (t 刚才))
+    (VP (v 介绍) (y 了))
+    (NP-OBJ
+      (DNP
+        (NP
+          (NP-PN (ns 美国) (c 和) (ns 北) (ns 韩))
+          (ADJP (n 双边))
+          (NP (n 关系)))
+        (ude 的))
+      (NP (n 问题)))
+    (FLR (f 以后)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (dl 接下来))
+    (VP
+      (v 请)
+      (NP-OBJ (r 您))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 听)
+          (NP-OBJ
+            (QP (m 一) (CLP (q 组)))
+            (NP-PN (ns 朝鲜) (n 半岛))
+            (NP (n 新闻) (n 简讯)))))))
+  (wj 。)))
+</S>

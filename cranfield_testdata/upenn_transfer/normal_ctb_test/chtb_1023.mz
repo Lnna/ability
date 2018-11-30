@@ -1,0 +1,382 @@
+<S>
+( (IP-HLN
+  (IP (NP-PN-SBJ (nz 国大)) (VP (n 虚级化)))
+  (wd ，)
+  (IP (NP-SBJ (n 宪政) (n 体制)) (VP (vi 待) (NP-OBJ (v 考验))))))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (IP (NP-PN-SBJ (nr 李登辉) (n 总统)) (VP (v 主政))) (f 以来))
+    (wd ，)
+    (NP-SBJ
+      (IP (NP (nz 国)) (VP (m 大)))
+      (QP (q 第六) (CLP (v 次)))
+      (NP (VP (n 修) (NP (n 宪))) (p 会议)))
+    (VP
+      (PP-TMP (t 在) (NP (t 四月) (v 廿四日)))
+      (VP (nz 完成) (NP-OBJ (NP-PN (n 国大)) (NP (wd 虚级化))))))
+  (n ，)
+  (IP
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (v 社会))
+          (VP (m 担忧) (NP-OBJ (QP (n 万年)) (NP-PN (a 国大)))))
+        (ude 的))
+      (NP (n 情况)))
+    (VP (v 解除)))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP-WH (r 如何))
+        (VP
+          (v 让)
+          (NP-OBJ
+            (DNP
+              (LCP
+                (IP
+                  (NP-PN-SBJ (nz 国大))
+                  (IP (ADVP (a 虚)) (NP (n 级)) (VP (v 化))))
+                (f 后))
+              (ude 的))
+            (ADJP (n 相关))
+            (ADJP (n 配套))
+            (NP (n 措施)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 更)) (VP (a 完备)))))))
+    (wd ，)
+    (ADVP (d 已))
+    (VP
+      (v 成为)
+      (NP-OBJ
+        (DP (r 此次))
+        (DNP (LCP (NP (n 修宪)) (f 後)) (ude 的))
+        (ADJP (ADVP (d 最)) (ADJP (a 重要)))
+        (NP (n 工作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 少数)) (NP-PN (nz 国大)) (NP (n 代表)))
+    (VP
+      (PP
+        (p 针对)
+        (NP
+          (DNP (NP (NP (n 大法官)) (VP (v 解释) (NP (n 案)))) (ude 的))
+          (NP (n 反应))))
+      (wd ，)
+      (ADVP (d 再度))
+      (VP (v 引起) (NP-OBJ (n 社会) (a 不满)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-PN-SBJ (nz 国大))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 思)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (NP-ADV (r 自我)) (VP (v 检讨)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN-APP (n 澄社) (udeng 等)) (NP (n 民间) (n 单位)))
+    (VP
+      (ADVP (d 更))
+      (VP
+        (VP
+          (v 发动)
+          (NP-OBJ (n 市民))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (ns 上街))))
+        (wd ，)
+        (VP
+          (v 要求)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 废除) (NP-PN-OBJ (nz 国大))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 在)
+    (IP
+      (IP-APP
+        (NP-TPC (NP (r 各党)) (NP (n 党团)))
+        (NP-SBJ (n 棍子) (c 与) (n 胡萝卜))
+        (VP (ADVP (d 齐)) (VP (vi 飞))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (NP-ADV (c 一方面))
+            (VP
+              (n 通告)
+              (IP (VP (n 代表) (NP (k 们))))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (IP-CND
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (ADVP (c 若))
+                      (ADVP (d 不))
+                      (VP (v 支持) (NP-OBJ (n 虚级化) (n 主张)))))
+                  (ADVP (d 将))
+                  (VP (pbei 被) (VP (v 开除) (NP-OBJ (n 党籍))))))))
+          (wd ，)
+          (VP
+            (ADVP (c 同时))
+            (PP-DIR (p 对) (NP (n 国代)))
+            (VP (v 展开) (NP-OBJ (n 安抚) (n 动作))))))))
+  (wd ，)
+  (NP-TMP (t 四月) (t 二十四日))
+  (IP (VP (n 代表) (NP (k 们))))
+  (VP
+    (ADVP (d 终于))
+    (NP-ADV (QP (m 三)) (NP (v 读)))
+    (VP
+      (p 通过)
+      (NP-OBJ
+        (IP-APP
+          (IP (NP-PN-SBJ (nz 国大)) (VP (n 虚级化)))
+          (wn 、)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 排除)
+              (NP-OBJ (n 大法官))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 享有) (NP-OBJ (n 终身) (n 优遇))))))
+          (udeng 等))
+        (NP (n 修宪案)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (DP (r 此次)) (VP (v 修) (NP (n 宪))))
+      (VP
+        (ADVP (c 虽))
+        (VP
+          (v 满足)
+          (y 了)
+          (NP-OBJ
+            (NP (n 朝野))
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (d 逐步)) (VP (v 废除) (NP-PN-OBJ (nz 国大)))))
+              (ude 的))
+            (NP (n 心愿))))))
+    (wd ，)
+    (ADVP (c 但是))
+    (NP-SBJ (ADJP (a 配套)) (NP (n 条文)))
+    (VP (a 粗糙)))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 各党))
+    (VP
+      (ADVP (d 始终))
+      (VP
+        (d 没)
+        (VP
+          (v 提出)
+          (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 对策) (n 蓝图)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (PP-BNF (p 为) (NP (n 宪政)))
+      (VP (v 带来) (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 隐忧))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 例如))
+    (NP-TMP (t 未来))
+    (NP-SBJ (n 国代))
+    (VP
+      (ADVP (v 改))
+      (VP
+        (v 采)
+        (NP-OBJ
+          (DNP (NP (n 政党) (n 比例) (n 代表制)) (ude 的))
+          (NP (wyz 「) (NP (n 任务) (k 型)) (NP-PN (nz 国大)) (wyy 」))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP (NP (n 台)) (ADJP (a 大)) (NP (n 教授)))
+      (wn 、)
+      (NP-APP (n 宪法) (n 学者))
+      (NP-PN (nr 李鸿禧)))
+    (VP
+      (PP (p 针对) (NP (r 此)))
+      (VP
+        (v 表示)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (NP-SBJ
+              (NP (NP-PN (ns 台湾)) (NP (n 民众)))
+              (NP
+                (CP
+                  (WHNP-6 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-6))
+                      (VP (v 参加) (NP-OBJ (n 政党))))
+                    (ude 的)))
+                (NP (n 人口)))
+              (NP (n 比例)))
+            (VP
+              (IP (VP (ADVP (d 不)) (VP (v 到))))
+              (VP (QP-PRD (m 十分之一)))))
+          (wd ，)
+          (IP
+            (IP-SBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-MNR (p 以) (NP (n 政党) (n 比例) (n 代表制)))
+                (VP (v 产生) (NP-OBJ (NP-PN (nz 国大)) (NP (n 代表))))))
+            (wd ，)
+            (VP
+              (ADVP (vi 无异))
+              (VP
+                (VP
+                  (v 限制)
+                  (y 了)
+                  (NP-OBJ
+                    (NP (ADJP (r 另外)) (QP (m 十分之九)) (NP (n 人口)))
+                    (DNP (PP (p 对) (NP (n 宪政) (v 表达))) (ude 的))
+                    (NP (n 主张))))
+                (wd ，)
+                (VP
+                  (v 违反)
+                  (y 了)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (p 将)
+                          (IP-OBJ
+                            (NP-SBJ (n 宪政) (n 权利))
+                            (VP
+                              (IP (VP (ADVP (d 还)) (VP (v 归于))))
+                              (NP-OBJ (n 民))))))
+                      (ude 的))
+                    (NP (n 原则)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 未来))
+    (NP-SBJ
+      (ADJP (b 现行))
+      (DNP (NP-PN (nz 国大)) (ude 的))
+      (QP (m 许多))
+      (NP (n 职权)))
+    (VP (ADVP (d 将)) (VP (VRD (v 转移) (v 给)) (VP (v 立) (NP (n 法院))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 学界))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 担心)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 会)
+            (VP
+              (v 使)
+              (VP (v 立) (NP (n 法院)))
+              (IP
+                (NP (-NONE- *PRO*))
+                (VP
+                  (v 成为)
+                  (NP-OBJ
+                    (QP (m 一个))
+                    (CP
+                      (WHNP-8 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP (-NONE- *T*-8))
+                          (VP (ADVP (d 更)) (ADVP (a 难)) (VP (v 制衡))))
+                        (ude 的)))
+                    (ADJP (a 新))
+                    (NP (n 宪政) (n 怪兽)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (IP-SBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (n 虚级化) (NP-PN-OBJ (nz 国大))))
+      (VP (ADVP (ad 顺利)) (VP (v 通过))))
+    (wd ，)
+    (NP-SBJ
+      (DNP (NP (t 未来)) (ude 的))
+      (DNP (NP (n 宪政)) (uzhi 之))
+      (NP (n 路)))
+    (VP (ADVP (d 却)) (ADVP (d 不)) (VP (pbei 被) (VP (v 看好)))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (r 这))
+      (VP
+        (ADVP (d 恐怕))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-16 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ
+                    (CP
+                      (WHNP-15 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-15))
+                          (VP
+                            (PP-PRP
+                              (p 为了)
+                              (IP
+                                (NP-SBJ (-NONE- *PRO*))
+                                (VP (v 迎合) (NP-OBJ (n 民意)))))
+                            (VP
+                              (v 进行)
+                              (IP-OBJ
+                                (NP-PN-SBJ (nz 国大))
+                                (VP (n 虚级化))))))
+                        (ude 的)))
+                    (DP (r 各))
+                    (NP (n 政党)))
+                  (VP
+                    (ADVP (t 当初))
+                    (VP
+                      (d 没有)
+                      (VP
+                        (VRD (v 预料) (v 到))
+                        (NP-OBJ (-NONE- *T*-16))))))
+                (ude 的)))))))
+    (y 吧))
+  (wj 。)))
+</S>

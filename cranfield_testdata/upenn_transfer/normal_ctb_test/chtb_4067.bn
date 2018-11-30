@@ -1,0 +1,212 @@
+<S>
+( (IP
+  (PP-MNR (v 应) (NP (DNP (NP (nr1 黄) (n 家人)) (ude 的)) (NP (n 要求))))
+  (wd ，)
+  (NP-SBJ (n 法院))
+  (VP
+    (PP (p 对) (NP (DP (r 这) (CLP (q 份))) (NP (n 遗嘱))))
+    (VP (v 进行) (y 了) (NP-OBJ (n 司法) (n 鉴定))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 结论))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (IP
+        (NP-SBJ (DP (r 该)) (NP (n 遗嘱)))
+        (VP (p 为) (IP-PRD (NP-PN-SBJ (nr 徐昌霖)) (VP (v 书写)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (c 但))
+          (PP-ADV
+            (p 对)
+            (NP
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (NP-PN (nr 黄竹琴)) (NP (nz 印文)))
+                    (VP (PP-TMP (-NONE- *T*-1)) (VP (v 形成))))
+                  (ude 的)))
+              (NP (n 时间))))
+          (ADVP (d 却))
+          (ADVP (v 无法))
+          (VP (v 做出) (NP-OBJ (n 结论)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (m 二零零六)) (NP (q 年)) (t 八月) (t 三号))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 上海市) (ns 徐汇区)) (NP (n 法院)))
+  (VP (v 做出) (y 了) (NP-OBJ (NP (QP (b 一审))) (NP (n 判决))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 因为)
+    (IP
+      (IP
+        (NP-SBJ (DP (f 前) (QP (m 三) (CLP (q 份)))) (NP (n 遗嘱)))
+        (VP
+          (ADVP (d 分别))
+          (VP
+            (v 写)
+            (PP
+              (p 于)
+              (NP
+                (t 一九九四年)
+                (t 十一月)
+                (t 二十一日)
+                (wd ，)
+                (t 一九九八年)
+                (t 八月)
+                (t 十七日)
+                (c 和)
+                (t 一九九九年)
+                (t 二月)
+                (t 二十四日))))))
+      (wd ，)
+      (CP
+        (IP
+          (ADVP (c 而))
+          (NP-SBJ (QP (m 第四) (CLP (q 份))) (NP (n 遗嘱)))
+          (VP
+            (vshi 是)
+            (VP
+              (NP-TMP (NP (t 一九九九年) (t 九月) (t 十五日)))
+              (LCP (NP (v 立)) (v 下)))))
+        (ude 的))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 时间))
+        (VP
+          (p 在)
+          (LCP
+            (NP (DP (r 那) (QP (m 三) (CLP (q 份)))) (NP (n 遗嘱)))
+            (f 之后))))))
+  (wd ，)
+  (ADVP (c 因此))
+  (wd ，)
+  (NP-SBJ (n 法院))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-MNR (p 根据) (NP (n 法律) (n 规定)))
+        (wd ，)
+        (VP
+          (v 应该)
+          (VP
+            (PP-MNR
+              (p 以)
+              (NP
+                (DNP (NP-PN (nr 徐昌霖)) (ude 的))
+                (QP (m 第四) (CLP (q 份)))
+                (NP (n 遗嘱))))
+            (VP (v 为) (VP (a 准))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (NP-SBJ
+    (NP-PN (nr 黄竹琴))
+    (DNP (NP (QP (m 二零零四) (CLP (q 年))) (t 十月)) (ude 的))
+    (NP (n 家信)))
+  (VP
+    (ADVP (d 却))
+    (VP
+      (v 反映)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (d 欲)
+              (VP (NP-ADV (r 自己)) (VP (v 处分) (NP-OBJ (n 遗产))))))
+          (ude 的))
+        (NP (n 遗愿)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-PN-SBJ (nr 黄竹琴))
+      (VP (ADVP (d 没有)) (VP (v 留下) (NP-OBJ (n 遗嘱))))))
+  (wd ，)
+  (ADVP (c 因此))
+  (wd ，)
+  (NP-SBJ-2
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (NP-PN (ns 斜土路)) (NP (n 房)))
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 属于) (NP-OBJ (NP-PN (n 黄竹琴)) (NP (n 份额)))))
+        (ude 的)))
+    (NP (n 房产)))
+  (wd ，)
+  (VP
+    (v 应该)
+    (VP
+      (PP-MNR (p 按) (NP (ADJP (b 法定)) (NP (n 程序))))
+      (PP-LGS (p 由) (NP (r 其) (n 继承人)))
+      (VP (v 继承) (NP-OBJ (-NONE- *-2)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 法院))
+  (VP
+    (n 判决)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP
+          (NP
+            (NP (IP (VP (pbei 被) (NP (n 继承人)))) (NP-PN (nr 黄竹琴)))
+            (NP (n 名下)))
+          (ude 的))
+        (NP-PN (ns 上海市) (ns 斜土路))
+        (QP (m 二八九九) (CLP (q 号)))
+        (QP (QP (nr 二零)) (QP (m 七)) (CLP (n 室)))
+        (NP (n 房屋) (n 产权)))
+      (wd ，)
+      (VP
+        (PP-LGS
+          (p 由)
+          (NP
+            (NP (NP-APP (n 原告)) (NP-PN (nr 徐永祥) (wd ，) (nr 徐汝伦)))
+            (wd ，)
+            (NP (NP-APP (n 被告)) (NP-PN (nr 徐常青)))))
+        (ADVP (r 各))
+        (VP
+          (v 得)
+          (NP-OBJ (QP (m 三分之一)) (NP (QP (CLP (q 份))) (NP (n 额))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (b 原)) (NP (n 被告)))
+  (VP
+    (v 给付)
+    (NP-IO
+      (NP-APP (QP (m 第三)) (NP (n 人)))
+      (NP-PN (nr 黄松龄) (wd ，) (nr 黄芝龄) (wd ，) (ns 黄梅) (n 龄))
+      (n 房产)
+      (n 折价款))
+    (NP-OBJ (QP (ADVP (r 各)) (QP (m 十三万三千) (CLP (q 元)))) (NP (n 钱))))
+  (wj 。)))
+</S>

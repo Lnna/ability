@@ -1,0 +1,498 @@
+<S>
+( (IP
+  (NP-TMP (f 下面))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 还是))
+    (VP
+      (v 让)
+      (NP-OBJ (r 我们))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (pba 把)
+            (IP-OBJ (NP-SBJ (n 目光)) (VP (v 投向) (NP-PN-OBJ (ns 澳门)))))
+          (wd ，)
+          (VP
+            (v 了解)
+            (NP-OBJ
+              (DNP
+                (NP (NP (a 新气象) (NP-PN (ns 澳门))) (NP (n 旅游业)))
+                (ude 的))
+              (ADJP (n 新))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 来)
+    (VP
+      (v 看)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 记者)))
+              (VP
+                (PP-DIR (p 从) (NP-PN (ns 澳门)))
+                (VP (v 发回) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-VOC (DP (r 各位)) (NP (n 观众)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ
+            (NP-APP (ADJP (n 系列)) (NP (n 报道)))
+            (NP-PN (wkz 《) (NP (t 今日)) (NP-PN (ns 澳门)) (wky 》)))
+          (VP
+            (NP-TMP (t 今天))
+            (PP-DIR (p 向) (NP (r 您)))
+            (VP (v 报道) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (PP (p 有关) (NP (NP-PN (ns 澳门)) (NP (n 旅游) (n 方面))))
+        (ude 的))
+      (NP (n 情况))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一些)) (NP (n 出租) (n 司机)))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 经常))
+    (PP-DIR (p 对) (NP (r 我们)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-TMP (t 现在))
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (VP (v 来) (NP-PN-OBJ (ns 澳门))) (VP (v 玩))))
+                (ude 的)))
+            (NP (n 人)))
+          (VP (a 多) (y 了)))
+        (wd ，)
+        (CP
+          (IP
+            (NP-SBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 生意)))
+            (VP (ADVP (d 好)) (VP (v 做))))
+          (y 了)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (NP-TMP
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-TMP (-NONE- *T*-1))
+                (PP-LOC
+                  (p 在)
+                  (NP
+                    (DNP (NP-PN (ns 澳门)) (ude 的))
+                    (QP (m 一些))
+                    (NP (n 景点) (c 和) (n 商业区))))
+                (VP (v 采访))))
+            (ude 的)))
+        (NP (n 时候)))
+      (wd ，)
+      (ADVP (d 也))
+      (VP
+        (v 能够)
+        (VP
+          (v 听到)
+          (NP-OBJ
+            (NP (DNP (NP (r 各国)) (ude 的)) (NP (n 语言)))
+            (wd ，)
+            (PRN
+              (VP
+                (v 包括)
+                (NP-OBJ
+                  (DNP (NP (s 内地)) (ude 的))
+                  (DP (r 各种))
+                  (NP (n 方言))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 给) (NP-IO (n 人)) (NP-OBJ (-NONE- *T*-2))))
+          (ude 的)))
+      (NP (n 感觉)))
+    (VP
+      (vshi 是)
+      (CP-PRD
+        (IP
+          (NP (DNP (NP-PN (ns 澳门)) (ude 的)) (NP (n 旅游业)))
+          (VP (VRD (a 旺) (v 起来))))
+        (y 了))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC
+      (p 在)
+      (NP (DNP (NP-PN (ns 澳门)) (ude 的)) (NP-PN (ns 港澳) (n 码头))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (IP (VP (v 来) (p 往)))
+              (LCP-OBJ (NP-PN (ns 香港) (p 与) (ns 澳门)) (f 之间))))
+          (ude 的)))
+      (VP (n 渡) (NP (a 轮))))
+    (VP
+      (ADVP (r 平均))
+      (QP-ADV
+        (DP (m 每) (QP (q １５) (CLP (m 分钟))))
+        (QP (q 一) (CLP (v 班))))
+      (VP (wd 进出))))
+  (m ，)
+  (IP
+    (NP-SBJ
+      (DNP
+        (QP (QP (q 一) (CLP (m 群))) (QP (q 一) (CLP (ude 群))))
+        (ns 的))
+      (NP-PN (n 香港))
+      (NP (n 游客)))
+    (IP (NP (z 步履)) (VP (wd 匆匆))))
+  (ns ，)
+  (IP
+    (NP-SBJ (NP-PN (n 澳门) (n 船务) (n 公司)) (NP (v 负责人)))
+    (VP
+      (VSB (v 介绍) (wd 说))
+      (r ，)
+      (IP-OBJ
+        (DP-ADV (v 每天))
+        (NP-SBJ (DNP (NP (n 渡轮)) (ude 的)) (NP (n 载客量)))
+        (VP
+          (ADVP (d 都))
+          (VP (p 在) (LCP-OBJ (QP (m ８) (CLP (q 成))) (f 以上)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这种)) (NP (n 情况)))
+    (VP
+      (PP-ADV (p 与) (LCP (QP (m 一) (CLP (q 年))) (f 前)))
+      (ADVP (d 大))
+      (ADVP (d 不))
+      (VP (a 一样))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-SBJ
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 遍布) (NP-PN-OBJ (ns 澳门))))
+            (ude 的)))
+        (NP (n 商场) (n 饭店)))
+      (f 里))
+    (VP
+      (ADVP (d 到处))
+      (ADVP (d 都))
+      (VP
+        (vyou 有)
+        (NP-OBJ (DNP (NP (s 外地) (n 游客)) (ude 的)) (NP (n 身影))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 经常))
+      (VP
+        (v 能)
+        (VP
+          (v 听到)
+          (NP-OBJ
+            (DNP (NP (ADJP (a 不同)) (NP (n 地方))) (ude 的))
+            (NP (n 语音)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (LCP (QP (m 一) (CLP (q 年))) (f 前))
+    (CP-APP (IP (NP-SBJ (n 百业)) (VP (a 不景气))) (ude 的))
+    (NP (n 情况)))
+  (VP (ADVP (d 已)) (VP (v 有所) (NP-OBJ (n 改变))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 旅游业))
+    (VP
+      (vshi 是)
+      (NP-PRD (DNP (NP-PN (ns 澳门)) (ude 的)) (NP (n 经济) (n 命脉)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP (DNP (NP (r 本地)) (ude 的)) (NP (n 生产总值)))
+                (f 中)))
+            (VP (usuo 所) (VP (v 占) (NP-OBJ (-NONE- *T*-1)))))))
+      (NP (n 比重)))
+    (VP
+      (VP (v 超过) (QP (m ４) (CLP (q 成))))
+      (wd ，)
+      (VP
+        (v 居)
+        (NP-OBJ
+          (NP
+            (NP-PN (ns 澳门))
+            (QP (m 四))
+            (ADJP (a 大))
+            (NP (n 支柱) (n 产业)))
+          (QP (m 首))
+          (NP (q 位))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (NP (QP (m ９０)) (NP (n 年代))) (f 中期)) (f 以前))
+    (wd ，)
+    (NP-SBJ (DNP (NP-PN (ns 澳门)) (ude 的)) (NP (n 旅游业)))
+    (VP (v 呈现) (uguo 过) (NP-OBJ (n 增长) (n 态势))))
+  (wd ，)
+  (IP
+    (QP (m ９６) (CLP (q 年)))
+    (NP-SBJ (n 游客) (n 总量))
+    (VP
+      (QP-ADV (m 首) (CLP (q 次)))
+      (VP (v 突破) (NP-OBJ (QP (m ８００万)) (NP (n 关口))))))
+  (wd ，)
+  (CP
+    (IP
+      (ADVP (c 但))
+      (PP-MNR
+        (p 随着)
+        (NP (DNP (NP (n 治安) (n 环境)) (ude 的)) (NP (n 恶化))))
+      (wd ，)
+      (NP-SBJ (n 游客))
+      (VP
+        (VP (ADVP (d 大幅)) (VP (v 减少)))
+        (wd ，)
+        (VP
+          (IP-TMP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 到) (y 了) (QP (m ９８) (CLP (q 年)))))
+          (ADVP (d 已经))
+          (VP (v 不足) (QP-EXT (m ７００万))))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (LCP-TMP (IP (NP-PN-SBJ (ns 澳门)) (VP (v 回归))) (f 后))
+  (QP-TMP (ADVP (z 短短)) (QP (m 一) (CLP (q 年))))
+  (wd ，)
+  (NP-SBJ (n 游客) (n 总量))
+  (VP (ADVP (d 又)) (ADVP (d 再次)) (VP (v 突破) (NP-OBJ (n 历史) (n 新高))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 不少)) (NP (n 游客)))
+  (VP
+    (v 表示)
+    (CP-OBJ
+      (IP
+        (PP-PRP
+          (p 由于)
+          (NP
+            (DNP
+              (NP (NP-PN (ns 澳门)) (ADJP (n 总体)) (NP (n 治安) (n 环境)))
+              (ude 的))
+            (ADJP (a 明显))
+            (NP (n 改善))))
+        (wd ，)
+        (NP-TMP (t 现在))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP-FOC (VP (v 来) (NP-PN-OBJ (ns 澳门))) (VP (n 旅游)))
+          (VP (ADVP (d 已)) (d 不再) (VP (v 担心)))))
+      (y 了)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (NP-SBJ (NP-PN (ns 澳门) (n 特区)) (NP (n 政府)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (IP-APP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 推动) (NP-OBJ (r 本地) (n 旅游业) (n 复苏))))
+          (NP (n 方面))))
+      (ADVP (d 也))
+      (VP (v 做) (y 了) (NP-OBJ (QP (m 大量)) (NP (n 工作))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-APP (n 行政) (n 长官)) (NP-PN (nr 何厚铧)))
+    (VP
+      (LCP-TMP (QP (m 一) (CLP (q 年))) (f 来))
+      (VP
+        (VP
+          (ADVP (d 先后))
+          (VP
+            (v 访问)
+            (y 了)
+            (NP-OBJ
+              (NP-PN-APP
+                (ns 法国)
+                (wn 、)
+                (ns 葡萄牙)
+                (wn 、)
+                (ns 日本)
+                (wn 、)
+                (ns 新加坡)
+                (wn 、)
+                (ns 香港)
+                (udeng 等))
+              (NP (n 国家) (c 和) (n 地区)))))
+        (wd ，)
+        (VP
+          (ADVP (c 并))
+          (PP-ADV (p 与) (NP (ADJP (n 相关)) (NP (n 国家))))
+          (VP
+            (v 签定)
+            (y 了)
+            (NP-OBJ
+              (ADJP (n 相关))
+              (NP (n 航空) (udeng 等))
+              (NP (n 协定) (n 协议))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (ns 澳门)) (ude 的)) (NP (n 旅游) (n 部门)))
+  (VP
+    (ADVP (d 更))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-LOC (p 在) (NP (ADJP (v 邻近)) (NP (n 国家) (c 和) (n 地区))))
+        (ADVP (d 大力))
+        (VP (VCD (v 推介) (v 宣传))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除了)
+    (LCP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 保留)
+          (NP-OBJ
+            (DNP (ADJP (v 原有)) (ude 的))
+            (ADJP (n 国际性))
+            (ADJP (b 大型))
+            (NP (n 活动)))))
+      (f 外)))
+  (wd ，)
+  (NP-TMP (t 今年))
+  (NP-PN-SBJ (ns 澳门))
+  (VP
+    (VP
+      (ADVP (d 还))
+      (VP
+        (VP
+          (v 举办)
+          (y 了)
+          (NP-OBJ
+            (QP (a 多) (CLP (q 个)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 富有) (NP-OBJ (n 地方) (n 特色))))
+                (ude 的)))
+            (NP (n 专题) (n 旅游节))))
+        (VP (v 吸引) (NP-OBJ (n 游客)))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (ADVP (d 陆续))
+      (VP
+        (VCD (vi 动工) (v 兴建))
+        (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 旅游) (n 景点))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 澳门)) (NP (n 旅游业))) (ude 的))
+    (NP (n 好转)))
+  (VP
+    (v 使)
+    (NP-OBJ (n 人))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 看到)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (NP-PN (ns 澳门)) (NP (n 经济) (vi 复苏))) (ude 的))
+          (NP (n 希望))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (wkz 《) (ns 中国) (n 新闻) (wky 》)) (NP (n 记者)))
+  (VP (NP-PN-LOC (ns 澳门)) (VP (n 报道)))
+  (wj 。)))
+</S>

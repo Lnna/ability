@@ -1,0 +1,129 @@
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-7 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-7))
+          (VP
+            (v 结束)
+            (NP-OBJ
+              (PP (p 在) (NP-PN (ns 亚洲)))
+              (NP (QP (m 一个)) (NP (n 星期)))
+              (NP (v 访问)))))
+        (ude 的)))
+    (NP-APP (NP-PN (ns 美国)) (NP (n 总统)))
+    (NP-PN (nrf 克林顿)))
+  (VP
+    (NP (QP (t ２０)) (NP (n 号)))
+    (PP-TMP
+      (PP
+        (p 在)
+        (NP
+          (NP (NP-PN (ns 美国)) (NP (n 时间)))
+          (DNP (NP (t 清晨)) (ude 的))
+          (QP (m ５) (CLP (q 点)))))
+      (wd ，)
+      (PRN
+        (VP
+          (ADVP (d 也))
+          (ADVP (d 就))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (NP (NP (ns 中原)) (ADJP (n 标准)) (NP (n 时间)))
+              (NP (t 下午) (t ６点)))))))
+    (VP
+      (VP
+        (v 搭乘)
+        (NP-OBJ (NP (n 空军)) (NP (QP (m 一)) (NP (q 号))) (NP (n 专机))))
+      (VP (v 返抵) (NP-PN-OBJ (ns 华盛顿)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (nrf 克林顿))
+      (DNP (DP (r 这) (CLP (q 次))) (ude 的))
+      (NP-PN (ns 亚洲))
+      (NP (v 访问)))
+    (wd ，)
+    (VP
+      (ADVP (d 首先))
+      (VP
+        (vshi 是)
+        (VP
+          (v 参加)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (PP-LOC (p 在) (NP-PN (ns 文莱))) (VP (v 举行))))
+                (ude 的)))
+            (ADVP (NP (ns 亚)) (ADVP (n 太)))
+            (NP (n 经合) (n 会议)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (QP
+            (DNP (NP (r 他) (s 任内)) (ude 的))
+            (ADJP (f 最后))
+            (QP (m 一) (CLP (q 次))))
+          (PP-MNR (p 以) (NP (n 总统) (n 身份)))
+          (VP
+            (v 出席)
+            (NP-OBJ
+              (ADVP (NP (ns 亚)) (ADVP (n 太)))
+              (NP (n 经合) (n 会议))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 接着))
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (d 再))
+        (VP (IP (VP (v 转) (NP (p 往)))) (NP-PN-OBJ (ns 越南))))
+      (VP
+        (v 进行)
+        (NP-OBJ
+          (DNP (ADJP (n 历史性)) (ude 的))
+          (DNP (ADJP (v 破)) (NP (n 冰)) (uzhi 之))
+          (NP (n 旅))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (LCP-TMP
+                    (IP
+                      (NP-PN-SBJ (n 越战))
+                      (VP (PP-TMP (p 在) (NP (t １９７５年))) (VP (v 结束))))
+                    (f 之后))
+                  (QP-ADV (m 第一) (CLP (q 位)))
+                  (VP (v 访问) (NP-PN-OBJ (ns 越南)))))
+              (ude 的)))
+          (NP-PN (ns 美国))
+          (NP (n 总统))))))
+  (wj 。)))
+</S>

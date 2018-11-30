@@ -1,0 +1,91 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP (NP-PN (ns 乍得)) (ADJP (a 新)) (NP (n 领导人)))
+    (NP (QP (CLP (v 代))) (p 比)))
+  (VP (v 访) (NP-PN-OBJ (ns 法)))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 乍得)) (ADJP (a 新)) (NP (n 总统)))
+    (PP (p 依) (NP (nrf 迪斯·代比))))
+  (VP
+    (NP-TMP (t 十二日))
+    (VP (VP (v 到达) (NP-PN-OBJ (ns 巴黎))) (VP (v 访问))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 密特朗) (n 总统))
+  (VP
+    (PP (p 同) (NP (r 他)))
+    (VP
+      (v 进行)
+      (y 了)
+      (NP-OBJ (NP (QP (m 半)) (NP (n 小时))) (ADJP (a 秘密)) (NP (n 会谈)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP (QP (CLP (v 代))) (v 比))
+    (VP
+      (v 希望)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 法国))
+        (VP
+          (v 给予)
+          (NP-IO-PN (ns 乍得))
+          (NP-OBJ (wyz 『) (ADJP (ad 全面)) (NP (v 支持)) (wyy 』))))))
+  (IP
+    (NP-PN-SBJ (ns 法国))
+    (VP
+      (PP-TMP
+        (p 在)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-TMP (-NONE- *T*-1))
+                  (VP
+                    (v 表示)
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 愿) (VP (v 提供) (NP-OBJ (v 合作))))))))
+              (ude 的)))
+          (NP (n 同时))))
+      (wd ，)
+      (VP
+        (v 表示)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 将))
+            (VP
+              (v 中止)
+              (NP-OBJ
+                (DNP (PP (p 同) (NP-PN (ns 乍得))) (ude 的))
+                (ADJP (n 军事))
+                (NP (n 协议)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-PN-SBJ (ns 法国))
+  (VP
+    (PP-LOC (p 在) (NP-PN (ns 乍得)))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (DNP (NP (QP (m 一千二百)) (NP (n 人))) (ude 的))
+        (NP (n 驻军)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (NP-HLN (NP (r 本报)) (NP (n 专电))) (wky ）)))
+</S>

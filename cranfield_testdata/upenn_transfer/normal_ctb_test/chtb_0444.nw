@@ -1,0 +1,234 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 上海))
+  (VP
+    (v 形成)
+    (NP-OBJ
+      (NP (NP (ADJP (a 大)) (NP (n 旅游) (n 产业))) (NP (n 发展)))
+      (ADJP (a 新))
+      (NP (n 格局))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 上海)
+  (t 十一月)
+  (t 一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 汪洪洋)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (NP-TMP (t 年初))
+            (ADVP (d 新))
+            (VP (v 构建) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (NP-PN (ns 上海))
+    (a 大都市)
+    (NP (n 旅游) (n 体制)))
+  (wd ，)
+  (VP
+    (ADVP (d 正在))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (DP (r 这个)) (ADJP (n 大))) (ude 的))
+          (NP
+            (n 旅游)
+            (wn 、)
+            (n 文体)
+            (wn 、)
+            (n 商业)
+            (wn 、)
+            (n 交通)
+            (wn 、)
+            (t 现代)
+            (n 工农业)
+            (udeng 等)))
+        (VP
+          (VRD (v 融合) (v 成))
+          (NP-OBJ (QP (m 一个)) (ADJP (b 新兴)) (NP (n 支柱) (n 产业)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 来自) (NP (n 市) (nt 旅游委))))
+        (ude 的)))
+    (NP (n 消息)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (PP-LGS
+                  (p 由)
+                  (NP
+                    (NP (n 旅游业))
+                    (c 和)
+                    (NP
+                      (NP-APP
+                        (n 商业)
+                        (wn 、)
+                        (n 交通)
+                        (wn 、)
+                        (n 园林)
+                        (udeng 等))
+                      (NP (n 行业)))))
+                (ADVP (d 共同))
+                (VP (v 组成))))
+            (ude 的)))
+        (NP-PN (ns 上海))
+        (ADJP (a 大))
+        (NP (n 旅游) (n 管理) (n 体制)))
+      (wd ，)
+      (VP
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ
+              (NP (NP-PN (ns 上海)) (NP (n 旅游) (n 产业)))
+              (NP (n 发展) (n 目标)))
+            (VP
+              (vi 定位)
+              (PP-LOC (p 于) (NP (ADJP (b 都市型)) (NP (n 旅游)))))))
+        (wd ，)
+        (VP
+          (NP-ADV (c 同时))
+          (VP
+            (VP
+              (v 加强)
+              (y 了)
+              (NP-OBJ
+                (NP (n 区))
+                (ADJP (b 县级))
+                (n 旅游)
+                (n 管理)
+                (n 机构)
+                (n 建设)))
+            (wd ，)
+            (VP
+              (v 下放)
+              (y 了)
+              (NP-OBJ (QP (m 部分)) (NP (n 行政) (n 管理权))))
+            (wd ，)
+            (VP
+              (v 确立)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (wyz “)
+                      (VP
+                        (PP-MNR (p 以) (NP (ADJP (a 大)) (NP (n 集团))))
+                        (VP (v 为) (NP-OBJ (n 骨干))))
+                      (wd ，)
+                      (VP
+                        (PP-MNR (p 以) (NP (n 区) (n 县)))
+                        (VP (v 为) (NP-OBJ (n 主体))))
+                      (wd ，)
+                      (VP
+                        (PP-MNR
+                          (p 以)
+                          (NP (n 产业) (n 规模) (c 和) (n 经济效益)))
+                        (VP (v 为) (NP-OBJ (n 目标))))
+                      (wyy ”)))
+                  (ude 的))
+                (NP (n 方针))))
+            (wd ，)
+            (VP
+              (ADVP (ad 有力))
+              (VP
+                (v 推动)
+                (y 了)
+                (NP-OBJ
+                  (NP (n 全市))
+                  (DNP (NP (NP (n 国际) (s 国内)) (NP (n 旅游业))) (ude 的))
+                  (ADJP (b 快速))
+                  (NP (n 发展))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 按照)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (NP-TMP (t 最近)) (ADVP (d 初步)) (VP (v 制定))))
+          (ude 的)))
+      (NP-PN (ns 上海))
+      (NP (n 都市) (n 旅游) (n 发展) (n 规划))))
+  (wd ，)
+  (PP-TMP (p 到) (NP (m 二０００) (q 年)))
+  (wd ，)
+  (NP-PN-SBJ (ns 上海))
+  (VP
+    (v 要)
+    (VP
+      (v 建成)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (PP
+                  (p 与)
+                  (NP
+                    (NP
+                      (NP-PN (ns 中国))
+                      (ADJP (ADVP (d 最)) (ADJP (a 大)))
+                      (NP (n 经济) (n 中心)))
+                    (NP (n 城市))))
+                (ADVP (d 相))
+                (VP (vi 匹配))))
+            (ude 的)))
+        (NP-APP
+          (n 国际)
+          (n 商务)
+          (wn 、)
+          (s 国内)
+          (n 购物)
+          (c 和)
+          (s 国内外)
+          (n 会议)
+          (n 展览)
+          (wn 、)
+          (n 文化)
+          (n 体育)
+          (wn 、)
+          (n 都市)
+          (n 风貌)
+          (udeng 等))
+        (NP (n 观光) (n 休闲) (b 专项) (n 旅游) (n 聚集地)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

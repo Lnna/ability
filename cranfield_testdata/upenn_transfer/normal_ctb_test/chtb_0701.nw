@@ -1,0 +1,221 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (v 跻身)
+    (NP-OBJ
+      (NP (NP (n 世界)) (ADJP (b 主要)) (NP (n 空间) (n 国家)))
+      (NP (n 行列))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 十二月)
+  (t 二十九日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 李斌)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (ADJP (n 有关)) (NP (n 部门))) (NP (n 负责人)))
+  (VP
+    (NP-TMP (t 日前))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (PP-MNR
+          (p 经过)
+          (NP (DNP (QP (m 数十) (CLP (q 年))) (ude 的)) (NP (an 努力))))
+        (wd ，)
+        (NP-PN-SBJ (ns 中国))
+        (VP
+          (ADVP (d 已经))
+          (VP
+            (v 跻身)
+            (NP-OBJ
+              (DNP
+                (NP (NP (n 世界)) (ADJP (b 主要)) (NP (n 空间) (n 国家)))
+                (ude 的))
+              (NP (n 行列))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (m 数十) (CLP (q 年))) (f 来))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 航天) (n 技术)))
+  (VP
+    (v 走过)
+    (y 了)
+    (NP-OBJ
+      (QP (m 一) (CLP (q 条)))
+      (CP-APP
+        (IP
+          (IP (NP-SBJ (n 投资)) (VP (a 少)))
+          (wn 、)
+          (IP (NP-SBJ (vi 收效)) (VP (a 大)))
+          (wn 、)
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 系列化)))
+          (wn 、)
+          (IP (NP-SBJ (n 成功率)) (VP (a 高))))
+        (ude 的))
+      (NP (n 道路))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (ADVP (c 虽然))
+  (IP
+    (NP-SBJ
+      (NP (DNP (QP (m 四十) (CLP (q 年))) (ude 的)) (NP (n 航天) (n 投资)))
+      (NP (n 总额)))
+    (VP
+      (ADVP (d 还))
+      (ADVP (d 不))
+      (VP
+        (v 及)
+        (NP-OBJ
+          (NP
+            (NP (ADJP (f 前)) (NP-PN (ns 苏联)))
+            (wn 、)
+            (NP-PN (ns 美国)))
+          (DNP (QP (m 一) (CLP (q 年))) (ude 的))
+          (NP (n 航天) (n 投资))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (wd ，)
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (v 力求)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-MNR
+          (p 以)
+          (NP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 较)) (VP (a 少))))
+                  (ude 的)))
+              (NP (n 数量)))
+            (wn 、)
+            (NP
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 有限))) (ude 的)))
+              (NP (n 发射) (n 次数)))))
+        (wd ，)
+        (VP
+          (v 取得)
+          (NP-OBJ
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-3))
+                  (VP (ADVP (d 尽可能)) (VP (a 多))))
+                (ude 的)))
+            (NP (n 技术) (n 成果) (c 和) (n 应用) (n 效果)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (ns 中国)) (ude 的)) (ADJP (n 应用)) (NP (n 卫星)))
+  (VP
+    (ADVP (ad 一般))
+    (PP-MNR
+      (v 经过)
+      (NP (QP (m 一) (CLP (q 次))) (ADJP (n 试验性)) (NP (n 发射))))
+    (ADVP (d 就))
+    (VP (v 能) (VP (v 投入) (NP-OBJ (v 使用)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (NP-PN (ns 中国)) (NP (n 火箭) (wn 、) (n 卫星))) (ude 的))
+      (NP (n 发展)))
+    (wd ，)
+    (VP
+      (v 坚持)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 走)
+          (NP-OBJ
+            (DNP
+              (NP
+                (wyz “)
+                (NP (ADJP (a 基本)) (NP (k 型)))
+                (wn 、)
+                (v 系列化)
+                (wyy ”))
+              (ude 的))
+            (NP (n 技术) (n 发展))
+            (NP (n 道路)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 因而))
+    (IP
+      (IP
+        (NP-SBJ (DNP (NP (n 型号) (n 产品)) (ude 的)) (NP (n 技术) (n 继承性)))
+        (VP (a 好)))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP (v 缩短) (y 了) (NP-OBJ (n 研制) (n 周期)))
+          (wd ，)
+          (VP (v 节省) (y 了) (NP-OBJ (n 研制) (n 经费)))
+          (wd ，)
+          (VP
+            (v 提高)
+            (y 了)
+            (NP-OBJ
+              (DNP (NP (n 产品)) (ude 的))
+              (NP (n 质量) (c 和) (n 可靠性))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (PP (c 和) (NP (s 国外))) (VP (vi 相比))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHPP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (ns 中国))
+          (VP
+            (PP-MNR (-NONE- *T*-2))
+            (VP
+              (VP (v 研制) (NP-OBJ (-NONE- *RNR*-1)))
+              (wn 、)
+              (VP
+                (v 发射)
+                (NP-OBJ-1
+                  (DP (n 同类))
+                  (NP (NP (nl 运载火箭)) (wn 、) (NP (n 人造卫星))))))))
+        (ude 的)))
+    (NP (n 成本)))
+  (VP (ADVP (d 都)) (ADVP (d 比较)) (VP (a 低)))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

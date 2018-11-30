@@ -1,0 +1,97 @@
+<S>
+( (IP
+  (NP-TPC-1
+    (DNP (NP-PN (ns 以色列) (c 和) (ns 巴勒斯坦)) (ude 的))
+    (NP (nl 和平谈判)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 计划)
+    (IP
+      (NP-SBJ (-NONE- *T*-1))
+      (VP
+        (NP-TMP (t 星期四))
+        (PP-LOC
+          (p 在)
+          (NP (DNP (NP-PN (ns 埃及)) (ude 的)) (NP-PN (nrf 塔巴))))
+        (VP (v 恢复) (NP-OBJ (v 进行))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (QP (m 两) (CLP (q 天))) (f 前))
+    (wd ，)
+    (NP-PN-SBJ (ns 以色列))
+    (VP (v 中止) (y 了) (NP-OBJ (n 谈判))))
+  (wd ，)
+  (IP
+    (PP-TMP (p 在) (LCP (NP (r 那)) (f 之前)))
+    (wd ，)
+    (NP-SBJ-1 (QP (m 两) (CLP (q 名))) (NP (ns 以色列)) (NP (n 人)))
+    (VP
+      (PP-LOC (p 在) (NP (s 西岸)))
+      (VP
+        (pbei 被)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (ns 巴勒斯坦)) (NP (n 枪手)))
+          (VP (VRD (v 打) (v 死)) (NP-OBJ (-NONE- *-1)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-TMP (t 星期三))
+  (NP-SBJ
+    (NP (NP-APP (NP-PN (ns 以色列)) (NP (n 总理))) (NP-PN (nrf 巴拉克)))
+    (c 和)
+    (NP (DNP (NP (r 他)) (ude 的)) (ADJP (a 高级)) (NP (n 部长))))
+  (VP
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP (NP-PN (ns 耶路撒冷)) (NP-PN (nrf 巴拉克)) (NP (s 家中))))
+      (VP (vi 开会)))
+    (wd ，)
+    (VP
+      (v 决定)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 恢复) (NP-OBJ (nl 和平谈判))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (PP-MNR (p 据) (NP (v 报道)))
+  (wm ：)
+  (NP-SBJ (QP (m 两) (CLP (q 名))) (NP (n 巴勒斯坦人)))
+  (VP
+    (NP-TMP (t 星期四) (t 早上))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (NP
+            (NP-PN (ns 加沙) (n 地带))
+            (QP (m 一个))
+            (NP (n 犹太人) (n 定居点)))
+          (NP (f 附近))))
+      (LCP-TMP
+        (IP
+          (NP-SBJ-1 (-NONE- *pro*))
+          (VP
+            (pbei 被)
+            (IP-OBJ
+              (NP-SBJ (NP-PN (ns 以色列)) (NP (n 军队)))
+              (VP (VSB (vi 开枪) (v 击中)) (NP-OBJ (-NONE- *-1))))))
+        (f 后))
+      (VP (vi 死亡))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (DP (r 这) (CLP (q 次))) (NP (n 事件))) (ude 的))
+    (ADJP (a 详细))
+    (NP (n 情况)))
+  (VP (NP-TMP (t 目前)) (ADVP (d 还)) (ADVP (d 不)) (VP (a 清楚)))
+  (wj 。)))
+</S>

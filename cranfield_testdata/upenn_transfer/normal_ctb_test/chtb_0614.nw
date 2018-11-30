@@ -1,0 +1,185 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 江苏))
+  (VP
+    (ADVP (d 又))
+    (VP
+      (v 公布)
+      (NP-OBJ
+        (QP (m 一) (CLP (q 批)))
+        (NP (n 重点))
+        (NP (PP (n 对外)) (NP (n 招商)))
+        (NP (n 项目)))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 南京)
+  (t 五月)
+  (t 八日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 石永红)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 中国)) (NP (n 经济)) (ADJP (a 大)) (NP (n 省)))
+    (NP-PN (ns 江苏省)))
+  (VP
+    (NP-TMP (t 日前))
+    (VP
+      (v 确定)
+      (NP-OBJ
+        (NP
+          (NP (wyz “) (m 九五) (wyy ”))
+          (NP (f 期间))
+          (PRN
+            (wkz （)
+            (NP (m 一九九六) (p 至) (NP (NP (m 二０００)) (NP (q 年))))
+            (wky ）)))
+        (QP (m 第二) (CLP (q 批)))
+        (NP (n 重点))
+        (NP (PP (n 对外)) (NP (n 招商)))
+        (NP (n 项目)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 据)
+    (IP
+      (NP-PN-SBJ
+        (NP-PN (ns 江苏省))
+        (NP (v 计划) (p 与) (n 经济))
+        (NP (n 委员会)))
+      (VP (v 介绍))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (DP (r 这) (CLP (q 批))) (NP (n 项目)))
+      (VP (QP-PRD (ADVP (d 共)) (QP (m 八十) (CLP (q 个))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 投资) (n 规模))
+      (VP
+        (ADVP (d 都))
+        (VP (p 在) (LCP-OBJ (QP (m 一千万) (CLP (q 美元))) (f 以上)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (ADJP (b 总)) (NP (n 投资额)))
+      (VP (v 达) (QP-OBJ (m 六十九点六亿) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-ADV (r 其中))
+    (wd ，)
+    (NP-TPC-1 (NP (n 基础) (n 设施)) (NP (n 项目)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (NP-OBJ (QP (m 十四) (CLP (q 个))) (NP (-NONE- *T*-1)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (b 总)) (NP (n 投资额)))
+    (VP (v 为) (QP-PRD (m 四十点零九亿) (CLP (q 美元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC-1 (NP (NP (n 工业) (n 生产)) (NP (n 类))) (NP (n 项目)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (NP-OBJ (QP (m 四十八) (CLP (q 个))) (NP (-NONE- *T*-1)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (b 总)) (NP (n 投资额)))
+    (VP (v 为) (QP-PRD (m 二十二点三三亿) (CLP (q 美元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (wd ，)
+    (NP-SBJ (n 农业) (n 项目))
+    (VP (QP-PRD (m 五) (CLP (q 个)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (b 总)) (NP (n 投资额)))
+    (VP (QP-PRD (ADVP (d 约)) (QP (m 二亿) (CLP (q 美元))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-MNR
+        (p 以)
+        (NP
+          (NP
+            (NP (v 养殖))
+            (wn 、)
+            (NP (n 滩涂) (n 开发))
+            (c 和)
+            (NP (NP (n 贸工农)) (NP (n 一体))))
+          (NP (n 项目))))
+      (VP (vi 为主))))
+  (wf ；)
+  (IP
+    (NP-SBJ (NP (n 社会) (n 事业) (c 及) (nz 三产)) (NP (n 项目)))
+    (VP (QP-PRD (m 十三) (CLP (q 个)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (b 总)) (NP (n 投资额)))
+    (VP (QP-PRD (ADVP (d 约)) (QP (m 五点二亿) (CLP (q 美元))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-MNR
+        (p 以)
+        (NP
+          (NP
+            (NP (ADJP (a 特殊)) (NP (n 观光) (n 景点)))
+            (wn 、)
+            (NP (n 旅游) (n 设施))
+            (c 和)
+            (NP (n 市场) (n 建设)))
+          (NP (n 项目))))
+      (VP (vi 为主))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (v 介绍)))
+    (wd ，)
+    (NP-PN-SBJ (ns 江苏省))
+    (VP
+      (NP-TMP (t 去年))
+      (VP
+        (v 公布)
+        (y 了)
+        (NP-OBJ
+          (NP (NP (wyz “) (m 九五) (wyy ”)) (NP (f 期间)))
+          (QP (m 首) (CLP (q 批)))
+          (NP (n 重点) (n 招商) (n 项目))))))
+  (wd ，)
+  (IP
+    (NP-ADV (r 其中))
+    (NP-SBJ (QP (m 二十) (CLP (q 个))) (NP (n 项目)))
+    (VP (ADVP (d 已)) (VP (VRD (v 寻求) (v 到)) (NP-OBJ (n 合作) (n 伙伴)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (r 另外)) (QP (m 三十) (CLP (q 个))) (NP (n 项目)))
+    (VP (v 继续) (VP (PP-DIR (vi 对外)) (VP (vi 招商)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

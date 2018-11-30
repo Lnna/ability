@@ -1,0 +1,2375 @@
+<S>
+( (FRAG (n 文) (wj ．) (nr 蔡文婷) (n 图) (wj ．) (nr 薛继光)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP (n 书法) (wn 、) (n 篆刻)) (NP (n 大师)))
+    (NP-PN (nr 王壮为)))
+  (VP
+    (VP
+      (QP-ADV (n 一生))
+      (VP (VP-FOC (VCD (v 刻) (v 写))) (VP (ADVP (d 不)) (VP (v 辍)))))
+    (wd ，)
+    (VP
+      (PP-MNR
+        (p 以)
+        (NP
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (wyz 「)
+                (QP-ADV (m 一) (CLP (q 笔)))
+                (ADVP (d 不))
+                (VP (a 苟))
+                (wyy 」)))
+            (ude 的))
+          (NP (n 创作) (n 态度))))
+      (VP
+        (v 留下)
+        (NP-OBJ
+          (QP (m 许多))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (wyz 「)
+                  (v 无)
+                  (IP-OBJ
+                    (QP-SBJ (m 一) (CLP (q 笔)))
+                    (VP (ADVP (d 不)) (VP (a 美))))
+                  (wyy 」)))
+              (ude 的)))
+          (NP (n 作品))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 一月) (t 下旬))
+    (wd ，)
+    (PP-TMP
+      (p 在)
+      (NP
+        (DNP
+          (LCP
+            (IP
+              (NP-PN (nr 王壮为) (n 先生))
+              (VP (v 过世) (QP-EXT (m 三) (CLP (q 年)))))
+            (f 後))
+          (ude 的))
+        (NP (n 冥诞日))))
+    (wd ，)
+    (PP-MNR
+      (p 经由)
+      (NP
+        (DNP
+          (NP
+            (NP-PN (ns 故宫))
+            (p 与)
+            (NP (NP-PN (nr 王壮为)) (NP (n 家人))))
+          (ude 的))
+        (NP (n 联系))))
+    (wd ，)
+    (PP-LGS (p 由) (NP-PN (nz 云辰) (n 文化) (n 基金会)))
+    (VP
+      (v 捐赠)
+      (y 了)
+      (NP-OBJ
+        (NP-PN (nr 王壮为))
+        (NP (DP (r 各)) (NP (n 时期)))
+        (NP (nr 书刻) (n 作品)))
+      (QP-EXT (m 五十) (CLP (q 件)))
+      (PP-IO
+        (v 予)
+        (NP-PN (ns 故宫))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (n 典藏))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (ns 故宫)) (ude 的)) (NP (n 书画)))
+    (VP
+      (ADVP (d 一向))
+      (PP-MNR (p 以) (NP (NP-PN (n 清宫)) (NP (n 藏品))))
+      (VP (vi 为主))))
+  (wd ，)
+  (IP
+    (ADVP (c 然而))
+    (PP-MNR (p 随着) (IP (NP-SBJ (n 时代)) (VP (vi 前进))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (ADVP (d 也))
+        (ADVP (d 特别))
+        (VP
+          (v 加强)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 购买)
+              (NP-OBJ
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (ADVP (d 新)) (VP (v 出土)))))
+                  (NP (ADJP (a 古)) (NP (n 物))))
+                (c 以及)
+                (NP
+                  (DNP (LCP (NP-PN (n 民国)) (f 以后)) (ude 的))
+                  (NP (n 书画) (n 作品))))))))
+      (wd ，)
+      (VP
+        (c 以)
+        (VP
+          (v 达成)
+          (NP-OBJ
+            (QP (m 一个))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 完整))) (ude 的)))
+            (NP (n 体系)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-PN-SBJ (ns 故宫)) (VP (v 收藏) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP (t 近代))
+    (NP (n 书画)))
+  (VP
+    (VSB (v 包括) (vyou 有))
+    (NP-OBJ
+      (DNP
+        (NP
+          (NP-PN-APP
+            (nr 张大千)
+            (wn 、)
+            (nr 齐白石)
+            (wn 、)
+            (nr 于右任)
+            (wn 、)
+            (nr 台静农)
+            (udeng 等))
+          (NP (n 人)))
+        (ude 的))
+      (NP (n 作品))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (DNP (NP (r 他)) (ude 的)) (ADJP (v 入室)) (NP (n 弟子)))
+    (NP-PN (nr 薛志扬)))
+  (VP
+    (VP (v 追述) (NP-OBJ (t 过去)))
+    (wd ，)
+    (VP
+      (v 记得)
+      (IP-OBJ
+        (NP-PN-SBJ (nr 壮老))
+        (VP
+          (PP-TMP
+            (p 在)
+            (NP
+              (NP-APP (t 中午))
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1)) (VP (vi 挥毫))))
+                  (uzhi 之)))
+              (NP (n 时))))
+          (wd ，)
+          (VP
+            (VP
+              (ADVP (d 也))
+              (ADVP (d 经常))
+              (VP
+                (v 会)
+                (VP
+                  (VP (VP (VRD (vi 停) (v 下来))) (VP (vi 喝酒)))
+                  (VP (c 以) (VP (v 助) (IP (NP (n 书)) (VP (v 兴))))))))
+            (wd ，)
+            (VP
+              (PP-LOC (p 在) (LCP (NP (vi 微醺)) (f 之中)))
+              (VP
+                (VRD (v 写) (v 下))
+                (NP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-TPC (-NONE- *T*-2))
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP (a 得意)))
+                      (ude 的)))
+                  (NP (n 诗书))
+                  (NP (n 作品))))))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN
+  (DNP (QP (ADJP (f 最后)) (QP (n 一代))) (ude 的))
+  (NP (n 文人) (n 艺术家))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (IP (NP (nr 王壮)) (VP (v 为))) (NP (n 儿子)))
+    (wn 、)
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 担任)
+            (NP-OBJ
+              (NP
+                (NP-PN (n 文化) (n 大学))
+                (NP (n 史学) (n 研究所))
+                (NP (n 美术史) (n 组)))
+              (NP (n 主任)))))
+        (ude 的)))
+    (NP-PN (nr 王大智)))
+  (VP
+    (v 记得)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (r 自己))
+        (VP
+          (ADVP (t 小时候))
+          (ADVP (d 最))
+          (VP (v 怕) (IP-OBJ (NP-SBJ (n 父亲)) (VP (vi 吟诗))))))
+      (wd ，)
+      (PP
+        (c 因为)
+        (IP
+          (PP-TMP
+            (p 在)
+            (LCP
+              (NP
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 深切)))
+                    (ude 的)))
+                (NP (n 吟颂)))
+              (f 之后)))
+          (wd ，)
+          (NP-SBJ (n 父亲))
+          (VP
+            (ADVP (d 常))
+            (VP
+              (v 会)
+              (VP
+                (DVP (VP (bl 突如其来)) (ude 的))
+                (IP (NP (d 嚎啕)) (VP (ADVP (d 大)) (VP (v 哭)))))))))
+      (wd ，)
+      (IP
+        (LCP-TMP
+          (IP (NP-SBJ (n 孩子)) (VP (v 惊吓)))
+          (NP (uzhi 之) (NP (n 余))))
+        (wd ，)
+        (NP-SBJ (r 他))
+        (VP
+          (ADVP (d 却))
+          (VP
+            (VP (IP (VP (v 擦) (NP (v 擦)))) (NP-OBJ (n 眼泪)))
+            (wd ，)
+            (VP
+              (DVP (VP (a 畅快)) (ude 地))
+              (VP
+                (v 说)
+                (wm ：)
+                (NP-OBJ
+                  (wyz 「)
+                  (NP (ADJP (a 好)) (NP (n 诗)))
+                  (wd ，)
+                  (NP (ADJP (a 好)) (NP (n 诗)))))))))))
+  (wt ！)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 王大智))
+  (VP
+    (v 觉得)
+    (IP-OBJ
+      (IP-SBJ
+        (IP
+          (NP-SBJ (r 自己))
+          (VP
+            (ADVP (c 之所以))
+            (VP (v 乐于) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 读书))))))
+        (wd ，)
+        (IP
+          (LCP-LOC (NP (n 生活)) (f 中))
+          (NP-SBJ (n 书画) (n 棋奕) (wn 、) (v 管) (n 笛) (n 拳术))
+          (VP (ADVP (q 样样)) (VP (v 通)))))
+      (wd ，)
+      (VP
+        (ADVP (d 都))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 来自) (NP-OBJ (n 父亲))))
+                (ude 的)))
+            (NP (n 影响)))))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (NP-SBJ (r 我))
+  (VP
+    (v 想)
+    (wd ，)
+    (CP-OBJ
+      (IP
+        (NP-SBJ (n 父亲))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (NP-PN (ns 中国))
+            (DNP (QP (ADJP (f 最后)) (QP (n 一代))) (ude 的))
+            (NP (n 文人) (n 艺术家)))))
+      (y 吧)))
+  (wt ！)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (IP (NP (nr 王壮)) (VP (v 为)))
+  (VP
+    (VP
+      (LCP-TMP (QP (m 六) (CLP (q 岁))) (f 起))
+      (ADVP (d 就))
+      (VP
+        (VP
+          (PP-LGS (p 由) (NP (n 父亲)))
+          (VP (v 指导) (NP-OBJ (-NONE- *-1))))
+        (wd ，)
+        (VP (v 开始) (VP (VRD (v 描) (a 红)) (VP (vi 写字))))))
+    (wd ，)
+    (VP
+      (QP-TMP (m 十二) (CLP (q 岁)))
+      (VP (v 开始) (VP (v 学) (NP-OBJ (n 篆刻))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 并))
+    (PP-PRP
+      (p 由于)
+      (IP
+        (NP-SBJ (n 祖父))
+        (VP
+          (VP (PP-LOC (p 在) (NP (ns 京城))) (VP (v 为) (NP (n 官))))
+          (wd ，)
+          (VP
+            (DP-TMP (r 每年))
+            (ADVP (d 都))
+            (VP
+              (v 会)
+              (VP
+                (VP
+                  (v 买)
+                  (NP-OBJ
+                    (QP (CLP (q 些)))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (VCD (a 名贵) (a 考究))))
+                        (ude 的)))
+                    (NP (n 文墨) (n 物品))))
+                (VP (v 回来))))))))
+    (wd ，)
+    (NP-PN-SBJ (nr 王壮为))
+    (VP
+      (ADVP (c 不仅))
+      (PP-TMP (d 从小))
+      (ADVP (d 就))
+      (PP-DIR
+        (p 对)
+        (NP
+          (DNP (NP (NP (r 各地)) (NP (n 名家))) (ude 的))
+          (NP (n 笔墨) (n 纸) (n 砚))))
+      (PP (y 了) (IP (VP (ADVP (c 若)) (VP (VCD (v 指) (n 掌))))))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 当)
+      (LCP
+        (IP
+          (NP-SBJ (DP (r 其他)) (NP (n 孩子)))
+          (VP
+            (v 顾)
+            (uzhe 着)
+            (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 游戏)))))
+        (n 时)))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (d 则))
+        (DVP (VP (dl 兴致勃勃)) (ude 地))
+        (VP
+          (VP
+            (v 躲)
+            (PP
+              (p 在)
+              (LCP (NP (DNP (NP (n 家族)) (ude 的)) (NP (n 藏书室))) (f 里))))
+          (VP (v 找) (NP-OBJ-2 (n 书)))
+          (VP (v 看) (NP-OBJ (-NONE- *-2)))))
+      (wd ，)
+      (c 而且)
+      (VP
+        (VP
+          (ADVP (d 一))
+          (VP (VP (vyou 有) (NP-OBJ (n 机会))) (VP (v 进去))))
+        (wd ，)
+        (VP (ADVP (d 就)) (ADVP (d 不)) (VP (v 出来)))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP (p 和) (NP (ADJP (a 一般)) (NP-PN (ns 中国)) (NP (n 孩子))))
+        (VP (a 一样))))
+    (wd ，)
+    (NP-PN-SBJ (nr 王壮为))
+    (VP
+      (ADVP (d 亦))
+      (PP-DIR
+        (p 由)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 学) (NP-OBJ (NP-PN (nr 颜真卿)) (NP (n 字体))))))
+      (VP (v 开始))))
+  (wd ，)
+  (PP
+    (c 因为)
+    (IP
+      (NP (n 颜体) (n 字))
+      (VP
+        (VP
+          (VP (vyou 有) (NP-OBJ (n 骨)))
+          (VP (vyou 有) (NP-OBJ (n 肉))))
+        (wd ，)
+        (VP (VP (VCD (v 端正) (a 严谨))) (wn 、) (VP (VCD (n 中庸) (a 大方)))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (nz 烽火) (n 儿女) (n 情)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 或许))
+      (VP
+        (vshi 是)
+        (VP
+          (NP-TMP (t 童年) (n 时光))
+          (wd ，)
+          (VP
+            (v 见识)
+            (uguo 过)
+            (NP-OBJ
+              (DNP (NP (NP-PN (ns 中国)) (NP (n 艺术))) (ude 的))
+              (NP (n 精髓))))))))
+  (wd ，)
+  (NP-SBJ (DNP (NP (t 日后)) (ude 的)) (NP-PN (nr 王壮为)))
+  (VP
+    (VP
+      (ADVP (d 并))
+      (ADVP (d 未))
+      (PP-DIR (p 朝) (NP (n 西洋) (n 艺术)))
+      (VP (n 发展)))
+    (wd ，)
+    (VP
+      (ADVP (d 反而))
+      (PP-MNR
+        (p 以)
+        (NP
+          (QP (m 一个))
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 道地))) (ude 的)))
+            (NP-PN (ns 中国))
+            (NP (n 文人)))
+          (NP (n 生活))))
+      (VP (p 为) (NP-OBJ (NP (r 其)) (ADJP (n 终身)) (NP (n 选择))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-SBJ (NP-PN (n 民国)) (QP (m 二十六) (CLP (q 年))))
+    (wd ，)
+    (VP (NP-PN-PRD (ns 芦沟桥) (n 事变))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 北平))
+    (VP
+      (v 为)
+      (CP-OBJ
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP (NP (ns 日本)) (NP (n 人)))
+          (VP (usuo 所) (VP (v 占领) (NP-OBJ (-NONE- *T*-1))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (ADVP (d 才)) (VP (v 订) (y 了) (NP-OBJ (n 亲)))))
+          (ude 的)))
+      (NP-PN (nr 王壮为)))
+    (wd ，)
+    (VP
+      (VP
+        (v 秉)
+        (NP-OBJ
+          (DNP (NP (NP (uzhe 燕赵)) (NP (ns 男儿))) (n 的))
+          (ADJP (ude 英勇))
+          (NP (a 豪气))))
+      (VP (n 决定) (IP-OBJ (NP-SBJ (v *PRO*)) (VP (VV 投笔从戎))))))
+  (vl ，)
+  (IP
+    (ADVP (wd 尔后))
+    (NP-SBJ (c *pro*))
+    (VP
+      (VP
+        (VV 加入)
+        (NP-OBJ
+          (DNP (NP-PN (v 罗卓英) (nr 将军)) (n 的))
+          (QP (ude 十九))
+          (NP (m 军团))))
+      (n ，)
+      (VP
+        (VP (wd 跟着) (v 着) (NP-OBJ (n 远征军)))
+        (VP
+          (p 到)
+          (NP-OBJ
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP (NP-SBJ (-NONE- *T*-3)) (VP (VCD (a 蛮荒) (n 瘴疠))))
+                (ude 的)))
+            (NP-PN (ns 缅甸))))
+        (VP (vi 行军) (NP-EXT (QP (m 三) (CLP (q 个))) (NP (n 月)))))
+      (wd ，)
+      (VP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (NP-DIR (f 西)) (VP (v 走) (NP-PN-OBJ (ns 印度)))))
+        (ADVP (d 才))
+        (VP (v 得以) (VP (ADVP (ad 安全)) (VP (vi 归来)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 当时))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP (p 与) (NP (r 他)))
+              (ADVP (d 才))
+              (VP (vi 成亲) (ADVP (m 不久)))))
+          (ude 的)))
+      (NP-APP (DNP (NP-PN (nr 张润生) (n 将军)) (uzhi 之)) (NP (n 女)))
+      (IP (NP (nr 张明)) (VP (v 随))))
+    (wd ，)
+    (VP
+      (PP-PRP
+        (c 因为)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VPT (v 打听) (d 不) (v 到))
+            (NP-OBJ
+              (DNP (NP (ADJP (n 新婚)) (NP (n 夫婿))) (ude 的))
+              (NP (n 消息))))))
+      (wd ，)
+      (ADVP (d 竟然))
+      (NP-ADV (QP (m 一个)) (NP (n 人)))
+      (VP
+        (VP
+          (v 带)
+          (NP-OBJ
+            (QP (ADVP (uzhe 另)) (QP (r 一) (CLP (m 对))))
+            (CP
+              (WHNP-2 (q *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP
+                    (ADVP (AD 也))
+                    (VP (d 要) (VP (v 寻) (NP-OBJ (v 夫))))))
+                (n 的)))
+            (NP (ude 母子))))
+        (n ，)
+        (VP
+          (ADVP (wd 就))
+          (PP-DIR (d 由) (NP-PN (p 江西)))
+          (PP-DIR (ns 往) (NP (p 西南) (f 方向)))
+          (QP (ADJP (n 前)) (CLP (f 去)))))))
+  (v ，)
+  (IP
+    (NP-SBJ (wd *pro*))
+    (VP
+      (ADVP (AD 同样))
+      (VP
+        (d 有着)
+        (v 着)
+        (NP-OBJ (DNP (NP (s 北方) (n 儿女)) (ude 的)) (NP (n 英气))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP
+    (LCP-TMP (QP (a 多) (CLP (q 年))) (f 后))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (v 翻阅)
+      (NP-OBJ (NP (r 他)) (DNP (NP (t 当时)) (ude 的)) (NP (n 日记)))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 在)
+      (NP
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 音讯))
+              (VP (PP-TMP (-NONE- *T*-1)) (ADVP (d 全)) (VP (v 无))))
+            (ude 的)))
+        (NP (t 当时))))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 猜)
+        (IP-OBJ
+          (NP-SBJ (r 我))
+          (VP
+            (VP
+              (ADVP (d 不))
+              (VP
+                (v 会)
+                (VP
+                  (VP
+                    (v 跟着)
+                    (NP-OBJ (DNP (NP (n 军队)) (ude 的)) (NP (n 眷属))))
+                  (VP
+                    (PP-LOC (p 在) (NP (s 大后方)))
+                    (ADVP (v 干))
+                    (VP (v 等待))))))
+            (wd ，)
+            (VP
+              (ADVP (d 也))
+              (ADVP (d 不))
+              (VP (v 会) (VP (VP (v 回去)) (VP (v 依靠) (NP-OBJ (n 娘家)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (NP-TMP (t 现在)) (VP (VRD (v 想) (v 起来)))))
+    (NP-SBJ (r 我))
+    (VP (ADVP (d 都)) (ADVP (d 还)) (ADVP (d 很)) (VP (a 感动))))
+  (wd ，)
+  (IP
+    (ADVP (r 怎么))
+    (NP-SBJ (r 他))
+    (VP
+      (vshi 是)
+      (VP (DVP (ADVP (r 这样)) (ude 地)) (VP (v 了解) (NP-OBJ (r 我))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (NP-SBJ (n 现年))
+          (VP (QP-PRD (m 八十七) (CLP (q 岁)))))
+        (ude 的)))
+    (NP-APP (NP-PN (nr 壮老)) (NP (n 夫人)))
+    (NP-PN (nr 张明随)))
+  (VP
+    (v 觉得)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (nr 王壮为))
+      (VP
+        (ADVP (d 就))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (QP (ADVP (r 这样)) (QP (m 一个)))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (IP
+                    (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (n 心思))
+                    (VP (a 细密)))
+                  (wd ，)
+                  (IP
+                    (ADVP (c 然))
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (ADVP (d 却))
+                      (ADVP (d 不))
+                      (VP (v 会) (VP (v 表达))))))
+                (ude 的)))
+            (NP (n 男人)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nrf 壮夫))
+  (VP (ADVP (d 偏)) (VP (p 为) (NP-OBJ (r 之))))))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (VRD (v 退回) (v 到)) (NP-OBJ (NP-PN (ns 重庆)) (NP (f 后方)))))
+    (f 之后))
+  (wd ，)
+  (PP-PRP
+    (p 为了)
+    (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 照顾) (NP-OBJ (n 生活)))))
+  (wd ，)
+  (IP (NP (nr 王壮)) (VP (p 为)))
+  (VP
+    (VP (v 利用) (NP-OBJ (n 公余) (n 闲暇)))
+    (VP (PP-BNF (v 为) (NP (n 人))) (VP (nr 刻章))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 想到)
+        (NP-OBJ (DNP (NP-PN (t 西汉)) (ude 的)) (NP-PN (nz 扬雄)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 曾经))
+            (VP
+              (v 说)
+              (uguo 过)
+              (IP-OBJ
+                (wyz 「)
+                (IP (NP-SBJ (n 童子)) (VP (v 雕) (n 虫) (n 篆刻)))
+                (wd ，)
+                (CP
+                  (IP (NP-SBJ (n 壮夫)) (VP (ADVP (d 不)) (VP (v 为))))
+                  (d 也))))))))
+    (wj 。)
+    (wyy 」)
+    (IP (NP (nr 王壮)) (VP (v 为)))
+    (VP
+      (VP (ADVP (d 故意)) (VP (vi 反) (NP-OBJ (NP (r 其)) (NP (n 义)))))
+      (wd ，)
+      (VP (PP-MNR (p 以) (NP-PN (wyz 「) (n 壮为) (wyy 」))) (VP (vi 为名)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 意思))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (wyz 「)
+        (NP-SBJ (n 壮夫))
+        (VP (ADVP (d 偏)) (VP (v 要) (VP (p 为) (NP-OBJ (r 之)))))
+        (wyy 」))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (nr 王壮为)) (ude 的)) (NP (n 名字)))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 就))
+      (VP (VRD (v 沿用) (p 至)) (NP-OBJ (t 今)))))
+  (wd ，)
+  (IP
+    (PP-TPC
+      (p 至于)
+      (NP
+        (NP-APP (DNP (NP (r 他)) (ude 的)) (NP (n 本名)))
+        (NP-PN (nr 王沅澧))))
+    (ADVP (d 反而))
+    (NP-SBJ (QP (v 少)) (NP (n 人)))
+    (VP (v 知道)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (c 不论是)
+    (NP (DNP (NP (n 汉印)) (ude 的)) (NP (n 横平竖) (a 直)))
+    (wd ，)
+    (c 或是)
+    (NP (DNP (NP (n 小篆)) (ude 的)) (NP (n 迂回) (n 曲线))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (d 都)) (VP (VP (v 能) (VP (n 工))) (VP (v 能) (VP (v 放)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (d 曾经))
+            (PP-LOC (p 在) (NP (n 书房)))
+            (VP (v 看) (uguo 过) (IP-OBJ (NP-SBJ (n 老师)) (VP (n 篆刻))))))
+        (ude 的)))
+    (NP-PN (nr 薛平南)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (n 老师))
+        (VP
+          (PP-LOC
+            (p 在)
+            (LCP
+              (NP
+                (DNP (NP (QP (m 一) (CLP (q 颗))) (NP (n 印章))) (ude 的))
+                (NP (n 布局) (n 安排)))
+              (f 上)))
+          (wd ，)
+          (VP
+            (v 会)
+            (VP
+              (VP (v 思索) (NP-OBJ (QP (m 很多)) (NP (n 草稿))))
+              (VP
+                (VP (ADVP (d 一)) (VP (v 写)))
+                (VP (ADVP (d 再)) (VP (v 写))))))))
+      (wd ，)
+      (IP
+        (ADVP (c 然而))
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 到)
+            (y 了)
+            (LCP-OBJ (IP (NP-SBJ (v 构思)) (VP (v 完成))) (f 后))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (VP (ADVP (ad 畅快)) (VP (v 行) (NP (n 刀))))
+            (wd ，)
+            (VP (vl 一气呵成)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (c 因而))
+          (VP
+            (v 能)
+            (VP
+              (VP (VP-FOC (v 布局)) (VP (a 严谨)))
+              (wd ，)
+              (VP
+                (ADVP (d 又))
+                (VP
+                  (VP
+                    (v 显出)
+                    (NP-OBJ
+                      (CP-APP
+                        (IP (NP-SBJ (n 气象)) (VP (a 宏大)))
+                        (ude 的))
+                      (ADJP (a 苍劲))
+                      (NP (n 力道))))
+                  (VP (v 来))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (d 最))
+            (VP
+              (v 令)
+              (NP-OBJ (n 人))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 称道))))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (IP
+        (NP-TPC (r 他))
+        (NP-SBJ (v 操刀))
+        (VP (IP (VP (ADVP (m 一)) (VP (v 如)))) (VP (v 用) (NP (n 笔)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 线条))
+        (VP (VP (a 自如)) (VP (vyou 有) (NP-OBJ (n 神韵)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+    (NP (NP (r 其)) (NP (n 印章) (NP (f 边) (n 款)))))
+  (wd ，)
+  (NP-SBJ (DP (r 每) (QP (m 一))) (NP (q 笔) (n 画)))
+  (VP
+    (VP
+      (ADVP (d 都))
+      (PP-MNR (p 以) (QP (b 单) (CLP (n 刀))))
+      (VP (v 完成) (NP-OBJ (n 刻写))))
+    (wd ，)
+    (VP (a 简洁) (a 有力))
+    (wd ，)
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 似)
+        (NP-OBJ (ADJP (a 一般)) (NP (n 篆刻家)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR (p 以) (QP (m 两) (CLP (q 刀))))
+            (VP
+              (v 来)
+              (VP
+                (v 完成)
+                (NP-OBJ (DNP (NP (v 笔画)) (ude 的)) (NP (n 顿挫))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ
+    (DNP (NP (ADJP (a 年轻)) (NP (n 时代))) (ude 的))
+    (NP (n 西洋) (n 艺术) (n 观念)))
+  (wd ，)
+  (VP
+    (ADVP (c 则))
+    (VP
+      (v 让)
+      (NP-OBJ (r 他))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-LOC (p 在) (LCP (NP (n 传统)) (f 中)))
+          (wd ，)
+          (ADVP (d 又))
+          (VP
+            (vyou 有)
+            (NP-OBJ
+              (QP (m 一) (CLP (q 份)))
+              (DNP (NP (a 开阔) (c 与) (vi 创新)) (ude 的))
+              (NP (n 胸怀))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (ADVP (d 也)) (VP (vshi 是) (NP-PRD (nz 雕刻印纽) (n 名家)))))
+          (ude 的)))
+      (NP-PN (nr 张明随)))
+    (wd ，)
+    (VP
+      (PP-DIR (p 对于) (NP (DNP (NP-PN (nr 王壮为)) (ude 的)) (NP (n 作品))))
+      (VP (vl 如数家珍))))
+  (wd ，)
+  (IP
+    (IP-TPC-3
+      (NP-TPC-2
+        (NP (DP-WH (r 哪) (QP (m 一) (CLP (q 方)))) (NP (n 印)))
+        (wd ，)
+        (NP (DP-WH (r 哪) (QP (m 一) (CLP (q 幅)))) (NP (n 字))))
+      (wd ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP-WH (r 何时))
+        (VP (usuo 所) (VP (v 做) (NP-OBJ (-NONE- *T*-2))))))
+    (wd ，)
+    (NP-SBJ (ADJP (a 壮)) (ADJP (a 老)) (NP (n 夫人)))
+    (VP (ADVP (d 都)) (VP (z 清清楚楚) (IP-OBJ (-NONE- *T*-3)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-SBJ (-NONE- *PRO*))
+  (VP (PP-MNR (p 以) (NP (a 古))) (VP (v 为) (NP-OBJ (a 新))))))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (IP (NP (nr 王壮)) (VP (v 为)))
+    (VP
+      (LCP-TMP (QP (m 九十) (CLP (q 岁))) (n 时))
+      (wd ，)
+      (PP-LOC (p 在) (LCP (NP (n 睡意)) (f 中)))
+      (VP (VP (vi 含笑)) (VP (c 而) (VP (v 逝))))))
+  (wd ，)
+  (VP
+    (ADVP (d 一直))
+    (VP (vshi 是) (NP-PRD (DNP (NP (n 艺文界)) (ude 的)) (NP (n 美谈)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (NP (r 他)) (DNP (QP (n 一生)) (ude 的)) (NP (n 书艺) (n 成就)))
+  (VP
+    (v 可)
+    (VP
+      (VP (v 分为) (NP-OBJ (QP (m 几) (CLP (q 个))) (NP (n 阶段))))
+      (VP (u 来说))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (PP-TMP (-NONE- *T*-1)) (VP (p 在) (NP-PN-OBJ (ns 重庆))))))
+      (NP (n 时候)))
+    (wd ，)
+    (NP-PN-SBJ (nr 王壮为))
+    (VP
+      (v 结识)
+      (y 了)
+      (NP-OBJ (NP-APP (n 书法) (n 名家)) (NP-PN (nr 沈尹默)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-PRP (c 因为) (NP (DNP (NP-PN (nr 沈尹默)) (ude 的)) (NP (n 指点))))
+      (wd ，)
+      (PP-ADV
+        (p 在)
+        (LCP
+          (NP
+            (NP-PN (t 晋) (t 唐))
+            (CP-APP (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 华美))) (ude 的))
+            (NP (n 风格)))
+          (f 之外)))
+      (wd ，)
+      (ADVP (d 更))
+      (VP
+        (v 加入)
+        (NP-OBJ
+          (NP-PN (nr 赵孟颉) (wn 、) (nr 文征明) (udeng 等))
+          (ADJP (a 飘逸))
+          (NP (n 书风))))))
+  (wd ，)
+  (IP (NP-SBJ (v 书写)) (VP (VCD (a 工整) (a 饱满))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 无)
+      (IP-OBJ
+        (NP-SBJ (QP (m 一)) (NP (n 字)))
+        (VP (ADVP (d 不)) (VP (a 美))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (IP (NP (ad 精)) (VP (v 研))) (NP-OBJ (n 书法) (n 艺术))))
+        (ude 的)))
+    (NP-APP
+      (NP (NP-PN (ns 故宫) (n 博物院)) (NP (n 书画处)))
+      (ADJP (b 副))
+      (NP (n 研究员)))
+    (NP-PN (nr 何传馨)))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DNP (NP-PN (ns 中国)) (ude 的)) (NP (n 书法) (n 艺术)))
+      (VP
+        (ADVP (d 约略))
+        (VP
+          (v 可以)
+          (VP
+            (v 分为)
+            (QP-OBJ
+              (NP-APP
+                (NP
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-TPC (-NONE- *T*-2))
+                        (NP-SBJ (n 字体))
+                        (VP (v 研) (NP (a 美))))
+                      (ude 的)))
+                  (NP (wyz 「) (f 南) (n 帖) (wyy 」)))
+                (wd ，)
+                (p 与)
+                (NP
+                  (CP
+                    (WHNP-3 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-3))
+                        (VP (VCD (a 浑厚) (a 刚劲))))
+                      (ude 的)))
+                  (NP (wyz 「) (f 北) (n 碑) (wyy 」))))
+              (QP (m 两) (CLP (q 路)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (nr 王壮为)) (ude 的)) (NP (n 书风)))
+    (VP (VP-FOC (vi 成家)) (VP (ADVP (d 甚)) (VP (a 早)))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 在)
+      (LCP (QP (QP (QP (m 四十)) (ADVP (m 多))) (CLP (q 岁))) (n 时)))
+    (wd ，)
+    (NP-SBJ (n 作品))
+    (VP
+      (v 流露)
+      (uzhe 着)
+      (NP-OBJ (DNP (NP (n 帖学)) (ude 的)) (NP (a 飘逸) (a 顺畅)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (wd ，)
+  (NP-PN-SBJ (nr 王壮为))
+  (VP
+    (VP
+      (ADVP (d 却))
+      (VP
+        (IP (NP (n 儆)) (VP (v 醒)))
+        (NP-IO (r 自己))
+        (IP-OBJ
+          (wyz 「)
+          (IP-SBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (d 太)) (ADVP (d 过)) (VP (a 漂亮))))
+          (VP
+            (ADVP (d 也))
+            (VP (vshi 是) (NP-PRD (QP (m 一) (CLP (q 种))) (NP (n 缺点)))))
+          (wyy 」))))
+    (wd ，)
+    (VP
+      (ADVP (d 特意))
+      (VP
+        (v 开始)
+        (VP
+          (PP-LOC (p 在) (LCP (NP (n 书法)) (f 中)))
+          (wd ，)
+          (VP
+            (v 融入)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (VCD (a 刚健) (a 有力))))
+                  (ude 的)))
+              (NP (n 碑学) (n 风格)))))))
+    (wd ，)
+    (VP
+      (ADVP (d 刻意))
+      (VP
+        (v 追求)
+        (NP-OBJ
+          (DNP
+            (NP (wyz 「) (a 生) (wn 、) (a 狠) (wn 、) (a 辣) (wyy 」))
+            (ude 的))
+          (NP (n 笔意))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 书风)))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 正))
+    (VP
+      (v 符合)
+      (y 了)
+      (NP-OBJ
+        (NP (r 他))
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (c 既)
+              (VP
+                (vyou 有)
+                (NP-OBJ
+                  (DNP (NP (s 北方) (n 男儿)) (ude 的))
+                  (NP (n 豪气) (a 耿直))))
+              (wd ，)
+              (c 又)
+              (VP
+                (vyou 有)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (VP
+                      (PP-DIR (p 对) (NP (n 艺术)))
+                      (VP (n 要求) (NP-OBJ (a 完美))))
+                    (wd ，)
+                    (VP (VP-FOC (n 为人)) (VP (VCD (a 细腻) (a 深刻)))))))))
+          (ude 的))
+        (NP (n 本性)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP (QP (QP (QP (m 五十)) (ADVP (m 多))) (CLP (q 岁))) (n 时)))
+  (wd ，)
+  (IP (NP (nr 王壮)) (VP (p 为)))
+  (VP
+    (VP
+      (v 有感于)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (wyz 「)
+            (IP-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 写字)))
+            (VP
+              (ADVP (d 就))
+              (VP
+                (vshi 是)
+                (IP-PRD (NP-SBJ (-NONE- *PRO*)) (VP (n 画画)))))
+            (wyy 」))
+          (ude 的))
+        (NP (n 想法))))
+    (wd ，)
+    (VP
+      (PP-DIR (p 对) (NP (n 书法)))
+      (VP
+        (v 作)
+        (y 了)
+        (NP-OBJ (DNP (QP (m 许多)) (ude 的)) (NP (n 创新) (n 实验))))))
+  (wj 。)))
+</S>
+<S>
+( (NP
+  (ADVP (v 例如))
+  (NP
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 他))
+          (VP
+            (VP
+              (PP-MNR
+                (p 以)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-TPC (-NONE- *T*-1))
+                        (a 淡)
+                        (a 浓)
+                        (VP (a 不同)))
+                      (ude 的)))
+                  (NP (n 墨汁))))
+              (VP
+                (VP (vi 重叠) (QP-EXT (m 五) (CLP (q 遍))))
+                (VP (v 书写))))
+            (VP (usuo 所) (VP (v 发明) (NP-OBJ (-NONE- *T*-2))))))
+        (ude 的)))
+    (NP (wyz 「) (n 乱影书) (wyy 」)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (VP
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ-1 (n 纸))
+            (VP (VCD (v 揉) (v 皱)) (NP-OBJ (-NONE- *-1)))))
+        (VP
+          (FRAG (v 藉) (FLR (PP (p 以))))
+          (VP
+            (VRD (v 写) (v 出))
+            (NP-OBJ (IP (NP (n 斑)) (VP (v 剥))) (NP (n 字体))))))
+      (wd ，)
+      (c 或)
+      (VP
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-SBJ-3
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (d 才)) (VRD (v 写) (a 好))))
+                  (ude 的)))
+              (NP (n 绢布)))
+            (wd ，)
+            (VP
+              (ADVP (d 快速))
+              (VP
+                (VP (VRD (v 放) (v 入)) (LCP-OBJ (s 水中)))
+                (d 又)
+                (VP (VRD (v 捞) (v 起)) (NP-OBJ (-NONE- *-3)))))))
+        (wd ，)
+        (VP
+          (v 得到)
+          (NP-OBJ
+            (QP (m 一) (CLP (q 种)))
+            (CP-APP (IP (NP-SBJ (n 水墨)) (VP (v 氤氲))) (ude 的))
+            (NP (n 效果)))))))
+  (wd ，)
+  (VP
+    (PP-LOC (p 在) (NP (n 书艺界)))
+    (ADVP (d 都))
+    (ADVP (d 颇))
+    (VP (v 引起) (NP-OBJ (n 瞩目))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 新潮))) (ude 的)))
+        (NP (n 实验)))
+      (f 之后)))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 又))
+    (VP
+      (VP
+        (v 回到)
+        (LCP-OBJ
+          (NP (DNP (NP (n 老祖宗)) (ude 的)) (NP (n 世界)))
+          (LCP (f 里))))
+      (VP (v 去) (VP (v 汲取) (NP-OBJ (n 养分))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-2
+    (wyz 「)
+    (IP
+      (NP-TMP (DP (r 这)) (NP (n 时期)))
+      (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (n 行书)))
+      (VP
+        (VP (d 不再) (ADVP (r 那么)) (VP (a 修长)))
+        (wd ，)
+        (VP (ADVP (d 反而)) (ADVP (r 有些)) (VP (VSB (b 右倾) (n 扁阔))))))
+    (wd ，)
+    (IP (NP-SBJ (v 书写)) (VP (VCD (a 自由) (z 奔放))))
+    (wd ，)
+    (IP (LCP-SBJ (NP (n 笔)) (f 中)) (VP (vi 飞) (NP (a 白))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (ad 显然))
+        (ADVP (d 已经))
+        (VP
+          (VRD (v 脱) (v 去))
+          (NP-OBJ
+            (NP (t 早期))
+            (DP (r 那种))
+            (CP-APP
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (a 华丽) (a 完美))))
+              (ude 的))
+            (NP (a 拘谨)))))
+      (y 了)))
+  (wd ，)
+  (wyy 」)
+  (NP-PN-SBJ (nr 何传馨))
+  (VP (v 表示) (IP-OBJ (-NONE- *T*-2)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (nr 王壮为)) (ude 的)) (NP (n 书法) (n 作品)))
+  (VP
+    (ADVP (d 也))
+    (PP-TMP (p 在) (NP (DP (r 此) (QP (m 一))) (NP (n 时期))))
+    (VP (v 达到) (NP-OBJ (n 颠峰))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (IP-ADV (NP-SBJ (-NONE- *pro*)) (VP (vl 学到老)))
+  (wd ，)
+  (NP-SBJ (n 书))
+  (VP (vi 成灾))))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (v 回顾) (QP-OBJ (DNP (NP-PN (nr 王壮为)) (ude 的)) (QP (n 一生)))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP (DNP (NP (r 他)) (ude 的)) (NP (n 艺术) (n 生活)))
+                (f 中)))
+            (ADVP (d 不))
+            (VP (v 能) (VP (a 少)))))
+        (ude 的))))
+  (VP
+    (PP (v 除) (y 了) (NP (n 酒)))
+    (wd ，)
+    (ADVP (d 就))
+    (VP (vshi 是) (NP-PRD (n 书))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (VP
+      (c 不仅)
+      (VP (v 勤于) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 读书))))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (VP
+          (vi 喜欢)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (v 买) (NP-OBJ (n 书)))
+              (wd ，)
+              (VP (v 谈) (NP-OBJ (n 书))))))))
+    (wd ，)
+    (VP
+      (VP
+        (v 乐于)
+        (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 结交) (NP-OBJ (n 读书人)))))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (ADVP (d 经常))
+        (VP
+          (v 托)
+          (NP-OBJ (n 学生) (wn 、) (n 朋友))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (v 到) (NP-PN-OBJ (ns 东京)))
+              (VP
+                (v 买)
+                (NP-OBJ
+                  (QP (CLP (q 些)))
+                  (NP
+                    (NP
+                      (DNP (NP (nz 日文)) (ude 的))
+                      (NP (n 书道) (n 书籍)))
+                    (wd ，)
+                    (c 或是)
+                    (NP
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (n 大陆))
+                            (VP (v 编印) (NP-OBJ (-NONE- *T*-1))))
+                          (ude 的)))
+                      (ADJP (a 新))
+                      (NP (n 资料))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (CP-CND
+      (ADVP (c 即使))
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (NP-PRD (t 晚年) (n 时候)))))
+    (wd ，)
+    (NP-SBJ (NP (r 他)) (DNP (NP (vi 读书)) (ude 的)) (NP (n 兴致)))
+    (VP (ADVP (d 依然)) (ADVP (d 未)) (VP (v 减) (NP-EXT (m 丝毫)))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 在)
+      (UCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 发觉)
+            (IP-OBJ
+              (NP-SBJ (n 记忆))
+              (LCP (IP (VP (ADVP (d 大)) (VP (v 不如)))) (f 前)))))
+        (wd ，)
+        (NP (DNP (NP (v 感叹)) (uzhi 之)) (NP (n 余)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (v 刻)
+        (y 了)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 枚)))
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (wyz 「)
+                (VP (ADVP (ad 多)) (VP (v 读)))
+                (VP
+                  (v 补)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (d 多)) (VP (v 忘)))))
+                (wyy 」)))
+            (ude 的))
+          (NP (n 闲章))))
+      (VP
+        (v 来)
+        (VP
+          (v 激励)
+          (NP-OBJ (r 自己))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (IP-ADV
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (d 越)) (VP (a 老))))
+              (ADVP (d 越))
+              (VP (v 要) (VP (ADVP (ad 多)) (VP (vi 读书))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VCD (a 博学) (n 多闻))) (ude 的)))
+      (NP-PN (nr 王壮为)))
+    (DNP (PP (p 在) (NP (n 书画) (n 金石))) (ude 的))
+    (NP (n 研究)))
+  (wd ，)
+  (VP
+    (ADVP (d 也))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 文艺界))
+              (VP (v 请) (NP (v 益)) (NP-OBJ (-NONE- *T*-2))))
+            (ude 的)))
+        (NP (n 对象)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP (VP (ADVP (v 像)) (VP (vshi 是))))
+    (NP-SBJ (NP-APP (n 国画) (n 大师)) (NP-PN (nr 张大千)))
+    (VP
+      (ADVP (d 每每))
+      (VP
+        (vi 喜欢)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (PP-LOC (p 在) (LCP (NP (n 题款)) (f 上))) (VP (vl 故弄玄虚)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 令)
+      (NP-OBJ (n 人))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (vl 似懂非懂)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 收藏家))
+    (VP
+      (VP (ADVP (ad 不便)) (VP (v 去) (VP (v 问) (NP-PN-OBJ (nr 张大千)))))
+      (wd ，)
+      (VP
+        (ADVP (d 就))
+        (VP
+          (v 会)
+          (VP
+            (ADVP (d 赶紧))
+            (VP
+              (v 来)
+              (VP (PP-DIR (p 向) (NP-PN (nr 王壮为))) (VP (v 求教)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 有时候))
+  (wd ，)
+  (NP-PN-SBJ (nr 王壮为))
+  (VP
+    (VP
+      (ADVP (d 还))
+      (VP (v 会) (VP (ADVP (d 故意)) (VP (v 捉弄) (NP-OBJ (n 学生))))))
+    (wd ，)
+    (VP
+      (v 要)
+      (NP-OBJ (r 他们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (a 用功) (a 精进))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 当时))
+    (NP-PN-SBJ (nr 王壮为))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 问)
+        (NP-IO (r 他))
+        (wm ：)
+        (CP-Q-OBJ
+          (wyz 「)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 一定))
+              (VP (v 要) (VP (VRD (v 磨) (v 掉)) (VP (nr 重刻))))))
+          (y 吗)))))
+  (ww ？)
+  (wyy 」)
+  (IP
+    (ADVP (NP (nr 黄天)) (ADVP (d 才)))
+    (VP
+      (VP (ADVP (d 也)) (ADVP (d 没)) (ADVP (ad 多)) (VP (v 想)))
+      (wd ，)
+      (VP
+        (ADVP (d 就))
+        (VP
+          (v 说)
+          (CP-OBJ
+            (IP (NP-SBJ (-NONE- *pro*)) (VRD (v 磨) (v 掉)))
+            (y 吧))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (CP-APP (IP (NP-SBJ (-NONE- *PRO*)) (VP (d 忘我))) (uzhi 之))
+    (NP (n 境)))
+  (wd ，)
+  (VP (ADVP (d 始)) (VP (p 为) (NP-PRD (v 天成))))))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (DNP (NP (v 耳顺)) (uzhi 之)) (NP (n 年))) (f 以后))
+    (wd ，)
+    (IP (NP (nr 王壮)) (VP (p 为)))
+    (VP
+      (VP (ADVP (r 自)) (VP (v 号) (NP-PN-OBJ (wyz 「) (n 渐斋) (wyy 」))))
+      (wd ，)
+      (VP (v 自称) (NP-PN-OBJ (wyz 「) (n 渐叟) (wyy 」)))
+      (wd ，)
+      (VP
+        (PP-BNF (p 为) (NP (r 自己)))
+        (VP (v 刻) (y 了) (NP-OBJ (QP (m 一)) (NP (n 印)))))))
+  (wm ：)
+  (IP
+    (wyz 「)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (VP (ADVP (d 渐)) (VP (a 老))) (VP (ADVP (d 渐)) (VP (a 熟))))
+      (wd ，)
+      (VP (VP (ADVP (d 渐)) (VP (a 熟))) (VP (ADVP (d 渐)) (VP (v 离))))
+      (wd ，)
+      (VP
+        (VP (ADVP (d 渐)) (VP (v 离)))
+        (VP
+          (IP (VP (v 见) (NP (ADVP (a 近)) (p 于))))
+          (NP-OBJ (a 平淡) (a 自然))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 经过)
+    (NP
+      (NP (QP (m 五十) (CLP (q 岁))) (NP (n 时期)))
+      (CP-APP
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (wyz 「) (n 故作异) (wyy 」)))
+        (ude 的))
+      (NP (n 创新) (v 求) (v 变))
+      (NP (n 实验))))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (VSB (d 回头) (vi 行走))
+    (NP-OBJ
+      (NP (ADJP (n 传统)) (NP (n 艺术)))
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (wyz 「) (ADVP (d 自然)) (VP (a 异)) (wyy 」)))
+        (ude 的))
+      (NP (n 路子))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 曾))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (n 艺术)) (ude 的)) (NP (n 美感)))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR
+                (p 经由)
+                (NP
+                  (DNP (NP (ADJP (a 长)) (NP (n 时间))) (ude 的))
+                  (NP (n 琢磨) (c 与) (n 思考))))
+              (wd ，)
+              (VP
+                (c 而)
+                (VP
+                  (pba 把)
+                  (IP-OBJ
+                    (NP-SBJ-1
+                      (DNP (LCP (NP (n 风格)) (f 中)) (ude 的))
+                      (NP (n 精华)))
+                    (VP (VRD (v 表现) (v 出来)) (NP-OBJ (-NONE- *-1))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-SBJ (NP (n 天地)) (f 间))
+    (VP
+      (v 没有)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 无) (NP-OBJ (n 渐))))
+            (uzhi 之)))
+        (NP (n 顿)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 艺术家))
+    (VP
+      (d 必须)
+      (VP
+        (PP-MNR
+          (v 经过)
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (d 不断))) (ude 的)))
+            (NP (n 操作))))
+        (wd ，)
+        (ADVP (n 日))
+        (ADVP (a 久))
+        (ADVP (d 自然))
+        (VP
+          (VRD (IP (VP (v 积) (v 生))) (v 出))
+          (NP-OBJ (QP (m 一) (CLP (q 股))) (ADJP (b 天然)) (NP (n 风韵)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (t 晚年)) (ude 的)) (NP-PN (nr 王壮为)))
+  (VP
+    (ADVP (c 不仅))
+    (PP-LOC (p 在) (LCP (NP (n 艺术)) (f 上)))
+    (ADVP (d 深))
+    (VP
+      (v 悟)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (wyz 「)
+              (VP (ADVP (d 渐)) (VP (a 老)))
+              (VP (ADVP (d 渐)) (VP (v 通)))
+              (wyy 」)))
+          (ude 的))
+        (NP (n 佛家) (n 哲理)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-ADV (bl 事实上))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 也))
+    (PP-PRP
+      (p 因)
+      (IP (NP-SBJ (n 记性)) (VP (vi 衰退) (ude 的) (VP-EXT (an 厉害)))))
+    (VP
+      (c 而)
+      (VP
+        (wyz 「)
+        (VP (ADVP (d 渐)) (VP (a 老)))
+        (VP (ADVP (d 渐)) (VP (v 忘)))
+        (wyy 」))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (d 有时候))
+    (wd ，)
+    (PP-TMP
+      (p 当)
+      (LCP
+        (IP
+          (NP-SBJ (r 他))
+          (VP
+            (ADVP (p 在))
+            (VP
+              (v 清理)
+              (NP-OBJ
+                (NP (r 自己))
+                (DNP (NP (t 过去)) (ude 的))
+                (NP (n 旧作) (n 诗文))))))
+        (n 时)))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 竟)) (ADVP (d 已)) (ADVP (ad 完全)) (VP (v 忘记))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (d 也))
+        (VP (d 没) (VP (ADVP (c 因而)) (VP (VCD (a 悲伤) (n 感叹))))))
+      (wd ，)
+      (VP
+        (ADVP (d 反而))
+        (VP
+          (v 认为)
+          (IP-OBJ
+            (IP
+              (NP-SBJ (a 健忘))
+              (VP (ADVP (d 也)) (VP (vyou 有) (NP-OBJ (n 好处)))))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 可以)
+                (VP
+                  (IP-ADV
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (PP
+                        (v 如同)
+                        (IP
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP
+                            (v 读)
+                            (NP-OBJ
+                              (DNP (NP (r 他人)) (ude 的))
+                              (NP (n 文章))))))
+                      (VP (a 一般))))
+                  (wd ，)
+                  (DVP (VP (a 客观)) (ude 地))
+                  (VP (v 看) (NP-OBJ (NP (r 自己)) (NP (n 作品))))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 于是))
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 又))
+      (PP-BNF (p 给) (NP (r 自己)))
+      (VP
+        (v 取)
+        (y 了)
+        (NP-OBJ
+          (QP (m 一个))
+          (DNP (NP (wyz 「) (ADJP (a 健忘)) (n 老人) (wyy 」)) (ude 的))
+          (NP (n 外号))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这个)) (NP (a 健忘)))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ-2
+                (LCP (NP (n 生命)) (f 中))
+                (DP (r 一切))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (VCD (a 可喜) (a 可悲))))
+                    (ude 的)))
+                (NP (n 事)))
+              (wd ，)
+              (VP
+                (ADVP (d 都))
+                (DVP (z 渐渐地))
+                (VP (v 忘掉) (NP-OBJ (-NONE- *-2))))))
+          (wd ，)
+          (VP (ADVP (c 然后)) (ADVP (d 渐渐)) (ADVP (a 老)) (VP (v 去)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (ADVP (b 毕生)) (VP (n 呕心) (NP-OBJ (n 艺术)))))
+        (ude 的)))
+    (NP-PN (nr 王壮为)))
+  (VP
+    (PP-TMP (p 在) (NP (t 老年) (n 时候)))
+    (VP
+      (v 进入)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (wyz 「)
+            (NP-SBJ (n 人) (n 书))
+            (VP (ADVP (d 俱)) (VP (a 老)))
+            (wyy 」))
+          (ude 的))
+        (DNP (NP (a 自由)) (uzhi 之))
+        (NP (n 境)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP
+    (NP-SBJ (DNP (NP (n 名家)) (ude 的)) (ADJP (b 亲笔)) (NP (n 墨迹)))
+    (wd ，)
+    (VP
+      (p 给)
+      (NP-IO (n 人))
+      (NP-OBJ
+        (QP (m 一) (CLP (q 种)))
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (vyou 有) (NP-OBJ (n 生命)))
+              (wn 、)
+              (VP (vyou 有) (NP-OBJ (n 气息)))
+              (wn 、)
+              (VP (vyou 有) (NP-OBJ (n 血脉)))
+              (wn 、)
+              (VP (vyou 有) (NP-OBJ (n 体温)))))
+          (ude 的))
+        (NP (n 感觉)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 更))
+      (VP
+        (vshi 是)
+        (VP
+          (VP
+            (v 觉得)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (v 像))
+                (VP
+                  (vshi 是)
+                  (VP
+                    (PP
+                      (p 和)
+                      (NP
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 写字)))
+                            (ude 的)))
+                        (NP (n 人))))
+                    (PP-DIR (f 对面))
+                    (VP (vi 谈话)))))))
+          (wd ，)
+          (VP
+            (PP (v 如) (NP (ADJP (v 所谓)) (NP (wyz 『) (n 亲炙) (wyy 』))))
+            (VP (uyy 一样)))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (LCP
+          (IP
+            (IP (NP (nr 王壮)) (VP (v 为)))
+            (VP
+              (NP-TMP (ADJP (a 年轻)) (NP (n 时候)))
+              (VP (v 看到) (NP-OBJ (n 古人) (n 真迹)))))
+          (n 时))
+        (ude 的))
+      (NP (n 感触))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 走)
+        (PP
+          (p 在)
+          (NP
+            (NP (NP-PN (ns 台北)) (NP (s 街头)))
+            (wd ，)
+            (NP-PN (n 公保) (n 大楼))
+            (wn 、)
+            (NP-PN (ns 台北) (n 教师) (n 会馆))
+            (wn 、)
+            (NP-PN (ns 台湾) (n 土地) (n 银行))
+            (wn 、)
+            (NP-PN (nz 中华) (n 书局))
+            (udeng 等)))))
+    (wd ，)
+    (ADVP (d 常))
+    (VP
+      (v 可)
+      (VP
+        (v 见到)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (nr 王壮为))
+                (VP (usuo 所) (VP (v 书写) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (n 牌匾))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (PP-DIR
+    (PP (p 由) (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (a 华丽) (v 飘逸)))))
+    (PP (v 到) (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (a 朴拙) (z 奔放))))))
+  (wd ，)
+  (NP-SBJ (DNP (NP-PN (nr 王壮为)) (ude 的)) (NP (n 书艺)))
+  (VP
+    (PP-TMP (p 在) (LCP (NP (t 晚年)) (n 时)))
+    (VP
+      (VP (ADVP (d 已)) (VP (v 臻) (NP-OBJ (n 化境))))
+      (wd ，)
+      (VP (VCD (a 刚健) (a 圆融)))
+      (VP (vl 浑然天成))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 张明随)) (VP (v 提供)) (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-TTL-FOC (wyz 「) (nz 嘉乐永宁) (wyy 」))
+  (wd ，)
+  (NP-PN-SBJ (nr 王壮为))
+  (VP
+    (VP
+      (PP-TMP (p 在) (NP (DNP (QP (m 半百)) (uzhi 之)) (NP (n 年))))
+      (wd ，)
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 新)) (VP (v 出土))))
+                (ude 的)))
+            (NP (NP-PN (t 春秋) (t 战国)) (NP (n 时期)))
+            (ADJP (a 古))
+            (NP (n 字)))
+          (VP (v 融入) (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 书风)))))))
+    (wd ，)
+    (VP
+      (v 开启)
+      (y 了)
+      (NP-OBJ
+        (NP (n 书法界))
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (wyz 「)
+              (PP-MNR (p 以) (NP (a 古)))
+              (VP (v 为) (NP-OBJ (a 新)))
+              (wyy 」)))
+          (ude 的))
+        (ADJP (a 新))
+        (NP (n 视野)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 张明随)) (VP (v 提供)) (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (IP (NP (nr 王壮)) (VP (v 为)))
+          (VP
+            (LCP-TMP (QP (m 七十五) (CLP (q 岁))) (n 时))
+            (VP (usuo 所) (VP (v 写) (NP-OBJ (-NONE- *T*-1))))))
+        (ude 的)))
+    (NP-TTL
+      (wkz 《)
+      (NP (NP (n 范) (ns 石湖)) (n 红梅))
+      (NP (n 诗))
+      (wky 》)))
+  (wd ，)
+  (VP
+    (VP (VCD (a 苍劲) (VRD (vi 飞) (a 白))))
+    (wd ，)
+    (VP
+      (v 达到)
+      (NP-OBJ
+        (CP-APP
+          (IP (NP-SBJ (n 人) (n 书)) (VP (ADVP (d 俱)) (VP (a 老))))
+          (ude 的))
+        (DNP (NP (a 自由)) (uzhi 之))
+        (NP (n 境)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (NP-TTL (wyz 「) (n 渐斋心) (n 画) (wyy 」))
+    (wn 、)
+    (NP-TTL (wyz 「) (nz 墨福) (wyy 」)))
+  (NP-SBJ (DNP (NP-PN (nr 王壮为)) (ude 的)) (NP (n 篆刻) (n 布局)))
+  (VP (a 严密) (c 而) (IP (QP (m 一) (CLP (n 乞))) (VP (v 呵) (VP (v 成)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (wyz 「)
+    (NP-SBJ (n 诗) (n 墨))
+    (VP (VP (v 淋漓)) (VP (ADVP (d 不)) (VP (v 负) (NP-OBJ (n 酒)))))
+    (wyy 」))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP-MNR (p 以) (NP (n 刀))) (VP (v 为) (NP-OBJ (n 笔)))))
+    (wd ，)
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (IP (NP (nr 王壮)) (VP (v 为)))
+          (VP (NP-ADV (QP (b 单)) (NP (n 刀))) (VP (n 雕刻))))
+        (ude 的))
+      (NP (n 功力)))
+    (wd ，)
+    (VP
+      (vi 使得)
+      (NP-OBJ (n 金石) (n 作品))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (PP-MNR (ADVP (d 一)) (PP (v 如) (NP (n 书法))))
+            (VP (u 般)))
+          (VP (nl 行云流水))))))
+  (wd ，)
+  (IP
+    (NP-SBJ-1
+      (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+      (NP (DNP (LCP (NP (n 印章)) (f 上)) (ude 的)) (NP (n 边款))))
+    (VP (ADVP (d 最)) (VP (pbei 被) (VP (v 称道) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (vl 睹物思人)))
+    (wd ，)
+    (NP-SBJ
+      (NP (NP-APP (NP-PN (nr 王壮为)) (NP (n 夫人))) (NP-PN (nr 张明随)))
+      (p 与)
+      (NP (NP-APP (n 公子)) (NP-PN (nr 王大智))))
+    (VP
+      (ADVP (d 常))
+      (PP-LOC (p 在) (LCP (NP (n 书房)) (f 中)))
+      (VP
+        (v 欣赏)
+        (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 书法) (n 作品))))))
+  (wj 。)))
+</S>
+<S>
+( (NP
+  (CP
+    (WHNP-1 (-NONE- *OP*))
+    (CP
+      (IP
+        (NP-PN-SBJ (nr 王壮为))
+        (VP
+          (PP-BNF (p 替) (NP (n 太太)))
+          (VP (v 雕刻) (NP-OBJ (-NONE- *T*-1)))))
+      (ude 的)))
+  (NP (n 印纽) (vi 题字))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 明随) (n 女士))
+  (VP
+    (VP (v 受) (NP-OBJ (ADJP (a 壮)) (ADJP (a 老)) (NP (n 鼓励))))
+    (wd ，)
+    (VP
+      (PP-LOC (p 在) (LCP (NP (NP (ns 印) (ns 纽)) (n 雕刻)) (f 上)))
+      (ADVP (d 亦))
+      (ADVP (d 颇))
+      (VP (vyou 有) (NP-OBJ (n 成就)))))
+  (wj 。)))
+</S>

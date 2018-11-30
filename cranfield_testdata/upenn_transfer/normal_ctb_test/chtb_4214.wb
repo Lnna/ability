@@ -1,0 +1,1388 @@
+<S>
+( (IP
+  (NP-PN-SBJ (FRAG (wkz ［) (NP (nx CJPT))) (wky ］) (NP (nrf 罗奇)))
+  (wm ：)
+  (IP
+    (NP-SBJ (n 风险) (n 资产))
+    (VP
+      (ADVP (d 将))
+      (VP (vshi 是) (NP-PRD (DP (f 下) (QP (m 一个))) (NP (n 泡沫))))))))
+</S>
+<S>
+( (FRAG (nx Cnews)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 发信人))
+    (wm ：)
+    (VP
+      (NP-PN-PRD (NP (nx Cnews)) (wkz （) (NP (nx chinanews)) (wky ）))))
+  (wd ，)
+  (IP (NP-SBJ (ns 信区)) (wm ：) (VP (NP-PRD (nx BusinessNews))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 标题))
+  (wm ：)
+  (VP
+    (NP-PN (wkz ［) (nx CJPT) (wky ］) (nrf 罗奇))
+    (wm ：)
+    (IP
+      (NP-SBJ (n 风险) (n 资产))
+      (VP
+        (ADVP (d 将))
+        (VP (vshi 是) (NP-PRD (DP (f 下) (QP (m 一个))) (NP (n 泡沫)))))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 发信站))
+  (wm ：)
+  (VP-PRD
+    (NP-PN (nx BBS) (nz 未名) (n 空间站))
+    (wkz （)
+    (NP-TMP (nx MonJan) (n 22) (t 21：09：59) (m 2007))
+    (wky ）)
+    (wd ，)
+    (VP (v 转) (NP (n 信))))))
+</S>
+<S>
+( (IP
+  (w □)
+  (NP
+    (NP-APP (NP-PN (nrf 摩根士丹利)) (NP (ADJP (n 首席)) (NP (n 经济师))))
+    (NP-PN (nrf 史蒂芬) (m 99) (nrf 罗奇)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (t 2006年)) (ude 的))
+      (QP (m 几) (CLP (q 项)))
+      (ADJP (b 主要))
+      (NP (n 教训)))
+    (VP
+      (DVP (VP (ADVP (d 相当)) (VP (a 合理))) (ude 地))
+      (VP
+        (v 解释)
+        (y 了)
+        (NP-OBJ
+          (NP (t 去年))
+          (DNP (NP (n 市场)) (ude 的))
+          (ADJP (b 主要))
+          (NP (n 发展) (n 趋势))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 金融) (n 市场) (n 现况))
+    (VP
+      (ADVP (d 即))
+      (VP
+        (v 体现)
+        (NP-OBJ
+          (DNP
+            (NP
+              (DNP (NP (DP (b 所有)) (DP (r 这些)) (NP (v 发展))) (ude 的))
+              (NP (b 交互) (n 作用)))
+            (ude 的))
+          (NP (n 结果))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 特别))
+    (VP
+      (vshi 是)
+      (IP
+        (PP-TMP
+          (p 在)
+          (NP
+            (CP
+              (WHPP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (nl 流动资金))
+                  (VP (PP-TMP (-NONE- *T*-1)) (VP (vi 过剩))))
+                (ude 的)))
+            (NP (n 年代))))
+        (wd ，)
+        (NP-SBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (v 包括)
+                  (LCP-OBJ
+                    (NP
+                      (NP
+                        (NP (ADJP (a 高)) (NP (n 收益)))
+                        (NP (n 公司) (n 债券)))
+                      (wn 、)
+                      (NP (n 结构) (n 信贷) (n 产品))
+                      (wn 、)
+                      (NP (ADJP (b 新兴)) (NP (n 市场) (n 证券)))
+                      (wn 、)
+                      (NP
+                        (ADVP (c 甚至))
+                        (NP (ADJP (m 大宗)) (NP (n 商品)))))
+                    (u 在内))))
+              (ude 的)))
+          (NP (n 风险) (n 资产)))
+        (VP
+          (ADVP (d 将))
+          (VP (vshi 是) (NP-PRD (DP (f 下) (QP (m 一个))) (NP (n 泡沫))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 全球)) (VP (ADVP (d 再)) (VP (a 平衡))))
+  (wj 。)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (r 本人))
+              (VP
+                (PP-TMP
+                  (p 在)
+                  (NP
+                    (DNP
+                      (QP (NP (t 过去)) (QP (m 五) (CLP (q 年))))
+                      (ude 的))
+                    (QP (m 大部分))
+                    (NP (n 时间))))
+                (ADVP (d 经常))
+                (VP
+                  (VP (v 提出) (NP-OBJ (-NONE- *T*-1)))
+                  (VP
+                    (p 以)
+                    (VP (v 引起) (IP-OBJ (NP-SBJ (n 人们)) (VP (v 关注))))))))
+            (ude 的)))
+        (NP (n 议题)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (vl 简言之))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 再)) (VP (a 平衡))))
+      (ude 的))
+    (NP (n 理论)))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-SBJ
+          (DNP
+            (LCP
+              (NP (NP (n 世界) (n 贸易) (n 盈余)) (p 与) (NP (n 赤字国)))
+              (f 之间))
+            (ude 的))
+          (NP (n 差距)))
+        (VP (ADVP (vd 持续)) (VP (v 扩大))))
+      (wd ，)
+      (VP
+        (ADVP (d 将))
+        (VP
+          (IP (VP (ADVP (d 不)) (VP (v 利于))))
+          (NP-OBJ
+            (DNP (NP (n 全球) (n 经济)) (ude 的))
+            (ADJP (n 持续性))
+            (NP (n 发展)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-TMP (NP (t 过去)) (QP (m 两) (CLP (q 年))))
+    (wd ，)
+    (NP-SBJ (NP (ns 美国)) (ADJP (d 经常)) (NP (n 账户) (n 赤字)))
+    (VP
+      (ADVP (q 年))
+      (ADVP (ad 平均))
+      (VP (v 超越) (QP-OBJ (m 8000亿) (CLP (q 美元))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 即)
+      (IP-PRD
+        (NP-PN-SBJ (ns 美国))
+        (VP
+          (v 吸纳)
+          (y 了)
+          (NP-OBJ
+            (NP (NP (n 世界)) (DP (r 其它)) (NP (n 国家)))
+            (DNP (QP (ADVP (a 近)) (QP (m 七) (CLP (q 成)))) (ude 的))
+            (NP (n 盈余) (n 储蓄)))))))
+  (wd ，)
+  (IP
+    (PP-TMP (v 截至) (LCP (NP (t 2006年)) (f 底)))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP (VP (ADVP (vi 相当)) (VP (p 于))))
+      (IP-OBJ
+        (ADVP (a 平均))
+        (NP-TMP (DP (r 每个)) (NP (n 营业) (n 日)))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 需)
+          (VP
+            (v 输入)
+            (NP-OBJ
+              (DNP
+                (QP (ADVP (d 约)) (QP (m 35亿) (CLP (q 美元))))
+                (ude 的))
+              (NP (f 外部) (n 融资) (n 负担))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ
+        (DNP (NP (DNP (NP (n 全球)) (ude 的)) (NP (n 储蓄))) (ude 的))
+        (NP (n 组合)))
+      (VP (ADVP (d 不)) (VP (v 做出) (NP-OBJ (n 变动))))))
+  (wd ，)
+  (NP-SBJ (NP (ADVP (d 再)) (NP (v 平衡))) (NP (n 理论)))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (n 情况))
+        (VP
+          (ADVP (d 将))
+          (ADVP (d 大大))
+          (VP
+            (IP (VP (ADVP (d 不)) (VP (v 利于))))
+            (NP-OBJ
+              (DNP (NP (n 赤字) (n 经济体)) (ude 的))
+              (NP (f 外部) (vi 融资))))))
+      (wj 。)
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *pro*))
+          (VP (PP-ADV (p 就) (NP-PN (ns 美国))) (VP (u 而言))))
+        (wd ，)
+        (NP-SBJ (r 这))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (v 预示)
+            (uzhe 着)
+            (UCP-OBJ
+              (IP (NP-SBJ (n 美元) (n 汇率)) (VRD (v 走) (a 低)))
+              (c 和)
+              (NP
+                (DNP
+                  (NP
+                    (NP (n 美元) (n 资产))
+                    (NP (ADJP (a 实际)) (NP (n 利率)))
+                    (NP (n 溢价)))
+                  (ude 的))
+                (NP (n 扩大)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这个)) (NP (n 现象)))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (QP (m 两) (CLP (q 个)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 可能))) (ude 的)))
+        (NP (n 解释)))))
+  (wm ：)
+  (IP
+    (QP-SBJ (m 一))
+    (VP
+      (vshi 是)
+      (VP
+        (v 出现)
+        (y 了)
+        (IP-OBJ
+          (NP-SBJ (DP (r 其它)) (NP (n 因素)))
+          (VP (v 介入) (NP-OBJ (r 其中)))))))
+  (wd ，)
+  (IP
+    (QP-SBJ (m 一))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (n 理论))
+        (VP (ADVP (d 根本)) (VP (VPT (vi 站) (d 不) (vi 住)) (NP (n 脚)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 我)) (VP (v 选择) (NP-OBJ (r 前者))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ (r 这))
+        (VP
+          (v 可)
+          (VP
+            (IP (VP (v 归因) (p 于)))
+            (NP-OBJ
+              (NP
+                (DNP
+                  (NP (NP (NP (n 全球)) (nl 流动资金)) (NP (n 过剩) (n 周期)))
+                  (ude 的))
+                (NP (n 延长)))
+              (c 和)
+              (NP
+                (DNP
+                  (NP
+                    (NP
+                      (NP (NP-PN (ns 亚洲)) (c 及) (NP-PN (ns 中东)))
+                      (NP (n 国家)))
+                    (NP (nt 央行)))
+                  (ude 的))
+                (IP-APP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (ADVP (n 政策性)) (VP (v 买入) (NP-OBJ (n 美元)))))
+                (NP (n 行动)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 只要))
+    (IP
+      (NP-SBJ (DP (r 这些)) (NP (n 动力)))
+      (VP (QP (m 一) (CLP (q 日))) (VP (v 存在)))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (NP (ADJP (d 再)) (NP (a 平衡))) (NP (n 论据)))
+          (VP (usuo 所) (VP (v 认为) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (DNP (PP (p 对) (NP (n 金融) (n 市场))) (ude 的))
+    (NP (n 影响)))
+  (VP
+    (ADVP (d 将))
+    (VP (v 会) (VP (v 继续) (VP (pbei 被) (VP (VRD (v 缓和) (v 下来)))))))
+  (wj 。)))
+</S>
+<S>
+( (NP (DNP (NP (v 全球化)) (ude 的)) (NP (n 足迹)) (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (t 去年))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP (NP (n 全球化) (n 进程)) (ude 的))
+      (QP (m 一个))
+      (ADJP (a 重要))
+      (NP (n 里程碑))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP (VP (vi 受惠) (p 于)))
+      (NP-OBJ
+        (DNP
+          (NP
+            (IP-APP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (VP (v 跨境)) (VP (n 整合))))
+            (NP (n 步伐)))
+          (ude 的))
+        (NP (n 加速)))))
+  (wd ，)
+  (NP-SBJ
+    (CP-APP
+      (IP (NP-SBJ (n 全球) (n 贸易)) (VP (v 占) (NP-OBJ (n 世界) (nx GDP))))
+      (ude 的))
+    (NP (n 比重)))
+  (VP
+    (PP-TMP (p 在) (NP (t 2006年)))
+    (VP
+      (VP (v 创) (NP-OBJ (n 记录)))
+      (VP
+        (QP-ADV (m 首) (CLP (q 次)))
+        (VP (v 超越) (NP (QP (m 30)) (NP (m ％)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 从) (NP (NP (t 1998年) (p 至) (t 2006年)) (NP (f 期间))))
+  (wd ，)
+  (NP-SBJ (n 全球) (n 贸易) (n 增长))
+  (VP
+    (v 占)
+    (y 了)
+    (QP-OBJ
+      (DNP
+        (NP (NP (n 全球) (n 生产总值)) (ADJP (v 累计)) (NP (n 增幅)))
+        (ude 的))
+      (ADVP (d 整整))
+      (IP (QP (m 42)) (VP (QP (wb ％))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这种))
+    (DNP (NP (n 贸易) (b 密集型)) (ude 的))
+    (NP (n 全球) (n 增长) (n 态势)))
+  (VP
+    (b 潜在)
+    (NP-OBJ (DNP (ADJP (a 巨大)) (ude 的)) (ADJP (n 宏观)) (NP (n 影响力))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (CP-ADV
+      (ADVP (c 尽管))
+      (IP
+        (NP-SBJ (n 能源) (n 价格))
+        (VP (ADVP (z 急速)) (VRD (vi 涨) (v 升)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 估计)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (ADJP (n 工业化)) (NP (n 国家)))
+          (DNP (NP (t 2006年)) (ude 的))
+          (NP (nx CPI) (n 通胀率)))
+        (VP
+          (VP
+            (ADVP (d 只))
+            (VP (vyou 有) (QP (LST (m 2)) (wj ．) (QP (m 4) (wb ％)))))
+          (wd ，)
+          (VP
+            (PP-ADV
+              (p 与)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (VP
+                          (v 受)
+                          (IP-OBJ (NP-SBJ (n 能源) (n 因素)) (VP (v 影响))))
+                        (VP (c 而) (VP (vi 上升)))))
+                    (ude 的)))
+                (NP (t 2005年) (n 通胀) (n 水平))))
+            (VP (vi 看齐)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-TPC
+      (DNP (DP (r 各) (CLP (q 年))) (ude 的))
+      (wyz “)
+      (NP (n 核心))
+      (wyy ”)
+      (NP (n 基础)))
+    (ADVP (c 则))
+    (NP-SBJ (v 变动))
+    (VP (ADVP (d 并)) (ADVP (d 不)) (VP (a 大))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 虽然))
+    (IP
+      (NP-SBJ
+        (DNP (NP (QP (m 大部分)) (NP (n 工业)) (n 大国)) (ude 的))
+        (NP (NP (n 劳动力) (c 和) (n 产品)) (NP (n 市场)))
+        (NP (a 景气)))
+      (VP (ADVP (d 已)) (ADVP (d 逐渐)) (VRD (v 转) (a 好)))))
+  (wd ，)
+  (NP-SBJ (DNP (ADJP (vi 持续)) (ude 的)) (ADJP (a 低)) (NP (n 通胀)))
+  (VP
+    (VP
+      (ADVP (d 日益))
+      (VP (v 形成) (NP-OBJ (QP (m 一) (CLP (q 股))) (NP (n 全球) (n 力量)))))
+    (wd ，)
+    (VP
+      (PP-ADV
+        (p 对)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (ADVP (d 向来))
+                  (VP (v 促使) (NP-OBJ (NP (nl 发达国家)) (NP (n 通胀))))))
+              (ude 的)))
+          (NP (s 国内) (n 压力))))
+      (DVP (VP (a 有效)) (ude 的))
+      (VP (v 发挥) (uzhe 着) (NP-OBJ (v 抵消) (n 作用)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP (NP-PN (ns 美国)) (NP (n 地产) (n 泡沫)) (NP (vi 震荡))) (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-ADV
+      (v 像)
+      (NP
+        (DNP (LCP (QP (m 六) (CLP (q 年))) (f 前)) (ude 的))
+        (NP (n 股市) (n 泡沫))))
+    (wd ，)
+    (NP-SBJ (DP (r 另) (QP (m 一个))) (ADJP (b 主要)) (NP (n 资产) (n 泡沫)))
+    (VP (PP-TMP (p 在) (NP (t 2006年))) (VP (vi 爆破))))
+  (wd ，)
+  (IP
+    (DP-SBJ (r 这) (CLP (q 次)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP-PN (ns 美国)) (ude 的))
+        (ADJP (b 巨型))
+        (NP (n 房地产) (n 泡沫)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (ADVP (d 正))
+    (PP
+      (v 如)
+      (IP
+        (IP-SBJ
+          (NP-SBJ (n 股市) (n 泡沫))
+          (VP
+            (PP-TMP (p 在) (NP (m 2000) (wp －) (t 01年)))
+            (VP (vi 破灭))))
+        (VP
+          (v 导致)
+          (NP-OBJ (DNP (ADJP (a 温和)) (ude 的)) (NP (n 衰退) (n 现象)))))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 担心)
+    (IP-OBJ
+      (NP-SBJ (n 人们))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (NP-TMP (t 2007年))
+                  (VP
+                    (v 可能)
+                    (VP (v 出现) (NP-OBJ (DP (n 同类)) (NP (n 情况)))))))
+              (ude 的))
+            (NP (n 风险)))
+          (VP
+            (ADVP (m 全部))
+            (VP (v 抛开) (ude 得) (VP (ADVP (d 太)) (VP (a 快)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 首先))
+    (wd ，)
+    (NP-SBJ (DNP (NP (n 住宅) (n 市场)) (ude 的)) (NP (n 调整)))
+    (VP (ADVP (d 才)) (ADVP (d 刚刚)) (VP (v 开始))))
+  (wf ；)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-ADV
+          (p 以)
+          (NP
+            (NP-PN (ns 美国))
+            (NP (NP (n 房屋) (n 建造业)) (NP (n 工人)))
+            (NP (n 数目))))
+        (VP (v 为) (NP (n 例)))))
+    (wd ，)
+    (NP-SBJ (DNP (NP (t 目前)) (ude 的)) (NP (n 数字)))
+    (VP
+      (PP-ADV
+        (v 对比)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (LCP-TMP (QP (m 五) (CLP (q 年))) (f 来))
+                  (VP (v 累积) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (n 增幅))))
+      (ADVP (d 仅))
+      (VP (vi 回落) (y 了) (NP (QP (m 15)) (NP (wb ％))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LST (m 第二))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 过度)) (VP (vi 负债))))
+            (wn 、)
+            (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 储蓄)) (VP (a 不足))))
+          (ude 的)))
+      (NP-PN (ns 美国))
+      (NP (n 消费者)))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (VP
+          (v 利用)
+          (NP-OBJ
+            (NP (r 他们))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ (n 价值))
+                  (VP (ADVP (d 日益)) (VP (pbei 被) (VP (v 高估)))))
+                (ude 的)))
+            (NP (n 房屋))))
+        (VP
+          (v 来)
+          (VP
+            (v 支持)
+            (NP-OBJ
+              (NP (r 其))
+              (DNP (ADJP (vi 过度)) (ude 的))
+              (NP (n 消费))))))))
+  (wf ；)
+  (IP
+    (ADVP (c 而))
+    (NP-TMP (t 现在))
+    (NP-SBJ (n 房价))
+    (VP (ADVP (d 偏)) (VP (a 软))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (n 抵押品)) (ude 的)) (NP (n 赎取权)))
+    (VP (ADVP (d 已)) (VP (vi 失效))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 消费) (n 需求))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 面临)
+        (NP-OBJ
+          (CP
+            (WHNP-4 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-4))
+                (VP (ADVP (d 更)) (VP (a 大))))
+              (ude 的)))
+          (NP (n 压力))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LST (m 第三))
+    (wd ，)
+    (PP-ADV
+      (p 随着)
+      (UCP
+        (NP
+          (DNP
+            (NP
+              (NP (NP (n 住宅)) (c 和) (NP (n 消费)))
+              (NP (n 市场))
+              (n 前景))
+            (ude 的))
+          (ADJP (d 不))
+          (NP (a 明朗)))
+        (c 和)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-ADV
+              (p 对)
+              (NP
+                (DNP (NP (ADJP (n 终极)) (NP (n 市场) (n 需求))) (ude 的))
+                (NP (n 预期) (n 情况))))
+            (ADVP (d 高度))
+            (VP (a 敏感))))))
+    (wd ，)
+    (NP-SBJ (NP (n 资本) (n 开支)) (NP (n 计划)))
+    (VP (v 可能) (VP (v 放缓))))
+  (wf ；)
+  (IP
+    (NP-SBJ (NP (ADJP (n 核心)) (NP (n 资本) (n 产品))) (NP (n 订单)))
+    (VP
+      (PP-TMP
+        (p 在)
+        (NP
+          (NP (NP (t 2006年)) (NP (t 11月) (c 和) (t 12月)))
+          (ADVP (a 连续))
+          (QP (m 两) (CLP (q 个)))
+          (NP (n 月))))
+      (VP (v 减少))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 预示)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (PP (p 在) (NP (DP (r 这)) (NP (n 方面)))) (ude 的))
+          (NP (n 调整)))
+        (VP
+          (v 可能)
+          (VP
+            (ADVP (d 已))
+            (VP
+              (p 在)
+              (LCP-OBJ
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (v 进行)))
+                (f 中))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-ADV
+        (v 像)
+        (NP
+          (DNP (LCP (QP (m 六) (CLP (q 年))) (f 前)) (ude 的))
+          (NP (ADJP (f 后)) (NP (n 股市) (n 泡沫)))
+          (NP (n 情况))))
+      (VP (uyy 一样))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 广泛))) (ude 的)))
+    (NP (n 舆论) (n 意见)))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (VP
+                  (IP (VP (v 归因) (p 于)))
+                  (IP-OBJ
+                    (NP-TMP (t 最近))
+                    (NP-SBJ (n 资产) (n 泡沫))
+                    (VP (vi 破灭))))
+                (VP (c 而) (VRD (v 引) (v 致)))))
+            (ude 的)))
+        (DP (r 任何))
+        (NP (n 损害)))
+      (wd ，)
+      (VP
+        (ADVP (d 将))
+        (VP
+          (pbei 被)
+          (VP
+            (v 控制)
+            (PP
+              (p 在)
+              (LCP
+                (NP
+                  (DNP
+                    (NP (NP-PN (ns 美国)) (NP (n 房屋) (n 建造业)))
+                    (ude 的))
+                  (NP (n 范围)))
+                (f 内))))))))
+  (wj 。)))
+</S>
+<S>
+( (NP (NP (ADJP (m 大宗)) (NP (n 商品))) (NP (n 周期)) (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ (n 商品) (n 市场))
+        (VP (v 有着) (NP-OBJ (ADJP (b 超级)) (NP (n 周期)))))
+      (ude 的))
+    (NP (n 看法)))
+  (VP
+    (PP-TMP (p 在) (NP (t 2006年)))
+    (VP (v 遇到) (NP-OBJ (DNP (ADJP (a 严厉)) (ude 的)) (NP (n 挑战)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 油价))
+    (VP
+      (PP-TMP
+        (p 从)
+        (NP
+          (DNP (LCP (NP (t 去年) (t 7月)) (f 中)) (ude 的))
+          (NP (n 高峰期))))
+      (VP
+        (vi 下跌)
+        (y 了)
+        (QP-EXT (ADVP (v 超过)) (IP (QP (m 25)) (VP (QP (m ％))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 天然气) (n 价格))
+    (VP (vi 下降) (y 了) (LCP-EXT (QP (m 30) (wb ％)) (f 以上))))
+  (wd ，)
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (PP-ADV (p 对) (NP (n 经济) (n 走势))) (VP (a 敏感))))
+          (ude 的)))
+      (NP (ADJP (b 主要)) (NP (n 金属)))
+      (NP (n 价格)))
+    (wd ，)
+    (NP-SBJ (ADVP (v 比如)) (NP (n 铜)))
+    (wd ，)
+    (VP
+      (LCP-TMP (NP (t 年底)) (n 时))
+      (ADVP (d 更))
+      (VP
+        (v 出现)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 偏)) (VP (a 软))))
+            (ude 的))
+          (NP (n 迹象))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (NP (ADJP (b 超级)) (NP (n 周期))) (NP (n 理论))) (ude 的))
+      (n 大前提))
+    (VP
+      (v 有赖于)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (n 可信度))
+              (VP (ADVP (d 极)) (VP (a 高))))
+            (ude 的)))
+        (CP-APP
+          (IP
+            (NP-SBJ (NP (ADJP (b 主要)) (NP (n 商品))) (NP (v 供应)))
+            (VP (vi 短缺)))
+          (ude 的))
+        (NP (n 情况)))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (DP (r 这)) (NP (vi 短缺)))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-ADV
+            (p 因为)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (LCP-TMP
+                  (QP
+                    (NP (t 过去))
+                    (QP (QP (QP (m 20)) (ADVP (m 多))) (CLP (q 年))))
+                  (f 来))
+                (PP-LOC
+                  (p 在)
+                  (NP
+                    (IP-APP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (VP (v 新建) (NP-OBJ (-NONE- *RNR*-2)))
+                        (VP (v 提取) (NP-OBJ (-NONE- *RNR*-2)))
+                        (c 和)
+                        (VP (n 加工) (NP-OBJ-2 (n 产能)))))
+                    (NP (n 方面))))
+                (VP (v 缺乏) (NP (NP (n 资金) (n 投入)))))))
+          (VP (usuo 所) (VP (v 造成))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 鉴于)
+    (IP
+      (NP-SBJ (n 全球化) (n 进程))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 促使)
+          (NP-OBJ
+            (QP (ADVP (d 更)) (QP (a 多)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (v 来自)
+                    (NP
+                      (NP-PN-APP (ns 中国) (wn 、) (ns 印度) (udeng 等))
+                      (NP (n 商品) (b 密集型))
+                      (NP (n 经济体)))))
+                (ude 的)))
+            (ADJP (a 新))
+            (NP (n 需求) (n 来源)))))))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (LCP
+        (NP
+          (NP (ADJP (ad 有限)) (NP (v 供应)))
+          (p 与)
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (ADVP (d 日趋)) (VP (a 强劲)))))
+            (NP (n 需求))))
+        (f 之间))
+      (ude 的))
+    (ADJP (d 不))
+    (NP (a 对称)))
+  (wd ，)
+  (VP
+    (v 使)
+    (IP-OBJ
+      (NP-SBJ (NP (ADJP (b 超级)) (NP (n 周期))) (NP (n 倡导者)))
+      (VP
+        (VRD (v 总结) (v 出))
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-3))
+                (VP (ADVP (dl 有史以来)) (a 最高)))
+              (ude 的)))
+          (NP (n 商品) (n 价格) (n 预期))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV (p 依) (IP (NP-SBJ (r 我)) (VP (usuo 所) (VP (v 见)))))
+  (wd ，)
+  (NP-SBJ (f 当中))
+  (VP
+    (v 缺少)
+    (y 了)
+    (NP-OBJ
+      (DNP
+        (PP
+          (p 对)
+          (NP (NP (n 商品) (n 市场)) (ADJP (b 潜在)) (NP (n 需求) (n 周期))))
+        (ude 的))
+      (NP (n 考虑))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (ns 美国)) (ude 的)) (NP (ns 房市) (n 震荡)))
+    (VP (vshi 是) (NP-PRD (r 其一))))
+  (wp --)
+  (IP
+    (IP-SBJ (NP-SBJ (n 市场)) (VP (v 走低)))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 导致)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP
+              (NP
+                (QP (m 众多))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (PP-ADV (p 对) (NP (n 房屋) (v 建造)))
+                        (VP (a 敏感))))
+                    (ude 的)))
+                (NP (n 工业)))
+              (ude 的))
+            (NP (n 材料) (n 需求)))
+          (VP (ADVP (ad 显著)) (VP (vi 下降)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 然而))
+    (NP-SBJ (DNP (ADJP (b 真正)) (ude 的)) (NP (n 需求) (n 方) (n 周期)))
+    (VP
+      (v 可能)
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 取决于)
+          (NP-OBJ
+            (NP-PN-APP (ns 中国))
+            (wd ，)
+            (NP
+              (QP (m 一个))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (ADVP (d 只))
+                      (VP
+                        (v 占)
+                        (QP-OBJ
+                          (NP (n 世界) (nx GDP))
+                          (ADVP (d 约))
+                          (IP (DFL (m 5)) (VP (QP (m ％))))))))
+                  (ude 的)))
+              (NP (n 经济体))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ
+      (NP (NP (n 石油)) (c 和) (NP (ADJP (b 主要)) (NP (n 金属))))
+      (NP (n 消耗) (n 增长)))
+    (VP
+      (ADVP (d 却))
+      (VP
+        (v 占)
+        (y 了)
+        (QP-OBJ
+          (DNP
+            (NP
+              (NP (n 全球))
+              (QP (NP (t 过去)) (QP (m 三) (CLP (q 年))))
+              (ADJP (v 累计))
+              (NP (v 增长)))
+            (ude 的))
+          (ADVP (d 整整))
+          (IP (QP (m 50)) (VP (QP (wb ％))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 在)
+    (LCP
+      (NP
+        (CP-APP
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (PP-ADV
+                        (p 替)
+                        (NP (ADJP (a 过热)) (NP (n 投资) (n 行业))))
+                      (VP (vi 降温))))
+                  (ude 的)))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (vyou 有) (NP (n 意识)))))
+              (NP (n 行动)))
+            (VP
+              (v 结合)
+              (NP-OBJ
+                (CP
+                  (WHNP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ-4 (-NONE- *T*-3))
+                      (VP
+                        (PP-LGS (p 由) (NP-PN (ns 美国)))
+                        (VP (v 引起) (NP-OBJ (-NONE- *-4)))))
+                    (ude 的)))
+                (NP (n 出口) (v 放缓)))))
+          (ude 的))
+        (NP (n 影响)))
+      (f 下)))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 中国))
+    (DNP (VP (m 来) (NP (q 年))) (ude 的))
+    (NP (n 增长)))
+  (VP (ADVP (d 将)) (VP (VRD (a 慢) (v 下来))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这些)) (NP (n 需求) (n 因素)))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (d 足以)
+      (VP
+        (PP-ADV
+          (p 对)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-1))
+                  (NP-SBJ (v 供应))
+                  (VP (n 导向)))
+                (ude 的)))
+            (NP (n 商品) (n 市场))
+            (NP (ADJP (b 超级)) (NP (n 周期)))
+            (NP (n 看法))))
+        (VP (v 带来) (NP-OBJ (DNP (ADJP (n 决定性)) (ude 的)) (NP (n 冲击)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-Q
+    (IP
+      (ADVP (c 然而))
+      (NP-SBJ (DNP (NP (t 2006年)) (ude 的)) (NP (n 教训)))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (DNP (NP (NP (t 2007年)) (NP (a 成功))) (ude 的))
+            (NP (n 钥匙))))))
+    (y 吗))
+  (ww ？)
+  (IP
+    (NP-SBJ (n 事情))
+    (VP (ADVP (d 当然)) (ADVP (d 不)) (ADVP (r 如此)) (VP (a 简单))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 尽管))
+    (IP
+      (NP-SBJ (r 我))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 认为)
+          (IP-OBJ (NP-SBJ (n 全球) (n 经济)) (VP (v 会) (VP (v 硬着陆))))))))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (n 全球) (v 增长))
+      (VP
+        (PP-ADV
+          (p 从)
+          (NP
+            (DNP (QP (NP (t 过去)) (QP (m 四) (CLP (q 年)))) (ude 的))
+            (ADJP (a 平均))
+            (QP (LST (QP (m 4))) (wj ．) (QP (m 9) (wb ％)))
+            (NP (n 水平))))
+        (VP (vi 下跌) (NP-EXT (QP (m 一个)) (NP (n 百分点)))))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP (ADVP (d 不)) (VP (v 会) (VP (v 感到) (NP-OBJ (a 意外)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (r 我)) (ude 的))
+      (ADJP (ADVP (d 最)) (ADJP (a 大)))
+      (NP (n 顾虑)))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (n 人们))
+        (VP
+          (v 继续)
+          (VP
+            (PP-ADV
+              (p 对)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (ADVP (d 不断)) (VP (v 浮) (NP (n 沫)))))
+                    (ude 的)))
+                (NP (n 风险) (n 资产) (n 市场))))
+            (VP (vl 掉以轻心)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它们))
+    (VP
+      (VP
+        (v 包括)
+        (NP-OBJ
+          (NP
+            (NP (NP (ADJP (a 高)) (NP (n 收益))) (NP (n 公司)))
+            (NP (n 债券)))
+          (wn 、)
+          (NP (n 结构) (n 信贷) (n 产品))
+          (wn 、)
+          (NP (NP (ADJP (b 新兴)) (NP (n 市场))) (NP (n 证券)))))
+      (wn 、)
+      (VP
+        (ADVP (d 甚至))
+        (VP (vshi 是) (NP-PRD (ADJP (m 大宗)) (NP (n 商品)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (ADVP (d 将))
+      (VP (vshi 是) (NP-PRD (DP (f 下) (QP (m 一个))) (NP (n 泡沫))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (PP-ADV (p 像) (NP (n 股票) (c 和) (n 房产) (n 市场)))
+  (wd ，)
+  (NP-SBJ (n 经验))
+  (VP
+    (v 告诉)
+    (NP-IO (r 我们))
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DNP (NP (n 资产) (n 市场)) (ude 的))
+          (ADJP (n 极端))
+          (NP (n 情况)))
+        (VP
+          (ADVP (d 总))
+          (VP
+            (v 能)
+            (VP
+              (v 支撑)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (PP-ADV
+                          (p 比)
+                          (IP (NP-SBJ (r 我们)) (VP (v 预期))))
+                        (VP (v 要) (VP (a 长)))))
+                    (ude 的)))
+                (NP (n 时间)))
+              (wd ，)
+              (PP-TMP
+                (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+                (PP
+                  (p 在)
+                  (NP
+                    (CP
+                      (WHPP-2 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (nl 流动资金))
+                          (VP (PP-TMP (-NONE- *T*-2)) (VP (vi 过剩))))
+                        (ude 的)))
+                    (NP (n 年代)))))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但))
+        (IP-SBJ
+          (NP-SBJ (n 风险) (n 资产) (n 泡沫))
+          (VP
+            (v 要)
+            (VP
+              (ADVP (d 再))
+              (VP
+                (v 支撑)
+                (QP-OBJ (ADVP (v 多)) (QP (m 一) (CLP (q 年))))))))
+        (VP (ADVP (d 也许)) (VP (v 会) (VP (ADVP (d 更加)) (VP (a 困难))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wp －－)))
+</S>
+<S>
+( (IP
+  (w ※)
+  (IP (NP-SBJ (v 修改)) (wm ：) (NP-PN-PRD (QP (m 99)) (NP (nx Cnews))))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-TMP (p 于) (NP (nx Jan) (n 22) (t 21：10：06)))
+      (VP (v 修改) (NP-OBJ (r 本文)))))
+  (IP
+    (QP (m 99))
+    (wkz ［)
+    (PP-LOC
+      (nx FROM)
+      (wm ：)
+      (IP (VP (QP (QP (m 219)) (wj ．) (QP (m 142)))) (wj ．))
+      (wky ］)))))
+</S>

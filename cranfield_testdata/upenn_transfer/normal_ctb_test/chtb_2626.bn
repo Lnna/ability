@@ -1,0 +1,402 @@
+<S>
+( (IP
+  (NP-TMP (t １０月) (QP (m ５) (CLP (q 号))) (t 上午))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 中国))
+    (QP (m 部分))
+    (NP (n 史学家) (wn 、) (NP (QP (CLP (n 宗))) (NP (n 教学))) (n 专家)))
+  (VP
+    (VP (PP-LOC (p 在) (NP (ns 北京))) (VP (v 举行) (NP-OBJ (n 座谈会))))
+    (wd ，)
+    (VP
+      (v 批驳)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 梵蒂冈))
+        (VP
+          (VP
+            (v 利用)
+            (IP-OBJ (NP-SBJ (-NONE- *pro*)) (NP (v 封) (a 圣))))
+          (VP (n 反华))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (DNP
+        (NP
+          (NP-PN-APP
+            (NP-PN (ns 中国) (n 人民))
+            (n 、)
+            (NP-PN (wn 北京大学))
+            (nt 、)
+            (NP-PN (wn 北京) (ns 师范大学) (n 大学))
+            (wn 、)
+            (NP-PN (ns 中国) (n 社会) (n 科学院))
+            (wn 、)
+            (NP-PN (ns 中国) (n 青年) (n 政治) (n 学院))
+            (c 以及)
+            (NP-PN (ns 中国) (n 宗教) (n 杂志社))
+            (udeng 等))
+          (NP (n 学术) (n 机构)))
+        (ude 的))
+      (NP (n 专家) (n 学者)))
+    (QP (QP (m ２０)) (ADVP (m 多)))
+    (NP (n 人)))
+  (VP (v 参加) (y 了) (NP-OBJ (n 座谈会)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP (WHNP-1 (-NONE- *OP*)) (IP (NP (-NONE- *T*-1)) (VP (n 与会))))
+    (NP (n 学者) (k 们)))
+  (VP
+    (VP (v 列举) (VP (y 了) (NP-OBJ (QP (m 大量)) (NP (n 事实)))))
+    (wd ，)
+    (VP
+      (v 说明)
+      (CP-OBJ
+        (IP
+          (PP-LOC
+            (p 在)
+            (LCP (NP (NP-PN (ns 中国)) (NP (n 近代史))) (f 上)))
+          (NP-SBJ
+            (DNP (NP (nz 天主教) (wn 、) (nz 基督教)) (ude 的))
+            (NP (n 传入)))
+          (VP
+            (vshi 是)
+            (VP
+              (PP-ADV
+                (p 以)
+                (NP
+                  (NP (s 西方) (n 列强))
+                  (DNP (PP (p 对) (NP-PN (ns 中国))) (ude 的))
+                  (NP (n 殖民) (n 侵略))))
+              (ADVP (ad 密切))
+              (VP (vi 相连)))))
+        (ude 的))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (ADJP (a 著名)) (NP (n 学者))) (NP-PN (nr 戴逸) (n 先生)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-SBJ (n 外国) (n 传教士))
+        (VP
+          (PP-LOC (p 在) (LCP (NP (nz 鸦片战争)) (f 中)))
+          (PP-MNR (v 跟着) (n 侵略军))
+          (DVP (QP (m 大批)) (ude 的))
+          (VP (VP (VRD (v 涌) (v 进)) (NP-PN-OBJ (ns 中国))) (VP (v 来)))
+          (wd ，)))
+      (IP
+        (NP-SBJ
+          (NP (r 其))
+          (NP
+            (NP (DNP (NP (n 外国)) (ude 的)) (NP (n 侵略)))
+            (c 和)
+            (NP (n 传教) (n 事业))))
+        (VP
+          (PP-TMP
+            (p 从)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 一)) (VP (v 开始)))))
+          (ADVP (d 就))
+          (DVP (a 密切) (ude 的))
+          (VP (v 联系) (VP (p 在) (NP (s 一起))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (t 当年)) (ude 的)) (NP (n 传教) (n 活动)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP (NP (n 侵略) (n 活动)) (ude 的))
+          (QP (m 一))
+          (NP (n 部分))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 侵略军))
+    (VP
+      (PP-BNF (v 为) (NP (DNP (NP (n 传教士)) (ude 的)) (NP (n 活动))))
+      (VP (v 铺平) (y 了) (NP-OBJ (n 道路)))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (n 传教士))
+    (FLR (y 呢))
+    (VP
+      (ADVP (d 又))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (NP (t 当时))
+          (DNP (NP (n 外国) (n 侵略军)) (ude 的))
+          (NP (n 前导) (c 和) (n 供给))))))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 学者) (k 们))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (VRD (v 谈) (v 到))
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (DNP
+                  (LCP (NP (NP-PN (ns 中国)) (NP (n 近代史))) (f 上))
+                  (ude 的))
+                (QP (m 数百) (CLP (q 起)))
+                (NP (n 教案)))
+              (VP (NP-PRP (-NONE- *T*-1)) (VP (v 发生))))
+            (ude 的)))
+        (NP (NP (n 历史) (n 背景)) (c 及) (NP (n 原由))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他们))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (CP
+        (IP
+          (NP-SBJ (n 教案))
+          (VP
+            (vshi 是)
+            (VP
+              (PP-PRP
+                (p 由于)
+                (NP
+                  (DNP (NP (QP (m 一些)) (NP (n 传教士))) (ude 的))
+                  (NP (n 恶行))))
+              (VP (v 引发)))))
+        (ude 的))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (n 人们) (n 群众))
+                    (VP (d 自发) (NP-OBJ (-NONE- *T*-1))))
+                  (ude 的)))
+              (ADJP (n 反帝))
+              (ADJP (a 爱国))
+              (NP (n 行动))))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (ADVP (d 最终))
+            (VP
+              (v 导致)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP (v 震惊) (NP-OBJ (n 中外))))
+                    (ude 的)))
+                (wyz “)
+                (NP-PN (nz 义和团) (n 运动)))))))))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (s 西方) (n 传教士))
+    (VP
+      (PP-DIR (p 对) (NP (NP-PN (ns 中国)) (NP (n 人民))))
+      (VP (VRD (v 犯) (v 下)) (y 了) (NP-OBJ (nl 滔天罪恶)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 引起)
+      (y 了)
+      (NP-OBJ
+        (DNP
+          (NP
+            (LCP (NP (n 世界)) (f 上))
+            (DP (r 一切))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 爱好) (NP-OBJ (n 和平))))
+                (ude 的)))
+            (ADJP (n 正义))
+            (NP (uzhi 之) (NP (n 士))))
+          (ude 的))
+        (ADVP (a 强烈))
+        (NP (n 谴责)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 学者) (k 们))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (NP-TPC
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ-2 (-NONE- *T*-1))
+                (VP
+                  (PP-LOC
+                    (p 在)
+                    (LCP (NP (DP (b 历次)) (NP (n 教案))) (f 中)))
+                  (VP (pbei 被) (VP (v 杀) (NP-OBJ (-NONE- *-2))))))
+              (ude 的)))
+          (NP (n 传教士)))
+        (PP-ADV
+          (v 如)
+          (NP-PN (nr 马赖) (wn 、) (nr 郭西泽) (wn 、) (nr 刘方继) (udeng 等)))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (ADVP (d 都))
+            (VP
+              (vshi 是)
+              (VP (VP (vl 恶贯满盈)) (wn 、) (IP (NP (n 劣迹)) (VP (z 斑斑))))))
+          (wd ，)
+          (VP
+            (ADVP (d 至今))
+            (ADVP (d 仍))
+            (VP
+              (v 遭到)
+              (NP-OBJ
+                (DNP
+                  (NP (NP (s 当地)) (NP-PN (ns 中国)) (NP (n 人民)))
+                  (ude 的))
+                (NP (n 唾弃)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP (n 学者) (k 们))
+    (VP
+      (ADVP (ad 强烈))
+      (VP
+        (v 抗议)
+        (NP-OBJ (DNP (NP-PN (ns 梵蒂冈)) (ude 的)) (NP (vl 倒行逆施))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 北京) (n 师范大学)) (ude 的))
+      (NP-PN (nr 郑思渠) (n 教授)))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (CP
+          (IP
+            (NP-SBJ (DNP (NP (t 今天)) (ude 的)) (NP-PN (ns 中国)))
+            (VP
+              (ADVP (d 已经))
+              (ADVP (d 不))
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (DNP (LCP (QP (m 百年)) (f 前)) (ude 的))
+                  (NP-PN (ns 中国))))))
+          (y 了)))
+      (wd ，)
+      (IP
+        (NP-SBJ (NP-PN (ns 中国)) (NP (n 民族)))
+        (VP
+          (ADVP (d 正在))
+          (DVP (VP (a 迅速)) (ude 的))
+          (VP (n 走向) (NP-OBJ (vi 复兴)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP (NP (DNP (NP (r 这样)) (ude 的)) (NP (n 情况))) (f 下)))
+  (IP-ADV
+    (NP-PN-SBJ (ns 梵蒂冈))
+    (VP
+      (v 要)
+      (VP
+        (VP (v 招) (NP-OBJ (DNP (NP (n 传教士)) (ude 的)) (NP (n 亡灵))))
+        (VP
+          (PP-ADV (c 和) (NP (NP-PN (ns 中国)) (NP (n 人民))))
+          (VP (v 对抗))))))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (v 可能)
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 好))) (ude 的)))
+          (NP (n 结果))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC
+    (NP-SBJ
+      (NP (NP-PN (ns 中国)) (NP (n 人民)))
+      (c 和)
+      (NP (NP-PN (ns 中国)) (NP (n 政府))))
+    (VP
+      (PP-DIR (p 对) (NP (r 此)))
+      (VP
+        (VP (v 提出) (NP-OBJ (n 抗议) (c 和) (n 抨击)))
+        (VP (v 进行) (NP (n 谴责))))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (CP-OBJ
+      (IP
+        (NP-SBJ (r 这))
+        (VP (vshi 是) (VP (ADVP (ad 完全)) (VP (n 正义)))))
+      (ude 的)))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (NP-PN (n 中央台)) (NP (n 记者))) (VP (n 报道)) (wj 。)))
+</S>

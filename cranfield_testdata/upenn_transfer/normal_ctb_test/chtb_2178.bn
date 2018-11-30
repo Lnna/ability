@@ -1,0 +1,228 @@
+<S>
+( (IP
+  (ADVP (c 而))
+  (VP (v 立) (NP (n 法院)))
+  (VP
+    (NP-TMP (t 明天))
+    (VP
+      (VP (v 举行) (NP-OBJ (ADJP (d 临时)) (NP (v 会))))
+      (VP
+        (v 听取)
+        (IP-OBJ
+          (NP-SBJ (n 行政院) (n 院长))
+          (VP
+            (n 报告)
+            (NP-OBJ (wyz “) (NP-PN (nr 核四)) (wyy ”) (NP (n 案))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (nt 总统府)) (NP (NP (QP (m 九)) (NP (n 人))) (NP (n 小组))))
+  (VP
+    (NP-TMP (t 今天) (t 晚间))
+    (VP
+      (VP (v 召开) (NP-OBJ (n 会议)))
+      (wd ，)
+      (VP
+        (v 听取)
+        (NP-OBJ (NP-PN (nr 张俊雄)) (NP (wkz 《) (n 简报) (wky 》))))
+      (wd ，)
+      (c 并)
+      (VP (IP (VP (v 研) (NP (n 商)))) (NP-OBJ (v 应对) (n 对策)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 秋玉仁))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (n 行政院))
+        (VP
+          (NP-TMP (t 明天))
+          (ADVP (d 将))
+          (VP
+            (VP (v 到) (VP (v 立) (NP (n 法院))))
+            (VP (n 补行) (NP-OBJ (n 报告))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 期盼)
+          (IP-OBJ
+            (NP-SBJ (QP (m 两)) (NP (n 院)))
+            (VP
+              (VP
+                (v 尊重)
+                (NP-OBJ (NP (n 大法官) (n 会议)) (VP (v 解释) (NP (n 文)))))
+              (wd ，)
+              (VP
+                (ADVP (d 共))
+                (VP
+                  (v 寻)
+                  (NP-OBJ
+                    (CP
+                      (WHPP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP (PP-MNR (-NONE- *T*-1)) (VP (v 解决))))
+                        (uzhi 之)))
+                    (NP (n 道)))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 更))
+          (VP
+            (v 希望)
+            (IP-OBJ
+              (NP-SBJ (n 朝野))
+              (VP
+                (v 能)
+                (VP
+                  (PP-MNR (p 以) (NP (n 智慧)))
+                  (VP (v 化解) (NP-OBJ (n 冲突)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr1 陈) (n 总统))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 会)) (f 中)))
+    (ADVP (d 也))
+    (VP
+      (v 要)
+      (NP-PN-OBJ (n 行政院))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-DIR
+            (p 向)
+            (NP
+              (NP (ADJP (n 在野)) (NP (n 政党)))
+              (c 以及)
+              (NP (DP (r 其他)) (NP (n 党团)))))
+          (VP
+            (VP
+              (v 说明)
+              (NP-OBJ
+                (CP
+                  (WHPP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (n 政府))
+                      (VP
+                        (PP-PRP (-NONE- *T*-1))
+                        (VP
+                          (v 停建)
+                          (NP-PN-OBJ (wyz “) (nr 核四) (wyy ”)))))
+                    (ude 的)))
+                (NP (n 原委))))
+            (wd ，)
+            (VP
+              (v 展现)
+              (NP-OBJ
+                (DNP (NP (n 执政党)) (ude 的))
+                (NP (n 诚意) (c 和) (n 善意)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (VP (v 立) (NP (n 法院)))
+    (VP
+      (NP-TMP (t 今天))
+      (VP
+        (vshi 是)
+        (VP
+          (VP
+            (v 针对)
+            (y 了)
+            (NP-OBJ
+              (IP-APP
+                (NP-PN-SBJ (wyz “) (NP (n 核)) (QP (m 四)) (wyy ”))
+                (VP (v 是否) (VP (v 停建))))
+              (NP (ADVP (d 临时)) (NP (v 会)))))
+          (VP (v 举行) (NP-OBJ (n 朝野) (v 协商)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 会议))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (NP-TMP (t 明天)) (VP (v 召开)))
+          (wd ，)
+          (VP
+            (v 邀请)
+            (NP-OBJ (NP-APP (n 行长)) (NP-PN (nr 张俊雄)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-DIR
+                  (p 就)
+                  (NP
+                    (CP
+                      (WHPP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (PP-MNR (-NONE- *T*-1))
+                            (VP
+                              (v 停建)
+                              (NP-PN-OBJ
+                                (wyz “)
+                                (NP (n 核))
+                                (QP (m 四))
+                                (wyy ”)))))
+                        (ude 的)))
+                    (NP (n 政策))))
+                (VP
+                  (VP (v 进行) (NP-OBJ (n 报告)))
+                  (c 并)
+                  (VP (pbei 被) (VP (v 执行)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 朝野))
+  (VP
+    (ADVP (c 并且))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 将))
+          (PP-TMP (p 在) (NP (t 后天) (QP (m ３１) (CLP (q 号)))))
+          (VP
+            (n 议决)
+            (wd ，)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 是否)
+                (VP
+                  (v 赞成)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP
+                        (NP-PN-SBJ (nt 行院))
+                        (VP
+                          (v 停建)
+                          (NP-PN-OBJ (wyz “) (nr 核四) (wyy ”))))
+                      (ude 的))
+                    (NP (n 决定)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (NP
+  (DNP (NP (NP-APP (n 记者)) (NP-PN (nr 龚能惠))) (ude 的))
+  (NP (n 报道))
+  (wj 。)))
+</S>

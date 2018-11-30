@@ -1,0 +1,234 @@
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP (NP-PN (ns 东南亚) (n 国家) (n 联盟)) (NP (n 成员国)))
+        (c 和)
+        (NP (NP-PN (ns 欧洲) (n 联盟)) (NP (n 国家))))
+      (ude 的))
+    (NP (b 部长级) (n 官员)))
+  (VP
+    (VP
+      (v 结束)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (PP-LOC (p 在) (NP-PN (ns 老挝))) (VP (v 举行))))
+            (ude 的)))
+        (DNP (QP (m ２) (CLP (q 天))) (ude 的))
+        (NP (n 会谈))))
+    (wd ，)
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP (NP (NP-PN (ns 缅甸)) (c 和) (NP (n 人权) (n 问题))) (f 上)))
+      (VP (v 取得) (y 了) (NP-OBJ (ADJP (n 突破性)) (NP (n 进展))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP-PN (ns 东盟) (c 和) (nt 欧盟)) (ude 的))
+    (NP (NP (n 外交部长)) (c 以及) (NP (DP (r 其他)) (NP (n 官员)))))
+  (VP
+    (VP
+      (v 举行)
+      (y 了)
+      (NP-OBJ
+        (DNP (LCP (QP (m 三) (CLP (q 年))) (f 以来)) (ude 的))
+        (QP (m 第一) (CLP (q 次)))
+        (NP (n 会谈))))
+    (wd ，)
+    (VP
+      (ADVP (d 重点))
+      (VP
+        (v 讨论)
+        (y 了)
+        (NP-OBJ (DNP (NP-PN (ns 缅甸)) (ude 的)) (NP (n 问题))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (DP (r 这) (QP (m 两) (CLP (q 个)))) (NP (n 组织))) (ude 的))
+    (NP (n 外交部长)))
+  (VP
+    (PP-TMP
+      (p 自从)
+      (LCP
+        (IP
+          (NP-PN-SBJ (ns 东盟))
+          (VP
+            (NP-TMP (t １９９７年))
+            (VP
+              (VP (v 不顾) (NP-OBJ (NP-PN (nt 欧盟)) (NP (v 反对))))
+              (wd ，)
+              (VP
+                (v 接纳)
+                (NP-PN-OBJ (ns 缅甸))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (p 为) (NP-PRD (n 成员国))))))))
+        (f 之后)))
+    (ADVP (d 一直))
+    (VP (d 没有) (NP-OBJ (v 接触))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (DNP (NP (DP (r 这个)) (NP (n 星期))) (ude 的))
+        (NP-PN (ns 老挝))
+        (NP (n 会议)))
+      (f 中)))
+  (wd ，)
+  (NP-PN-SBJ (ns 缅甸))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP
+        (PP (p 有关) (NP (DNP (NP (r 他)) (ude 的)) (NP (n 人权) (n 纪录))))
+        (NP (n 方面))))
+    (VP (v 做出) (y 了) (NP-OBJ (n 让步))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 缅甸)) (NP (n 外交部长)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 缅甸))
+      (VP
+        (ADVP (d 将))
+        (PP-TMP (p 在) (NP (t 明年) (t １月)))
+        (VP
+          (v 接待)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 来自) (NP-PN-OBJ (nt 欧盟))))
+                (ude 的)))
+            (NP (n 考察团)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (nt 欧盟)) (NP (n 考察团)))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (v 会见)
+      (NP-OBJ
+        (NP-APP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ-2 (-NONE- *T*-1))
+                (VP
+                  (ADVP (d 一直))
+                  (VP (pbei 被) (VP (v 软禁) (NP-OBJ (-NONE- *-2))))))
+              (ude 的)))
+          (NP (n 反对派) (n 领袖)))
+        (NP-PN (nrf 昂山树记)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 缅甸))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (v 放松)
+            (NP-OBJ
+              (DNP
+                (PP
+                  (p 对)
+                  (NP
+                    (NP-PN (nrf 昂山树记))
+                    (c 以及)
+                    (NP (DP (r 其他)) (NP (n 反对派) (n 领袖)))))
+                (ude 的))
+              (NP (n 限制))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP
+          (NP (NP-PN (ns 东盟)) (NP (n 国家)))
+          (c 和)
+          (NP (NP-PN (nt 欧盟)) (NP (n 国家))))
+        (ude 的))
+      (NP (n 官员)))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 赞扬)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 取得) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 政治) (n 突破))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP (n 双方))
+      (DNP (PP (p 在) (LCP (NP (n 政治) (n 问题)) (f 上))) (ude 的))
+      (NP (n 僵局)))
+    (wd ，)
+    (VP
+      (ADVP (d 一直))
+      (VP
+        (v 阻碍)
+        (NP-OBJ (DNP (NP (n 贸易) (n 会谈)) (ude 的)) (NP (n 进行))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方) (n 官员))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (v 承诺)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 将))
+          (PP-PRP
+            (p 为)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP (v 开放) (NP-OBJ (n 市场)))
+                (c 和)
+                (VP (v 扩大) (NP-OBJ (n 贸易))))))
+          (VP (v 做出) (NP-OBJ (an 努力)))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,140 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 中国)) (nt 中直机关))
+  (VP
+    (v 决定)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (VP (vi 带头)) (VP (d 过) (NP-OBJ (ADJP (a 紧)) (NP (n 日子)))))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 四月) (t 二十三日) (n 电)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (IP (NP-TTL-SBJ (wkz 《) (nz 人民日报) (wky 》)) (VP (v 报道))))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 中国))
+    (NP (nt 中直机关))
+    (NP (QP (m 九四)) (NP (n 年度)))
+    (NP (n 预算) (n 安排) (n 工作) (n 会议)))
+  (VP (NP-TMP (t 日前)) (PP-LOC (p 在) (NP (r 此间))) (VP (v 召开)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 会议))
+  (VP
+    (v 要求)
+    (NP-OBJ (nt 中直机关))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (vl 精打细算))
+        (wd ，)
+        (VP (ADVP (ad 严格)) (VP (v 管理)))
+        (wd ，)
+        (VP (vl 量入为出))
+        (wd ，)
+        (VP
+          (VP (vi 带头))
+          (VP (d 过) (NP-OBJ (ADJP (a 紧)) (NP (n 日子)))))
+        (wd ，)
+        (VP
+          (v 确保)
+          (IP-OBJ
+            (NP-SBJ (NP (t 今年)) (NP (n 预算) (n 任务)))
+            (VP (ADVP (ad 圆满)) (VP (v 完成))))))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (nt 中共中央) (n 办公厅)) (ADJP (b 副)) (NP (n 主任)))
+    (NP-PN (nr 陈福今)))
+  (VP
+    (v 强调)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 要)
+          (VP
+            (ADVP (ad 正确))
+            (VP
+              (v 认识)
+              (NP-OBJ
+                (NP (t 今年))
+                (DNP (NP (n 国家)) (ude 的))
+                (NP (n 财政) (n 形势)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (nt 中直机关))
+        (VP
+          (v 应)
+          (VP (v 顾全) (NP-OBJ (n 国家) (n 大局)))
+          (wd ，)
+          (VP (v 承担) (NP-OBJ (n 国家) (n 财政) (an 困难)))
+          (wd ，)
+          (VP (v 调整) (NP-OBJ (n 支出) (n 结构)))
+          (wd ，)
+          (VP
+            (ADVP (ad 科学))
+            (ADVP (ad 合理))
+            (VP (v 安排) (NP-OBJ (n 支出))))
+          (wd ，)
+          (VP
+            (PP-PRP
+              (p 为)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 确保)
+                  (NP-OBJ
+                    (DNP (NP (n 国家) (n 预算)) (ude 的))
+                    (ADJP (a 顺利))
+                    (NP (n 完成))))))
+            (VP (v 作) (NP-OBJ (n 贡献))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 中央)) (nl 直属机关))
+  (VP
+    (v 要)
+    (VP
+      (VP (vi 带头))
+      (VP
+        (v 响应)
+        (NP-OBJ
+          (DNP
+            (NP (NP-PN (nt 中共中央)) (wn 、) (NP-PN (nt 国务院)))
+            (ude 的))
+          (NP (n 号召)))))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 从)
+        (NP
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 保证)
+                (NP-OBJ
+                  (NP (n 经济) (n 建设))
+                  (DP (r 这) (QP (m 一)))
+                  (NP (n 中心) (n 任务)))))
+            (ude 的))
+          (NP (n 大局))))
+      (VP (vi 出发)))
+    (wd ，)
+    (VP (v 加强) (NP-OBJ (n 预算) (n 管理)))
+    (wd ，)
+    (VP (VRD (v 做) (a 好)) (NP-OBJ (n 财务) (n 管理) (n 工作))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

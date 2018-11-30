@@ -1,0 +1,272 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 乌)) (NP (n 领导人)))
+  (VP
+    (v 谈)
+    (NP-OBJ
+      (QP (NP (t 今) (t 明)) (QP (m 两) (CLP (q 年))))
+      (NP (n 外交) (n 工作))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (n 基辅)
+  (t １２月)
+  (t ２９日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 桑华)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 乌克兰)) (NP (n 总统))) (NP-PN (nrf 库奇马)))
+  (VP
+    (NP-TMP (t ２９日))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (t １９９９年))
+          (DNP (NP (NP-PN (ns 乌克兰)) (NP (n 外交))) (ude 的))
+          (ADJP (b 首要))
+          (NP (n 任务)))
+        (VP
+          (vshi 是)
+          (VP
+            (VP (v 完成) (NP-OBJ (n 国界) (v 划分)))
+            (wd ，)
+            (VP
+              (ADVP (d 进一步))
+              (VP
+                (v 促进)
+                (NP-OBJ
+                  (IP-APP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 加入) (NP-OBJ (NP-PN (ns 欧洲)) (NP (n 一体化)))))
+                  (NP (n 进程)))))
+            (wd ，)
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (DNP
+                      (NP (NP (ADJP (a 友好)) (NP (n 合作))) (NP (n 条约)))
+                      (ude 的))
+                    (NP (n 基础)))
+                  (f 上)))
+              (VP
+                (v 实现)
+                (NP-OBJ
+                  (DNP (PP (p 同) (NP-PN (ns 俄罗斯))) (ude 的))
+                  (ADJP (a 全面))
+                  (NP (n 合作))))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (PP-MNR
+      (p 据)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (NP (NP-PN (ns 乌)) (NP (n 总统))) (NP (n 新闻局)))
+              (VP (v 提供) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 消息))))
+    (wd ，)
+    (NP-PN-SBJ (nrf 库奇马))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 会见)
+                (NP-OBJ
+                  (NP-APP (NP-PN (ns 乌)) (NP (n 外长)))
+                  (NP-PN (nrf 塔拉修克)))))
+            (n 时)))
+        (VP (v 作) (NP-OBJ (ADJP (b 上述)) (NP (n 表示)))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 总统) (c 和) (n 外长))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 讨论)
+      (y 了)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 乌))
+        (VP
+          (ADVP (r 如何))
+          (PP-TMP
+            (p 在)
+            (NP
+              (CP-APP
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (v 加入)
+                    (NP-OBJ (NP-PN (ns 欧洲) (ns 大西洋)) (NP (vi 一体化)))))
+                (ude 的))
+              (NP (n 同时))))
+          (VP
+            (v 发展)
+            (NP-OBJ
+              (DNP
+                (PP
+                  (PP (p 同) (NP (DP (b 所有)) (NP (n 邻国))))
+                  (wd ，)
+                  (PP
+                    (IP (VP (ADVP (d 首先)) (VP (vshi 是))))
+                    (PP (p 同) (NP-PN (ns 俄罗斯)))))
+                (ude 的))
+              (NP (a 平等) (n 伙伴) (n 关系))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 塔拉修克))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (NP-TMP (t 当天)) (VP (v 举行))))
+              (ude 的)))
+          (NP (n 记者) (n 招待会)))
+        (f 上)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-TMP (t １９９８年))
+        (NP-PN-SBJ (ns 乌克兰))
+        (VP
+          (ADVP (d 共))
+          (VP
+            (v 签署)
+            (y 了)
+            (NP-OBJ
+              (NP
+                (QP (m １８０) (CLP (q 个)))
+                (UCP (ADJP (n 双边)) (c 和) (NP (n 国际)))
+                (NP (n 条约)))
+              (wd ，)
+              (NP (QP (m ２１) (CLP (q 个))) (ADJP (b 多边)) (NP (n 协议)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nt 欧盟))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (v 决定)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 制定)
+            (NP-OBJ
+              (NP (PP (p 对) (NP-PN (ns 乌))) (NP (n 关系)))
+              (NP (n 发展) (n 战略))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 乌) (p 同) (nt 欧盟))
+      (DNP
+        (PP
+          (p 关于)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 建立) (NP-OBJ (ADJP (a 自由)) (NP (n 经济区))))))
+        (ude 的))
+      (NP (n 谈判)))
+    (VP (ADVP (d 也)) (ADVP (d 已)) (VP (v 开始))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP (p 与) (NP-PN (ns 俄罗斯)))
+      (DVP (VP (a 成功)) (ude 地))
+      (VP
+        (v 划分)
+        (y 了)
+        (NP-OBJ
+          (DNP (QP (m １２００) (CLP (q 公里))) (ude 的))
+          (NP (s 陆上) (n 边界))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VRD (v 谈) (v 到))
+          (NP-OBJ (DNP (NP (t 明年)) (ude 的)) (NP (n 外交) (n 工作)))))
+      (n 时)))
+  (wd ，)
+  (NP-PN-SBJ (nrf 塔拉修克))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 乌))
+      (VP
+        (ADVP (d 将))
+        (PP-TMP
+          (p 在)
+          (NP
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 继续)
+                  (VP
+                    (v 发展)
+                    (NP-OBJ (PP (p 同) (NP-PN (nt 北约))) (NP (n 关系))))))
+              (ude 的))
+            (NP (n 同时))))
+        (wd ，)
+        (VP
+          (v 注重)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 加强)
+              (NP-OBJ
+                (DNP
+                  (PP
+                    (p 同)
+                    (NP
+                      (NP-PN (ns 拉美) (wn 、) (ns 亚洲) (c 和) (ns 非洲))
+                      (NP (n 国家))))
+                  (ude 的))
+                (NP (n 经济) (n 合作)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

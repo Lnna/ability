@@ -1,0 +1,84 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (n 中央台)) (NP (n 记者)))
+    (NP-PN (nr 李元) (wn 、) (nr 张单利) (wn 、) (nr 王秉礼)))
+  (VP
+    (v 报道)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ
+        (QP (m 第三) (CLP (q 届)))
+        (NP-PN (ns 中国) (n 国际) (n 航空) (n 航天) (n 博览会)))
+      (VP
+        (NP-TMP (t 昨天))
+        (PP-LOC (p 在) (NP-PN (ns 珠海)))
+        (VP (VRD (v 落) (v 下)) (NP-OBJ (n 帷幕))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 本届)) (NP (n 航展)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP
+        (NP-APP
+          (n 规模)
+          (wn 、)
+          (vi 专业化)
+          (wn 、)
+          (vi 国际化)
+          (c 和)
+          (n 成果)
+          (udeng 等))
+        (NP (n 方面))))
+    (ADVP (d 都))
+    (VP (v 超过) (QP-OBJ (NP (t 以往)) (QP (m 两) (CLP (q 届))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (PP-LGS (p 由) (NP-PN (nz 三九) (n 集团))) (VP (vi 控股))))
+        (ude 的)))
+    (NP-PN (NP-PN (ns 深圳)) (NP (n 金融) (n 租赁)) (n 有限公司)))
+  (VP
+    (VP (PP-ADV (p 与) (NP-PN (ns 中国) (nz 建行))) (VP (v 合作)))
+    (VP
+      (ADVP (d 率先))
+      (VP
+        (v 涉足)
+        (NP-OBJ
+          (NP (ADJP (b 国产)) (NP (n 民航) (n 飞机)))
+          (NP (n 租赁) (n 业务)))))
+    (wd ，)
+    (VP (v 斥资) (NP-EXT (QP (ADVP (a 近)) (QP (m ４０亿) (CLP (q 元))))))
+    (VP
+      (v 订购)
+      (NP-OBJ
+        (QP (m ６０) (CLP (q 架)))
+        (NP-PN (NP (ADJP (a 新)) (NP (n 舟))) (m ６０))
+        (NP (n 飞机))))
+    (wd ，)
+    (VP (v 发展) (NP-OBJ (DNP (NP (n 我国)) (ude 的)) (NP (n 支线) (n 运输))))
+    (wd ，)
+    (VP
+      (v 打破)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ-2 (NP-PN (ns 中国)) (NP (n 民航) (n 飞机) (n 租赁业)))
+            (VP
+              (PP-LGS (p 由) (NP (n 外国人)))
+              (VP (v 垄断) (NP-OBJ (-NONE- *-2)))))
+          (ude 的))
+        (NP (n 历史)))))
+  (wj 。)))
+</S>

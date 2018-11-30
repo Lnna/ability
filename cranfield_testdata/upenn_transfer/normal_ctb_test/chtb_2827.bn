@@ -1,0 +1,541 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 继续)
+    (FLR (y 呢))
+    (VP
+      (ADVP (d 再))
+      (VP
+        (pba 把)
+        (IP-OBJ (NP-SBJ (n 焦点)) (VP (vi 转向) (NP-PN-OBJ (ns 南斯拉夫)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (ns 南斯拉夫)) (ude 的)) (NP (n 大选) (n 危机)))
+    (VP (ADVP (d 正)) (ADVP (d 不断)) (VP (vi 升级))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 包括)
+            (NP-OBJ
+              (NP
+                (NP-APP (NP-PN (ns 南斯拉夫)) (ADJP (b 现任)) (NP (n 总统)))
+                (NP-PN (nrf 米洛塞维奇)))
+              (c 和)
+              (NP
+                (NP-APP
+                  (DNP (NP (n 反对党)) (ude 的))
+                  (NP (n 竞选) (n 对手)))
+                (NP-PN (nrf 科什图尼察))))))))
+    (VP
+      (ADVP (d 都))
+      (ADVP (d 没有))
+      (VP
+        (v 表示)
+        (IP-OBJ
+          (NP (r 他们))
+          (VP
+            (VNV (vshi 是) (d 不) (vshi 是))
+            (VP
+              (v 愿意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 让)
+                  (NP-PN-OBJ (ns 俄罗斯))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 来) (VP (ADVP (d 从中)) (VP (vi 调停)))))))))))))
+  (wd ，)
+  (CP-Q
+    (IP
+      (ADVP (d 究竟))
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (r 他们))
+              (VP (usuo 所) (VP (v 持) (NP-OBJ (-NONE- *T*-2)))))
+            (ude 的)))
+        (NP (n 理由)))
+      (VP (vshi 是) (NP-WH-PRD (r 什么))))
+    (y 呢))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 下面))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (NP-APP (NP-PN (n 美国之音)) (NP (n 记者)))
+              (NP-PN (nrf 佩斯)))
+            (VP
+              (PP-DIR (p 从) (NP-PN (ns 莫斯科)))
+              (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (n 报道))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (n 官员)))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (NP-SBJ (r 他们))
+      (VP (ADVP (d 正在)) (VP (v 等待) (NP-OBJ (v 答复))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (VSB (v 坚持) (v 说))
+      (IP-OBJ
+        (NP-SBJ
+          (NP (NP-PN (ns 俄罗斯)) (NP (n 政府)))
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 愿意)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (VSB (vi 出面) (vi 调停))))))
+            (ude 的))
+          (NP (n 表示)))
+        (VP (ADVP (d 依然)) (VP (a 有效))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (NP (NP-PN (ns 俄罗斯)) (NP (n 议会)))
+        (NP (n 下院) (nz 杜马))
+        (NP (n 外交) (n 事务) (n 委员会)))
+      (NP (n 主席)))
+    (NP-PN (nr 罗哥金)))
+  (VP
+    (VP (v 告诉) (NP-OBJ (NP-PN (n 美国之音)) (NP (n 记者))))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ
+          (DNP
+            (NP (NP-PN (ns 塞尔维亚)) (ADJP (a 紧张)) (NP (n 局势)))
+            (ude 的))
+          (NP (n 加剧)))
+        (wd ，)
+        (VP
+          (v 可能)
+          (VP
+            (v 阻碍)
+            (NP-OBJ
+              (DP (r 这) (QP (m 两) (CLP (q 位))))
+              (NP (n 竞争) (n 对手)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (VP (v 到) (NP-PN-OBJ (ns 莫斯科))) (VP (v 来))))))
+        (wyy ”))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 反对党))
+  (VP
+    (v 可能)
+    (VP (v 会) (VP (ADVP (c 因此)) (VP (v 受到) (NP-OBJ (n 指责))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (NP-APP (n 反对党) (n 候选人)) (NP-PN (nrf 科什图尼察)))
+      (VP
+        (ADVP (ADVP (d 很)) (ADVP (a 难)))
+        (PP-LOC (p 在) (LCP (NP (DP (r 这种)) (NP (n 情况))) (f 下)))
+        (VP (v 离开) (NP-PN-OBJ (ns 贝尔格莱德))))
+      (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 罗哥金))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-PN-SBJ (nrf 米洛舍维奇))
+        (VP
+          (v 可能)
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 愿意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 离开) (NP-PN-OBJ (ns 贝尔格莱德)))))))
+        (wd ，)
+        (PP-PRP
+          (c 因为)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 害怕)
+              (IP-OBJ
+                (IP
+                  (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (n 专机)))
+                  (VP
+                    (PP-TMP
+                      (p 在)
+                      (NP
+                        (IP-APP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP (v 飞往) (NP-PN-OBJ (ns 莫斯科))))
+                        (NP (s 途中))))
+                    (VP (v 会) (VP (ADVP (d 被迫)) (VP (vi 降落))))))
+                (wd ，)
+                (IP
+                  (NP-SBJ-1 (r 他) (r 本人))
+                  (VP
+                    (v 会)
+                    (VP (pbei 被) (VP (v 逮捕) (NP-OBJ (-NONE- *-1)))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 包括) (LCP-OBJ (NP-PN (ns 美国)) (u 在内))))
+        (ude 的)))
+    (QP (m 一些))
+    (NP (n 国家)))
+  (VP
+    (ADVP (d 曾经))
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-PN-SBJ (nrf 米洛舍维奇))
+            (VP (v 前往) (NP-PN-OBJ (ns 莫斯科)))))
+        (wd ，)
+        (NP-PN-SBJ (ns 俄罗斯))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (v 应该)
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-SBJ (r 它))
+                (VP
+                  (v 交给)
+                  (NP-OBJ
+                    (NP-PN (ns 海牙))
+                    (NP (n 国际) (n 战争) (n 罪行) (n 法庭)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 罗哥金))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (ADVP (ADVP (d 很)) (ADVP (a 难)))
+        (VP (v 理解) (NP-OBJ (DP (r 这种)) (NP (n 要求)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-SBJ (s 西方) (n 国家))
+        (VP
+          (VP
+            (ADVP (c 一方面))
+            (VP (v 希望) (IP-OBJ (NP-PN-SBJ (nrf 米洛舍维奇)) (VP (vi 下台)))))
+          (wd ，)
+          (VP
+            (ADVP (c 另一方面))
+            (ADVP (d 又))
+            (ADVP (d 不))
+            (VP
+              (v 给)
+              (NP-IO (r 他))
+              (NP-OBJ (DP (r 任何)) (NP (n 回旋) (n 余地)))))))
+      (wd ，)
+      (IP
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 要)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 摆脱) (NP-OBJ (n 困境)))))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 就))
+          (ADVP (d 一定))
+          (VP (v 要) (VP (vyou 有) (NP-OBJ (n 政治) (n 回旋) (n 余地))))))
+      (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 罗哥金))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 声称)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 要) (VP (v 逮捕) (NP-PN-OBJ (nrf 米洛舍维奇)))))))
+      (VP
+        (ADVP (d 只))
+        (VP
+          (v 会)
+          (VP
+            (v 使)
+            (NP-OBJ (n 局势))
+            (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 恶化))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (CP-CND
+        (CP
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (r 我们))
+            (VP
+              (v 想)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 打) (NP-OBJ (n 内战)))))))
+        (wn 、)
+        (CP
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (r 我们))
+            (VP
+              (v 想)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (ADVP (ad 彻底))
+                  (VP (vi 分裂) (NP-OBJ (NP-PN (ns 巴尔干)) (NP (n 国家)))))))))
+        (wn 、)
+        (CP
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (r 我们))
+            (VP
+              (v 想)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP
+                    (v 让)
+                    (NP-OBJ (DP (r 这些)) (NP (n 问题)))
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (DVP (ADVP (a 长久)) (ude 地))
+                        (VP (VRD (vi 持续) (v 下去))))))
+                  (wd ，)
+                  (VP
+                    (ADVP (c 而且))
+                    (VP
+                      (v 让)
+                      (NP-OBJ
+                        (NP-PN (ns 美国) (c 和) (nt 北约))
+                        (NP (n 军人)))
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (VP (v 到) (NP-OBJ (r 那里)))
+                          (VP (v 去) (VRD (v 送) (v 死))))))))))))
+        (wd ，)
+        (ADVP (r 那))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (VP-FOC
+              (pba 把)
+              (IP-OBJ
+                (NP-PN-SBJ-1 (nrf 米洛舍维奇))
+                (VP (VRD (v 抓) (v 起来)) (NP-OBJ (-NONE- *-1)))))
+            (VP (a 好) (y 了)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 罗哥金))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ (r 我们))
+        (VP
+          (v 需要)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 更加)) (VP (a 灵活))))
+                (ude 的)))
+            (NP (n 政策))))
+        (wyy ”))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (ns 俄罗斯))
+                (VP (v 能够) (VP (v 发挥) (NP-OBJ (-NONE- *T*-2)))))
+              (ude 的)))
+          (ADJP (b 主要))
+          (NP (n 作用)))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 让)
+              (NP-OBJ (NP-PN (ns 南斯拉夫)) (NP (n 人民)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP (v 放心))
+                  (wd ，)
+                  (VP
+                    (v 知道)
+                    (IP-OBJ
+                      (NP-SBJ (r 他们))
+                      (VP
+                        (v 可以)
+                        (VP
+                          (v 决定)
+                          (NP-OBJ
+                            (DNP (NP (r 自己)) (ude 的))
+                            (NP (n 命运)))))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 罗哥金))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 应该) (VP (v 给) (NP-PN-IO (ns 俄罗斯)) (NP-OBJ (n 机会)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (c 而且))
+          (ADVP (d 不))
+          (VP (v 受) (NP-OBJ (n 外界) (n 干扰)))))
+      (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ (NP-PN (ns 俄罗斯)) (c 和) (NP (s 西方) (n 国家)))
+        (VP
+          (v 应该)
+          (VP
+            (VP (ADVP (d 共同)) (VP (a 努力)))
+            (VP
+              (PP-MNR
+                (p 通过)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 谨慎)))
+                      (ude 的)))
+                  (NP (n 调停))))
+              (VP (v 来) (VP (v 解决) (NP-OBJ (DP (r 这个)) (NP (n 问题)))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>

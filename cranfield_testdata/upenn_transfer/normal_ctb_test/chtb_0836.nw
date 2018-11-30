@@ -1,0 +1,763 @@
+<S>
+( (PRN
+  (wp －－)
+  (NP
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (ADVP (d 最)) (ADVP (a 早)))
+              (VP (v 访) (NP-PN-OBJ (ns 台)))))
+          (ude 的)))
+      (NP-APP (NP-PN (ns 福建)) (NP (n 艺术家)))
+      (NP-PN (nr 刘春曙)))
+    (NP (vi 访谈)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 福州)
+  (t 十二月)
+  (t 三十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 吴亮)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (t 新春)) (VP (ADVP (d 将)) (VP (v 至))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (ADVP (d 已))
+                (VP (IP (NP (n 年)) (VP (v 登))) (NP-OBJ (n 古稀)))))
+            (ude 的)))
+        (NP-PN (ns 福建))
+        (ADJP (a 著名))
+        (NP (n 音乐家)))
+      (NP-PN (nr 刘春曙)))
+    (VP
+      (v 开始)
+      (VP
+        (v 忙)
+        (uzhe 着)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-BNF
+              (p 给)
+              (NP (DNP (NP-PN (ns 台湾)) (ude 的)) (NP (n 朋友) (k 们))))
+            (VP (v 写) (NP-OBJ (n 贺卡))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (dl 近年来))
+  (wd ，)
+  (NP-SBJ
+    (DP (r 这) (CLP (q 位)))
+    (NP (n 祖国) (n 大陆))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (ADVP (d 最)) (ADVP (a 早)))
+            (VP (v 访问) (NP-PN-OBJ (ns 台湾)))))
+        (ude 的)))
+    (NP (n 艺术家)))
+  (VP
+    (PP (c 和) (NP (NP-PN (ns 台湾)) (NP (n 文艺界))))
+    (VP (VP-FOC (n 交往)) (VP (z 频频))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 在) (LCP (NP (r 此)) (f 以前)))
+  (wd ，)
+  (NP-SBJ (NP (n 两岸)) (NP (n 文化) (n 交流)))
+  (VP
+    (ADVP (d 一直))
+    (VP (vshi 是) (VP (vyou 有) (VP (VP (v 来)) (VP (v 无) (NP (v 往)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-TPC (ns 台湾))
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (ADVP (d 最)) (ADVP (a 早)))
+            (VP
+              (VP (v 来) (NP-PN-OBJ (ns 福建)))
+              (VP (v 参加) (NP-OBJ (n 文化) (n 活动))))))
+        (ude 的))))
+  (VP (vshi 是) (NP-PN-PRD (nr 蔡玛莉) (n 女士)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九八二年))
+  (wd ，)
+  (NP-SBJ (r 她))
+  (VP
+    (VP
+      (VP (v 取道) (NP-PN-OBJ (ns 菲律宾)))
+      (VP (ADVP (d 悄悄)) (VP (v 来到) (NP-PN-OBJ (ns 福建) (ns 泉州)))))
+    (wd ，)
+    (VP
+      (v 参加)
+      (NP-OBJ
+        (QP (m 第二) (CLP (q 届)))
+        (NP
+          (wyz “)
+          (n 南音)
+          (IP (VP (ADVP (n 大)) (VP (v 会) (VP (wyy 唱)))))
+          (wd ”))))
+    (v ，)
+    (VP
+      (n 受到)
+      (NP-OBJ
+        (DNP (NP (n 祖国) (vi 大陆) (ude 同行)) (a 的))
+        (ADJP (n 热情))
+        (NP (wj 接待)))))
+  (PU 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 回忆)
+        (NP-OBJ
+          (DNP
+            (LCP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (QP-ADV (d 初次)) (VP (v 访) (NP-PN-OBJ (ns 台)))))
+              (n 时))
+            (ude 的))
+          (NP (n 情景)))))
+    (wd ，)
+    (NP-PN-SBJ (nr 刘春曙))
+    (VP (ADVP (d 仍然)) (VP (VRD (v 流露) (v 出)) (NP-OBJ (a 兴奋)))))
+  (wm ：)
+  (IP
+    (wyz “)
+    (DP-TMP (r 那) (QP (m 一) (CLP (q 次))))
+    (NP-SBJ (r 我们))
+    (VP
+      (v 会见)
+      (y 了)
+      (NP-OBJ
+        (NP-PN (ns 台湾))
+        (DNP (NP (QP (m 八) (CLP (q 个))) (NP (n 城市))) (ude 的))
+        (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 个)))
+        (NP (n 艺术) (n 团体)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 刚)) (VP (vi 见面))))
+      (n 时))
+    (NP-SBJ (n 双方))
+    (VP (ADVP (d 都)) (ADVP (r 有些)) (VP (a 拘谨))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (IP-APP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (d 一))
+        (VP
+          (VRD (v 谈) (v 到))
+          (NP-OBJ
+            (NP-PN (ns 闽) (ns 台))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 共)) (VP (v 通))))
+                (ude 的)))
+            (NP (n 文化) (n 艺术))))))
+    (wd ，)
+    (NP-SBJ (n 气氛))
+    (VP (ADVP (d 马上)) (VP (VRD (a 热烈) (v 起来)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 当)
+    (NP
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (r 我们))
+            (VP
+              (PP-TMP (-NONE- *T*-1))
+              (VP (VRD (v 唱) (v 起)) (NP-OBJ (NP (n 两岸)) (NP (n 山歌))))))
+          (ude 的)))
+      (NP (n 时候))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (ad 突然))
+    (VP
+      (v 发现)
+      (IP-OBJ
+        (c 不但)
+        (IP (NP-SBJ (n 曲调)) (VP (a 一样)))
+        (wd ，)
+        (IP
+          (NP-SBJ (ADVP (ulian 连)) (NP (n 歌词)))
+          (VP (ADVP (d 都)) (VP (VPT (al 差不多))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (r 这时))
+  (NP-SBJ (r 我们))
+  (VP
+    (ADVP (d 才))
+    (ADVP (d 真正))
+    (VP
+      (v 体会)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (wyz ‘)
+            (NP-SBJ (n 两岸))
+            (VP (VCD (PP (v 同) (NP (n 根))) (vi 同源)))
+            (wyy ’))
+          (ude 的))
+        (NP (n 内涵)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九九七年))
+  (wd ，)
+  (NP-PN-SBJ (nr 刘春曙))
+  (VP
+    (QP-ADV (m 第二) (CLP (q 次)))
+    (VP (VP (v 赴) (NP-PN-OBJ (ns 台))) (VP (n 交流))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (dl 弹指一挥间))
+  (wd ，)
+  (NP-SBJ (QP (m 许多)) (NP (n 往事)))
+  (VP (ADVP (d 已)) (VP (v 成) (NP-OBJ (n 笑谈))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-SBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (QP-ADV (m 第一) (CLP (q 次)))
+                (VP (v 赴) (NP-PN-OBJ (ns 台)))))
+            (ude 的))
+          (NP (n 手续)))
+        (VP
+          (ADVP (d 就))
+          (VP (v 办) (y 了) (QP-EXT (m 三百二十一) (CLP (q 天))))))
+      (wd ，)
+      (IP
+        (NP-TMP (t 现在))
+        (IP-SBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 去) (NP-PN-OBJ (ns 台湾))))
+        (VP
+          (d 早已)
+          (VP (v 变) (ude 得) (VP-EXT (ADVP (d 较为)) (VP (a 方便) (y 了))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 随着)
+    (IP
+      (NP-SBJ (NP (n 两岸)) (NP (n 关系)))
+      (VP (PP-DIR (p 从) (NP (a 紧张))) (VP (v 走向) (NP-OBJ (a 缓和))))))
+  (wd ，)
+  (NP-SBJ (NP (n 两岸)) (NP (n 文化) (n 交流)))
+  (VP (DVP (VP (a 蓬勃)) (ude 地)) (VP (VRD (v 发展) (v 起来))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 一九九三年) (t 十二月))
+    (wd ，)
+    (NP-PN-SBJ (ns 福州))
+    (VP
+      (v 举办)
+      (NP-OBJ
+        (wyz “)
+        (NP
+          (NP (n 海峡))
+          (n 两岸)
+          (PRN (wkz （) (NP-PN (ns 闽) (n 台)) (wky ）)))
+        (QP (m 首) (CLP (q 届)))
+        (NP (n 戏剧节))
+        (wyy ”))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 台湾))
+      (NP (QP (m 两) (CLP (q 个))) (NP (n 剧团)))
+      (NP (QP (m 九十六)) (NP (n 人))))
+    (VP
+      (VP (v 来) (NP-PN-OBJ (ns 闽)))
+      (VP (v 演出) (NP-OBJ (QP (m 四) (CLP (q 台))) (NP (n 古装) (n 戏))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九九五年))
+  (wd ，)
+  (NP-PN-SBJ (ns 漳州) (n 芗剧团))
+  (VP
+    (QP-ADV (m 首) (CLP (q 次)))
+    (VP (VP (v 赴) (NP-PN-OBJ (ns 台))) (VP (v 演出))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (n 芗剧)) (p 与) (NP (NP-PN (ns 台湾)) (NP (n 歌仔戏))))
+    (VP
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (NP-PN (ns 闽) (ns 台))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (VP (v 共育)) (VP (n 共曲))))
+              (ude 的)))
+          (NP (n 姐妹) (n 剧种))))
+      (wd ，)
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 阔别) (QP-OBJ (m 四十) (CLP (q 年)))))
+            (f 后)))
+        (QP-ADV (m 第一) (CLP (q 次)))
+        (PP-LOC (p 在) (NP (ns 宝岛)))
+        (VP (vi 团聚)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 台湾)) (NP-PN-TTL (wkz 《) (n 民生) (n 报) (wky 》)))
+    (VP
+      (v 称)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (IP-TMP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 相隔) (QP-OBJ (QP (m 四十)) (ADJP (m 余)) (CLP (q 年)))))
+        (wd ，)
+        (IP-SBJ
+          (NP-SBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ
+                    (QP (m 第一) (CLP (q 支)))
+                    (NP (n 大陆) (NP (n 歌) (n 团))))
+                  (VP
+                    (VP
+                      (VP
+                        (v 带)
+                        (uzhe 着)
+                        (NP-OBJ
+                          (wyz ‘)
+                          (NP (ADJP (p 同)) (NP (n 曲)))
+                          (NP (vi 同源))
+                          (wyy ’)))
+                      (VP (v 抵) (NP-PN-OBJ (ns 台))))
+                    (wd ，)
+                    (VP
+                      (VSB (vi 开口) (VRD (v 唱) (v 出)))
+                      (NP-OBJ (-NONE- *T*-2)))))))
+            (NP
+              (NP (wyz ‘) (n 七字调) (wyy ’))
+              (wn 、)
+              (NP (wyz ‘) (n 都马调) (wyy ’))))
+          (VP
+            (PP (p 与) (NP (NP-PN (ns 台湾)) (NP (n 歌仔戏))))
+            (VP (al 一模一样))))
+        (wd ，)
+        (VP
+          (v 令)
+          (NP-OBJ (QP (m 许多)) (NP (n 人)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 吃惊) (ADVP (vi 不已))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 一九九七年) (t 盛夏))
+    (wd ，)
+    (NP-PN-SBJ (ns 福建省) (n 梨园) (n 戏) (n 实验) (n 剧团))
+    (VP (QP-ADV (m 第一) (CLP (q 次))) (VP (v 赴) (NP-PN-OBJ (ns 台)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 千) (CLP (q 年))) (ADJP (a 古)) (NP (n 剧)))
+    (VP (v 轰动) (NP-PN-OBJ (ns 台北))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (DP (r 这)) (NP (q 年))) (NP (t 五月)))
+  (wd ，)
+  (NP-SBJ (m 九七) (n 歌仔戏) (n 创作) (n 研讨会))
+  (VP (PP-LOC (p 在) (NP-PN (ns 厦门))) (VP (v 召开)))
+  (w ……)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 一九九八年))
+  (wd ，)
+  (NP-SBJ (DNP (NP (n 两岸)) (ude 的)) (NP (n 文化) (n 交流)))
+  (VP
+    (PP-DIR
+      (p 向着)
+      (NP
+        (NP (ADJP (a 高)) (NP (n 品位)))
+        (wn 、)
+        (NP (ADJP (a 高)) (NP (n 层次)))))
+    (ADVP (d 进一步))
+    (VP (v 发展)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-ADV (r 其中))
+    (NP-SBJ (n 莆仙戏))
+    (VP
+      (VP
+        (QP-ADV (m 首) (CLP (q 次)))
+        (VP (VP (v 入) (NP-OBJ (n 岛))) (VP (vi 亮相))))
+      (wd ，)
+      (VP (v 演出) (QP-EXT (m 六) (CLP (q 场))))))
+  (wd ，)
+  (IP
+    (PP-TPC
+      (PP-DIR
+        (p 从)
+        (NP (DNP (NP-PN (ns 台北)) (ude 的)) (ADJP (a 大)) (NP (n 剧院))))
+      (PP-DIR
+        (v 到)
+        (NP
+          (DNP (NP-PN (ns 台南)) (ude 的))
+          (NP (NP (n 圣母) (n 庙)) (n 大殿)))))
+    (wd ，)
+    (NP-SBJ (q 场场))
+    (VP (vi 爆满)))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (ADVP (c 即使))
+      (PP
+        (p 在)
+        (NP
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 台风))
+                (VP (PP-TMP (-NONE- *T*-1)) (ADVP (d 将)) (VP (v 至))))
+              (ude 的)))
+          (NP (t 晚上)))))
+    (wd ，)
+    (NP-SBJ (n 观众))
+    (VP
+      (ADVP (d 依然))
+      (PP-LOC (p 在) (LCP (NP (ADJP (z 霏霏)) (NP (n 细雨))) (f 中)))
+      (VP (VRD (v 看) (vi 完)) (NP-OBJ (v 演出)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-SBJ (DNP (NP (QP (m 大半)) (NP (n 台湾人))) (ude 的)) (NP (n 祖籍)))
+  (VP (p 在) (NP-PN-OBJ (ns 福建)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (t 一九九八年) (t 十一月) (t 十九日)) (f 起))
+    (wd ，)
+    (NP-SBJ
+      (wyz “)
+      (NP-PN (ns 闽) (ns 台))
+      (NP
+        (NP (n 家) (n 族谱))
+        (c 与)
+        (NP (IP (NP (n 家)) (VP (v 传))) (NP (n 文物展))))
+      (wyy ”))
+    (VP
+      (PP-LOC (p 在) (NP-PN (ns 台)))
+      (VP (v 展出) (NP-EXT (QP (m 一个)) (NP (n 月))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (a 平均))
+      (DP-ADV (r 每天))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ (QP (m 二千)) (NP (n 人)))
+          (VP (v 来) (VP (v 参观) (wn 、) (v 查询)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (d 刚刚))
+            (PP-DIR (p 从) (NP-PN (ns 台湾)))
+            (VP (VP (v 办) (NP-OBJ (v 展))) (VP (v 回来)))))
+        (ude 的)))
+    (NP-APP (NP-PN (ns 福建省)) (NP (n 文化厅) (n 官员)))
+    (NP-PN (nr 卢鸿筠)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 大家))
+      (VP
+        (ADVP (d 都))
+        (DVP (VP (a 真切)) (ude 地))
+        (VP
+          (VRD (v 感觉) (v 到))
+          (wd ，)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (NP-PN (ns 台湾)) (NP (n 民众)))
+                (VP
+                  (VP
+                    (v 盼望)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (ADVP (d 早日))
+                        (VP (v 实现) (NP-OBJ (wyz “) (n 三通) (wyy ”))))))
+                  (wd ，)
+                  (VP
+                    (v 盼望)
+                    (IP-OBJ
+                      (NP-SBJ (NP (n 两岸)) (NP (n 亲人)))
+                      (VP (ADVP (d 早日)) (VP (vi 团圆)))))))
+              (ude 的))
+            (ADJP (a 炽热))
+            (NP (n 情感)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (CP-ADV
+      (ADVP (c 尽管))
+      (IP
+        (NP-SBJ
+          (DNP (NP (NP (n 两岸)) (NP (n 文化) (n 交流))) (ude 的))
+          (NP (n 大门)))
+        (VP (ADVP (d 越来越)) (VP (a 宽)))))
+    (wd ，)
+    (NP-PN-SBJ (nr 刘春曙) (n 先生))
+    (VP (ADVP (d 仍)) (VP (vyou 有) (NP-OBJ (QP (m 许多)) (NP (an 遗憾))))))
+  (wm ：)
+  (IP
+    (wyz “)
+    (NP-SBJ (r 大家))
+    (VP
+      (d 早已)
+      (VP
+        (VRD (v 认识) (v 到))
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (DNP (NP (n 两岸)) (ude 的)) (NP (n 文化) (n 交流)))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (r 谁))
+                      (VP
+                        (ADVP (d 也))
+                        (VP
+                          (VNV (v 阻止) (d 不) (vi 了))
+                          (NP-OBJ (-NONE- *T*-1)))))
+                    (ude 的)))
+                (ADJP (a 大))
+                (NP (n 趋势)))))
+          (wd ，)
+          (IP
+            (ADVP (c 但))
+            (NP-TMP (t 现在))
+            (NP-SBJ (DNP (NP (n 两岸)) (ude 的)) (NP (n 文化) (n 交流)))
+            (VP
+              (VP
+                (ADVP (d 还))
+                (VP
+                  (FRAG (v 有待) (p 于))
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (PP-LOC
+                        (p 在)
+                        (LCP
+                          (NP
+                            (CP
+                              (WHNP-2 (-NONE- *OP*))
+                              (CP
+                                (IP
+                                  (NP-SBJ (-NONE- *T*-2))
+                                  (VP (ADVP (d 更)) (VP (a 高))))
+                                (ude 的)))
+                            (NP (n 层次)))
+                          (f 上)))
+                      (VP (v 取得) (NP-OBJ (n 突破)))))))))
+          (wd ，)
+          (IP
+            (ADVP (v 如))
+            (IP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (v 应该)
+                  (VP
+                    (PP-LOC
+                      (p 在)
+                      (NP
+                        (NP-APP
+                          (n 教育)
+                          (wn 、)
+                          (n 科技)
+                          (wn 、)
+                          (n 学术)
+                          (udeng 等))
+                        (NP (n 方面))))
+                    (VP
+                      (v 进行)
+                      (NP-OBJ
+                        (CP
+                          (WHNP-3 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-3))
+                              (VP
+                                (VP (ADVP (d 更)) (VP (a 广泛)))
+                                (c 和)
+                                (VP (ADVP (d 更)) (VP (a 深入)))))
+                            (ude 的)))
+                        (NP (n 交流) (c 和) (n 合作)))))))
+              (wd ，)
+              (IP
+                (IP
+                  (NP-SBJ (n 两岸))
+                  (VP
+                    (v 应)
+                    (VP (ADVP (d 早日)) (VP (wyz ‘) (n 三通) (wyy ’))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (ADVP (d 已)) (VP (vshi 是) (NP-PRD (nl 古稀之年)))))
+        (ude 的)))
+    (NP-PN (nr1 刘) (n 先生)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-TMP
+              (p 在)
+              (NP (DNP (NP (r 我)) (ude 的)) (NP (n 有生之年))))
+            (wd ，)
+            (VP
+              (v 让)
+              (NP-OBJ (DP (r 这些)) (NP (an 遗憾)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP (a 少) (CLP-EXT (q 些)))
+                  (wn 、)
+                  (VP (ADVP (d 再)) (VP (a 少) (CLP-EXT (q 些))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

@@ -1,0 +1,84 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP (NP-PN (ns 西藏)) (ADJP (v 流亡)) (NP (n 政府)))
+      (NP (n 领导人)))
+    (NP-PN (nrf 达赖喇嘛)))
+  (VP
+    (v 庆祝)
+    (NP-OBJ
+      (NP
+        (IP-APP
+          (NP-SBJ (r 他))
+          (VP
+            (p 作为)
+            (NP-OBJ (NP-PN (ns 西藏)) (NP (n 政治) (n 领袖)) (NP (n 领导人)))))
+        (QP (m ５０))
+        (NP (q 周年)))
+      (NP (n 纪念日))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (QP (m ６５) (CLP (q 岁))) (ude 的)) (NP-PN (n 达赖喇嘛)))
+  (VP
+    (NP-TMP (t 目前))
+    (VP
+      (v 流亡)
+      (PP
+        (p 在)
+        (NP
+          (DNP (NP (NP-PN (ns 印度)) (NP (f 北部))) (ude 的))
+          (NP-PN (nrf 达兰萨拉))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 星期一))
+  (NP-PN-SBJ (n 达赖喇嘛))
+  (VP
+    (PP-ADV
+      (p 同)
+      (NP
+        (DP (r 其他))
+        (NP (NP (nz 佛教) (n 精神) (n 领袖)) (c 和) (NP (nz 佛教) (n 信徒)))))
+    (ADVP (d 一同))
+    (PP-LOC
+      (p 在)
+      (NP
+        (NP-APP
+          (DNP (NP (ADJP (v 流亡)) (NP (n 政府))) (ude 的))
+          (NP (n 所在地)))
+        (NP-PN (nrf 达兰萨拉))))
+    (VP
+      (v 举行)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (al 丰富多彩))) (ude 的)))
+        (NP (n 庆祝) (n 活动)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 达赖喇嘛))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 讲话)) (f 中)))
+    (PP-DIR (p 对) (NP (n 信徒) (k 们)))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ
+          (DNP (NP (DP (r 这个)) (NP (n 地区))) (ude 的))
+          (NP (n 政治) (n 事务)))
+        (VP
+          (PP-ADV (c 和) (NP (n 宗教) (n 事务)))
+          (ADVP (uyy 一样))
+          (VP (v 需要) (VP (v 得到) (NP-OBJ (n 关注))))))))
+  (wj 。)
+  (wyy ”)))
+</S>

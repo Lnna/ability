@@ -1,0 +1,204 @@
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 今天) (t 凌晨))
+    (NP-SBJ
+      (DNP (NP (NP (n 女足)) (c 和) (NP-PN (ns 朝鲜))) (ude 的))
+      (NP (n 比赛)))
+    (VP
+      (ADVP (d 着实))
+      (VP
+        (v 让)
+        (NP-OBJ (r 我))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 激动) (y 了) (QP-EXT (m 一) (CLP (q 把))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (v 比赛)) (uzhi 之)) (NP (an 精彩)))
+    (VP
+      (v 让)
+      (NP-OBJ (r 我))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (vl 出乎意料))
+          (wj 。)
+          (VP
+            (PP-DIR (p 对) (NP-PN (nt 朝鲜队)))
+            (ADVP (d 又))
+            (VP
+              (vyou 有)
+              (y 了)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 种)))
+                (DNP (ADJP (a 新)) (ude 的))
+                (NP (n 认识)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (v 进攻)) (VP (a 迅猛)))
+  (wd ，)
+  (IP (NP-SBJ (v 配合)) (VP (a 默契)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 反观) (NP-OBJ (NP-PN (ns 中国)) (NP (n 女足)))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (ADVP (c 无论))
+      (PP
+        (p 在)
+        (UCP
+          (LCP (NP (n 控球) (n 时间)) (f 上))
+          (d 还是)
+          (NP (v 配合) (wd ，) (VSB (v 传) (v 切))))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 都)) (VP (v 处于) (NP-OBJ (n 劣势)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 看看)
+      (NP-OBJ
+        (NP
+          (DNP (NP (NP (n 男足)) (c 和) (NP-PN (ns 伊朗))) (ude 的))
+          (NP (n 比赛)))
+        (wd ，)
+        (NP (DP (r 那个)) (NP (n 球)))
+        (wd ，)
+        (NP
+          (DP (r 那个))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (VP (v 带有) (NP-OBJ (a 侮辱性) (wn 、) (n 挑衅性)))
+                  (wn 、)
+                  (VP (n 变态))))
+              (ude 的)))
+          (NP (n 进球))))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 让)
+    (NP-OBJ (r 我))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-DIR
+          (p 对)
+          (NP
+            (DNP
+              (NP
+                (NP-PN (nt 伊朗队))
+                (ADVP (d 甚至))
+                (NP
+                  (DNP (NP (DP (r 这个)) (NP (n 国家))) (ude 的))
+                  (NP (n 人))))
+              (ude 的))
+            (NP (n 素质))))
+        (VP (v 提出) (NP-OBJ (n 质疑))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 中国队))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (DP (r 这) (CLP (q 场))) (NP (n 比赛))) (f 中)))
+    (VP
+      (VP (VRD (v 踢) (v 出)) (y 了) (NP-OBJ (n 血性)))
+      (wd ，)
+      (VP
+        (VRD (v 踢) (v 出))
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (NP (ns 中国)) (NP (n 人))) (ude 的))
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 勇于)
+                (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 拼搏)))))
+            (ude 的))
+          (NP (n 精神))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR (v 面对) (NP (DNP (ADJP (a 强大)) (ude 的)) (NP-PN (nt 伊朗队))))
+  (NP-SBJ (r 我们))
+  (VP
+    (VP (ADVP (d 没有)))
+    (VP (vi 退缩))
+    (wd ，)
+    (VP
+      (ADVP (c 而是))
+      (VP
+        (VP (v 放开) (VP (v 去) (VP (v 打))))
+        (wd ，)
+        (VP
+          (PP-MNR
+            (p 经过)
+            (NP
+              (NP (QP (m 一个)) (NP (n 加时赛)))
+              (c 和)
+              (NP (DNP (QP (m 两) (CLP (q 轮))) (ude 的)) (NP (n 点球)))))
+          (ADVP (d 才))
+          (VCD (a 憾) (v 负))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 让)
+    (NP-OBJ (r 我们))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (v 记住) (NP-PN-OBJ (nt 伊朗队)))
+        (wd ，)
+        (VP
+          (v 记住)
+          (NP-OBJ
+            (NP-APP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (v 进) (NP-OBJ (DP (r 这个)) (NP (n 球)))))
+                  (ude 的)))
+              (NP-PN (ns 伊朗))
+              (NP (n 球员)))
+            (w －－)
+            (NP (NP (n 博)) (NP (nrf 哈尼))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (n 国奥)) (NP (n 勇士) (k 们)))
+  (VP
+    (VP (v 带) (uzhe 着) (NP-OBJ (n 希望)))
+    (VP (v 回到) (NP-OBJ (n 祖国))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TMP
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (ADVP (d 总)) (VP (vyou 有) (QP-OBJ (m 一) (CLP (q 天))))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP (v 相信) (IP-OBJ (NP-SBJ (r 我们)) (VP (v 会) (w －－) (VP (vi 复仇)))))))
+</S>

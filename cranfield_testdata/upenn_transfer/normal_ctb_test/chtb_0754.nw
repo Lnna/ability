@@ -1,0 +1,97 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 日本))
+  (VP
+    (VRD (v 研制) (v 出))
+    (NP-OBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (LCP-LOC (NP (n 世界)) (f 上)) (ADVP (d 最)) (VP (a 小))))
+          (ude 的)))
+      (NP (n 晶体) (n 振荡器))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (t １２月) (t ３０日) (n 电) (wkz （) (n 记者) (nr 乐绍延) (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ
+      (NP-PN (ns 日本))
+      (NP (ADJP (a 大)) (NP (n 真空)))
+      (NP (n 公司)))
+    (VP
+      (NP-TMP (t 日前))
+      (VP
+        (v 宣布)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VRD (v 研制) (v 出))
+            (y 了)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (ADVP (v 据称))
+                      (VP
+                        (vshi 是)
+                        (VP
+                          (LCP-LOC (NP (n 世界)) (f 上))
+                          (ADVP (d 最))
+                          (VP (a 小))))))
+                  (ude 的)))
+              (NP (n 晶体) (n 振荡器))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 其)) (NP (n 体积)))
+    (VP
+      (QP-PRD
+        (IP (VP (ADVP (d 只)) (DFL (vyou 有))))
+        (QP (m ０．０１) (QP (NP (q 立方)) (QP (CLP (q 毫米))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC (NP (ADJP (a 一般)) (NP (n 情况))) (f 下))
+  (wd ，)
+  (NP-TPC (n 晶体) (n 振荡器))
+  (PP-MNR (p 随着) (NP (DNP (NP (n 体积)) (ude 的)) (NP (n 缩小))))
+  (wd ，)
+  (NP-SBJ (NP (r 其)) (NP (vi 振荡) (n 效果)))
+  (VP (ADVP (d 就)) (VP (v 会) (VP (ADVP (vi 相应)) (VP (vi 递减)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 晶体) (n 振荡器))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (LCP-LOC
+                (NP
+                  (NP (ADJP (b 便携式)) (NP (n 电脑)))
+                  (c 以及)
+                  (NP (DP (r 其它)) (NP (n 电子) (n 通信) (n 设备))))
+                (f 中))
+              (ADVP (m 十分))
+              (VP (a 重要))))
+          (ude 的)))
+      (NP (n 部件))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

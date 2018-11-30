@@ -1,0 +1,311 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP-PN (ns 香港) (n 特区))
+    (NP (NP (n 全国)) (NP (nt 政协)))
+    (NP (n 委员)))
+  (VP (v 视察) (NP-PN-OBJ (ns 宁波)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 宁波)
+  (t 十月)
+  (t 三十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 王丽丽)
+  (nr 柴骥程)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-PN-TPC-1 (ns 宁波))
+    (NP-SBJ (r 我))
+    (VP
+      (vshi 是)
+      (VP
+        (QP-ADV (m 第三) (CLP (q 次)))
+        (VP (v 来) (NP-OBJ (-NONE- *T*-1))))))
+  (wd ，)
+  (IP
+    (PP-MNR
+      (p 作为)
+      (NP (QP (m 一个)) (NP (n 历史) (n 名城) (c 和) (n 通商) (n 口岸))))
+    (wd ，)
+    (NP-SBJ (r 它))
+    (VP (v 发展) (ude 得) (VP-EXT (ADVP (d 很)) (VP (a 快)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (ADVP (m 十分))
+      (VP
+        (v 令)
+        (NP-OBJ (n 人))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 高兴))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP (NP (n 全国)) (NP (nt 政协))) (NP (n 常委)))
+    (wn 、)
+    (NP-APP
+      (NP
+        (IP-APP
+          (NP-SBJ (NP-PN (ns 香港) (n 特区)) (NP (n 全国)) (NP (nt 政协)))
+          (VP (v 赴) (NP-PN-OBJ (ns 浙江))))
+        (IP (VP (v 视察) (NP (n 团)))))
+      (NP (n 团长)))
+    (NP-PN (nr 庄世平)))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP-LOC (p 在) (NP-PN (ns 宁波))) (VP (v 考察))))
+      (n 时))
+    (PP-DIR (p 对) (NP (n 记者)))
+    (VP (v 说)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 宁波))
+  (VP
+    (VP (v 位于) (NP-OBJ (NP-PN (ns 浙江省)) (NP (f 东部) (f 沿海))))
+    (wd ，)
+    (VP
+      (PP-LOC (v 隔) (NP-PN (ns 杭州湾)))
+      (PP (p 与) (NP-PN (ns 上海)))
+      (VP (v 相望)))
+    (wd ，)
+    (VP
+      (NP-TMP (t 一九八四年))
+      (VP
+        (pbei 被)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (ns 中国)) (NP (n 政府)))
+          (VP
+            (v 列为)
+            (NP-OBJ (ADJP (d 进一步)) (NP (vl 对外开放)) (NP (n 城市))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (ns 香港) (n 特区))
+    (NP (NP (n 全国)) (NP (nt 政协)))
+    (NP (n 委员)))
+  (VP
+    (NP-TMP (t 今天))
+    (VP
+      (v 视察)
+      (y 了)
+      (NP-OBJ
+        (DNP
+          (NP
+            (DNP (NP (n 国家) (n 重点) (n 建设)) (ude 的))
+            (NP (f 沿海))
+            (QP (m 四))
+            (ADJP (a 大))
+            (NP (n 国际) (b 深水) (IP (VP (vd 中转) (NP (n 港)))) (r 之一)))
+          (ude 的))
+        (NP (ns 宁波) (n 港)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 庄世平))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (DNP (NP-PN (ns 宁波)) (ude 的)) (NP (n 港口) (n 条件)))
+        (VP (ADVP (m 十分)) (VP (a 优越))))
+      (wd ，)
+      (IP
+        (NP-SBJ (NP (r 其)) (NP (n 地利) (n 位置)))
+        (VP (PP (p 与) (NP-PN (ns 香港))) (VP (v 可以) (VP (vi 媲美)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV (NP-SBJ (n 路)) (VP (v 通)))
+    (NP-SBJ (n 财))
+    (VP (ADVP (d 就)) (VP (v 通))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 宁波)) (ude 的))
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (PP-TMP (-NONE- *T*-1)) (VP (vi 腾飞))))
+          (uzhi 之)))
+      (NP (n 日)))
+    (VP (LCP (IP (VP (v 为))) (n 时)) (ADVP (d 不)) (VP (a 远))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 一九九六年))
+      (VP
+        (v 完成)
+        (NP-OBJ (n 港口) (n 货物) (n 吞吐量))
+        (QP-EXT (m 七千六百三十八万) (CLP (q 吨))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 居) (QP-OBJ (NP (s 内地) (n 港口)) (QP (m 第三) (CLP (q 位))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 委员) (k 们))
+  (VP
+    (ADVP (ad 一致))
+    (ADVP (d 高度))
+    (VP
+      (v 评价)
+      (NP-OBJ (DNP (NP-PN (ns 宁波)) (ude 的)) (NP (n 城市) (n 建设)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (ns 香港) (n 特区))
+      (NP (NP (n 全国)) (NP (nt 政协)))
+      (NP (n 委员)))
+    (wn 、)
+    (NP-APP (NP-PN (ns 香江) (n 国际) (n 集团)) (NP (n 董事长)))
+    (NP-PN (nr 杨孙西)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (LCP-TMP (QP (m 十) (CLP (q 年))) (f 前))
+        (NP-SBJ (r 我))
+        (VP (v 到) (uguo 过) (NP-PN-OBJ (ns 宁波))))
+      (wd ，)
+      (IP
+        (LCP-TMP (QP (m 十) (CLP (q 年))) (f 后))
+        (NP-TPC
+          (DNP (NP (n 城市)) (ude 的))
+          (NP (NP (n 街道)) (wn 、) (NP (n 建筑))))
+        (NP-SBJ (n 变化))
+        (VP (ADVP (d 很)) (VP (a 大))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (LCP-LOC (NP (n 城市)) (f 里))
+        (NP-SBJ
+          (DP (r 那些))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (v 象征)
+                  (NP-OBJ (NP-PN (ns 宁波)) (NP (n 历史) (c 及) (n 传统)))))
+              (ude 的)))
+          (NP (n 文化) (n 设施)))
+        (VP (ADVP (ad 基本)) (VP (VRD (v 保留) (y 了) (v 下来)))))
+      (wd ，)
+      (IP (NP-SBJ (r 这)) (VP (ADVP (d 很)) (VP (a 可贵))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (PP (p 在) (NP-PN (ns 宁波))) (NP (f 期间)))
+  (wd ，)
+  (NP (n 委员) (k 们))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 参观)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (NP-APP
+                  (NP-PN (ns 香港) (n 特区))
+                  (NP (NP (n 全国)) (NP (nt 政协)))
+                  (NP (n 委员)))
+                (wn 、)
+                (NP-APP
+                  (NP-PN
+                    (NP-PN (nz 恒兴基立))
+                    (NP (n 集团))
+                    (PRN (wkz （) (NP (n 国际)) (wky ）))
+                    (n 有限公司))
+                  (NP (n 董事长)))
+                (NP-PN (nr 施祥鹏)))
+              (VP
+                (PP (p 与) (NP (s 当地)))
+                (VP (vi 合资) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (ADJP (nz 繁景))
+        (NP (n 花园)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 施祥鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 一九八九年))
+        (NP-SBJ (r 我))
+        (VP
+          (PP-LOC (p 在) (NP (r 这里)))
+          (VP
+            (v 投资)
+            (y 了)
+            (QP-OBJ
+              (QP (QP (m 一千)) (QP (ADVP (m 多)) (QP (m 万))))
+              (CLP (q 美元))))))
+      (wd ，)
+      (IP
+        (NP-TMP (t 现在))
+        (NP-SBJ (n 资产))
+        (VP
+          (ADVP (d 已))
+          (VP
+            (VRD (v 发展) (v 到))
+            (NP-OBJ (QP (m 七亿) (CLP (q 元))) (NP (n 人民币))))))
+      (wd ，)
+      (IP
+        (NP-TPC-1 (DNP (ADJP (b 所有)) (ude 的)) (NP (n 收益)))
+        (NP-SBJ (r 我))
+        (VP
+          (ADVP (d 都))
+          (VP (d 没有) (VP (VRD (v 收) (v 回去)) (NP-OBJ (-NONE- *T*-1))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 我))
+        (VP (v 要) (VP (v 继续) (VP (v 投资) (PP-LOC (p 在) (NP (r 这里)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

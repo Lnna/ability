@@ -1,0 +1,399 @@
+<S>
+( (IP
+  (IP
+    (NP-VOC (DP (r 各位)) (NP (n 听众)))
+    (NP-SBJ (r 这里))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP-PN (n 美国之音)) (ude 的))
+        (NP
+          (NP (NP-PN (ns 中国)) (NP (n 新闻)))
+          (c 和)
+          (NP (n 世界) (v 报道))))))
+  (wm ：)
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 南斯拉夫)) (ADJP (f 前)) (NP (n 总统)))
+      (NP-PN (nrf 米洛舍维奇)))
+    (VP
+      (PP-MNR
+        (p 在)
+        (LCP (NP (DNP (NP (n 民众)) (ude 的)) (NP (n 压力))) (f 下)))
+      (wd ，)
+      (ADVP (d 终于))
+      (VP
+        (VP (v 承认) (NP-OBJ (DNP (NP (v 民选)) (ude 的)) (NP (n 结果))))
+        (c 并且)
+        (VP (vi 下台)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (f 下面))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP-PN (nr 鲍同)) (ude 的))
+        (QP (m １) (CLP (q 篇)))
+        (NP (n 评论) (n 文章)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这) (CLP (q 篇))) (NP (n 评论)))
+    (VP
+      (ADVP (d 并))
+      (ADVP (d 不))
+      (VP (v 代表) (NP-OBJ (DNP (NP-PN (n 美国之音)) (ude 的)) (NP (n 观点))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP (wkz 〈) (nx ｔｕｒｎ) (wky 〉))
+    (wyz “)
+    (NP-SBJ (NP-PN (ns 南斯拉夫)) (NP (n 总统) (n 选举)))
+    (VP (ADVP (d 本来)) (ADVP (d 已经)) (VP (v 定局))))
+  (wd ，)
+  (IP (NP-PN-SBJ (nrf 科什图尼查)) (VP (v 当选)))
+  (wd ，)
+  (IP (NP-PN-SBJ (nrf 米洛舍维奇)) (VP (vi 落选)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (n 国际) (n 社会))
+            (VP (d 早已) (VP (v 公认) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (DNP (NP (n 铁)) (ude 的)) (NP (n 事实)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (t 后来)) (VP (vl 节外生枝))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (PP
+        (p 由于)
+        (IP
+          (QP-SBJ (NP-PN (nrf 米洛舍维奇)) (QP (m 一) (CLP (q 伙))))
+          (VP
+            (v 表演)
+            (y 了)
+            (NP-OBJ (QP (m １) (CLP (q 出))) (NP (n 闹剧))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 南斯拉夫)) (NP (n 人民)))
+    (VP
+      (DVP (VP (a 明确)) (ude 的))
+      (VP
+        (v 表达)
+        (y 了)
+        (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 意志))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP (DNP (NP (a 民主)) (ude 的)) (ADJP (a 新)) (NP (n 胜利)))
+        (wd ，)
+        (NP
+          (DNP
+            (NP
+              (NP (a 民主) (n 潮流))
+              (c 和)
+              (NP (ADJP (a 民主)) (NP (n 制度))))
+            (ude 的))
+          (ADJP (a 新))
+          (NP (n 胜利))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (VP
+        (VP (vyou 有) (NP-OBJ (n 理由)))
+        (VP
+          (PP-DIR (p 向) (NP (NP-PN (ns 南斯拉夫)) (NP (n 人民))))
+          (VP (v 祝贺))))
+      (wd ，)
+      (VP
+        (v 祝贺)
+        (NP-OBJ (r 他们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (DVP (VP (a 勇敢)) (ude 的))
+            (VP
+              (v 打通)
+              (y 了)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 走向) (NP-OBJ (an 民主))))
+                    (ude 的)))
+                (DNP (NP (a 光明)) (uzhi 之))
+                (NP (n 路)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (NP-TMP (t 今后))
+      (ADVP (d 仍))
+      (VP (v 会) (VP (v 遇到) (NP-OBJ (an 困难))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 开辟) (NP-OBJ (DNP (NP (a 民主)) (uzhi 之)) (NP (n 路)))))
+        (ude 的))
+      (ADJP (a 可贵))
+      (NP (n 经验)))
+    (wd ，)
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 有助于)
+        (IP-OBJ
+          (NP-SBJ (r 他们))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP (NP (DNP (NP (a 民主)) (ude 的)) (NP (n 道路))) (f 上)))
+            (VP (v 继续) (VP (vi 前进))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 值得) (NP-OBJ (v 庆幸))))
+          (ude 的))))
+    (VP (vshi 是) (NP-PRD (DNP (NP (n 军队)) (ude 的)) (NP (n 态度)))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (n 军队))
+      (VP (ADVP (d 不)) (VP (v 介入) (NP-OBJ (n 政治) (n 斗争)))))
+    (wd ，)
+    (VP
+      (v 使)
+      (NP-PN-OBJ (ns 南斯拉夫))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (v 避免) (y 了) (NP-OBJ (n 内战)))
+          (wd ，)
+          (VP
+            (DVP (VP (a 和平)) (ude 的))
+            (VP (VRD (v 踏) (v 上)) (y 了) (NP-OBJ (a 民主) (n 道路))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP (NP (n 国际) (wn 、) (s 国内)) (DP (r 各种)) (NP (n 条件)))
+      (ude 的))
+    (NP (n 配合)))
+  (wd ，)
+  (VP
+    (v 使)
+    (NP-PN-OBJ (nrf 米洛舍维奇))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (ADVP (v 无法)) (VP (nrf 冒天下之大不违)))
+        (wd ，)
+        (VP
+          (ADVP (v 无法))
+          (VP
+            (VP (v 动用) (NP-OBJ (n 军队)))
+            (VP (v 来) (VP (v 镇压) (NP-OBJ (n 人民)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 作为) (NP (QP (m 一个)) (NP (NP (ns 中国)) (NP (n 人)))))
+    (NP-SBJ (r 我))
+    (VP (ADVP (d 同样)) (VP (v 关心) (NP-OBJ (n 选举) (n 制度)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (ad 民主)) (NP (v 选举)))
+    (VP
+      (PP-ADV
+        (p 比)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 不)) (VP (a 民主))))
+              (ude 的)))
+          (NP (n 选举))))
+      (VP (a 好))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (vyou 有) (NP-OBJ (n 竞争))))
+        (ude 的)))
+    (NP (n 选举)))
+  (VP
+    (PP-ADV
+      (p 比)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (d 没有) (NP-OBJ (v 竞争))))
+            (ude 的)))
+        (NP (n 选举))))
+    (VP (a 好)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (vyou 有) (NP-OBJ (n 选择))))
+        (ude 的)))
+    (NP (n 选举)))
+  (VP
+    (PP-ADV
+      (p 比)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (d 没有) (NP-OBJ (v 选择))))
+            (ude 的)))
+        (NP (n 选举))))
+    (VP (a 好)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 不)) (VP (a 民主))))
+          (ude 的)))
+      (NP (n 选举) (n 制度)))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 能)
+        (VP
+          (v 代表)
+          (NP-OBJ
+            (DNP (NP (ADJP (b 广大)) (NP (n 人民))) (ude 的))
+            (ADJP (a 根本))
+            (NP (n 利益)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 进步))
+    (VP (v 需要) (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (vl 择善而从)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 中国))
+      (IP-CND
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 要) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 进步)))))
+      (wd ，)
+      (ADVP (d 也))
+      (VP
+        (v 需要)
+        (VP
+          (v 实行)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 民主))) (ude 的)))
+            (wn 、)
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (vyou 有) (NP-OBJ (n 竞争))))
+                (ude 的)))
+            (wn 、)
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-3))
+                  (VP (vyou 有) (NP-OBJ (n 选择))))
+                (ude 的)))
+            (NP (n 选举) (n 制度)))))))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (DP (r 这) (CLP (q 篇))) (NP (n 评论)))
+            (VP (n 代表) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP (nr1 鲍))
+        (p 同)
+        (DNP (NP (r 本人)) (ude 的))
+        (NP (n 看法)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 并)) (ADVP (d 不)) (VP (v 代表) (NP-PN-OBJ (n 美国之音)))))
+  (wj 。)))
+</S>

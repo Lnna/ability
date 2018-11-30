@@ -1,0 +1,253 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP (wyz “) (n 国际) (n 生物) (n 多样性) (n 日) (wyy ”))
+    (NP (n 纪念) (n 大会)))
+  (VP (PP-LOC (p 在) (NP-PN (ns 京))) (VP (v 举行)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 十二月)
+  (t 二十八日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 秦杰)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 国家) (n 环保) (n 总局))
+  (VP
+    (NP-TMP (t 今天))
+    (PP-LOC (p 在) (NP-PN (ns 京)))
+    (VP
+      (VP (v 召开) (NP-OBJ (n 大会)))
+      (wd ，)
+      (VP
+        (v 纪念)
+        (NP-OBJ (wyz “) (n 国际) (n 生物) (n 多样性) (n 日) (wyy ”)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-PRP
+      (p 为了)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 保护)
+          (NP-OBJ (DNP (NP (n 全球)) (ude 的)) (NP (n 生物) (n 多样性))))))
+    (wd ，)
+    (NP-TMP (t 一九九二年))
+    (wd ，)
+    (NP-SBJ (QP (m 一百五十三) (CLP (q 个))) (NP (n 国家)))
+    (VP
+      (v 签署)
+      (y 了)
+      (NP-TTL-OBJ (wkz 《) (n 生物) (n 多样性) (n 公约) (wky 》))))
+  (wd ，)
+  (IP
+    (NP-TMP (DP (d 同年)) (NP (t 十一月)))
+    (wd ，)
+    (NP-PN-SBJ (ns 中国))
+    (VP
+      (v 成为)
+      (v 成为)
+      (NP-OBJ
+        (DNP (NP (DP (r 这个)) (NP (n 公约))) (ude 的))
+        (ADJP (ADVP (d 最)) (ADJP (a 早)))
+        (NP (n 缔约国) (r 之一)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 从) (LCP (NP (t 一九九五年)) (f 起)))
+  (wd ，)
+  (NP-PN-SBJ (nt 联合国))
+  (VP
+    (p 将)
+    (IP-OBJ
+      (NP-SBJ (DNP (DP (r 每年)) (ude 的)) (NP (t 十二月) (t 二十九日)))
+      (VP
+        (VCP (v 确定) (v 为))
+        (NP-OBJ (wyz “) (n 国际) (n 生物) (n 多样性) (n 日) (wyy ”)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 邹家华) (wn 、) (nr 宋健) (udeng 等))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP (NP (DNP (NP (t 今天)) (ude 的)) (n 大会)) (f 上)))
+      (VP (vi 讲话))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (n 生物) (n 多样性))
+        (VP
+          (c 既)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP (NP (n 人类)) (ude 的))
+              (ADJP (b 共同))
+              (NP (n 财产))))
+          (wd ，)
+          (d 也)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (QP (m 一) (CLP (q 项)))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 重要))) (ude 的)))
+              (NP (n 国家) (n 主权))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (PP
+      (p 作为)
+      (NP
+        (DNP
+          (NP
+            (NP-PN (nt 联合国))
+            (NP-TTL (wkz 《) (n 生物) (n 多样性) (n 公约) (wky 》)))
+          (ude 的))
+        (NP (n 履约国))))
+    (wd ，)
+    (ADVP (d 将))
+    (DVP (VP (vl 一如既往)) (ude 地))
+    (VP
+      (VP (PP (p 与) (NP (n 国际) (n 社会))) (VP (v 加强) (NP-OBJ (v 合作))))
+      (wd ，)
+      (VP
+        (ADVP (ad 切实))
+        (VP
+          (v 履行)
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (r 自己))
+                  (VP (v 应) (VP (v 承担) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (n 义务)))))
+      (wd ，)
+      (VP
+        (PP-BNF
+          (p 为)
+          (NP (DNP (NP (n 全球)) (ude 的)) (NP (n 生物) (n 多样性) (n 保护))))
+        (VP
+          (v 作出)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (ADVP (d 更)) (VP (a 大))))
+                (ude 的)))
+            (NP (n 贡献)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP (vi 截止) (LCP (NP (t 一九九七年)) (f 底)))
+    (wd ，)
+    (NP-PN-SBJ (ns 中国))
+    (VP
+      (ADVP (d 共))
+      (VP
+        (v 建立)
+        (NP-OBJ (DP (r 各级)) (DP (r 各类)) (NP (n 自然保护区)))
+        (QP-EXT (m 九百二十六) (CLP (q 个))))))
+  (wd ，)
+  (IP (NP-SBJ (n 面积)) (VP (v 达) (QP-OBJ (m 七千六百九十七万) (CLP (q 公顷)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (QP (m 一) (CLP (ADJP (a 大)) (CLP (q 批))))
+      (NP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 极其)) (VP (a 重要))))
+              (ude 的)))
+          (NP (n 生态) (n 区域)))
+        (c 和)
+        (NP (ADJP (a 珍稀)) (ADJP (n 濒危)) (NP (n 物种)))))
+    (VP (v 得到) (NP-OBJ (ADJP (a 有效)) (NP (n 保护)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP (NP-PN (nt 联合国) (n 开发计划署)) (ADJP (b 副)) (NP (n 代表)))
+      (NP-PN (nr 甘宁彦)))
+    (wn 、)
+    (NP
+      (NP-APP (NP-PN (n 国家) (n 环保) (n 总局)) (ADJP (b 副)) (NP (n 局长)))
+      (NP-PN (nr 祝光耀)))
+    (wn 、)
+    (NP
+      (NP-APP (NP-PN (n 国家) (n 林业局)) (ADJP (b 副)) (NP (n 局长)))
+      (NP-PN (nr 李育才))))
+  (VP (PP-LOC (p 在) (LCP (t 会上))) (VP (vi 发言)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (NP
+          (NP-PN-APP
+            (nt 外交部)
+            (wn 、)
+            (n 国家)
+            (nt 计委)
+            (wn 、)
+            (nt 财政部)
+            (wn 、)
+            (nt 科技部)
+            (udeng 等))
+          (NP-PN (ns 中国))
+          (NP (n 生物) (n 多样性) (n 履约) (NP (n 组) (n 成员)) (n 单位)))
+        (NP (n 代表)))
+      (wd ，)
+      (NP (PP (p 在) (NP-PN (ns 京))) (NP (n 专家) (n 学者)))
+      (c 以及)
+      (NP
+        (NP (ADJP (n 有关)) (NP (n 国际) (n 机构)))
+        (ADJP (n 驻华))
+        (NP (n 代表)))
+      (wn 、)
+      (NP (NP (ADJP (n 有关)) (NP (n 国家))) (ADJP (n 驻华)) (NP (n 使节))))
+    (QP (m 一百))
+    (ADJP (m 余))
+    (NP (n 人)))
+  (VP (v 出席) (y 了) (NP-OBJ (DNP (NP (t 今天)) (ude 的)) (NP (n 会议))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

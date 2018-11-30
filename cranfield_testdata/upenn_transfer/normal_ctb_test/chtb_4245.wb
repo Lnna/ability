@@ -1,0 +1,603 @@
+<S>
+( (NP
+  (CP
+    (WHNP-1 (-NONE- *OP*))
+    (CP
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 好)) (VP (a 贵))))
+      (ude 的)))
+  (NP (n 会费))))
+</S>
+<S>
+( (FRAG (nx fishingdays)))
+</S>
+<S>
+( (FRAG
+  (n 发信人)
+  (wm ：)
+  (nx fishingdays)
+  (wkz （)
+  (n 阳光)
+  (a 明媚)
+  (ude 的)
+  (m 一)
+  (CLP (q 天))
+  (v 去)
+  (vi 钓鱼)
+  (wky ）)
+  (wd ，)
+  (ns 信区)
+  (wm ：)
+  (nx Faculty)))
+</S>
+<S>
+( (NP
+  (NP (n 标题))
+  (wm ：)
+  (NP-APP
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 好)) (VP (a 贵))))
+        (ude 的)))
+    (NP (n 会费)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (m 一个))
+      (DNP
+        (PP
+          (ADVP (d 非常))
+          (PP (p 和) (NP (DNP (NP (r 我)) (ude 的)) (NP (n 研究) (n 方向)))))
+        (ude 的))
+      (NP (n 学术) (n 会议)))
+    (VP (ADVP (d 正在)) (VP (v 征) (NP-OBJ (nx proposal)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 夏天))
+      (VP (v 要) (VP (PP-LOC (p 在) (NP-PN (ns 中国))) (VP (v 举行))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 会费)) (VP (a 贵) (ude 得) (VP (v 要) (VP (v 死)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (IP (VP (ADVP (d 连)) (VP (v 上))))
+        (NP-OBJ (n 飞机票) (c 和) (n 旅馆费)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 一起))
+      (VP
+        (v 要)
+        (VP
+          (VRD (v 交) (v 上))
+          (QP-OBJ (QP (QP (m 4000)) (ADVP (m 多))) (CLP (q 美元)))))))
+  (ws 。。。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (DP-SBJ (r 这个))
+    (VP
+      (VP
+        (ADVP (d 就))
+        (VP (vshi 是) (NP-PRD (ADJP (d 纯粹)) (NP (vi 牟利)))))
+      (wd ，)
+      (c 而且)
+      (VP (vshi 是) (PP-PRD (v 牟) (NP (n 暴利))))))
+  (y 吧)
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (IP-TMP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (udeng 等)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (f 以后)) (VP (v 当) (y 了) (NP-OBJ (v 发) (n 考题)))))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VNV (vshi 是) (d 不) (vshi 是))
+    (VP
+      (ADVP (d 就))
+      (VP (v 可以) (IP-OBJ (NP-SBJ (n 公款)) (VP (v 报销) (y 了))))))
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (ADVP (v 还有))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP (d 真))
+    (VP
+      (v 想)
+      (VP
+        (v 知道)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC (p 在) (LCP (NP (DP (r 这种)) (NP (n 会议))) (f 上)))
+              (VP
+                (VNV (vyou 有) (d 没) (vyou 有))
+                (NP-OBJ
+                  (DNP (NP (s 国内)) (ude 的))
+                  (NP (n 同僚) (nx present)))
+                (wj ．))))
+          (IP
+            (NP-SBJ (r 他们))
+            (VP (v 交) (NP-OBJ-WH (QP (r 多少)) (NP (n 钱)))))))))
+  (ww ？)))
+</S>
+<S>
+( (FRAG (wp －－)))
+</S>
+<S>
+( (NP (nx mingfm)))
+</S>
+<S>
+( (FRAG
+  (n 发信人)
+  (wm ：)
+  (nx mingfm)
+  (wkz （)
+  (n 茗)
+  (wky ）)
+  (wd ，)
+  (ns 信区)
+  (wm ：)
+  (nx Faculty)))
+</S>
+<S>
+( (IP
+  (NP (n 标题))
+  (wm ：)
+  (NP-APP
+    (NP (nx Re))
+    (wm ：)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (ADVP (d 好)) (VP (a 贵)))
+          (ude 的)))
+      (NP (n 会费))))))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (NP (n 飞机票)) (c 和) (NP (n 旅馆) (IP (NP (n 费)) (VP (v 干)))))
+  (VP (ADVP (y 嘛)) (VP (v 要) (VP (v 上交))))
+  (ww ？)))
+</S>
+<S>
+( (IP-Q (NP-SBJ (n 会费)) (VP (NP-PRD (QP (r 多少)) (NP (n 钱)))) (ww ？)))
+</S>
+<S>
+( (IP
+  (wkz 【)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (p 在)
+      (LCP
+        (NP
+          (DNP
+            (NP
+              (nx fishingdays)
+              (wkz （)
+              (PRN
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (QP-TMP
+                      (CP
+                        (WHPP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (n 阳光))
+                            (VP (PP-TMP (-NONE- *T*-1)) (VP (a 明媚))))
+                          (ude 的)))
+                      (QP (m 一) (CLP (q 天))))
+                    (VP (v 去) (VP (vi 钓鱼)))))))
+            (wky ）)
+            (ude 的))
+          (NP (n 大作)))
+        (f 中)))
+    (VP (v 提到)))
+  (wm ：)
+  (wky 】)))
+</S>
+<S>
+( (IP
+  (wm ：)
+  (IP
+    (NP-SBJ
+      (QP (m 一个))
+      (DNP
+        (PP
+          (ADVP (d 非常))
+          (PP (p 和) (NP (DNP (NP (r 我)) (ude 的)) (NP (n 研究) (n 方向)))))
+        (ude 的))
+      (NP (n 学术) (n 会议)))
+    (VP (ADVP (d 正在)) (VP (v 征) (NP-OBJ (nx proposal)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 夏天))
+      (VP (v 要) (VP (PP-LOC (p 在) (NP-PN (ns 中国))) (VP (v 举行))))))
+  (wj 。)
+  (NP-SBJ (r 我))
+  (PP (p 在) (NP (NP (r 他们)) (NP (n 网))))))
+</S>
+<S>
+( (IP
+  (wm ：)
+  (f 上)
+  (VP (v 看) (y 了) (v 看))
+  (wd ，)
+  (IP
+    (NP-IJ (DNP (NP (r 我)) (ude 的)) (NP (NP (n 天)) (FLR (y 呀))))
+    (wt ！)
+    (NP-SBJ (n 会费))
+    (VP (a 贵) (ude 得) (VP (v 要) (VP (v 死)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (IP (VP (ADVP (d 连)) (VP (v 上))))
+        (NP-OBJ (NP (n 飞机票)) (c 和) (NP (n 旅馆费))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 一起))
+      (VP
+        (v 要)
+        (VP
+          (VRD (v 交) (v 上))
+          (QP-OBJ (QP (QP (m 4000)) (ADVP (m 多))) (CLP (q 美元)))))))))
+</S>
+<S>
+( (UCP
+  (wm ：)
+  (ws 。。。)
+  (CP-Q
+    (IP
+      (DP-SBJ (r 这个))
+      (VP
+        (ADVP (d 就))
+        (VP (vshi 是) (NP-PRD (ADJP (d 纯粹)) (NP (vi 牟利))))
+        (wd ，)
+        (c 而且)
+        (VP (vshi 是) (PP-PRD (v 牟) (NP (n 暴利))))))
+    (y 吧))
+  (ww ？)
+  (IP-Q
+    (IP-TMP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (udeng 等)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (f 以后)) (VP (v 当) (y 了) (NP-OBJ (v 发) (n 考题))))))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VNV (vshi 是) (d 不) (vshi 是))
+      (VP
+        (ADVP (d 就))
+        (VP (v 可以) (IP-OBJ (NP-SBJ (n 公款)) (VP (v 报销)))))))))
+</S>
+<S>
+( (IP
+  (wm ：)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VNV (vyou 有) (d 没) (vyou 有))
+      (NP-OBJ (DNP (NP (s 国内)) (ude 的)) (NP (n 同僚) (nx present)))))
+  (wj ．)
+  (IP-Q
+    (NP-SBJ (r 他们))
+    (VP (v 交) (NP-OBJ-WH (QP (r 多少)) (NP (n 钱))))
+    (ww ？))))
+</S>
+<S>
+( (FRAG (wp －－)))
+</S>
+<S>
+( (NP (nx handldk)))
+</S>
+<S>
+( (FRAG
+  (n 发信人)
+  (wm ：)
+  (nx handldk)
+  (wkz （)
+  (nx stamp)
+  (wky ）)
+  (wd ，)
+  (ns 信区)
+  (wm ：)
+  (nx Faculty)))
+</S>
+<S>
+( (IP
+  (NP (n 标题))
+  (wm ：)
+  (NP-APP
+    (NP (nx Re))
+    (wm ：)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (ADVP (d 好)) (VP (a 贵)))
+          (ude 的)))
+      (NP (n 会费))))))
+</S>
+<S>
+( (IP
+  (IP
+    (CP-CND
+      (ADVP (c 如果))
+      (IP
+        (NP (-NONE- *pro*))
+        (VP (vshi 是) (DNP-PRD (NP (n 国际)) (ude 的)))))
+    (wd ，)
+    (NP-SBJ (r 大家))
+    (VP
+      (v 交)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 一样))) (ude 的)))
+        (NP (n 钱)))))
+  (wd ，)
+  (IP
+    (ADVP (d 只不过))
+    (NP-SBJ (DP (r 有些)) (NP (n 国际) (n 组织)))
+    (VP
+      (PP
+        (p 对)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (NP-LOC (nl 发展中国家)) (VP (v 来))))
+              (ude 的)))
+          (NP (n 人))))
+      (VP (vyou 有) (NP-OBJ (n 优惠)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 可以) (VP (VSB (ad 少) (v 交)) (QP-EXT (m 一些)))))
+  (wj ．)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 俺))
+    (VP
+      (DP-TMP (t 上次))
+      (PP-LOC (p 在) (NP (s 国内)))
+      (VP
+        (v 参加)
+        (y 了)
+        (NP-OBJ
+          (NP (QP (m 一个)) (NP (v 会)))
+          (PRN
+            (wkz （)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (vshi 是) (NP-PRD (CLP (q 个)) (NP (n 国际) (n 会议))))
+              (wky ）)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 正常))) (ude 的)))
+      (NP (n 注册费)))
+    (VP
+      (VP (ADVP (d 将近)) (VP (w ＄) (QP-PRD (m 1000))))
+      (wd ，)
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 包)
+          (NP-OBJ
+            (NP (n 交通) (n 住宿))
+            (wd ，)
+            (NP (n 午饭) (IP (NP (a 奇)) (VP (a 烂)))))))))
+  (wj ．)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 俺))
+    (VP
+      (v 开)
+      (y 了)
+      (NP-OBJ (DNP (NP (QP (m 一个)) (NP (n 星期))) (ude 的)) (NP (n 会)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (b 所有)) (NP (n 费用)))
+    (PRN
+      (wkz （)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 连)) (VP (VCD (v 吃) (VRD (v 带) (vi 住))))))
+      (wky ）))
+    (wd ，)
+    (VP (v 花) (y 了) (NP-OBJ (w ＄) (m 2000))))
+  (wj ．)))
+</S>
+<S>
+( (CP-Q
+  (NP-TPC (DNP (NP (r 你)) (ude 的)) (NP (n 情况)))
+  (wd ，)
+  (CP-ADV
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 再))
+        (VP (v 加上) (NP-OBJ (QP (w ＄) (m 1000)) (NP (n 飞机票))))))
+    (udh 的话))
+  (wd ，)
+  (IP (QP-SBJ (w ＄) (m 3000)) (VP (v 可以) (VP (v 接受))))
+  (y 吧)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (wkz 【)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (DNP
+            (NP
+              (nx fishingdays)
+              (wkz （)
+              (PRN
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (QP-TMP
+                      (CP
+                        (WHPP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (n 阳光))
+                            (VP (PP-TMP (-NONE- *T*-1)) (VP (a 明媚))))
+                          (ude 的)))
+                      (QP (m 一) (CLP (q 天))))
+                    (VP (v 去) (VP (vi 钓鱼))))))
+              (wky ）))
+            (ude 的))
+          (NP (n 大作)))
+        (f 中)))
+    (VP (v 提到)))
+  (wm ：)
+  (wky 】)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (wm ：) (m 一个))
+      (DNP
+        (PP
+          (ADVP (d 非常))
+          (PP (p 和) (NP (DNP (NP (r 我)) (ude 的)) (NP (n 研究) (n 方向)))))
+        (ude 的))
+      (NP (n 学术) (n 会议)))
+    (VP (ADVP (d 正在)) (VP (v 征) (NP-OBJ (nx proposal)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 夏天))
+      (VP (v 要) (VP (PP-LOC (p 在) (NP-PN (ns 中国))) (VP (v 举行))))))
+  (wj 。)
+  (NP (r 我))
+  (PP (p 在) (NP (NP (r 他们)) (NP (n 网))))))
+</S>
+<S>
+( (IP
+  (wm ：)
+  (f 上)
+  (VP (v 看) (y 了) (v 看))
+  (wd ，)
+  (IP
+    (NP-IJ (DNP (NP (r 我)) (ude 的)) (NP (NP (n 天)) (FLR (y 呀))))
+    (wt ！)
+    (NP-SBJ (n 会费))
+    (VP (a 贵) (ude 得) (VP (v 要) (VP (v 死)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (IP (VP (ADVP (d 连)) (VP (v 上))))
+        (NP-OBJ (NP (n 飞机票)) (c 和) (NP (n 旅馆费))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 一起))
+      (VP
+        (v 要)
+        (VP
+          (VRD (v 交) (v 上))
+          (QP-OBJ (QP (QP (m 4000)) (ADVP (m 多))) (CLP (q 美元)))))))))
+</S>
+<S>
+( (IP
+  (wm ：)
+  (ws 。。。)
+  (CP-Q
+    (IP
+      (DP-SBJ (r 这个))
+      (VP
+        (ADVP (d 就))
+        (VP (vshi 是) (NP-PRD (ADJP (d 纯粹)) (NP (vi 牟利))))
+        (wd ，)
+        (c 而且)
+        (VP (vshi 是) (PP (v 牟) (NP (n 暴利))))))
+    (y 吧)
+    (ww ？))
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (udeng 等)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (f 以后)) (VP (v 当) (y 了) (NP-OBJ (v 发) (n 考题)))))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VNV (vshi 是) (d 不) (vshi 是))
+      (VP
+        (ADVP (d 就))
+        (VP (v 可以) (IP-OBJ (NP-SBJ (n 公款)) (VP (v 报销)))))))))
+</S>
+<S>
+( (IP
+  (wm ：)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VNV (vyou 有) (d 没) (vyou 有))
+      (NP-OBJ (DNP (NP (s 国内)) (ude 的)) (NP (n 同僚) (nx present)))))
+  (wj ．)
+  (IP-Q
+    (NP-SBJ (r 他们))
+    (VP (v 交) (NP-OBJ-WH (QP (r 多少)) (NP (n 钱))))
+    (ww ？))))
+</S>
+<S>
+( (FRAG (wp －－)))
+</S>

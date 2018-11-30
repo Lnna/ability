@@ -1,0 +1,351 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP (NP (t 九七年)) (NP (t 上半年) (c 及) (NP (QP (m 六)) (NP (n 月份)))))
+    (NP (n 土地) (n 注册) (n 数字)))
+  (VP (v 发表))))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 土地) (n 注册) (n 处))
+  (VP
+    (NP-TMP (t 今日) (PRN (wkz （) (NP (t 星期日)) (wky ）)))
+    (VP
+      (v 发表)
+      (NP-OBJ
+        (DNP (NP (t 今年) (t 上半年)) (ude 的))
+        (NP (n 土地) (n 注册) (n 数字)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (ADJP (b 上述)) (NP (n 合约))) (NP (n 总值)))
+  (VP
+    (VP (v 为) (QP-PRD (m 四千八百三十五亿八千万) (CLP (q 元))))
+    (wd ，)
+    (VP
+      (PP (p 较) (NP (t 去年) (t 下半年)))
+      (VP (v 增加) (QP-OBJ (m 百分之七十四点二))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP (p 与) (NP (NP (t 去年)) (f 同期))) (VP (v 比较))))
+      (wd ，)
+      (ADVP (c 则))
+      (VP (v 增加) (QP-OBJ (m 百分之一百四十五点三)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP
+              (IP (VP (v 该) (QP (CLP (q 些)))))
+              (NP (n 楼宇) (n 转让) (n 契约)))
+            (VP (v 涉及) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 款项)))
+    (NP (n 总值)))
+  (VP
+    (VP (v 达) (QP-OBJ (m 三千七百八十亿四千万) (CLP (q 元))))
+    (wd ，)
+    (VP
+      (PP (p 较) (NP (t 去年) (t 下半年)))
+      (VP (v 增加) (QP-OBJ (m 百分之六十六点五))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP (p 与) (NP (NP (t 去年)) (f 同期))) (VP (v 比较))))
+      (wd ，)
+      (ADVP (c 则))
+      (VP (v 增加) (QP-OBJ (m 百分之一百零三点九)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 涉及))) (ude 的)))
+    (NP (n 楼宇) (n 按揭) (n 总值))
+    (PRN (wkz （) (LCP (NP (n 建筑) (n 按揭)) (vi 除外)) (wky ）)))
+  (VP
+    (VP (v 为) (QP-PRD (m 四百三十七亿一千万) (CLP (q 元))))
+    (wd ，)
+    (VP
+      (PP (p 较) (NP (t 去年) (t 下半年)))
+      (VP (v 增加) (QP-OBJ (m 百分之二十八点四))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP (p 与) (NP (NP (t 去年)) (f 同期))) (VP (v 比较))))
+      (wd ，)
+      (ADVP (c 则))
+      (VP (v 增加) (QP-OBJ (m 百分之六)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (n 土地) (n 注册) (n 处))
+          (VP (NP-TMP (t 今日)) (VP (v 发表) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (NP (n 图表)))
+  (wd ，)
+  (VP
+    (VP
+      (v 载有)
+      (NP-OBJ
+        (NP (ADJP (b 上述)) (NP (n 数据)))
+        (wn 、)
+        (NP (NP (t 今年) (t 上半年)) (DP (r 其他)) (NP (n 统计) (n 数字)))
+        (wn 、)
+        (c 以及)
+        (NP
+          (DNP (NP (NP (t 去年)) (NP (t 下半年) (c 和) (t 上半年))) (ude 的))
+          (ADJP (n 相关))
+          (NP (n 统计) (n 数字)))))
+    (wd ，)
+    (VP (c 以) (VP (vi 供) (NP-OBJ (v 参考)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TMP (t 一九九七年) (t 上半年))
+          (NP-SBJ (n 市民))
+          (VP (PP-ADV (-NONE- *T*-1)) (VP (v 查) (NP-OBJ (n 册)))))
+        (ude 的)))
+    (NP (n 次数)))
+  (VP
+    (VP (QP-PRD (ADVP (d 共)) (QP (m 二百八十五万五千四百六十七) (CLP (q 次)))))
+    (wd ，)
+    (VP
+      (PP (p 较) (NP (t 去年) (t 下半年)))
+      (VP (v 增加) (QP-OBJ (m 百分之二十二点八))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP (p 与) (NP (t 去年) (f 同期))) (VP (v 比较))))
+      (wd ，)
+      (ADVP (c 则))
+      (VP (v 增加) (QP-OBJ (m 百分之四十三点六)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (NP-PN-SBJ (n 土地) (n 注册) (n 处))
+  (VP
+    (ADVP (d 亦))
+    (ADVP (d 同时))
+    (VP
+      (v 公布)
+      (NP-OBJ
+        (DNP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (NP-TMP (t 今年) (QP (m 六)) (NP (n 月份)))
+                    (VP
+                      (VP
+                        (v 送交)
+                        (NP-OBJ
+                          (NP (NP (s 市区)) (c 及) (NP-PN (ns 新界)))
+                          (NP-PN (n 土地) (n 注册) (n 处))))
+                      (VP (vi 注册)))))
+                (ude 的)))
+            (NP (n 物业) (n 交易) (n 契约)))
+          (ude 的))
+        (NP (n 统计) (n 数字)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (QP (m 六))
+            (NP (n 月份))
+            (VP
+              (VP
+                (v 送交)
+                (NP-PN-OBJ (n 土地) (IP (VP (n 注册) (NP (n 处))))))
+              (VP (vi 注册)))))
+        (ude 的)))
+    (NP (n 楼宇) (n 买卖) (n 合约))
+    (PRN
+      (wkz （)
+      (VP
+        (v 包括)
+        (NP-OBJ (NP (NP (n 住宅)) (c 及) (NP (b 非住宅))) (NP (n 单位))))
+      (wky ）)))
+  (VP
+    (VP (QP-PRD (ADVP (d 共)) (QP (m 一万七千五百一十) (CLP (q 份)))))
+    (wd ，)
+    (VP
+      (PP (p 较) (NP (QP (m 五)) (NP (n 月份))))
+      (VP (v 减少) (QP-EXT (m 百分之十一点四))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP (p 与) (NP (t 去年) (t 六月))) (VP (v 比较))))
+      (wd ，)
+      (ADVP (c 则))
+      (VP (v 增加) (QP-OBJ (m 百分之五十八点四)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (NP (QP (m 六)) (NP (n 月份))) (VP (vi 注册))))
+          (ude 的)))
+      (NP (n 楼宇) (n 买卖) (n 合约)))
+    (NP (n 总值)))
+  (VP
+    (VP (v 为) (QP-PRD (m 八百一十四亿) (CLP (q 元))))
+    (wd ，)
+    (VP
+      (PP (p 较) (NP (QP (m 五)) (NP (n 月份))))
+      (VP (v 增加) (QP-OBJ (m 百分之十七点四))))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (PP (p 与) (NP (t 去年) (t 六月))) (VP (v 比较))))
+      (wd ，)
+      (ADVP (c 则))
+      (VP (v 增加) (QP-OBJ (m 百分之一百三十四点一)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 该处))
+  (VP
+    (ADVP (d 同时))
+    (VP
+      (VP
+        (VP
+          (v 发表)
+          (NP
+            (DNP
+              (NP
+                (NP (QP (m 五)) (NP (n 月份)))
+                (c 及)
+                (NP (NP (t 去年)) (f 同期)))
+              (ude 的))
+            (NP (n 土地) (n 注册) (n 数字))))
+        (wd ，)
+        (VP (PP (p 以) (NP (n 资))) (NP-OBJ (v 比较))))
+      (wf ；)
+      (c 并)
+      (VP
+        (v 发表)
+        (NP-OBJ
+          (NP
+            (DNP
+              (NP
+                (LCP
+                  (NP (NP (t 过去)) (QP (m 十二) (CLP (q 个))) (NP (n 月)))
+                  (f 内))
+                (NP (n 楼宇) (n 买卖) (n 合约) (n 纪录)))
+              (ude 的))
+            (NP (n 统计) (n 图)))
+          (wd ，)
+          (c 以及)
+          (NP
+            (DNP (NP (n 楼宇) (n 买卖) (n 合约)) (ude 的))
+            (NP (n 升降) (n 趋势) (n 图)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由於)
+    (IP
+      (PP-SBJ
+        (PP-DIR
+          (p 由)
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 签署) (NP-OBJ (n 契约)))))
+        (PP-DIR
+          (p 至)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-SBJ (n 契约))
+                (VP (VP (v 送交) (NP-OBJ (r 该处))) (VP (v 登记))))))))
+      (wd ，)
+      (VP
+        (ADVP (d 通常))
+        (VP (v 相隔) (NP-OBJ (QP (m 一) (CLP (q 段))) (NP (n 时间)))))))
+  (wd ，)
+  (ADVP (c 因此))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP (QP (m 六)) (NP (n 月份))) (ude 的))
+    (NP (n 注册) (n 数字)))
+  (wd ，)
+  (VP
+    (ADVP (ad 一般))
+    (VP
+      (v 显示)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (LCP-TMP
+                  (NP
+                    (LCP
+                      (IP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP (VSB (v 送交) (v 登记))))
+                      (f 前))
+                    (NP
+                      (ADVP (d 约))
+                      (NP (QP (m 四) (CLP (q 个))) (NP (n 星期)))))
+                  (f 内))
+                (VP (v 签署) (NP-OBJ (n 契约)))))
+            (ude 的)))
+        (NP (n 物业) (n 交易)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (vi 完)))
+</S>

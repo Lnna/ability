@@ -1,0 +1,229 @@
+<S>
+( (IP
+  (IP
+    (NP-TPC (DNP (NP-PN (ns 俄罗斯)) (ude 的)) (NP (n 进展)))
+    (NP-SBJ
+      (NP-PN (FRAG (NP (nx ｍｉ)) (QP (m ５))) (q 号))
+      (ADJP (n 载货))
+      (NP (s 太空) (n 船)))
+    (VP
+      (NP-TMP (DNP (QP (m ２４) (CLP (q 号))) (ude 的)) (NP (t 早晨)))
+      (PP-DIR (p 从) (NP-PN (nz 贝康诺) (s 太空) (n 中心)))
+      (DVP (VP (a 成功)) (ude 的))
+      (VP (n 发射))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (ADJP (b 主要)) (ude 的)) (NP (n 目的)))
+    (VP
+      (vshi 是)
+      (VP
+        (v 要)
+        (VP
+          (v 引导)
+          (NP-OBJ
+            (DNP (ADJP (ADJP (a 老)) (ADJP (a 旧))) (ude 的))
+            (wyz “)
+            (NP-PN (nz 和平号) (wyy ”) (NP (s 太空) (n 站))))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (VSB (IP (VP (v 坠) (NP (n 地)))) (v 烧毁))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (s 太空) (n 管制) (n 中心)) (NP (n 发言人)))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 电话)) (f 中)))
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (IP
+          (NP-PN-SBJ (nz 和平号) (wyy ”) (n 太空站))
+          (VP
+            (VP
+              (ADVP (d 已经))
+              (VP (VRD (v 作) (a 好)) (y 了) (NP-OBJ (n 准备))))
+            (wd ，)
+            (VP
+              (v 预计)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (NP (QP (m ２７)) (NP (q 号)))
+                  (PP-ADV
+                    (c 和)
+                    (wyz “)
+                    (NP-PN (n 进展) (n 号) (wyy ”) (NP (s 太空) (n 船))))
+                  (VP (v 连接)))))))
+        (wd ，)
+        (wyz “)
+        (IP
+          (n 进展)
+          (n 号)
+          (wyy ”)
+          (VP
+            (vshi 是)
+            (VP
+              (PP-TMP
+                (p 在)
+                (NP
+                  (NP (NP-PN (ns 莫斯科)) (NP (n 时间)))
+                  (NP
+                    (QP (m ２４) (CLP (q 号)))
+                    (t 上午)
+                    (QP (NP (t ７点)) (QP (m ２９) (CLP (q 分)))))))
+              (VP (n 发射)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (DNP (DP (r 这) (CLP (q 次))) (ude 的)) (NP (n 发射)))
+          (VP
+            (v 原定)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (PP-TMP (p 在) (QP (m １８) (CLP (q 号)))) (VP (v 进行))))))
+        (wd ，)
+        (IP
+          (ADVP (c 但是))
+          (PP-PRP
+            (c 因为)
+            (wyz “)
+            (IP
+              (NP-SBJ
+                (DNP (NP-PN (nz 和平号) (wyy ”) (n 太空站)) (ude 的))
+                (NP (n 定位) (n 系统)))
+              (VP (v 发生) (y 了) (NP-OBJ (n 问题)))))
+          (wd ，)
+          (ADVP (c 因此))
+          (NP-SBJ (NP-PN (ns 俄国)) (NP (s 太空) (n 中心) (v 主管)))
+          (VP
+            (PP-TMP (p 在) (QP (ADJP (f 最后)) (QP (m 一刻))))
+            (VP
+              (v 决定)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 要)
+                  (VP
+                    (LCP (IP (VP (v 延))) (f 后))
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 发射))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 进展) (n 号))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (pba 把)
+      (wyz “)
+      (IP-OBJ
+        (NP-PN-SBJ (nz 和平号) (wyy ”))
+        (VP
+          (VP
+            (VRD (vi 下降) (v 到))
+            (NP-OBJ
+              (DNP (QP (m ８０) (CLP (q 公里))) (ude 的))
+              (NP (n 轨道))))
+          (wd ，)
+          (VP
+            (v 进入)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (n 密度))
+                    (VP (ADVP (d 比较)) (VP (a 高))))
+                  (ude 的)))
+              (NP (n 大气层))))
+          (wd ，)
+          (VP
+            (ADVP (d 再))
+            (VP
+              (v 损毁)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-TPC (-NONE- *T*-2))
+                      (NP-SBJ (n 役龄))
+                      (VP
+                        (ADVP (d 已经))
+                        (VP (vyou 有) (QP-OBJ (m １５) (CLP (q 年))))))
+                    (ude 的)))
+                (wyz “)
+                (NP-PN (nz 和平号) (wyy ”) (n 太空站)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 销毁) (NP-PN-OBJ (nz 和平号))))))
+  (VP
+    (vshi 是)
+    (PP-PRD
+      (p 因为)
+      (IP
+        (IP
+          (QP-TMP (NP (t 最近)) (QP (m 几) (CLP (q 年))))
+          (NP (s 太空) (n 站))
+          (VP (DVP (ADVP (d 经常)) (ude 的)) (NP (v 出) (n 状况))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (v 包括)
+              (y 了)
+              (NP-OBJ
+                (DNP (PP (p 在) (NP (t １９９７年))) (ude 的))
+                (QP (m 一) (CLP (q 次)))
+                (ADJP (ad 严重))
+                (NP (vi 失火))))
+            (wd ，)
+            (VP
+              (v 加上)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-ADV
+                    (c 和)
+                    (NP
+                      (QP (m 一) (CLP (q 艘)))
+                      (ADJP (n 载货))
+                      (NP (s 太空) (n 船))))
+                  (VP
+                    (v 发生)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (-NONE- *T*-1))
+                            (VP (ADVP (d 几乎)) (VP (vi 致命))))
+                          (ude 的)))
+                      (NP (n 碰撞) (n 事件))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (ADJP (f 以上)) (NP (n 新闻)))
+  (VP
+    (vshi 是)
+    (VP
+      (VP
+        (PP-LGS (p 由) (NP-PN (nr 熊丽丽)))
+        (VP (v 编辑) (NP-OBJ (-NONE- *-1))))
+      (wn 、)
+      (VP (NP-PN-LGS (nr 单聪光)) (VP (v 播报) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>

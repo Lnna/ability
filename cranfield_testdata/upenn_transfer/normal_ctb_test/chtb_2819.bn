@@ -1,0 +1,153 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP (n 中央政府))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (n 港)))))
+      (NP (n 联络) (v 办)))
+    (NP (n 负责人)))
+  (VP
+    (NP-TMP (t １月) (QP (m ３０) (CLP (q 号))) (t 晚上))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ
+            (DNP (NP-PN (ns 香港)) (ude 的))
+            (NP-PN (n 法轮功))
+            (NP (n 组织)))
+          (VP
+            (NP-TMP (t 现在))
+            (ADVP (d 已经))
+            (VP
+              (VRD (v 撕) (v 掉))
+              (y 了)
+              (NP-OBJ
+                (NP (r 他们))
+                (ADJP (v 所谓))
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (VP (ADVP (d 不)) (VP (v 参与) (NP-OBJ (n 政治))))
+                      (wn 、)
+                      (VP (ADVP (d 不)) (VP (v 反对) (NP-OBJ (n 政府))))
+                      (wn 、)
+                      (VP
+                        (ADVP (d 不))
+                        (VP
+                          (v 投靠)
+                          (NP-OBJ (DP (r 任何)) (NP (n 政治) (n 势力)))))))
+                  (ude 的))
+                (NP (n 伪装))))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (r 他们))
+                  (VP
+                    (LCP-TMP (NP (t 最近)) (f 以来))
+                    (PP-LOC (p 在) (NP-PN (ns 香港)))
+                    (VP (v 进行) (NP-OBJ (-NONE- *T*-2)))))
+                (ude 的)))
+            (QP (m 一) (CLP (q 系列)))
+            (NP (n 活动)))
+          (VP
+            (VP
+              (ADVP (c 不仅))
+              (VP
+                (v 破坏)
+                (y 了)
+                (NP-OBJ
+                  (NP (QP (nz 一)) (NP (wd 国)))
+                  (QP (c 两))
+                  (NP (v 制)))))
+            (y ，)
+            (VP
+              (ADVP (ns 而且))
+              (VP
+                (n 破坏)
+                (ude 了)
+                (NP-OBJ
+                  (DNP (NP (NP-PN (an 香港)) (NP (an 社会))) (wj 的))
+                  (NP (NN 繁荣) (NN 稳定))))))))))
+  (PU 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 位))) (NP (n 负责人)))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (NP (NP-PN (ns 香港)) (NP-PN (n 法轮功)) (NP (n 组织)))
+        (DNP (NP (t 近来)) (ude 的))
+        (QP (m 一个))
+        (ADJP (a 突出))
+        (NP (n 特点)))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (ADVP (d 正在))
+              (VP (v 走向) (NP-OBJ (vi 国际化) (c 和) (v 政治化))))
+            (wd ，)
+            (VP
+              (ADVP (c 并且))
+              (VP
+                (pba 把)
+                (IP-OBJ
+                  (NP-SBJ (DNP (NP (v 攻击)) (ude 的)) (NP (n 矛头)))
+                  (VP (ADVP (ad 直接)) (VP (v 指向) (NP-OBJ (n 中央政府))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 许多)) (NP-PN (ns 香港)) (NP (n 市民) (c 和) (n 媒体)))
+  (VP
+    (ADVP (d 已经))
+    (VP
+      (v 开始)
+      (VP
+        (v 置疑)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP (NP (DP (r 该)) (NP (n 组织))) (ude 的))
+            (NP (nl 所作所为)))
+          (VP
+            (v 是否)
+            (VP
+              (v 符合)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (r 他们))
+                      (VP
+                        (ADVP (t 当初))
+                        (VP (vi 注册) (NP-OBJ (-NONE- *T*-1)))))
+                    (ude 的)))
+                (NP (n 性质) (c 和) (n 宗旨)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (n 中央台))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (ns 香港)))))
+    (NP (n 记者)))
+  (VP (n 报道))
+  (wj 。)))
+</S>

@@ -1,0 +1,148 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 美国)) (NP (n 国防部)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (NP-TMP (t 上星期))
+                (PP-LOC (p 在) (NP-PN (ns 也门)))
+                (VP (v 发生) (NP-OBJ (ADJP (n 致命)) (NP (n 爆炸) (n 事件))))))
+            (ude 的)))
+        (NP-PN (ns 美国))
+        (NP (n 驱逐舰)))
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (NP
+              (IP-APP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 遭到) (NP-OBJ (n 恐怖主义) (v 袭击))))
+              (QP (m 几) (CLP (q 个)))
+              (NP (n 小时)))
+            (f 以后)))
+        (ADVP (d 差一点))
+        (VP (vi 下沉)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP
+    (t 星期一)
+    (PP (ADVP (a 早)) (NP (QP (CLP (q 些))) (NP (n 时候)))))
+  (wd ，)
+  (NP-SBJ (NP-APP (NP-PN (ns 也门)) (NP (n 总统))) (NP-PN (nrf 萨迪赫)))
+  (VP
+    (v 表示)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (v 同意)
+        (NP-OBJ
+          (NP
+            (DNP (NP (NP-PN (ns 美国)) (NP (n 官员))) (ude 的))
+            (NP (n 观点)))
+          (wd ，)
+          (PRN
+            (IP
+              (NP-SBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (PP-LOC (p 在) (NP (ns 亚丁) (n 港)))
+                        (VP
+                          (v 造成)
+                          (IP-OBJ
+                            (IP
+                              (NP-SBJ
+                                (QP (m １７) (CLP (q 名)))
+                                (NP-PN (ns 美国))
+                                (NP (n 水兵)))
+                              (VP (vi 死亡)))
+                            (wd ，)
+                            (IP
+                              (NP-SBJ (QP (m ３９)) (NP (n 人)))
+                              (VP (vi 受伤)))))))
+                    (ude 的)))
+                (NP (n 爆炸) (n 事件)))
+              (wd ，)
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (QP (m 一) (CLP (q 次)))
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-2))
+                        (VP (vyou 有) (NP-OBJ (n 预谋))))
+                      (ude 的)))
+                  (NP (n 犯罪) (n 行为))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (DP (r 这次)) (NP (n 爆炸)))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (QP (m 一) (CLP (q 次)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 可耻))) (ude 的)))
+            (NP (n 行为)))))
+      (IP
+        (NP-SBJ (n 目的))
+        (VP
+          (vshi 是)
+          (VP
+            (v 在于)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 损害)
+                (NP-OBJ
+                  (DNP
+                    (LCP (NP-PN (ns 也门) (p 与) (ns 美国)) (f 之间))
+                    (ude 的))
+                  (NP (n 关系))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 到) (LCP (NP (t 目前)) (v 为止)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 没有)
+      (IP
+        (NP-SBJ (n 人))
+        (VP
+          (v 作出)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (PP-DIR (p 对) (NP (n 袭击) (n 事件))) (VP (v 负责))))
+              (ude 的))
+            (DNP (ADJP (a 可信)) (ude 的))
+            (NP (n 声明)))))))
+  (wj 。)))
+</S>

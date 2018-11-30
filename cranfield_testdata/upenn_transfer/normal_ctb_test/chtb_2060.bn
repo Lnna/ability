@@ -1,0 +1,339 @@
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (ns 美) (n 商) (NP-PN (nz 雅虎) (n 公司)))
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 并购)
+          (NP-OBJ
+            (NP-APP
+              (NP-PN (ns 台湾))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 最)) (VP (a 大))))
+                  (ude 的)))
+              (NP (n 入口) (n 网站)))
+            (NP-PN (n 奇摩站)))))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 震撼) (NP-OBJ (n 网路) (n 市场))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR (p 对) (NP (r 此)))
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (n 新浪网))
+      (NP (NP-PN (ns 台湾)) (NP (n 地区)))
+      (NP (n 总经理)))
+    (NP-PN (nr 江现冰)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (NP-TMP (t 最近))
+        (ADVP (d 还))
+        (VP
+          (v 会)
+          (VP
+            (vyou 有)
+            (IP
+              (NP-SBJ
+                (QP (m 好几) (CLP (ns 波)))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 相同)))
+                    (ude 的)))
+                (NP (n 案例)))
+              (VP (v 出现))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-PRP
+    (p 为了)
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (v 延续) (NP-OBJ (n 商机)))))
+  (NP-SBJ (r 他))
+  (VP
+    (v 预测)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP
+          (LCP
+            (NP
+              (DNP (NP (NP-PN (nz 大中华)) (NP (n 地区))) (ude 的))
+              (NP (n 网站)))
+            (f 间))
+          (ude 的))
+        (NP (n 合并) (n 动作)))
+      (VP (ADVP (d 将)) (VP (v 会) (VP (VRD (vi 持续) (v 下去)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 同样))
+    (ADVP (d 也))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP (NP-APP (n 记者)) (NP-PN (nr 温佳瑜))) (ude 的))
+        (NP (n 报导)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR
+    (p 针对)
+    (NP
+      (IP-APP
+        (NP-SBJ (NP (NP (ns 美)) (NP (n 商))) (NP-PN (nz 雅虎) (n 公司)))
+        (VP
+          (QP (m ９) (CLP (q 号)))
+          (VP
+            (v 宣布)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 购并) (NP-PN-OBJ (nz 奇摩) (n 网站)))))))
+      (NP (QP (m 一)) (NP (n 事)))))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP (NP-PN (n 奇摩网)) (NP-PN (n 台湾区)) (NP (n 总经理)))
+    (NP-PN (nr 江现冰)))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (r 这))
+        (VP
+          (v 代表)
+          (IP-OBJ
+            (NP-SBJ (DNP (NP-PN (nz 大中华)) (ude 的)) (NP (n 市场)))
+            (VP (ADVP (d 日趋)) (VP (a 成熟))))))
+      (wd ，)
+      (IP
+        (ADVP (c 因此))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 吸引)
+          (NP-OBJ
+            (DNP (NP-PN (ns 美国)) (ude 的))
+            (ADJP (n 主流))
+            (NP (NP (k 业)) (NP (k 者))))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 进军) (NP-PN-OBJ (ns 中国) (p 与) (ns 台湾))))))
+      (wd ，)
+      (IP
+        (ADVP (c 而))
+        (NP-SBJ (DNP (DP (r 这) (CLP (q 次))) (ude 的)) (NP (n 购并)))
+        (VP
+          (ADVP (d 只))
+          (VP
+            (vshi 是)
+            (NP-PRD (DNP (NP (r 其中)) (ude 的)) (QP (m 第一)) (NP (q 步))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 江现冰))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-SBJ (n 网站) (n 公司))
+      (VP
+        (PP-PRP
+          (v 为)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 延续) (NP-OBJ (n 商业) (n 机制)))))
+        (wd ，)
+        (ADVP (c 因此))
+        (ADVP (d 相继))
+        (VP
+          (v 会)
+          (VP
+            (vyou 有)
+            (IP (NP-SBJ (QP (m 许多)) (NP (n 公司))))
+            (VP
+              (v 会)
+              (VP
+                (vyou 有)
+                (NP-OBJ
+                  (CP-APP
+                    (IP (NP-SBJ (-NONE- *pro*)) (VP (v 并购)))
+                    (ude 的))
+                  (NP (n 情形))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 想)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (NP-TMP (t 未来))
+        (ADVP (d 还))
+        (VP
+          (v 会)
+          (VP
+            (v 看到)
+            (IP-OBJ
+              (QP-SBJ (m 许多))
+              (VP
+                (v 会)
+                (VP
+                  (vyou 有)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (ADVP (r 这样))
+                            (VP
+                              (v 并购)
+                              (c 或是)
+                              (v 收编)
+                              (wd ，)
+                              (IP (VP (ADVP (c 或者)) (VP (vshi 是))))
+                              (VP (v 靠) (NP (n 航))))))
+                        (wd ，)
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (ADVP (f 最后))
+                            (VP
+                              (v 可能)
+                              (VP
+                                (v 会)
+                                (VP
+                                  (v 形成)
+                                  (NP-OBJ
+                                    (QP (m 几) (CLP (q 个)))
+                                    (NP (n 集团)))))))))
+                      (ude 的))
+                    (NP (n 情形)))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 江现冰))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-LOC
+                    (p 在)
+                    (LCP
+                      (NP
+                        (DNP
+                          (NP (NP (n 大陆)) (p 与) (NP-PN (ns 台湾)))
+                          (ude 的))
+                        (NP (n 网路) (n 市场)))
+                      (f 中)))
+                  (VP
+                    (vi 排名)
+                    (NP-OBJ (QP (m 二) (wn 、) (m 三)) (NP (q 名))))))
+              (ude 的)))
+          (NP (n 公司)))
+        (VP
+          (NP-TMP (t 现在))
+          (ADVP (d 都))
+          (VP
+            (v 会)
+            (VP
+              (VRD (v 感受) (v 到))
+              (NP-OBJ
+                (DNP (DP (r 这) (CLP (n 波))) (ude 的))
+                (NP (n 压力)))))))
+      (wd ，)
+      (IP
+        (ADVP (c 因此))
+        (NP-SBJ (n 网站) (n 公司))
+        (VP
+          (v 会)
+          (VP (v 思考) (NP-OBJ (ADJP (a 类似)) (NP (n 购并) (n 计划))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-DIR (p 对于) (NP (r 这样) (n 现象)))
+  (NP-SBJ (r 他))
+  (VP
+    (v 表示)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 不))
+        (VP (v 感到) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (a 意外)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 例如))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (PP-ADV
+        (p 与)
+        (NP
+          (NP (DP (r 其他)) (NP (n 国家)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 较)) (VP (a 小))))
+              (ude 的)))
+          (NP (n 网站))))
+      (VP (v 形成) (NP-OBJ (DNP (ADJP (n 跨国性)) (ude 的)) (NP (n 联盟)))))
+    (wd ，)
+    (c 或是)
+    (VP
+      (PP-MNR
+        (v 透过)
+        (NP (DNP (NP (n 肄业) (n 联盟)) (ude 的)) (NP (n 方式))))
+      (VP (v 来) (VP (v 维持) (NP-OBJ (n 竞争力))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN
+        (wkz 《)
+        (NP-PN (ns 台北))
+        (DNP (NP (n 国际)) (uzhi 之))
+        (NP (n 声) (wky 》)))
+      (NP (n 记者)))
+    (NP-PN (nr 温佳瑜)))
+  (VP (NP-PN-LOC (ns 台北)) (VP (v 报导)))
+  (wj 。)))
+</S>

@@ -1,0 +1,249 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (NP-PN (ns 中) (ns 越)) (NP (n 铁路)))
+  (VP (IP-OBJ (v 恢复) (NP-SBJ (-NONE- *PRO*)) (VP (vi 通车))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 昆明) (t 二月) (t 十四日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 二月) (t 十二日))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP-APP
+          (NP (NP-PN (ns 中国)) (NP-PN (ns 广西) (nz 壮族) (n 自治区)))
+          (c 和)
+          (NP (NP-PN (ns 越南) (ns 谅山省)) (ADJP (vi 相应)) (NP (n 口岸))))
+        (NP-PN (ns 凭祥) (wp ——) (IP (VP (ADVP (d 同)) (VP (v 登))))))
+      (ude 的))
+    (NP-PN (NP-PN (ns 中) (ns 越)) (NP (n 铁路))))
+  (VP (v 恢复) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 通车))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今天))
+  (wd ，)
+  (NP-SBJ (NP-PN-APP (ns 中) (ns 越)) (NP (n 双方)))
+  (VP
+    (PP-LOC (p 在) (NP (ADJP (b 上述)) (NP (n 口岸))))
+    (VP (v 举行) (y 了) (NP-OBJ (n 通车) (n 仪式))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 中国) (c 和) (ns 越南))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 山水)) (VP (vi 相连)))
+          (ude 的)))
+      (NP (n 邻邦))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (QP (m 一九一０) (CLP (q 年)))
+  (wd ，)
+  (NP-TPC (DNP (NP-PN (ns 昆明) (p 至) (ns 河内)) (ude 的)) (NP (n 铁路)))
+  (NP-SBJ (n 全线))
+  (VP (vi 贯通))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP (p 由于) (NP (DNP (NP (n 历史)) (ude 的)) (NP (n 原因))))
+  (wd ，)
+  (NP-TMP (QP (m 一九四０) (CLP (q 年))) (wn 、) (t 一九七八年))
+  (NP-SBJ
+    (DNP (NP-PN (NP-PN (ns 滇) (ns 越)) (NP (n 铁路))) (ude 的))
+    (NP (n 国际) (n 联运)))
+  (VP (ADVP (d 曾)) (QP-ADV (m 两) (CLP (q 度))) (VP (v 中断)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 经)
+      (IP
+        (NP-SBJ
+          (NP-PN (NP-PN (ns 中华人民共和国)) (NP (nt 铁道部)))
+          (p 与)
+          (NP-PN (NP-PN (ns 越南社会主义共和国)) (NP (n 交通) (n 运输部))))
+        (VP (v 商定))))
+    (wd ，)
+    (NP-PN-SBJ (NP-PN (ns 中) (ns 越)) (NP (n 铁路)))
+    (VP
+      (PP-TMP (p 于) (NP (t 一九九六年) (t 二月) (t 十二日)))
+      (VP (v 恢复) (NP-OBJ (n 国际) (vi 联运)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 并))
+      (PP-TMP (p 于) (NP (t 今天) (t 上午)))
+      (PP-LOC
+        (p 在)
+        (NP
+          (NP
+            (DNP (NP-PN (ns 越南)) (ude 的))
+            (NP-PN (NP (ADJP (a 老)) (NP (n 街))) (n 车站)))
+          (c 和)
+          (NP
+            (DNP (NP-PN (ns 中国) (n 河口)) (ude 的))
+            (NP-PN (n 山腰) (n 火车站)))))
+      (ADVP (d 分别))
+      (VP (v 举行) (NP-OBJ (n 通车) (n 庆典)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (NP-PN (ns 中) (ns 越)) (NP (n 铁路)))
+    (VP
+      (vshi 是)
+      (NP-PRD (QP (m 一) (CLP (q 条))) (NP (n 米) (n 轨)) (NP (n 铁路)))))
+  (wd ，)
+  (IP
+    (PP-ADV
+      (p 与)
+      (NP
+        (DNP
+          (NP
+            (NP-PN (ns 东南亚) (wn 、) (ns 南亚))
+            (QP (m 大部分))
+            (NP (n 国家)))
+          (ude 的))
+        (NP (n 铁路))))
+    (IP
+      (IP (NP-SBJ (n 轨距)) (VP (a 相同)))
+      (wd ，)
+      (IP (NP-SBJ (n 线路)) (VP (vi 相接)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 具有)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 发展) (NP-OBJ (n 国际) (n 联运))))
+          (ude 的))
+        (ADJP (a 广阔))
+        (NP (n 前景)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (t 前不久))
+    (wd ，)
+    (NP-PN-SBJ (ns 云南省) (c 和) (nt 铁道部))
+    (VP
+      (VP
+        (ADVP (d 还))
+        (VP
+          (VP (v 投资) (QP-OBJ (m 三千万) (CLP (q 元))))
+          (wd ，)
+          (VP
+            (PP-DIR
+              (p 对)
+              (NP
+                (DNP
+                  (NP-PN (NP-PN (ns 中) (ns 越)) (NP (n 铁路)))
+                  (ude 的))
+                (NP-PN (ns 云南))
+                (NP (n 段))))
+            (VP (v 进行) (y 了) (NP-OBJ (n 改造))))))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-OBJ
+          (NP (DP (r 该)) (NP (n 区段)))
+          (NP (n 出口) (n 输出) (n 能力)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (DP-ADV (r 每年))
+            (VP (v 达) (LCP-OBJ (QP (m 一百五十万) (CLP (q 吨))) (f 以上))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 预计)
+      (VP
+        (NP-TMP (t 今后))
+        (VP (v 可) (VP (v 突破) (QP-OBJ (m 五百万) (CLP (q 吨))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 据悉))
+    (wd ，)
+    (NP-TMP
+      (IP-APP
+        (NP-PN (NP-PN (ns 中) (ns 越)) (NP (n 铁路)))
+        (VP (v 复) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 通)))))
+      (NP (f 初期)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 将))
+      (VP (v 开行) (NP-OBJ (QP (m 五) (CLP (q 对))) (NP (n 货车))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (n 煤)
+      (wn 、)
+      (n 磷矿石)
+      (wn 、)
+      (n 铁矿)
+      (wn 、)
+      (n 钢材)
+      (c 和)
+      (n 水泥)
+      (udeng 等))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP (ADJP (b 主要)) (ude 的))
+          (CLP (m 大宗))
+          (NP (n 运输) (n 货物))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR
+    (p 对)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 开通)
+        (NP-OBJ
+          (DNP (NP-PN (NP-PN (ns 中) (ns 越)) (NP (n 铁路))) (ude 的))
+          (NP (n 国际) (n 客运))))))
+  (wd ，)
+  (NP-SBJ (NP-PN-APP (ns 中) (ns 越)) (NP (n 双方)))
+  (VP
+    (VP (ADVP (d 已)) (VP (v 达成) (NP-OBJ (n 共识))))
+    (wd ，)
+    (VP
+      (v 争取)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (NP-TMP (t 今年)) (VP (v 实现))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

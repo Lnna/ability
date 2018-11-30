@@ -1,0 +1,209 @@
+<S>
+( (IP
+  (NP-VOC (DP (r 各位)) (NP (n 观众)))
+  (wd ，)
+  (NP-SBJ (r 这里))
+  (VP (vshi 是) (NP-PRD (NP-PN (ns 巴基斯坦)) (NP (n 总统) (n 政府))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (s 当地) (n 时间)) (NP (QP (m 二十四) (CLP (q 号))) (t 上午)))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 中国)) (NP (n 国家) (n 主席)))
+    (NP-PN (nr 胡锦涛)))
+  (VP
+    (PP-LOC (p 在) (NP (r 这里)))
+    (PP-ADV
+      (p 与)
+      (NP (NP-APP (NP-PN (ns 巴基斯坦)) (NP (n 总统))) (NP-PN (nrf 穆沙拉夫))))
+    (VP (v 举行) (NP-OBJ (n 会谈))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方))
+  (VP
+    (VP
+      (v 盛赞)
+      (NP-OBJ
+        (NP-PN (ns 中) (ns 巴))
+        (NP
+          (NP (ADJP (b 全天候)) (NP (n 友谊)))
+          (c 和)
+          (NP (ADJP (n 全方位)) (NP (v 合作))))))
+    (wd ，)
+    (VP
+      (ADVP (ad 一致))
+      (VP
+        (v 表示)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 将))
+            (VP
+              (VP (ADVP (d 共同)) (VP (a 努力)))
+              (wd ，)
+              (VP
+                (ADVP (d 不断))
+                (VP
+                  (VP
+                    (VP (v 丰富) (NP-OBJ (-NONE- *RNR*-1)))
+                    (c 和)
+                    (VP
+                      (v 充实)
+                      (NP-OBJ-1
+                        (DNP
+                          (NP
+                            (NP (QP (m 两)) (NP (n 国)))
+                            (NP (n 战略) (n 合作) (n 伙伴) (n 关系)))
+                          (ude 的))
+                        (NP (n 内涵)))))
+                  (wd ，)
+                  (VP
+                    (VP (v 深化) (NP-OBJ (-NONE- *RNR*-2)))
+                    (c 和)
+                    (VP
+                      (v 扩大)
+                      (NP-OBJ-2
+                        (NP (DP (r 各)) (NP (n 领域)))
+                        (ADJP (vi 务实))
+                        (ADJP (vi 互利))
+                        (NP (v 合作)))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 胡锦涛))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (n 中巴))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (NP (ADJP (a 好)) (NP (n 邻居)))
+          (wd ，)
+          (NP (ADJP (a 好)) (NP (n 朋友)))
+          (wd ，)
+          (NP (ADJP (a 好)) (NP (n 伙伴)))
+          (wd ，)
+          (NP (ADJP (a 好)) (NP (n 兄弟)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (vi 建交) (QP-EXT (m 五十五) (CLP (q 年)))))
+    (f 来))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 中) (ns 巴)) (NP (n 关系)))
+  (VP
+    (VP
+      (VRD (v 经受) (vi 住))
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (n 时间) (c 和) (n 国际) (vl 风云变幻)) (ude 的))
+        (NP (n 考验))))
+    (wd ，)
+    (VP (v 建立) (y 了) (NP-OBJ (ADJP (b 全天候)) (NP (n 友谊))))
+    (wd ，)
+    (VP (v 开展) (y 了) (NP-OBJ (ADJP (n 全方位)) (NP (n 合作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (n 双方))
+      (DNP
+        (PP
+          (p 在)
+          (NP
+            (NP-APP
+              (n 政治)
+              (wd ，)
+              (n 经贸)
+              (wd ，)
+              (n 军事)
+              (wd ，)
+              (n 科技)
+              (wd ，)
+              (n 文化)
+              (wd ，)
+              (n 教育)
+              (udeng 等))
+            (NP (n 领域))))
+        (ude 的))
+      (NP (n 交流) (n 合作) (n 成果)))
+    (VP (a 显著)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP (NP (NP (n 国际) (c 和) (n 地区)) (NP (n 事务))) (f 中)))
+      (VP
+        (VP (ADVP (ad 密切)) (VP (v 配合)))
+        (wd ，)
+        (VP (ADVP (d 相互)) (VP (v 支持))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 中方))
+  (VP
+    (v 感谢)
+    (NP-PN-OBJ (n 巴方))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (dl 长期以来))
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (UCP-APP
+                (NP-PN (ns 台湾) (wd ，) (ns 西藏))
+                (wd ，)
+                (NP (n 人权))
+                (c 和)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 打击) (NP-OBJ (a 恐怖) (n 势力))))
+                (udeng 等))
+              (NP (n 问题)))
+            (f 上)))
+        (VP
+          (v 给予)
+          (NP-PN-IO (n 中方))
+          (NP-OBJ (ADJP (a 宝贵)) (NP (n 支持)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 中方))
+  (VP
+    (ADVP (d 将))
+    (DVP (VP (vl 一如既往)) (ude 地))
+    (VP
+      (v 支持)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-PN-SBJ (ns 巴基斯坦))
+            (VP
+              (v 维护)
+              (IP-OBJ
+                (IP (NP-SBJ (n 国家)) (VP (n 独立)))
+                (wd ，)
+                (IP (NP-SBJ (n 主权) (c 和) (n 领土)) (VP (a 完整))))))
+          (ude 的))
+        (NP (an 努力)))))
+  (wj 。)))
+</S>

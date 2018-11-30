@@ -1,0 +1,6163 @@
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP (NP-SBJ (r 你)) (VP (vshi 是) (NP-PN-PRD (ns 阿灵顿县)))))
+  (wd ，)
+  (NP-SBJ (r 你))
+  (VP
+    (v 要)
+    (VP
+      (PP-BNF
+        (p 为)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP (n 联邦))
+                  (NP (nl 军事基地))
+                  (NP (n 调整) (c 和) (n 关闭))
+                  (NP (n 委员会)))
+                (VP (ADVP (d 将)) (VP (v 清空) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (DNP (LCP (NP-PN (n 水晶城)) (f 中)) (ude 的))
+          (NP
+            (NP (ADJP (n 矩形)) (NP (n 建筑物)))
+            (c 和)
+            (NP (s 地下) (n 通道)))))
+      (VP
+        (v 设想)
+        (NP-OBJ (QP (m 一个)) (DNP (ADJP (a 新)) (ude 的)) (NP (n 景象))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 现在))
+    (wd ，)
+    (NP-SBJ
+      (DNP
+        (NP
+          (DNP (NP (NP-PN (n 五角大楼)) (NP (f 附近))) (ude 的))
+          (NP (n 办公))
+          (n 综合楼))
+        (ude 的))
+      (NP (n 特征)))
+    (VP
+      (vshi 是)
+      (NP-PRD (DNP (ADJP (a 枯燥)) (ude 的)) (ADJP (a 单一)) (NP (n 文化)))))
+  (wj 。)
+  (IP
+    (NP-SBJ (NP (NP (n 咨询)) (ADJP (a 特别)) (NP (n 工作组))) (NP (n 成员)))
+    (VP
+      (v 设想)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (FRAG (CP (IP (VP (v 代))) (r 之)) (DFL (p 以)))
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 更)) (VP (a 热闹))))
+                  (ude 的)))
+              (NP (n 街面) (n 景象))))
+          (wd ，)
+          (VP
+            (VP
+              (vi 融)
+              (NP-OBJ
+                (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+                (NP (n 商店) (wn 、) (n 餐馆) (c 和) (n 办公室))))
+            (VP (v 为) (NP-PRD (n 一体))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (DNP (NP-PN (wkz 《) (ns 华盛顿) (n 邮报) (wky 》)) (ude 的))
+      (NP (n 记者)))
+    (NP-PN (nrf 安妮·高文)))
+  (VP (v 写道))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (wkz ［)
+  (NP-SBJ
+    (NP (NP-APP (n 监事会) (n 主席)) (NP-PN (nrf 克里斯) (wky ］) (nrf 齐默曼)))
+    (c 和)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (NP-TMP (t 昨天)) (VP (vi 发言))))
+          (ude 的)))
+      (DP (r 其他))
+      (NP (n 人))))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DP (d 本)) (w ＋) (NP (n 县)))
+      (VP
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (DP (r 这些)) (ADJP (n 闲置)) (NP (n 空间)))
+            (VP
+              (VCP (v 看作) (vshi 是))
+              (NP-OBJ
+                (CP
+                  (IP-APP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (wyz “)
+                      (VP (ADVP (d 重新)) (VP (v 设想)))
+                      (wyy ”)
+                      (c 和)
+                      (wyz “)
+                      (VP (v 打造) (NP-OBJ (n 品牌)))
+                      (wyy ”)))
+                  (ude 的))
+                (NP (n 机会))))))
+        (wd ，)
+        (VP
+          (v 使)
+          (NP (n 水晶) (n 城))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 成为)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP (v 富有) (NP-OBJ (n 吸引力))))
+                    (ude 的)))
+                (NP (n 地方)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 虽然))
+    (IP
+      (IP
+        (NP-SBJ (DP (r 该)) (NP (n 地区)))
+        (VP (v 靠近) (NP-PN-OBJ (n 里根) (n 国家) (n 机场))))
+      (wd ，)
+      (IP (NP-SBJ (n 旅馆)) (VP (v 密布)))))
+  (wd ，)
+  (ADVP (c 但是))
+  (LCP (NP (a 长久)) (f 以来))
+  (NP-SBJ (r 它))
+  (VP
+    (VP
+      (ADVP (d 一直))
+      (VP
+        (pbei 被)
+        (VP
+          (v 视为)
+          (NP-OBJ
+            (DNP (ADJP (a 忧郁)) (ude 的))
+            (DNP
+              (NP
+                (NP (QP (m 二十)) (NP (n 世纪)))
+                (NP (QP (m 六十)) (NP (n 年代))))
+              (ude 的))
+            (NP (n 办公楼) (n 聚集地))))))
+    (wd ，)
+    (VP (PP-MNR (p 由) (NP (s 地下) (n 通道))) (ADVP (d 相互)) (VP (v 连通))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (IP-PRP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP (VP (vi 得益) (p 于)))
+      (NP-OBJ
+        (NP
+          (DNP (NP (ADJP (n 时尚)) (NP (n 咖啡馆))) (ude 的))
+          (NP (n 涌入)))
+        (c 和)
+        (NP (DNP (NP (ADJP (a 新)) (NP (n 街景))) (ude 的)) (NP (n 出现))))))
+  (wd ，)
+  (NP-SBJ (QP (m 部分)) (NP (n 水晶) (n 城)))
+  (VP (NP-TMP (t 最近)) (VP (v 获得) (y 了) (NP-OBJ (n 新生))))
+  (w ……)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ
+      (FRAG (nz 查尔斯) (w ·) (nx Ｅ) (w ·) (nz 史密斯))
+      (n 商业)
+      (n 地产))
+    (VP
+      (v 拥有)
+      (QP-OBJ
+        (DNP
+          (LCP
+            (NP
+              (NP (DP (r 该)) (NP (n 街区)))
+              (QP
+                (QP (LST (m １)) (wd ，) (QP (m １００万)))
+                (CLP (q 平方英尺)))
+              (NP (n 办公) (n 空间)))
+            (f 中))
+          (ude 的))
+        (QP (m ７４０万) (CLP (q 平方英尺))))))
+  (wj 。)
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (VP
+        (v 花)
+        (y 了)
+        (QP-OBJ
+          (IP (LST (m ４)) (wd ，) (VP (QP (m ０００万))))
+          (CLP (q 美元))))
+      (VP (v 进行) (NP-OBJ (n 改造)))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-OBJ (n 街道))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (al 焕然一新))))
+      (wd ，)
+      (VP (v 吸引) (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 企业))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它))
+  (VP
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-PN-SBJ (n 水晶) (n 大道))
+        (VP (v 变为) (NP-OBJ (ADJP (b 双向)) (ADJP (b 主要)) (NP (n 街道))))))
+    (wd ，)
+    (VP
+      (v 招募)
+      (y 了)
+      (NP-OBJ
+        (NP
+          (NP (DNP (ADJP (a 新)) (ude 的)) (NP (n 商店)))
+          (c 和)
+          (NP (DNP (ADJP (n 时尚)) (ude 的)) (NP (n 餐馆))))
+        (wd ，)
+        (PRN
+          (ADVP (v 如))
+          (NP
+            (NP-PN (nx Ｊａｌｅｏ))
+            (c 和)
+            (NP-PN (nz 麦考密克))
+            (p 与)
+            (NP-PN (nz 施密克)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (PP-TMP
+    (p 在)
+    (LCP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 阅读) (NP-OBJ (DNP (NP-PN (n 高文)) (ude 的)) (NP (n 报道)))))
+      (n 时)))
+  (wd ，)
+  (NP-SBJ (nl 字里行间))
+  (VP
+    (ADVP (d 似乎))
+    (VP
+      (v 缺)
+      (y 了)
+      (NP-OBJ
+        (ADJP (ADVP (d 很)) (ADJP (a 大)))
+        (QP (uyy 一样))
+        (NP (n 东西)))))
+  (wm ：)))
+</S>
+<S>
+( (IP (NP-SBJ (-NONE- *pro*)) (VP (NP-PRD (n 住房))) (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 创建)
+      (NP-OBJ
+        (QP (m 一个))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 更)) (VP (v 富有) (NP-OBJ (n 生机)))))
+            (ude 的)))
+        (NP (n 商业区)))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (QP (CLP (q 个)))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 值得) (NP-OBJ (v 称道))))
+          (ude 的)))
+      (NP (n 目标))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (VP
+        (v 创建)
+        (NP-OBJ (QP (m 一个)) (DNP (ADJP (a 均衡)) (ude 的)) (NP (n 社区))))
+      (wd ，)
+      (VP
+        (VP
+          (vi 融)
+          (NP-OBJ
+            (NP (n 住房))
+            (wn 、)
+            (NP (n 办公室))
+            (wn 、)
+            (NP (n 购物))
+            (c 和)
+            (NP (DP (r 其他)) (NP (a 康乐) (n 设施)))))
+        (VP (v 为) (NP-PRD (n 一体))))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-OBJ (n 人们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 居住)
+            (PP
+              (p 在)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 靠近) (NP-OBJ (vi 工作) (c 和) (vi 娱乐))))
+                    (ude 的)))
+                (NP (n 地方)))))))))
+  (wd ，)
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (QP (m 一个))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (ADVP (d 更)) (VP (v 值得) (NP-OBJ (v 尝试)))))
+          (ude 的)))
+      (NP (n 目标))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-MNR
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-ADV
+        (ADVP (d 正))
+        (PP
+          (v 如)
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (nrf 埃德·里瑟))
+                  (VP (v 指出) (NP-OBJ (-NONE- *T*-2))))
+                (ude 的))))))
+      (VP (a 一样))))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (NP
+        (QP (IP (LST (m １７)) (wd ，) (VP (QP (m ０００)))) (CLP (q 个)))
+        (NP (n 岗位)))
+      (ude 的))
+    (NP (n 外迁)))
+  (VP
+    (v 创造)
+    (y 了)
+    (NP-OBJ
+      (NP (QP (m 一个)) (DNP (ADJP (a 难得)) (ude 的)) (NP (n 机会)))
+      (wd ，)
+      (PRN
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 可)
+            (VP
+              (PP-LOC (p 在) (NP (NP (f 北)) (NP (ns 弗吉尼亚州))))
+              (VP
+                (v 创建)
+                (NP-OBJ
+                  (QP (m 一个))
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (ADVP (d 真正)) (VP (a 均衡))))
+                      (ude 的)))
+                  (NP (n 社区))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (v 猜测)
+      (wd ，)
+      (IP-OBJ
+        (LCP-LOC (NP (NP (n 问题)) (w －－) (NP (n 报道))) (f 中))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 没有)) (VP (v 讨论) (NP-OBJ (r 它)))))))
+  (w －－)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC (v 在于) (NP-PN (nrf 阿灵顿)))
+              (VP (v 关心) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 保护)
+          (NP-OBJ (DNP (NP (r 它)) (ude 的)) (NP (n 计税) (n 基数)))))))
+  (wj 。)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (v 意味着)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP (p 用) (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 办公室))))
+          (VP
+            (ADVP (c 而))
+            (ADVP (d 不))
+            (VP
+              (vshi 是)
+              (VP
+                (PP-MNR (p 用) (NP (n 住房)))
+                (VP
+                  (v 来)
+                  (VP
+                    (v 取代)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-2 (-NONE- *OP*))
+                        (CP
+                          (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 空置)))
+                          (ude 的)))
+                      (NP (n 办公室))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 阿灵顿))
+    (VP
+      (v 追求)
+      (NP-OBJ
+        (DNP (NP (r 它) (r 自身)) (ude 的))
+        (ADJP (b 短期))
+        (NP (n 利益)))))
+  (wd ，)
+  (IP (NP-SBJ (r 这)) (VP (vl 无可厚非)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ (DP (r 每个)) (NP (n 人)))
+  (VP
+    (v 需要)
+    (VP
+      (VRD (v 认识) (v 到))
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP (nr 阿灵) (d 顿))
+          (VP
+            (v 决定)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 不))
+                (VP
+                  (v 追求)
+                  (NP-OBJ (DNP (ADJP (a 平衡)) (ude 的)) (NP (n 社区))))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 这))
+          (VP
+            (v 意味着)
+            (IP-OBJ
+              (NP-SBJ (n 住房))
+              (VP
+                (VP
+                  (ADVP (d 最终))
+                  (ADVP (d 将))
+                  (VP
+                    (VRD (v 落) (p 在))
+                    (NP-OBJ (DP (r 其他)) (NP (n 地方)))))
+                (wd ，)
+                (VP
+                  (ADVP (d 大概))
+                  (VP
+                    (p 在)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 偏远)))
+                          (ude 的)))
+                      (r 各县)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 要求) (NP-OBJ (ADJP (a 新)) (NP (n 交通) (n 收益)))))
+        (ude 的)))
+    (NP (n 呼声)))
+  (VP (ADVP (d 将)) (ADVP (d 更加)) (VP (vl 震耳欲聋)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-LOC (p 在) (NP (DP (r 其他)) (NP (n 地方))))
+        (VP
+          (VRD (v 读) (v 到))
+          (uguo 过)
+          (wd ，)
+          (IP-OBJ
+            (IP
+              (NP-SBJ-1
+                (DNP
+                  (LCP (NP (DP (r 那些)) (NP (n 办公楼))) (f 中))
+                  (ude 的))
+                (QP (m 一))
+                (NP (n 部分)))
+              (VP
+                (pbei 被)
+                (VP
+                  (VCP (v 认为) (vshi 是))
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *-1))
+                    (VP (a 陈旧) (ADVP (d 不堪)))))))
+            (wd ，)
+            (IP
+              (NP-SBJ-2 (r 它们))
+              (VP
+                (VP
+                  (ADVP (d 将))
+                  (VP
+                    (pbei 被)
+                    (VP
+                      (VP (v 拆除) (NP-OBJ (-NONE- *RNR*-3)))
+                      (c 和)
+                      (VP (v 重建) (NP-OBJ-3 (-NONE- *-2))))))
+                (wd ，)
+                (VP
+                  (ADVP (c 而))
+                  (ADVP (d 不))
+                  (VP (vshi 是) (VP (v 进行) (NP-OBJ (n 翻新))))))))))))
+  (ww ？)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (r 那))
+    (VP
+      (v 会)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (QP (m 一个))
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 实现)
+                (NP-OBJ
+                  (QP (ADVP (d 更)) (QP (a 多)))
+                  (ADJP (n 综合性))
+                  (NP (n 用途)))))
+            (ude 的))
+          (NP (n 机会))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (QP (m 一个))
+        (CP-APP
+          (IP
+            (wyz “)
+            (NP-SBJ (ADJP (n 现有)) (ADJP (n 基础)) (NP (n 设施)))
+            (wyy ”)
+            (VP
+              (VP (ADVP (d 已)) (VCD (a 陈旧) (v 不堪)))
+              (wn 、)
+              (VP
+                (ADVP (d 不))
+                (VP (v 能) (VP (ADVP (d 再)) (w ＋) (VP (v 使用)))))))
+          (ude 的))
+        (NP (n 例子)))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 作者))
+  (VP (v 删除) (y 了) (NP-OBJ (DP (r 此)) (NP (n 帖))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN (nrf 吉姆))
+  (wd ，)
+  (QP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 不)) (VP (a 重要))))
+        (ude 的)))
+    (QP (m 一) (CLP (q 点))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-ADV
+        (p 与)
+        (NP
+          (DNP (NP-PN (ns 弗吉尼亚)) (ude 的))
+          (QP (m 大多数))
+          (DP (r 其他))
+          (NP (n 县)))))
+    (VP (a 不同)))
+  (wd ，)
+  (IP (NP-PN-SBJ (ns 阿灵顿县)) (VP (v 没有) (NP-OBJ (n 监事会))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它))
+  (VP
+    (ADVP (ad 确实))
+    (VP (vyou 有) (NP-OBJ (QP (m 一个)) (NP (n 县) (n 委员会)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 阿灵顿县)) (NP (n 委员会))) (ude 的))
+    (NP (n 成员)))
+  (VP
+    (VP (ADVP (d 不)) (VP (v 叫做) (NP-OBJ (n 监事))))
+    (wd ，)
+    (VP (ADVP (c 而)) (VP (v 叫做) (NP-OBJ (n 委员会) (n 成员)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-PN-SBJ (nrf 阿灵顿))
+      (VP
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (DNP (ADJP (v 足够)) (ude 的))
+            (ADJP (b 公共))
+            (ADJP (n 基础))
+            (NP (n 设施))))
+        (VP
+          (v 来)
+          (VP
+            (VP
+              (v 支持)
+              (NP-OBJ (DNP (NP (n 水晶) (n 城)) (ude 的)) (NP (n 住房))))
+            (wd ，)
+            (VP
+              (PP-LOC (p 在) (NP (DP (r 该)) (NP (n 地区))))
+              (VP (v 增建) (NP-OBJ (n 住房)))))))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 会)
+    (VP (vshi 是) (NP-PRD (QP (CLP (q 个))) (ADJP (a 好)) (NP (n 主意)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (NP-PN (nz 阿灵顿)) (NP (n 社区)))
+          (VP (v 需要) (NP (v 回答) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (NP (n 问题)))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-PRD
+      (NP-SBJ (ADJP (v 配套)) (ADJP (n 基础)) (NP (n 设施)))
+      (VP (ADVP (v 是否)) (VP (v 足够)))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (CP-CND (ADVP (c 如果)) (IP (NP-SBJ (-NONE- *pro*)) (VP (a 不够))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 让)
+            (NP-OBJ (n 阿灵顿人))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VP
+                  (v 掏)
+                  (NP-OBJ
+                    (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+                    (NP (n 钱))))
+                (VP
+                  (v 来)
+                  (VP
+                    (v 负担)
+                    (NP-OBJ (ADJP (b 公共)) (ADJP (n 基础)) (NP (n 设施)))))
+                (VP
+                  (c 以)
+                  (VP
+                    (v 使)
+                    (NP-OBJ (n 住房))
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (ADVP (d 不))
+                        (VP
+                          (v 会)
+                          (VP
+                            (IP (VP (v 造) (FLR (PP (p 在)))))
+                            (NP-OBJ (ADJP (a 偏远)) (r 各县))))))))))))
+        (ude 的)))
+    (NP (n 动力)))
+  (VP (vshi 是) (NP-WH-PRD (r 什么)))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 资金))
+  (VP
+    (VP (PP-DIR (p 从) (NP-PN (nrf 阿灵顿))) (ADVP (d 单向)) (VP (v 流出)))
+    (wd ，)
+    (VP
+      (ADVP (d 就))
+      (PP-ADV
+        (v 像)
+        (IP
+          (NP-SBJ (r 它们))
+          (VP (PP-DIR (p 从) (NP-PN (nrf 费尔法克斯))) (VP (v 流出)))))
+      (VP (uyy 一样)))
+    (w －－)
+    (VP (VRD (v 流) (v 到)) (NP-PN-OBJ (n 里士满)))
+    (wd ，)
+    (VP
+      (ADVP (c 然后))
+      (VP (VRD (v 流) (v 到)) (NP-OBJ (NP (r 本州)) (r 各地)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 确信)
+    (wd ，)
+    (IP-OBJ
+      (CP-ADV
+        (ADVP (c 虽然))
+        (IP
+          (NP-SBJ (QP (m 很多)))
+          (VP
+            (n 会)
+            (VP
+              (v 喜欢)
+              (NP-OBJ
+                (DNP
+                  (LCP
+                    (NP
+                      (CP
+                        (NP-1 (vi *PRO*))
+                        (CP
+                          (IP
+                            (NP-SBJ (-NONE- *T*-1))
+                            (VP (ADVP (AD 新)) (VP (d 复兴))))
+                          (vi 的)))
+                      (NP-PN (ude 水晶城)))
+                    (n 中))
+                  (f 的))
+                (NP (ude 城市) (n 生活)))))))
+      (n ，)
+      (ADVP (wd 但是))
+      (NP-SBJ (QP (c 很多)) (m 其他人) (NP (r 人)))
+      (VP (ADVP (d 不)) (VP (v 会) (VP (vi 喜欢))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 很多)) (NP (n 人)))
+    (VP
+      (ADVP (d 只))
+      (VP
+        (v 想)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (IP (VP (vi 住) (p 在)))
+            (LCP-OBJ
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (VCD (nl 独门独户))))
+                    (ude 的)))
+                (NP (n 房子)))
+              (f 里)))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (r 这))
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 水晶) (n 城)) (f 中)))
+        (VP (vshi 是) (VP (VPT (v 找) (d 不) (v 到))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (wd ，)
+  (PP-PRP
+    (p 鉴于)
+    (NP
+      (NP (n 土地) (n 价格))
+      (c 和)
+      (NP
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 建造) (NP-OBJ (ADJP (n 高层)) (NP (n 建筑)))))
+          (ude 的))
+        (NP (n 成本)))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (LCP-LOC (NP (DP (r 该)) (NP (n 地区))) (f 中))
+            (VP (v 建造) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (DP (r 任何))
+    (NP (n 住房)))
+  (VP (ADVP (d 都)) (w ＋) (ADVP (v 可能)) (ADVP (d 比较)) (VP (a 昂贵)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 雷·海德))
+    (VP (ADVP (d 已经)) (VP (v 说服) (y 了) (NP-OBJ (r 我)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (v 需要)
+      (VP
+        (v 鼓励)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP (ADJP (a 高)) (NP (n 质量)))
+              (wn 、)
+              (NP (ADJP (ADVP (d 更)) (ADJP (a 高))) (NP (n 薪资))))
+            (ude 的))
+          (NP (n 工作) (n 岗位)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VRD (vi 落户) (v 到))
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 偏远))) (ude 的)))
+              (NP (n 地区))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (CP-ADV
+      (ADVP (c 除非))
+      (IP
+        (IP
+          (IP (VP (v 建造) (NP (n 商))))
+          (VP
+            (ADVP (d 将))
+            (PP-MNR
+              (p 以)
+              (NP
+                (CP-APP
+                  (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 亏本)))
+                  (ude 的))
+                (NP (n 代价))))
+            (VP
+              (v 提供)
+              (NP-OBJ (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 住房))))))
+        (PRN
+          (w －－)
+          (IP
+            (NP-SBJ (r 这))
+            (VP
+              (PP-MNR (p 在) (LCP (NP (r 我)) (v 看来)))
+              (ADVP (d 很))
+              (VP (a 荒谬)))))))
+    (wd ，)
+    (IP-CND
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 没有)
+        (NP-OBJ
+          (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+          (NP (n 税收) (n 补贴)))))
+    (wd ，)
+    (NP-SBJ (r 这里))
+    (VP
+      (vshi 是)
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 会)
+          (VP
+            (vyou 有)
+            (NP-OBJ (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 住房))))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wkz （)
+  (ADVP (d 当然))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 花)
+            (PP
+              (p 在)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 补贴) (NP-OBJ (n 住房)))))))
+        (ude 的)))
+    (DP (r 每) (QP (m 一) (CLP (q 美元))))
+    (NP (n 税款)))
+  (VP
+    (ADVP (d 不))
+    (VP (v 能) (VP (v 用于) (NP-OBJ (DP (r 其他)) (NP (n 用途))))))
+  (wj 。)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (v 表明)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (b 无计划)))))
+          (NP (n 扩展)))
+        (VP (ADVP (d 将)) (VP (v 继续))))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (DNP
+            (PP
+              (p 对)
+              (NP
+                (DNP (QP (ADVP (d 越来越)) (QP (a 多))) (ude 的))
+                (NP
+                  (NP (n 道路))
+                  (c 和)
+                  (NP (DP (r 其他)) (ADJP (n 基础)) (NP (n 设施))))))
+            (ude 的))
+          (NP (n 需求)))
+        (VP (ADVP (d 也)) (ADVP (d 将)) (VP (v 继续))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 弗吉尼亚))
+  (VP (v 需要) (NP-OBJ (DNP (ADJP (a 均衡)) (ude 的)) (NP (n 岗位) (n 增长))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-MNR
+    (NP-SBJ (-NONE- *pro*))
+    (VP (PP-MNR (p 从) (LCP (NP (n 理论)) (f 上))) (VP (v 讲))))
+  (wd ，)
+  (IP-SBJ
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 失去) (NP-OBJ (DP (r 这些)) (NP (n 岗位)))))
+  (VP
+    (v 提供)
+    (y 了)
+    (NP-OBJ
+      (QP (m 一个))
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 改变) (NP-OBJ (n 居住) (n 模式))))
+        (ude 的))
+      (NP (n 机会))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 也许))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-MNR
+      (p 用)
+      (NP
+        (NP (n 住房))
+        (c 和)
+        (w ／)
+        (c 或)
+        (NP
+          (DNP (ADJP (ADVP (d 更)) (ADJP (a 均衡))) (ude 的))
+          (ADJP (n 综合性))
+          (NP (n 用途)))))
+    (VP (v 来) (VP (v 取代) (NP (n 商) (n 企业)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 这里)) (VP (vyou 有) (NP-OBJ (QP (m 很多)) (NP (n 问题)))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (ad 确实))
+      (VP
+        (v 同意)
+        (w ……)
+        (IP-OBJ
+          (IP (VP (ADVP (d 只)) (VP (vshi 是))))
+          (NP-SBJ
+            (DP (r 这个))
+            (DNP (ADJP (b 潜在)) (ude 的))
+            (NP (n 理念)))
+          (VP (v 富有) (NP-OBJ (n 挑战) (n 意味)))))))
+  (w ……)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (NP-PN-SBJ (nr 阿灵顿))
+    (VP
+      (VP (ADVP (r 这样)) (VP (v 做)))
+      (VP (vyou 有) (NP-OBJ (DP-WH (r 什么)) (NP (n 好处))))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (IP-MNR
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (DVP (VP (ADVP (d 更)) (VP (a 具体))) (ude 地)) (VP (v 说))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-BNF
+      (p 对于)
+      (LCP
+        (NP
+          (DP (r 那些))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (VP
+                    (ADVP (d 已经))
+                    (VP (v 居住) (PP (p 在) (NP-PN (nz 阿灵顿)))))
+                  (c 并)
+                  (VP (vi 纳税))))
+              (ude 的)))
+          (NP (n 人们)))
+        (u 来说)))
+    (VP (vyou 有) (NP-OBJ (DP-WH (r 什么)) (NP (n 好处)))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-PN-SBJ (nrf 阿灵顿))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP (NP (ADJP (v 新增)) (ADJP (n 基础)) (NP (n 设施))) (NP (n 方面))))
+      (VP (v 需要) (VP (v 提供) (NP-WH-OBJ (r 什么))))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (wkz （)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 能)
+        (VP
+          (v 肯定)
+          (IP-OBJ
+            (NP-SBJ (r 我))
+            (VP
+              (v 会)
+              (VP
+                (v 同意)
+                (NP-OBJ
+                  (CP-APP
+                    (IP
+                      (NP-SBJ (n 住房))
+                      (VP
+                        (PP-ADV (p 比) (NP (n 商业)))
+                        (VP
+                          (v 需要)
+                          (NP-OBJ
+                            (DNP
+                              (QP (ADVP (d 更)) (QP (a 多)))
+                              (ude 的))
+                            (NP (ADJP (n 基础)) (NP (n 设施))))))))
+                  (DP (r 这) (QP (m 一)))
+                  (NP (n 意见))))))))))
+  (wj 。)
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (NP-SBJ (r 我们))
+    (VP (v 可以) (VP (v 探讨) (ADVP (m 一下)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 似乎))
+    (VP
+      (vshi 是)
+      (wd ，)
+      (IP-PRD
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (r 你))
+            (VP
+              (p 将)
+              (IP-OBJ
+                (NP-SBJ
+                  (DNP (NP (n 水晶) (n 城)) (ude 的))
+                  (QP (m 一) (CLP (q 座)))
+                  (NP (n 办公楼)))
+                (VP (VRD (v 改) (v 成)) (NP-OBJ (n 公寓))))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 人))
+    (VP
+      (ADVP (d 并))
+      (ADVP (d 不))
+      (VP
+        (v 会)
+        (VP
+          (VP (v 变) (ude 得) (QP (ADVP (d 更)) (QP (a 多))))
+          (PRN
+            (wkz （)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 也许))
+                (VP (v 会) (VP (QP-PRD (ADVP (d 更)) (QP (a 少)))))))
+            (wky ）))))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (NP-SBJ (r 你))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 需要)
+        (NP-OBJ
+          (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+          (NP (NP (n 水)) (w ／) (NP (n 污水) (n 处理) (n 能力)))))))
+  (w ……)
+  (IP (NP-SBJ (n 停车) (n 场地)) (VP (ADVP (d 也)) (VP (r 如此))))
+  (w ……)
+  (CP
+    (IP
+      (ADVP (d 至少))
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (v 看上去)) (VP (vshi 是) (VP (r 这样)))))
+    (ude 的))
+  (wky ）)
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (nz 通勤)) (VP (ADVP (d 也)) (VP (r 如此))) (w ……)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (DP (r 每天)) (NP (t 早晨)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 没有)
+      (IP
+        (NP-SBJ (DNP (QP (m 大批)) (ude 的)) (NP (n 人)))
+        (VP
+          (PP-DIR (p 从) (NP (f 外围) (n 辖区)))
+          (wyz “)
+          (VP
+            (VSB (IP (VP (v 通) (ADVP (ad 勤)))) (v 进入))
+            (wyy ”)
+            (NP-PN-OBJ (nrf 阿灵顿)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 你))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (vshi 是)
+        (VP
+          (v 会)
+          (VP
+            (v 看到)
+            (NP-OBJ
+              (NP (DNP (ADJP (vi 相反)) (ude 的)) (NP (n 情况)))
+              (PRN
+                (w －－)
+                (NP
+                  (QP (ADVP (d 更)) (QP (a 多)))
+                  (wyz “)
+                  (DNP (PP (p 往) (NP (f 外))) (ude 的))
+                  (wyy ”)
+                  (NP (n 通勤))))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (ADVP (f 最后))
+    (wd ，)
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (ADVP (ad 实际)) (VP (v 拥有) (NP-OBJ (n 土地)))))
+          (ude 的)))
+      (NP (n 人们)))
+    (w －－)
+    (NP-SBJ (r 他们))
+    (VP
+      (v 会)
+      (VP
+        (v 同意)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ (n 功能) (n 分区))
+              (VP
+                (PP-ADV (p 从) (NP (n 商业) (n 办公)))
+                (VP (VRD (v 改) (v 成)) (NP-OBJ (n 居住) (n 公寓))))))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (p 将)
+                  (IP-OBJ
+                    (IP-SBJ
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 拥有) (NP-OBJ (DP (r 这些)) (NP (n 房产)))))
+                    (VP (v 作为) (NP-OBJ (v 投资))))))
+              (ude 的)))
+          (DP (r 那些))
+          (NP (n 人们))))
+      (VP (vyou 有) (NP-OBJ (DP-WH (r 什么)) (NP (n 经济) (n 影响))))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (d 似乎))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN (nrf 阿灵顿))
+      (c 和)
+      (NP (DP (r 其他)) (NP (n 地区) (n 辖区))))
+    (VP
+      (LCP (QP (a 多) (CLP (q 年))) (f 来))
+      (ADVP (d 已经))
+      (VP (vyou 有) (uguo 过) (NP-OBJ (DP (r 此类)) (NP (n 选择))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (VP (v 选择) (y 了) (NP-OBJ (n 商业) (n 开发)))
+      (wd ，)
+      (VP
+        (ADVP (c 而))
+        (ADVP (d 不))
+        (VP (vshi 是) (NP-PRD (v 居住) (v 开发))))))
+  (wj 。)
+  (IP
+    (ADVP (d 实际上))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 让)
+      (NP-OBJ
+        (DNP (ADJP (ADVP (d 更)) (ADJP (a 偏远))) (ude 的))
+        (NP (n 辖区)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (v 想) (NP-OBJ (n 办法)))
+          (VP
+            (ADVP (r 如何))
+            (PP-BNF
+              (p 为)
+              (NP
+                (DP (r 那些))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (v 想)
+                        (IP-OBJ
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP
+                            (VP
+                              (PP-LOC
+                                (p 在)
+                                (NP (NP (f 北)) (NP (ns 弗州))))
+                              (VP (vi 工作)))
+                            (c 并)
+                            (VP
+                              (VP
+                                (VRD
+                                  (IP (VP (v 通) (ADVP (a 勤))))
+                                  (p 到))
+                                (NP-OBJ (f 外围) (s 郊区)))
+                              (VP (v 居住)))))))
+                    (ude 的)))
+                (NP (n 人们))))
+            (VP (v 提供) (NP-OBJ (n 住房))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-MNR
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-MNR (p 从) (LCP (NP (DP (r 某种)) (NP (n 程度))) (f 上)))
+      (VP (v 讲))))
+  (wd ，)
+  (NP-SBJ (n 人们))
+  (VP
+    (v 可以)
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (ADVP (c 首先))
+        (wd ，)
+        (NP-SBJ (f 北) (NP (ns 弗州)) (NP (n 辖区)))
+        (VP
+          (VP
+            (VP (vyou 有) (NP-OBJ (n 责任)))
+            (VP
+              (PP-BNF
+                (p 向)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (PP-LOC (p 在) (NP (s 当地))) (VP (vi 工作))))
+                      (ude 的)))
+                  (DP (r 那些))
+                  (NP (n 人))))
+              (VP (v 提供) (NP-OBJ (n 住房)))))
+          (wd ，)
+          (VP
+            (ADVP (c 而))
+            (ADVP (d 不))
+            (VP
+              (vshi 是)
+              (VP
+                (vi 迫使)
+                (NP-OBJ (n 员工))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (VP
+                      (VRD (IP (VP (v 通) (ADVP (a 勤)))) (v 到))
+                      (NP-OBJ (f 外围) (w ＋) (n 辖区)))
+                    (VP (v 居住)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (f 最后))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-PRP
+                (ADVP (c 不论))
+                (PP (v 出于) (NP (DP (r 什么)) (NP (n 原因)))))
+              (ADVP (n 结果))
+              (VP (v 选择) (NP-OBJ (n 通勤)))))
+          (ude 的)))
+      (DP (r 每个))
+      (NP (n 员工)))
+    (PRN
+      (w ……)
+      (IP
+        (NP-SBJ (r 那))
+        (VP
+          (ADVP (d 就))
+          (VP (vshi 是) (VP (a 多) (NP-EXT (QP (m 一个)) (NP (n 人)))))))))
+  (VP
+    (PP-ADV
+      (p 比)
+      (NP
+        (DP (r 那些))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (PP-LOC (p 在) (NP (s 当地))) (VP (v 居住)))))
+        (wn 、)
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-3))
+              (NP-SBJ (n 通勤) (n 路途))
+              (VP (ADVP (d 较)) (VP (a 近))))
+            (ude 的)))
+        (NP (n 人))))
+    (DVP (VP (ADVP (d 更)) (VP (a 频繁))) (ude 地))
+    (VP (v 使用) (NP-OBJ (n 交通) (n 网络))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 因此))
+  (w ……)
+  (NP-SBJ (f 下面))
+  (VP (vshi 是) (NP-PRD (DNP (ADJP (n 结论性)) (ude 的)) (NP (n 想法))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (DP (r 每个)) (NP (f 北)) (NP (ns 弗州)) (NP (n 辖区)))
+    (VP
+      (VP
+        (VP
+          (v 合计)
+          (NP-OBJ
+            (DNP (LCP (NP (r 其) (n 边界)) (f 内)) (ude 的))
+            (NP (n 岗位) (n 数量))))
+        (VP
+          (PP-ADV
+            (p 与)
+            (NP
+              (DNP (LCP (NP (r 其) (n 边界)) (f 内)) (ude 的))
+              (NP (n 住房) (n 数量))))
+          (VP (v 作) (NP-OBJ (n 对比)))))
+      (wd ，)
+      (VP
+        (v 会)
+        (VP
+          (v 得出)
+          (NP-OBJ (DNP (ADJP-WH (r 什么样)) (ude 的)) (NP (n 结论)))))))
+  (y 呢)
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (v 会)
+      (VP
+        (v 看到)
+        (NP-OBJ (QP (m 一个)) (DNP (ADJP (a 大)) (ude 的)) (NP (n 差距))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 知道)
+    (wd ，)
+    (IP-OBJ
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (r 我))
+                  (VP (usuo 所) (VP (v 居住) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (f 外围) (s 郊区)))
+          (f 中)))
+      (wd ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (QP (CLP (q 个)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (ADVP (d 截然)) (VP (vi 相反))))
+              (ude 的)))
+          (ADJP (a 大))
+          (NP (n 差距))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (NP-SBJ (n 家))
+          (VP (p 在) (NP-OBJ (r 我们) (r 那里))))
+        (ude 的)))
+    (NP (n 人)))
+  (wd ，)
+  (VP
+    (ADVP (d 远远))
+    (VP
+      (v 多于)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (r 我们))
+              (VP
+                (v 能够)
+                (VP
+                  (PP-BNF (p 向) (NP (r 他们)))
+                  (VP (v 提供) (NP-OBJ (-NONE- *T*-2))))))
+            (ude 的)))
+        (NP (n 工作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (vl 也就是说))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP (r 我们) (n 人口)) (ude 的))
+    (QP (m 一个))
+    (DNP (ADJP (ADVP (d 很)) (ADJP (a 大))) (ude 的))
+    (NP (n 百分比)))
+  (VP
+    (ADVP (d 实际上))
+    (VP (vshi 是) (NP-PRD (NP (f 北)) (NP (ns 弗州)) (NP (n 通勤者)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TPC (p 关于) (NP (NP (n 工作) (w ／) (n 住房)) (NP (n 问题))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP (d 在))
+    (VP
+      (v 想)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP
+            (NP (DP (b 整个)) (NP (f 北)) (NP (ns 弗州)) (NP (n 地区)))
+            (ude 的))
+          (NP (n 总数)))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (NP-WH (r 什么))
+            (PRN
+              (w －－)
+              (NP
+                (DNP (NP (DP (b 所有)) (w ＋) (NP (n 辖区))) (ude 的))
+                (DNP (NP (n 工作) (c 与) (n 住房)) (ude 的))
+                (NP (n 对比) (n 数)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (IP-MNR
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-MNR (p 从) (NP (DNP (ADJP (a 公平)) (ude 的)) (NP (n 角度))))
+      (VP (v 讲))))
+  (wd ，)
+  (NP-SBJ (n 辖区))
+  (VP
+    (ADVP (v 是否))
+    (VP
+      (v 应该)
+      (VP
+        (v 提供)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-ADV (p 与) (NP (NP (r 其)) (NP (n 岗位) (n 数量))))
+                  (ADVP (uyy 一样))
+                  (VP (a 多))))
+              (ude 的)))
+          (NP (n 住房))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP-APP
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (r 这样)) (VP (v 做))))
+      (ude 的))
+    (NP (n 机制)))
+  (VP (vshi 是) (NP (n 分区) (k 制)))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (ADJP (b 一定)) (NP (n 百分比))) (ude 的))
+      (NP (n 地区)))
+    (VP
+      (VP
+        (ADVP (d 只))
+        (VP (IP (VP (v 留) (v 作))) (NP-OBJ (n 住房) (n 开发))))
+      (wd ，)
+      (c 或者)
+      (VP
+        (VCP (v 指定) (v 为))
+        (NP-OBJ
+          (DNP (NP (ADJP (n 综合性)) (NP (n 用途) (v 开发))) (ude 的))
+          (NP (n 地区))))))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR
+        (p 对)
+        (IP
+          (LCP-SBJ (NP (ADJP (n 综合性)) (NP (n 用途) (n 方案))) (f 中))
+          (VP
+            (d 必须)
+            (VP
+              (v 要)
+              (VP (vyou 有) (NP-OBJ (QP-WH (r 多少)) (NP (n 住房))))))))
+      (VP
+        (vyou 有)
+        (NP-OBJ (QP (m 一个)) (ADJP (b 硬性)) (NP (n 百分比) (n 上限))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (ADVP (c 或者))
+    (wd ，)
+    (IP-MNR
+      (NP-SBJ (-NONE- *pro*))
+      (VP (PP-ADV (p 与) (NP (r 此))) (ADVP (ad 完全)) (VP (vi 相反))))
+    (w －－)
+    (NP-SBJ (n 人们))
+    (VP
+      (v 会)
+      (VP
+        (v 支持)
+        (NP-OBJ (DP (r 任何)) (NP (n 辖区)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP
+              (p 将)
+              (IP-OBJ
+                (NP-SBJ (DP (b 整个)) (NP (n 辖区)))
+                (VP
+                  (ADVP (d 仅))
+                  (VP
+                    (v 划为)
+                    (NP-OBJ
+                      (DNP (NP (n 商业) (w ／) (n 工业)) (ude 的))
+                      (NP (n 权利)))))))
+            (wd ，)
+            (VP
+              (ADVP (c 而))
+              (VP
+                (v 让)
+                (NP-OBJ (DNP (ADJP (a 偏远)) (ude 的)) (NP (n 辖区)))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 提供) (NP-OBJ (n 住房)))))))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (LCP (IP (VP (d 倒) (v 过))) (u 来说))
+  (wd ，)
+  (NP-SBJ (DNP (NP (n 水晶) (n 城)) (ude 的)) (NP (n 员工)))
+  (VP
+    (VP (PP-LOC (p 在) (NP (r 那里))) (VP (v 购房)))
+    (VP (vyou 有) (NP-OBJ (DP-WH (r 什么)) (NP (n 好处)))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 现在))
+    (wd ，)
+    (NP-SBJ (QP (m 大多数)) (NP (n 岗位)))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 会)
+        (VP
+          (VP (ADVP (d 一)) (VP (v 干)))
+          (VP (QP-PRD (m 几十) (CLP (q 年))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 再))
+      (ADVP (d 也))
+      (VP
+        (v 没有)
+        (IP
+          (NP-SBJ (n 人))
+          (VP
+            (v 期望)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (n 终身))
+                (VP
+                  (v 服务)
+                  (PP (p 于) (NP (QP (m 一) (CLP (q 家))) (NP (n 公司))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (v 会)
+      (VP
+        (PP-PRP
+          (p 为了)
+          (NP (QP (m 一个)) (DNP (ADJP (b 特定)) (ude 的)) (NP (n 工作))))
+        (VP
+          (c 而)
+          (VP (v 购买) (NP-OBJ (QP (m 一) (CLP (q 处))) (NP (n 住房))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (r 我))
+      (VP (PP-LOC (p 在) (NP (n 水晶) (n 城))) (VP (v 买房)))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 会)
+    (VP
+      (IP (VP (vi 困) (FLR (PP (p 在)))))
+      (NP-OBJ (DP (r 那个)) (NP (n 地区)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ
+        (DNP (NP (r 我)) (ude 的))
+        (DP (f 下) (QP (m 一) (CLP (q 份))))
+        (NP (n 工作)))
+      (VP
+        (p 在)
+        (NP-OBJ
+          (NP-PN (nr 银泉))
+          (wn 、)
+          (NP-PN (nr 李斯堡))
+          (c 或)
+          (NP-PN (nrf 匡恩提科))))))
+  (wd ，)
+  (ADVP (r 那))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 会) (VP-WH (r 怎样)))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP-WH (v 是否))
+    (VP
+      (v 该)
+      (VP
+        (PP-TMP
+          (p 在)
+          (NP
+            (CP
+              (WHPP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-TMP (-NONE- *T*-1))
+                    (ADVP (r 每次))
+                    (VP (v 换) (NP-OBJ (n 工作)))))
+                (ude 的)))
+            (NP (n 时候))))
+        (VP (v 买卖) (NP-OBJ (DNP (NP (r 我)) (ude 的)) (NP (n 房屋)))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 在)
+      (LCP (QP (NP (t 过去)) (QP (m １４) (CLP (q 年)))) (f 间)))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (VP
+        (v 换)
+        (y 了)
+        (NP-OBJ
+          (QP (m 六) (CLP (q 份)))
+          (wkz （)
+          (NP (ADJP (a 高)) (NP (n 科技)))
+          (wky ）)
+          (NP (vi 工作))))
+      (wd ，)
+      (VP
+        (ADVP (d 却))
+        (ADVP (d 始终))
+        (ADVP (d 都))
+        (VP
+          (IP (VP (vi 住) (p 在)))
+          (NP-OBJ (DP (v 同) (QP (m 一) (CLP (q 处)))) (NP (n 住房)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (NP (ADJP (a 好)) (NP (n 工作)))
+          (c 和)
+          (NP (DNP (ADJP (a 好)) (ude 的)) (NP (n 职业) (n 变动)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (r 我))
+      (VP
+        (PP-ADV
+          (v 像)
+          (IP
+            (NP-SBJ (n 科技) (n 领域))
+            (VP
+              (v 要求)
+              (NP-OBJ (r 你))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 换) (NP-OBJ (n 工作)))))))
+        (ADVP (uyy 一样))
+        (VP (v 换) (NP-OBJ (n 住房))))))
+  (wd ，)
+  (NP-SBJ (DNP (NP (r 我)) (ude 的)) (NP (n 一生)))
+  (VP
+    (ADVP (d 将))
+    (PP-LOC (p 在) (LCP (NP (vi 打包) (c 和) (VCD (v 拆) (n 包))) (f 中)))
+    (VP (v 度过)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (r 你))
+                (VP (PP-LOC (-NONE- *T*-1)) (VP (vi 工作))))
+              (ude 的)))
+          (NP (n 地方))))
+      (VP (v 居住))))
+  (VP
+    (v 属于)
+    (NP-OBJ
+      (DP (r 那种))
+      (wyz “)
+      (DNP
+        (QP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (IP (NP-TPC (-NONE- *T*-2)) (NP-SBJ (n 想法)) (VP (a 不错))))
+          (wd ，)
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (IP
+              (NP-SBJ (-NONE- *T*-3))
+              (VP (ADVP (c 但)) (ADVP (d 不)) (VP (a 现实)))))
+          (wyy ”)
+          (QP (m 一) (CLP (q 类))))
+        (ude 的))
+      (NP (n 事情))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP (vi 匿名))
+    (wd ，)
+    (NP-SBJ (DNP (NP (r 你)) (ude 的)) (NP (n 看法)))
+    (VP (vyou 有) (NP-OBJ (n 道理))))
+  (wj 。)
+  (IP (NP-SBJ (n 人们)) (VP (ADVP (d 经常)) (VP (v 换) (NP-OBJ (n 工作)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 没有)
+    (IP
+      (NP-SBJ (n 人))
+      (VP
+        (v 能)
+        (VP
+          (PP-TMP
+            (p 在)
+            (LCP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (ADVP (r 每次))
+                  (VP (v 获得) (NP-OBJ (ADJP (a 新)) (NP (n 工作))))))
+              (n 时)))
+          (VP
+            (VRD (v 搬) (v 到))
+            (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 住房))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 那))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP-APP
+        (IP
+          (NP-SBJ (n 人们))
+          (VP
+            (ADVP (r 为什么))
+            (VP
+              (VP (v 花) (NP-OBJ (n 大钱)))
+              (VP (IP (VP (vi 住) (p 在))) (NP-OBJ (n 中心) (n 地点))))))
+        (ude 的))
+      (NP (n 原因))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (v 让)
+    (NP-OBJ (r 他们))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 靠近)
+        (NP-OBJ (QP (ADVP (d 更)) (QP (a 多))) (NP (n 就业) (n 地点))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN (nrf 拉里))
+  (wd ，)
+  (NP-SBJ (r 这))
+  (VP (vshi 是) (NP-PRD (DNP (NP (r 我) (n 个人)) (ude 的)) (NP (n 看法))))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (s 当地) (n 政府))
+      (VP
+        (VP (v 没有) (NP-OBJ (n 权利)))
+        (VP
+          (PP-MNR (p 通过) (NP (n 分区)))
+          (VP (v 来) (VP (v 限制) (NP-OBJ (n 住房) (n 开发))))))))
+  (wd ，)
+  (NP-SBJ (n 自由市场))
+  (VP
+    (v 会)
+    (VP
+      (v 提供)
+      (NP-OBJ
+        (QP (m 一个))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (PP-ADV
+                  (p 比)
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (r 我们))
+                          (VP (v 现有) (NP-OBJ (-NONE- *T*-1))))
+                        (ude 的)))))
+                (VP (v 要) (VP (a 好) (VP-EXT (m 很多))))))
+            (ude 的)))
+        (DNP
+          (NP (n 住房) (w ／) (n 工作) (w ／) (n 零售) (w ／) (a 康乐) (n 设施))
+          (ude 的))
+        (NP (an 均衡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 答案))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (v 管制))
+      (VP
+        (VP (v 要) (VP (v 减少)))
+        (wd ，)
+        (VP (ADVP (c 而)) (ADVP (d 不)) (VP (vshi 是) (VP (v 增多)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN (nrf 吉姆))
+    (wm ：)
+    (NP-SBJ (r 我))
+    (VP (ADVP (d 也)) (VP (v 相信) (NP-OBJ (n 自由市场)))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 同时))
+      (ADVP (d 也))
+      (VP
+        (v 认为)
+        (IP-OBJ
+          (NP-SBJ (n 自由市场))
+          (VP
+            (VP
+              (ADVP (c 不仅))
+              (VP
+                (d 没有)
+                (NP-OBJ
+                  (DNP (ADJP (ADVP (v 过于)) (ADJP (an 累赘))) (ude 的))
+                  (NP (n 管制)))))
+            (wd ，)
+            (VP
+              (ADVP (d 也))
+              (ADVP (d 同样))
+              (VP (v 没有) (NP-OBJ (n 经济) (n 补贴)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (IP-SBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 让)
+            (NP-OBJ (n 人们))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VP
+                  (DVP (VP (vl 随心所欲)) (ude 地))
+                  (VP
+                    (v 开发)
+                    (NP-OBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 房产)))))
+                (wd ，)
+                (VP
+                  (ADVP (c 而))
+                  (ADVP (d 不))
+                  (VP
+                    (v 考虑)
+                    (NP-OBJ
+                      (DNP
+                        (PP
+                          (p 对)
+                          (NP
+                            (ADJP (n 现有))
+                            (NP (n 居民) (c 和) (n 商) (n 企业))))
+                        (ude 的))
+                      (NP (n 影响)))))))))
+        (VP (ADVP (d 就)) (VP (vshi 是) (NP-PRD (n 自由市场)))))))
+  (wd ，)
+  (IP-Q
+    (NP-SBJ (r 这))
+    (VP (vshi 是) (NP-PRD (DP-WH (r 什么)) (NP (n 观点)))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (v 没有)
+      (IP
+        (NP-SBJ (n 人))
+        (VP
+          (v 会)
+          (VP
+            (ADVP (v 可能))
+            (VP
+              (v 支持)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 废止) (NP-OBJ (DP (r 一切)) (NP (n 分区) (k 制)))))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 休斯敦))
+    (VP (ADVP (d 就)) (ADVP (ad 基本)) (VP (r 如此))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (v 能)
+      (VP
+        (v 接受)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-LOC (p 在) (NP (n 住宅区) (n 中央)))
+            (VP
+              (v 允许)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 修建) (w ＋) (NP-OBJ (n 铸造厂))))))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP-PN (nz 杜勒斯) (n 机场)) (ude 的))
+            (NP (n 飞行) (n 航线)))
+          (f 上)))
+      (VP
+        (v 建造)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 幢)))
+          (DNP (QP (m ３０) (CLP (q 层))) (ude 的))
+          (NP (n 楼房))))))
+  (VP-WH (r 怎么样))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-TPC (r 我们))
+  (NP-SBJ (QP (ADVP (d 很)) (QP (a 少))) (NP (n 人)))
+  (VP (v 会) (VP (ADVP (v 可能)) (VP (v 支持) (NP-OBJ (r 它)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (NP (NP-PN (ns 弗吉尼亚)) (DP (r 各)) (NP (n 地区))))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (v 存在)
+    (NP-OBJ
+      (DNP (ADJP (a 严重)) (ude 的))
+      (NP (ADJP (b 公共)) (ADJP (n 基础)) (NP (n 设施)))
+      (NP (n 问题))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 没)
+    (IP
+      (NP-SBJ (QP (m 几) (CLP (q 个))) (NP (n 人)))
+      (VP (v 会) (VP (v 反驳) (DP-OBJ (r 这) (QP (m 一) (CLP (q 点))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 我们))
+          (VP (usuo 所) (VP (v 争论) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-PRD
+      (IP
+        (NP-WH-SBJ (r 谁))
+        (VP
+          (VP
+            (v 负责)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-BNF
+                  (p 对)
+                  (NP
+                    (DNP (ADJP (a 必要)) (ude 的))
+                    (ADJP (n 基础))
+                    (NP (n 设施))))
+                (VP (vi 出资)))))
+          (wf ；)
+          (VP (vi 出资) (QP-EXT (r 多少)))))
+      (wf ；)
+      (c 以及)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-MNR
+            (p 在)
+            (LCP
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (v 缺乏)
+                      (NP-OBJ
+                        (ADJP (a 充足))
+                        (ADJP (b 公共))
+                        (NP (n 设施)))))
+                  (ude 的))
+                (NP (n 情况)))
+              (f 下)))
+          (VP
+            (ADVP (v 是否))
+            (VP
+              (v 应该)
+              (VP
+                (v 允许)
+                (NP-OBJ (n 人们))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 进行) (NP-OBJ (n 建造)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 明理))) (ude 的)))
+      (NP (n 人们)))
+    (DNP (PP (p 对) (NP (DP (r 这些)) (NP (n 问题)))) (ude 的))
+    (NP (n 回答)))
+  (VP (v 可以) (VP (ADVP (d 不)) (VP (a 相同))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (ADVP (d 早晚))
+    (VP
+      (d 必须)
+      (VP
+        (v 回答)
+        (NP-OBJ
+          (QP (m 一个))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (ad 基本)) (VP (a 公平))))
+              (ude 的)))
+          (NP (n 问题))))))
+  (wm ：)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (n 社会))
+  (VP
+    (VP
+      (v 应该)
+      (VP
+        (v 能够)
+        (VP
+          (PP-DIR (p 对) (NP (ADJP (n 现有)) (NP (n 居民) (w ／) (n 企业))))
+          (VP
+            (v 征收)
+            (NP-OBJ (QP-WH (r 多少)) (NP (wyz “) (n 成本) (wyy ”)))))))
+    (wd ，)
+    (VP
+      (v 使)
+      (NP-OBJ (r 其他人))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 能够)
+          (VP
+            (DVP (VP (vl 随心所欲)) (ude 地))
+            (VP
+              (v 使用)
+              (NP-OBJ
+                (DNP (NP (r 他) (c 或) (r 她)) (ude 的))
+                (NP (n 房产)))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 既然))
+    (IP
+      (NP-SBJ (r 我们))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 允许)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-LOC (p 在) (LCP (NP (n 住宅区)) (f 中)))
+              (VP (v 修建) (w ＋) (NP-OBJ (n 铸造厂)))))))))
+  (wd ，)
+  (NP-SBJ (NP (r 我们)) (DP (b 所有)) (NP (n 人)))
+  (VP
+    (ADVP (d 实际上))
+    (ADVP (d 就))
+    (ADVP (d 都))
+    (VP
+      (v 同意)
+      (wd ，)
+      (CP-OBJ
+        (IP
+          (IP-SBJ
+            (NP-SBJ (r 我们))
+            (VP
+              (v 愿意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-DIR (p 对) (NP (ADJP (n 现有)) (NP (n 居民))))
+                  (VP (v 征收) (NP-OBJ (QP-WH (r 多少)) (NP (n 费用))))))))
+          (VP (vshi 是) (VP (vyou 有) (NP-OBJ (n 限制)))))
+        (ude 的))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 换句话说))
+  (wd ，)
+  (NP-SBJ (QP (m 一个)) (NP (n 人)))
+  (VP
+    (VP (v 没有) (NP-OBJ (DNP (ADJP (a 绝对)) (ude 的)) (NP (n 权利))))
+    (VP
+      (v 来)
+      (VP
+        (DVP (VP (vl 随心所欲)) (ude 地))
+        (VP
+          (v 使用)
+          (NP-OBJ (DNP (NP (r 他) (w ／) (r 她)) (ude 的)) (NP (n 房产)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 我们))
+          (VP
+            (ADVP (v 可能))
+            (VP (v 要) (VP (v 问) (NP-OBJ (-NONE- *T*-1))))))
+        (ude 的)))
+    (QP (m 一个))
+    (NP (n 问题)))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-Q-PRD
+      (NP-WH-SBJ (r 谁))
+      (VP (v 产生) (y 了) (NP-OBJ (DP (r 这些)) (NP (n 成本))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 人们))
+  (VP
+    (ADVP (v 可能))
+    (ADVP (d 还))
+    (VP
+      (v 会)
+      (VP
+        (v 问)
+        (wm ：)
+        (IP-OBJ-Q
+          (PP-MNR
+            (p 在)
+            (LCP (NP (DP-WH (r 哪) (CLP (q 种))) (NP (n 程度))) (f 上)))
+          (IP-SBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (p 将)
+              (IP-OBJ
+                (NP-SBJ (DP (b 所有)) (NP (n 成本)))
+                (VP
+                  (VRD (v 施加) (v 到))
+                  (NP-OBJ (NP (ADJP (a 新)) (NP (n 来者))) (s 身上))))))
+          (VP
+            (v 会)
+            (VP
+              (v 变)
+              (ude 得)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (d 不)) (VP (a 公平))))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (ADVP (d 很)) (QP (a 少))) (NP (n 人)))
+  (VP
+    (ADVP (v 可能))
+    (VP
+      (v 会)
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (PP-PRP
+            (c 由于)
+            (IP
+              (NP-SBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 修建) (NP-OBJ (ADJP (n 基础)) (NP (n 设施)))))
+                  (ude 的))
+                (ADJP (n 预见性))
+                (NP (n 费用)))
+              (VP (ADVP (d 很)) (VP (a 高)))))
+          (wd ，)
+          (NP-SBJ (r 我们))
+          (VP
+            (PP-TMP
+              (p 在)
+              (LCP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (ADVP (v 没有))
+                    (ADVP (d 事先))
+                    (VP
+                      (v 支付)
+                      (NP-OBJ
+                        (CP-APP
+                          (IP
+                            (NP-SBJ (-NONE- *PRO*))
+                            (VP
+                              (v 修建)
+                              (NP-OBJ (ADJP (n 基础)) (NP (n 设施)))))
+                          (ude 的))
+                        (ADJP (b 总))
+                        (NP (n 成本))))))
+                (n 时)))
+            (wd ，)
+            (ADVP (d 不))
+            (VP
+              (v 能)
+              (VP
+                (v 允许)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (PP-LOC (p 在) (NP-PN (ns 弗吉尼亚)))
+                    (VP (v 进行) (NP-OBJ (DP (r 任何)) (NP (n 建造)))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (r 那))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 会) (VP (ADVP (d 不)) (VP (a 公平))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (ADVP (c 与此同时))
+    (wd ，)
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP (DP (b 所有)) (ude 的))
+            (NP (ADJP (n 基础)) (NP (n 设施)))
+            (NP (n 成本)))
+          (VP (VRD (v 施加) (v 到)) (NP-OBJ (n 纳税人) (s 身上))))))
+    (VP
+      (ADVP (v 是否))
+      (ADVP (d 也))
+      (ADVP (d 同样))
+      (ADVP (d 不))
+      (VP (a 公平))))
+  (ww ？)
+  (w －－)
+  (IP
+    (ADVP (d 尤其))
+    (NP-SBJ
+      (DNP (PP (p 在) (NP-PN (ns 弗吉尼亚))) (ude 的))
+      (NP (n 税制) (n 结构)))
+    (VP
+      (vshi 是)
+      (LCP-PRD
+        (NP
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP
+                  (PP-DIR (p 从) (NP (NP (f 北)) (NP (ns 弗州))))
+                  (VP (v 拿走) (VP (ADVP (d 很)) (VP (a 多)))))
+                (wd ，)
+                (VP
+                  (ADVP (d 却))
+                  (ADVP (ADVP (d 很)) (ADVP (a 少)))
+                  (VP (vyou 有) (NP-OBJ (n 回馈))))))
+            (ude 的))
+          (NP (n 情况)))
+        (f 下))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 人们))
+  (VP
+    (ADVP (d 或许))
+    (VP
+      (v 能)
+      (VP
+        (DVP (IP (NP (n 理由)) (VP (a 充足))) (ude 地))
+        (VP
+          (v 说)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (r 我们))
+            (VP
+              (v 可以)
+              (VP
+                (PP-MNR
+                  (p 通过)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (PP-LOC (p 在) (VP (f 北) (NP (ns 弗州))))
+                      (VP
+                        (v 进行)
+                        (IP-OBJ
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP (DVP (VP (a 密集)) (ude 地)) (VP (v 建造))))))))
+                (VP (v 来) (VP (v 节约) (NP-OBJ (n 交通) (n 成本)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (ADVP (c 不过))
+  (wd ，)
+  (ADVP (c 那么))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 施加)
+            (PP
+              (p 在)
+              (NP (NP (NP (f 北)) (NP (ns 弗州))) (NP (n 居民) (s 身上))))))
+        (ude 的)))
+    (DP (r 其他))
+    (NP (ADJP (n 基础)) (NP (n 设施)))
+    (NP (n 成本)))
+  (VP (ADVP (d 又)) (VP-WH (r 怎样)))
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (r 我们))
+  (VP (v 能) (VP (ADVP (d 从中)) (VP (v 获得) (NP-WH-OBJ (r 什么)))))
+  (ww ？)))
+</S>
+<S>
+( (IP-IMP
+  (PP-TPC (p 有关) (NP (ADJP (b 密集型)) (NP (n 住房))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 参见)
+    (NP-OBJ
+      (NP (NP (t 今天)) (PRN (wkz （) (m ６) (w ／) (m １８) (wky ）)))
+      (DNP
+        (LCP (NP-PN (wkz 《)) (ns 华盛顿) (n 邮报) (wky 》) (f 上))
+        (ude 的))
+      (NP (n 文章))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (v 提出)
+      (y 了)
+      (NP-OBJ
+        (QP (m 一些))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (al 有意思))) (ude 的)))
+        (NP (n 见解) (c 和) (n 观察)))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 包括) (NP-OBJ (f 下面))))
+  (wm ：)
+  (wyz “)
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (DNP (NP-PN (nrf 费尔法克斯)) (ude 的))
+        (NP (n 经济) (n 发展局))
+        (NP (n 局长)))
+      (nrf 杰拉尔德)
+      (w ·)
+      (q Ｌ)
+      (w ·)
+      (NP (n 戈登)))
+    (VP
+      (v 说)
+      (uguo 过)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (n 工作) (n 岗位))
+        (VP
+          (ADVP (d 将))
+          (VP (v 继续) (VP (PP-DIR (p 向) (NP (n 边缘))) (VP (v 迁徙))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (c 因为)
+      (IP
+        (NP-SBJ (DNP (NP (n 雇主)) (ude 的)) (ADJP (b 首要)) (NP (n 考虑)))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 靠近)
+              (NP-OBJ
+                (DNP (ADJP (vi 合格)) (ude 的))
+                (NP (n 劳动) (n 队伍)))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (n 居民))
+  (VP
+    (v 继续)
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 较)) (VP (a 偏远))))
+              (ude 的)))
+          (NP (n 社区))))
+      (VP
+        (v 寻找)
+        (NP-OBJ
+          (NP (DNP (ADJP (n 平价) (wn 、) (a 宽敞)) (ude 的)) (NP (n 住房)))
+          (c 和)
+          (NP (ADJP (a 好)) (NP (n 学校)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 希望)
+    (IP-OBJ
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (IP (VP (vi 住) (p 在))) (NP-PN-OBJ (ns 纽约市))))
+            (ude 的)))
+        (NP (n 人们)))
+      (VP (v 会) (VP (VRD (v 搬) (v 到)) (NP-OBJ (r 那里))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP-WH (r 为什么))
+      (VP
+        (v 要)
+        (VP
+          (v 讨论)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (d 将)
+              (IP-OBJ
+                (NP-SBJ (DNP (ADJP (a 稀缺)) (ude 的)) (NP (n 税款)))
+                (VP
+                  (v 花)
+                  (QP-OBJ (m 几十亿))
+                  (PP
+                    (p 在)
+                    (LCP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (v 延伸) (NP-OBJ (n 地铁))))
+                      (f 上)))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (r 它))
+    (VP
+      (ADVP (d 并))
+      (ADVP (d 不))
+      (VP (v 能) (VP (v 解决) (NP-OBJ (n 交通) (n 问题))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 顺便)) (VP (v 说) (QP-OBJ (m 一) (CLP (q 句))))))
+  (wd ，)
+  (IP-IMP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 查看)
+      (ADVP (m 一下))
+      (NP-OBJ
+        (NP (t 今天))
+        (LCP (NP-PN (wkz 《)) (n 邮报) (wky 》) (f 上))
+        (DP (r 另) (QP (m 一) (CLP (q 则))))
+        (DNP
+          (PP
+            (p 关于)
+            (IP
+              (NP-SBJ
+                (NP-APP (NP-PN (ns 费尔法克斯县)) (NP (n 监事)))
+                (NP-PN (nrf 杰拉尔德·海兰)))
+              (VP
+                (v 参与)
+                (IP-OBJ
+                  (NP-SBJ (QP (m 一个)) (NP (n 开发商)))
+                  (VP
+                    (v 企图)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (v 获取)
+                        (NP-OBJ
+                          (ADJP (b 巨额))
+                          (NP (nl 自然资源) (n 保护) (n 税额))
+                          (NP (v 减免))))))))))
+          (ude 的))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (LCP-SBJ
+    (NP (n 商界))
+    (LCP (NP (NP (DP (r 各)) (NP (n 阶层))) (p 与) (n 监事) (k 们)) (f 之间)))
+  (VP (ADVP (d 还)) (VP (v 发生) (y 了) (NP-WH-OBJ (r 什么))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-PRD
+      (ADJP (n 有关))
+      (wm ：)
+      (NP-PN (wkz 《))
+      (ns 华盛顿)
+      (n 邮报)
+      (wky 》)
+      (NP (n 文章))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (vl 是的))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 同意)
+    (IP-OBJ
+      (NP-SBJ (r 它))
+      (VP
+        (DVP (VP (ADVP (d 非常)) (VP (a 精彩))) (ude 地))
+        (VP (v 讲述) (y 了) (NP-OBJ (DP (r 这些)) (NP (n 问题)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (VP (ADVP (d 还是)) (VP (VRD (v 弄) (v 懵)) (y 了)))
+    (w ……)
+    (VP (PP-ADV (p 跟) (NP (t 往常))) (VP (uyy 一样))))
+  (w ……)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (c 因为)
+      (IP
+        (NP-SBJ (DNP (NP (n 雇主)) (ude 的)) (ADJP (b 首要)) (NP (n 考虑)))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 靠近)
+              (NP-OBJ
+                (DNP (ADJP (vi 合格)) (ude 的))
+                (NP (n 劳动) (n 队伍)))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (n 居民))
+  (VP
+    (v 继续)
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 较)) (VP (a 偏远))))
+              (ude 的)))
+          (NP (n 社区))))
+      (VP
+        (v 寻找)
+        (NP-OBJ
+          (NP
+            (DNP (ADJP (n 平价)) (ude 的))
+            (wn 、)
+            (DNP (ADJP (a 宽敞)) (ude 的))
+            (NP (n 住房)))
+          (c 和)
+          (NP (ADJP (a 好)) (NP (n 学校)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP (v 觉得) (IP-OBJ (NP (r 这)) (VP (ADVP (d 相当)) (VP (v 奇怪)))))
+  (wd ，)
+  (PP-PRP
+    (c 因为)
+    (IP
+      (NP-SBJ
+        (DNP
+          (PP
+            (p 对)
+            (NP (wyz “) (NP (v 靠近)) (wyy ”) (DP (r 这个)) (NP (n 概念))))
+          (ude 的))
+        (NP (n 理解)))
+      (VP
+        (ADVP (ad 显然))
+        (VP
+          (v 会)
+          (VP
+            (PP-PRP
+              (p 因)
+              (IP
+                (NP-SBJ (r 你))
+                (VP (vshi 是) (NP-PRD (n 雇主) (c 还是) (n 员工)))))
+            (VP (c 而) (VP (vyou 有) (NP-OBJ (n 差异)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 雇主))
+    (VP
+      (v 希望)
+      (wyz “)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 靠近)
+          (NP-OBJ
+            (DNP (ADJP (wyy ”) (vi 合格)) (ude 的))
+            (NP (n 劳动) (n 队伍)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ
+      (NP (n 员工))
+      (PRN
+        (wkz （)
+        (IP-IMP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 注意)
+            (wd ，)
+            (IP-OBJ
+              (NP-SBJ (r 他们))
+              (VP (v 使用) (NP-OBJ (NP (n 居民)) (QP (m 一)) (NP (n 词)))))))
+        (wky ）)))
+    (VP
+      (v 继续)
+      (VP
+        (PP-LOC
+          (p 在)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 较)) (VP (a 偏远))))
+                (ude 的)))
+            (NP (n 社区))))
+        (VP (v 寻找) (w ……) (NP-OBJ (n 住房))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 除非))
+    (IP
+      (NP-SBJ (DNP (NP (r 我)) (ude 的)) (NP (n 理解)))
+      (VP (vyou 有) (NP-OBJ (n 问题)))))
+  (w ……)
+  (VRD (v 听) (v 上去))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP (n 雇主)) (ude 的))
+    (NP (wyz “) (v 靠近) (wyy ”))
+    (NP (n 概念)))
+  (VP
+    (PP-ADV
+      (p 与)
+      (NP
+        (NP (n 员工))
+        (DNP
+          (PP
+            (p 对)
+            (wyz “)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (NP-LOC
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 靠近)))
+                      (wyy ”)
+                      (ude 的)))
+                  (NP (n 地方)))
+                (VP (v 居住)))))
+          (ude 的))
+        (NP (n 概念))))
+    (VP (v 相差) (VP-EXT (ADVP (d 很)) (VP (a 大)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 此外))
+    (w ……)
+    (LCP-SBJ (NP (n 博客)) (f 中))
+    (VP (v 讨论) (y 了) (NP-OBJ (QP (m 一个)) (NP (n 观点)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (n 人们))
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 想)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-TMP
+                    (p 在)
+                    (LCP
+                      (IP
+                        (NP-SBJ (r 他们))
+                        (VP (ADVP (r 每次)) (VP (v 换) (NP-OBJ (n 工作)))))
+                      (n 时)))
+                  (VP (vi 搬家))))))))))
+  (wj 。)
+  (IP (NP-SBJ (DP (r 这)) (NP (n 观点))) (VP (a 不错)))
+  (wd ，)
+  (CP-Q
+    (IP
+      (ADVP (c 但是))
+      (wd ，)
+      (NP-SBJ (r 那))
+      (VP
+        (ADVP-WH (r 如何))
+        (VP
+          (v 解释)
+          (IP-OBJ
+            (NP-SBJ (n 人们))
+            (VP
+              (VP (VRD (v 搬) (v 到)) (NP-OBJ (s 郊外)))
+              (w ……)
+              (VP
+                (ADVP (c 然后))
+                (VP
+                  (v 调换)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP
+                            (v 需要)
+                            (NP-OBJ
+                              (ADJP (ADVP (d 更)) (ADJP (a 长)))
+                              (NP
+                                (IP (VP (v 通) (ADVP (a 勤))))
+                                (n 距离)))))
+                        (ude 的)))
+                    (NP (n 工作))))))))))
+    (y 呢))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (VP (VRD (v 搬) (v 到)) (NP-OBJ (s 郊外)))
+            (w ……)
+            (VP (v 居住))
+            (w ……)))
+        (ude 的)))
+    (NP (n 人们)))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (IP (VP (PP (r 自) (IP (VP (vi 困) (p 于))))))
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (d 不)) (ADVP (d 太)) (VP (a 自由))))))
+              (ude 的))
+            (NP (n 境地)))
+          (wd ，)
+          (VP
+            (PP-ADV
+              (v 如同)
+              (NP
+                (DP (r 那些))
+                (CP
+                  (WHNP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-3))
+                      (VP
+                        (v 尝试)
+                        (IP-OBJ
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP
+                            (VP (n 紧邻) (NP (n 工作) (ude 地)))
+                            (VP (v 居住))))))
+                    (ude 的)))
+                (NP (n 人们))))
+            (VP (a 一样)))))))
+  (wd ，)
+  (PP-PRP
+    (c 因为)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP
+          (p 在)
+          (LCP
+            (NP (DP (r 这) (QP (m 两) (CLP (q 种)))) (NP (n 情形)))
+            (f 中))))))
+  (w ……)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP (NP-SBJ (r 他们)) (VP (v 换) (NP-OBJ (n 工作)))))
+  (wd ，)
+  (NP-SBJ (r 他们))
+  (VP
+    (ADVP (d 都))
+    (ADVP (v 可能))
+    (VP
+      (v 会)
+      (VP
+        (v 使)
+        (NP-OBJ (r 自己))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (n 通勤)
+            (NP-EXT
+              (DNP (ADJP (ADVP (d 更)) (ADJP (a 长))) (ude 的))
+              (NP (n 路途))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (IP-SBJ
+      (NP-SBJ (n 雇主))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 靠近)
+            (NP-OBJ (DNP (ADJP (vi 合格)) (ude 的)) (NP (n 劳动) (n 队伍)))))))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 显得)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (d 很)) (VP (a 奇怪)))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (r 那))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 会)
+        (VP
+          (v 导致)
+          (IP-OBJ
+            (NP-SBJ (n 行程))
+            (VP
+              (VP (ADVP (d 更)) (VP (a 短)))
+              (wd ，)
+              (VP
+                (ADVP (c 而))
+                (ADVP (d 不))
+                (VP (vshi 是) (VP (ADVP (d 更)) (VP (a 长)))))))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 另) (QP (m 一个)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (al 有意思))) (ude 的)))
+    (NP (n 评论)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (NP-SBJ
+        (DNP
+          (LCP
+            (NP (NP (ADJP (n 综合性)) (NP (n 用途))) (NP (n 社区)))
+            (f 中))
+          (ude 的))
+        (QP (m 大多数))
+        (NP (n 居民)))
+      (VP
+        (ADVP (d 没有))
+        (PP-LOC (p 在) (NP (r 那里)))
+        (VP (v 找到) (NP-OBJ (n 工作))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (m 一些))
+      (DNP (NP (NP (ADJP (n 综合性)) (NP (n 用途))) (NP (n 社区))) (ude 的))
+      (NP (n 居民)))
+    (VP
+      (ADVP (ad 确实))
+      (ADVP (d 就地))
+      (VP
+        (v 找到)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (v 适合)
+                  (NP-OBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 技能)))))
+              (ude 的)))
+          (NP (n 工作))))))
+  (wd ，)
+  (IP
+    (PP-MNR (p 就) (LCP (DP (r 这) (QP (m 一) (CLP (q 点)))) (u 而言)))
+    (wd ，)
+    (NP-SBJ (r 那))
+    (VP (vshi 是) (NP-PRD (QP (CLP (q 件))) (NP (n 好事)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它))
+    (VP (v 会) (VP (ADVP (d 稍微)) (VP (v 减少) (NP-OBJ (n 旅程))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 能)
+        (VP
+          (p 将)
+          (IP-OBJ (NP-SBJ (r 它)) (VP (v 当作) (NP-OBJ (nl 灵丹妙药))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (PP-ADV
+        (p 与)
+        (NP
+          (IP-APP
+            (NP-SBJ (r 我们))
+            (VP
+              (v 需要)
+              (NP-OBJ (QP (ADVP (d 更)) (QP (a 多))) (NP (n 地方)))))
+          (DP (r 这个))
+          (NP (n 理念))))
+      (ADVP (d 也))
+      (ADVP (d 不))
+      (VP (vi 冲突))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (wyz “) (ADJP (n 综合性)) (NP (n 用途)) (wyy ”))
+    (c 和)
+    (NP (wyz “) (QP (ADVP (d 更)) (QP (a 多))) (NP (n 地方)) (wyy ”)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 可以) (VP (VCD (vi 兼容) (vi 并存)))))
+          (ude 的)))
+      (NP (n 理念))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 文章))
+  (VP
+    (v 应该)
+    (VP
+      (vi 平息)
+      (NP-OBJ
+        (NP (NP-PN (nrf 埃德·里瑟)) (c 和) (NP (r 我)))
+        (DNP (PP (p 就) (NP (NP (n 岗位) (n 增长)) (NP (n 方面)))) (ude 的))
+        (NP (n 争论)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (r 他)) (DNP (NP (t 此前)) (ude 的)) (NP (n 说法)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (IP
+        (NP-SBJ
+          (LCP (NP (nx ＰＷ)) (f 中))
+          (NP (n 岗位) (v 增长))
+          (w ＋)
+          (NP (n 百分比)))
+        (VP (ADVP (d 很)) (VP (a 高))))
+      (wd ，)
+      (IP
+        (ADVP (c 但))
+        (NP-SBJ (ADJP (a 绝对)) (NP (n 数量)))
+        (VP (ADVP (d 很)) (VP (a 小))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 如今))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (v 看到)
+    (IP-OBJ
+      (NP-SBJ (ADJP (a 绝对)) (NP (n 数量)))
+      (VP (ADVP (d 也)) (ADVP (d 较)) (VP (a 高)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (r 我们))
+      (VP
+        (v 选择)
+        (IP-OBJ
+          (NP (-NONE- *PRO*))
+          (VP
+            (v 制定)
+            (NP-OBJ
+              (QP (m 一个))
+              (DNP (ADJP (a 成功)) (ude 的))
+              (NP (n 交通) (n 规划))))))))
+  (wd ，)
+  (ADVP (c 那么))
+  (NP-SBJ (r 我们))
+  (VP
+    (v 应该)
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ (DP (r 这个)) (NP (n 规划)))
+        (VP
+          (VP
+            (VRD (v 设计) (v 成))
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 符合)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (n 形势) (n 发展))
+                        (VP (v 导致) (NP-OBJ (-NONE- *T*-1))))
+                      (ude 的)))
+                  (NP (n 需求))))))
+          (wd ，)
+          (VP
+            (ADVP (c 而))
+            (ADVP (d 不))
+            (VP
+              (vshi 是)
+              (VP
+                (v 符合)
+                (NP-OBJ
+                  (CP-APP
+                    (IP
+                      (NP-SBJ (r 我们))
+                      (VP
+                        (v 希望)
+                        (IP-OBJ
+                          (NP-SBJ (n 形势))
+                          (VP (ADVP (r 如何)) (VP (v 发展))))))
+                    (ude 的))
+                  (NP (n 需求))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (t 今天)) (ude 的)) (NP (n 文章)))
+    (VP
+      (v 说明)
+      (y 了)
+      (IP-OBJ
+        (NP-SBJ (r 那))
+        (VP (vyou 有) (VP (ADVP (d 多)) (VP (a 困难)))))))
+  (wd ，)
+  (IP-Q
+    (ADVP (c 因此))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP-WH (r 为什么))
+      (VP
+        (v 要)
+        (VP
+          (v 选择)
+          (NP-OBJ
+            (QP (m 一个))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (v 注定)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (v 要) (VP (vi 失败))))))
+                (ude 的)))
+            (NP (n 规划))))))
+    (y 呢))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 地铁))
+    (VP (ADVP (d 不)) (VP (v 会) (VP (v 缓解) (NP-OBJ (v 拥堵))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP (QP (NP (t 过去)) (QP (m 三十) (CLP (q 年)))) (f 间)))
+      (ADVP (d 都))
+      (ADVP (d 没有))
+      (VP (v 做到) (NP-OBJ (DP (r 这) (QP (m 一) (CLP (q 点))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 它))
+          (VP
+            (ADVP (ad 确实))
+            (VP (v 能) (VP (v 做) (NP-OBJ (-NONE- *T*-1))))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 允许)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-3))
+                (VP
+                  (PP-ADV
+                    (p 比)
+                    (NP
+                      (CP
+                        (WHNP-2 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (n 高速公路))
+                            (VP
+                              (v 能)
+                              (w ＋)
+                              (VP (v 容纳) (NP-OBJ (-NONE- *T*-2)))))
+                          (ude 的)))))
+                  (ADVP (d 更))
+                  (VP (a 多))))
+              (ude 的)))
+          (NP (n 人)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 去) (NP-OBJ (DP (r 某些)) (NP (n 地方))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 可能))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 仍))
+      (VP
+        (VP
+          (vyou 有)
+          (NP-OBJ (DNP (ADJP (a 充足)) (ude 的)) (NP (n 理由))))
+        (VP
+          (d 将)
+          (IP-OBJ
+            (NP-SBJ (DNP (ADJP (a 稀缺)) (ude 的)) (NP (n 美元)))
+            (VP
+              (v 花)
+              (QP-EXT (m 几十亿))
+              (PP (p 在) (LCP (NP (n 地铁)) (f 上)))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 缓解) (NP-OBJ (n 交通) (n 拥堵))))
+    (VP (ADVP (d 不)) (VP (vshi 是) (NP-PRD (r 其中) (r 之一)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (v 应该)
+      (VP
+        (PP-MNR
+          (p 根据)
+          (IP
+            (IP
+              (NP-SBJ (r 它))
+              (VP (v 发挥) (NP-OBJ (DP-WH (r 什么)) (NP (n 作用)))))
+            (c 以及)
+            (IP (NP-WH-SBJ (r 谁)) (VP (vi 受益)))))
+        (VP (v 来) (VP (v 评估) (NP-OBJ (n 开支)))))))
+  (wd ，)
+  (IP
+    (CP-CND
+      (ADVP (c 如果))
+      (CP
+        (IP
+          (NP-SBJ (n 开支))
+          (VP (ADVP (d 仍)) (VP (vshi 是) (VP (a 合理)))))
+        (FRAG (ude 的) (NP (n 话)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 可)
+      (VP (DVP (VP (vi 相应)) (ude 地)) (VP (v 分配) (NP-OBJ (n 成本))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (a 显然))
+  (wd ，)
+  (NP-SBJ (r 那))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (v 包括)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 让)
+          (NP-OBJ (n 收费) (n 公路) (n 使用者))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-BNF
+                (v 为)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 造) (NP-OBJ (n 地铁)))))
+              (VP (c 而) (VP (v 付钱)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 使)
+      (NP-OBJ (QP (m ７) (CLP (q 号))) (NP (n 公路)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 变为) (NP-OBJ (QP (m 十六)) (NP (n 车道)))))))
+  (VP
+    (ADVP (v 可能))
+    (PP-ADV (p 与) (NP (DNP (NP (n 地铁)) (ude 的)) (NP (n 主意))))
+    (ADVP (uyy 一样))
+    (VP (a 糟糕)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 那))
+    (VP
+      (d 只不过)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DP (r 另) (QP (m 一个)))
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (p 将)
+                (IP-OBJ
+                  (NP-SBJ (DP (b 所有)) (NP (n 人)))
+                  (VP
+                    (VRD (v 带) (v 到))
+                    (NP-OBJ (DP (b 同一个)) (NP (n 地方)))))))
+            (ude 的))
+          (NP (n 计划))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP (v 知道) (IP-OBJ (NP-SBJ (r 它)) (VP (v 会) (VP (vi 失败))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (d 区别))
+  (VP
+    (v 在于)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ
+        (DP (r 那些))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (v 使用) (NP-OBJ (DP (r 那) (CLP (q 条))) (NP (n 公路)))))
+            (ude 的)))
+        (NP (n 人)))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (ADVP (r 各自))
+                    (VP (v 控制) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (n 气氛) (wn 、) (n 音乐) (c 和) (n 座位)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND (ADVP (c 如果)) (IP (NP-SBJ (r 他们)) (VP (v 愿意))))
+  (wd ，)
+  (NP-SBJ (r 他们))
+  (VP (v 可以) (VP (VP (v 吃) (NP-OBJ (n 东西))) (c 或) (VP (vi 抽烟))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除了)
+    (NP (DNP (NP-PN (nrf 杰拉尔德·戈登)) (ude 的)) (NP (n 评论))))
+  (wd ，)
+  (NP-SBJ (r 你))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 看到)
+      (IP-OBJ
+        (NP-PN-SBJ (nrf 杰伊·菲萨特))
+        (VP
+          (v 说)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (r 我们))
+            (VP
+              (ADVP (d 还))
+              (ADVP (d 没有))
+              (VP
+                (p 将)
+                (IP-OBJ
+                  (NP-SBJ (NP (n 土地) (n 用途)) (c 与) (NP (n 交通)))
+                  (VP (ADVP (ad 完全)) (VP (VRD (v 结合) (v 起来))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 会)
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (QP (m 大多数)) (NP (n 人)))
+          (VP
+            (ADVP (d 已经))
+            (VP
+              (p 将)
+              (IP-OBJ (NP-SBJ (r 它们)) (VP (VRD (v 联系) (v 起来)))))))
+        (wd ，)
+        (CP
+          (IP
+            (ADVP (c 而))
+            (NP-SBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-PN-SBJ (nz 杰伊))
+                    (VP (v 提议) (NP-OBJ (-NONE- *T*-1))))))
+              (ude 的)
+              (DP (r 那个))
+              (NP (n 联系)))
+            (VP (vshi 是) (VP (a 错误))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (r 此事)) (f 里)))
+  (wd ，)
+  (NP-SBJ (r 他))
+  (VP
+    (VP
+      (v 提出)
+      (y 了)
+      (NP-OBJ
+        (QP (m 一个))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (ADVP (ad 完全)) (VP (v 没有) (NP-OBJ (n 根据)))))
+            (ude 的)))
+        (wn 、)
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-3))
+              (VP (ADVP (a 明显)) (VP (a 错误))))
+            (ude 的)))
+        (NP (n 说法))))
+    (wd ，)
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (LCP-SBJ (NP (n 文章)) (f 中))
+                (VP (v 引用) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (DP (r 那些))
+          (NP (n 情况)))
+        (VP
+          (v 会)
+          (VP
+            (v 使)
+            (NP-OBJ (DP (r 每个)) (NP (n 人)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (ADVP (d 更)) (VP (v 遭罪)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (r 他))
+      (VP
+        (v 要)
+        (VP
+          (v 表达)
+          (NP-OBJ
+            (NP (QP (ADVP (r 这样)) (QP (m 一个))) (NP (n 观点)))
+            (wd ，)
+            (PRN
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (ADVP (d 就))
+                  (VP
+                    (vshi 是)
+                    (IP-PRD
+                      (NP-SBJ
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-1))
+                              (VP (ADVP (d 不)) (VP (a 恰当))))
+                            (ude 的)))
+                        (NP (n 人)))
+                      (VP
+                        (PP-LOC
+                          (p 在)
+                          (NP
+                            (CP
+                              (WHNP-2 (-NONE- *OP*))
+                              (CP
+                                (IP
+                                  (NP-SBJ (-NONE- *T*-2))
+                                  (VP (ADVP (d 不)) (VP (a 恰当))))
+                                (ude 的)))
+                            (NP (n 地方))))
+                        (VP (v 赚钱)))))))))))))
+  (wd ，)
+  (NP-SBJ (r 那))
+  (VP (vshi 是) (NP-PRD (DP (r 另) (QP (m 一) (CLP (q 回)))) (NP (n 事))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (ADVP (c 但是))
+      (wd ，)
+      (NP-SBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 声称)
+              (IP-OBJ
+                (NP-SBJ (DP (r 每个)) (NP (n 人)))
+                (VP (ADVP (d 更)) (VP (v 遭罪))))))
+          (ude 的))
+        (NP (n 说法)))
+      (VP (vshi 是) (VP (ADVP (d 极端)) (ADVP (d 不)) (VP (a 实)))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (DVP (VP (vi 相应)) (ude 地))
+      (VP
+        (v 削减)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (NP (r 他)) (DP (r 其他)) (NP (n 观点))) (ude 的))
+          (NP (n 说服力))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (PP-TPC (p 至于) (NP (nl 自然资源) (n 保护地) (n 役权)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 别))
+    (VP
+      (v 让)
+      (NP-OBJ (r 我))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 打开) (NP-OBJ (n 话匣子))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (PP-TMP
+      (p 当)
+      (LCP
+        (IP
+          (NP-SBJ (n 人们))
+          (VP
+            (VP (vi 成立) (NP-OBJ (QP (m 几百) (CLP (q 个))) (NP (n 组织))))
+            (VP
+              (v 来)
+              (VP
+                (v 接受)
+                (NP-OBJ
+                  (DNP (NP (QP (vl 成千上万)) (NP (n 人))) (ude 的))
+                  (NP (n 礼物)))))))
+        (n 时)))
+    (wd ，)
+    (NP-SBJ
+      (DNP (PP (p 像) (NP (NP-PN (ns 海兰)) (NP (r 之类)))) (ude 的))
+      (NP (n 事情)))
+    (VP (vshi 是) (VP (vl 在所难免))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 那))
+  (VP
+    (v 意味着)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 他们))
+      (VP
+        (v 需要)
+        (VP
+          (VP
+            (PP-DIR
+              (p 对)
+              (IP
+                (NP (DP (r 哪些)) (NP (n 土地)))
+                (VP (ADVP (d 最)) (VP (v 值得) (NP (v 保护))))))
+            (VP (v 进行) (NP-OBJ (d 先后) (vi 排序))))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (VP
+              (v 放弃)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (VP (ADVP (d 不)) (VP (vi 花钱)))
+                      (VP
+                        (ADVP (d 就))
+                        (VP
+                          (v 保护)
+                          (NP-OBJ
+                            (DNP (QP (m ９５％)) (ude 的))
+                            (NP (n 土地))))))))
+                (DP (r 这个))
+                (NP (n 想法)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 或者))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (v 可以)
+    (VP
+      (VP (VRD (v 想) (v 出)) (NP-OBJ (QP (m 一些)) (NP (n 方法))))
+      (wd ，)
+      (VP
+        (PP-BNF
+          (p 向)
+          (NP
+            (DP (r 那些))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (ADVP (d 已经))
+                    (ADVP (p 在))
+                    (VP (v 保护) (NP-OBJ (n 土地)))))
+                (ude 的)))
+            (NP (n 人们))))
+        (VP (v 提供) (NP-OBJ (DNP (ADJP (n 持续性)) (ude 的)) (NP (n 收入)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 用) (NP (NP (nl 自然资源) (n 保护地) (n 役权)) (NP (n 形式))))
+  (NP-SBJ (DNP (ADJP (b 一次性)) (ude 的)) (QP (n 部分)) (NP (vi 付款)))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (v 可能)
+      (VP (DVP (ADVP (d 永久)) (ude 地)) (VP (v 保护) (NP-OBJ (n 土地))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-MNR
+    (ADVP (c 即使))
+    (PP
+      (v 当)
+      (IP
+        (NP-SBJ (n 土地))
+        (VP (vshi 是) (NP-PRD (DNP (ADJP (b 公有)) (ude 的)))))))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 不))
+    (VP
+      (v 能)
+      (VP
+        (v 指望)
+        (IP-OBJ (NP-SBJ (v 保护)) (VP (v 得以) (NP-OBJ (n 延续)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 马里兰州))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (v 提议)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 出售) (NP-OBJ (n 土地)))
+            (VP (v 来) (VP (v 筹集) (NP-OBJ (n 资金)))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 费尔法克斯))
+    (VP
+      (v 提出)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 支持) (NP-OBJ (ADJP (a 经济)) (ADJP (a 适用)) (NP (n 住房)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-TPC-1 (NP-PN (nrf 文特) (wp －) (nrf 希尔)) (NP (n 经济) (n 发展局)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 可以)
+      (VP
+        (v 说)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (NP-PN (nrf 福基尔))
+              (DNP (ADJP (ADVP (d 最)) (ADJP (a 大))) (ude 的))
+              (NP (n 开发者))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (CP-CND
+      (ADVP (c 如果))
+      (LCP
+        (IP
+          (NP-SBJ (n 公众))
+          (w ＋)
+          (VP
+            (ADVP (v 无法))
+            (VP
+              (v 负担)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 保持)
+                  (IP-OBJ
+                    (NP-SBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 土地)))
+                    (VP (ADVP (d 不)) (VP (v 受) (NP-OBJ (n 开发))))))))))
+        (n 时)))
+    (wd ，)
+    (NP-SBJ (n 私人))
+    (VP (vyou 有) (NP-OBJ (QP-WH (r 多少)) (NP (n 机会)))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (n 有关)
+      (wm ：)
+      (NP
+        (NP (NP (ADJP (n 基础)) (NP (n 设施))) (NP (n 成本)))
+        (c 以及)
+        (NP (ADJP (a 新)) (NP (n 来者))))))))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 在)
+    (LCP
+      (NP
+        (CP-APP
+          (IP (NP-SBJ (DP (b 所有)) (NP (n 条件))) (VP (vi 相等)))
+          (ude 的))
+        (NP (n 情况)))
+      (f 下)))
+  (w ……)
+  (NP-SBJ
+    (DNP (NP (NP (f 北)) (NP (ns 弗州))) (ude 的))
+    (ADJP (a 新))
+    (NP (n 来者)))
+  (VP
+    (VP
+      (v 需要)
+      (NP-OBJ (ADJP (n 基础)) (NP (n 设施)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 支持) (NP-OBJ (r 他们)))))
+    (wd ，)
+    (VP
+      (PP-ADV
+        (p 与)
+        (IP
+          (NP-SBJ (DNP (NP (n 外郊)) (ude 的)) (ADJP (a 新)) (NP (n 来者)))
+          (VP
+            (v 需要)
+            (NP-OBJ
+              (DNP (ADJP (a 相似)) (ude 的))
+              (ADJP (n 基础))
+              (NP (n 设施))))))
+      (VP
+        (d 没)
+        (NP-OBJ
+          (ADJP (ADVP (d 多)) (ADJP (a 大)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 不同))) (ude 的)))
+          (NP (n 地方))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP (ADJP (a 新)) (NP (n 来者)))
+      (VP
+        (VP (d 没有) (NP-OBJ (DNP (ADJP (v 足够)) (ude 的)) (NP (n 钱))))
+        (VP
+          (PP-LOC
+            (p 在)
+            (NP (DNP (NP (r 他们)) (ude 的)) (ADJP (a 新)) (NP (n 家))))
+          (VP (v 设) (NP-OBJ (n 车库)))))))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 要)
+        (VP
+          (VP (v 拿) (NP-OBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 财产税))))
+          (VP
+            (v 去)
+            (VP (v 支付) (NP-OBJ (DP (r 那个)) (ADJP (a 新)) (NP (n 车库)))))))))
+  (wd ，)
+  (NP-SBJ (n 人们))
+  (VP (v 会) (VP (ADVP (d 极力)) (VP (v 反对))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (ADVP (c 不过))
+    (wd ，)
+    (CP-CND
+      (ADVP (c 如果))
+      (IP
+        (NP-SBJ (r 我们))
+        (VP
+          (v 讨论)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR
+                (v 拿)
+                (NP (DNP (NP (n 人们)) (ude 的)) (NP (n 钱))))
+              (VP
+                (VP
+                  (v 支付)
+                  (w ……)
+                  (NP-OBJ
+                    (ADVP (vl 比如说))
+                    (wd ，)
+                    (NP
+                      (NP
+                        (QP (m 一) (CLP (q 间)))
+                        (ADJP (a 新))
+                        (NP (n 教室)))
+                      (wn 、)
+                      (c 或者)
+                      (NP
+                        (QP (m 一) (CLP (q 家)))
+                        (ADJP (a 新))
+                        (NP (n 图书馆)))
+                      (wn 、)
+                      (c 或者)
+                      (NP (QP (m 一个)) (NP (n 消防站) (c 或) (n 红绿灯))))))
+                (wd ，)
+                (c 或者)
+                (VP (v 拓宽) (NP-OBJ (n 道路)))))))))
+    (wd ，)
+    (NP-TPC (n 人们))
+    (ADVP (d 似乎))
+    (NP-SBJ (DNP (PP (p 对) (NP (r 此))) (ude 的)) (NP (n 观点)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 变)
+        (ude 得)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (d 不)) (ADVP (r 那么)) (VP (a 鲜明)))))))
+  (y 了)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (n 房产) (n 所有者))
+      (VP
+        (ADVP (d 通常))
+        (VP
+          (v 愿意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 付)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (r 他们))
+                      (VP (v 应付) (NP-OBJ (-NONE- *T*-1))))
+                    (ude 的)))
+                (ADJP (a 合理))
+                (NP (n 部分)))))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (IP (NP-SBJ (n 增长率)) (VP (ADVP (d 很)) (VP (a 高))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vyou 有)
+          (IP
+            (NP-SBJ
+              (DNP (QP (m 大量)) (ude 的))
+              (ADJP (a 新))
+              (NP (n 来者)))
+            (VP (v 涌入)))))))
+  (wd ，)
+  (ADVP (c 那么))
+  (NP-SBJ (r 我们))
+  (VP
+    (v 会)
+    (VP
+      (v 遇到)
+      (NP-OBJ (DNP (ADJP (a 重大)) (ude 的)) (NP (n 资金) (n 问题)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 比如))
+    (wd ，)
+    (NP-SBJ (r 我们) (s 当地))
+    (VP
+      (v 需要)
+      (VP
+        (ADVP (r 每年))
+        (VP
+          (v 修建)
+          (NP-OBJ (QP (m 一) (CLP (q 座))) (ADJP (a 新)) (NP (n 学校)))))))
+  (wj 。)
+  (IP
+    (PP-MNR (p 据) (IP (NP-SBJ (r 我)) (VP (v 了解))))
+    (wd ，)
+    (NP-PN-SBJ (nz 罗顿))
+    (VP
+      (ADVP (r 每年))
+      (VP
+        (v 需要)
+        (VP
+          (v 修建)
+          (NP-OBJ (QP (m 几) (CLP (q 座))) (ADJP (a 新)) (NP (n 学校)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 学校))
+  (VP
+    (v 占)
+    (QP-OBJ
+      (NP (DNP (NP (r 我们)) (ude 的)) (NP (n 房产税)))
+      (ADVP (v 超过))
+      (QP (m ７０％))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-CND
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 没有) (NP-OBJ (n 城镇) (n 增容费))))
+    (wd ，)
+    (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 税款)))
+    (VP
+      (ADVP (ADVP (d 很)) (ADVP (a 容易)))
+      (VP
+        (VP (v 会) (VP (v 翻) (NP (q 倍))))
+        (wd ，)
+        (VP (ADVP (d 再)) (VP (v 加上) (QP-EXT (m 一些)))))))
+  (w －－)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 更))
+      (ADVP (d 不用))
+      (VP
+        (v 提)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-DIR
+              (p 对于)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (v 批准)
+                        (NP-OBJ (DP (r 这些)) (VP (v 提) (NP (n 税))))))
+                    (ude 的)))
+                (ADJP (v 当选))
+                (NP (n 政府) (n 官员))))
+            (VP (v 会) (VP (v 发生) (NP-WH-OBJ (r 什么)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 每个)) (NP (n 人)))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (v 需要)
+      (NP-OBJ
+        (QP (m 一个))
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (PP-LOC (-NONE- *T*-1)) (VP (v 居住))))
+            (ude 的)))
+        (NP (n 地方)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-SBJ
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR (-NONE- *T*-1))
+            (VP (v 看待) (NP-OBJ (DP (r 这个)) (NP (n 问题))))))
+        (ude 的)))
+    (DP (r 另) (QP (m 一个)))
+    (NP (n 角度)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (CP-CND
+        (ADVP (c 如果))
+        (IP
+          (NP-SBJ
+            (DNP (VP (ADVP (d 新)) (VP (v 来))) (ude 的))
+            (NP (n 人们)))
+          (VP
+            (d 必须)
+            (VP
+              (v 支付)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (r 他们))
+                      (VP
+                        (ADVP (ad 实际))
+                        (VP
+                          (v 应)
+                          (VP (v 分担) (NP-OBJ (-NONE- *T*-2))))))
+                    (ude 的)))
+                (NP (ADJP (n 基础)) (NP (n 设施)))
+                (NP (n 成本)))))))
+      (wd ，)
+      (ADVP (r 那))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 就))
+        (VP
+          (v 会)
+          (VP
+            (VP (v 少) (NP-OBJ (QP (m 一些)) (NP (n 钱))))
+            (VP
+              (v 用于)
+              (NP-OBJ
+                (NP
+                  (DNP (ADJP (ADVP (d 较)) (ADJP (a 大))) (ude 的))
+                  (NP (n 住房)))
+                (wn 、)
+                (NP
+                  (DNP (CP (ADJP (a 新)) (ude 的)))
+                  (ADJP (n 运动型))
+                  (NP (QP (a 多)) (NP (n 功能)))
+                  (NP (n 车)))
+                (c 以及)
+                (NP
+                  (DNP (ADJP (b 长途)) (ude 的))
+                  (ADJP (d 单独))
+                  (IP (VP (v 通) (ADVP (a 勤))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 当)
+    (LCP
+      (IP
+        (NP-SBJ (r 我们))
+        (VP
+          (v 让)
+          (NP-OBJ (DP (b 所有)) (NP (n 纳税人)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 分担)
+              (NP-OBJ
+                (DNP
+                  (NP (DP (r 这些)) (ADJP (n 基础)) (NP (n 设施)))
+                  (ude 的))
+                (NP (n 成本)))))))
+      (n 时)))
+  (wd ，)
+  (NP-SBJ (DNP (VP (ADVP (d 新)) (VP (v 来))) (ude 的)) (NP (n 人们)))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (VP (v 没有) (NP-OBJ (n 动力)))
+      (VP
+        (v 做)
+        (NP-OBJ
+          (CP-APP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 节省))) (ude 的))
+          (NP (n 经济) (n 决定))))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (c 因为)
+      (wd ，)
+      (IP
+        (ADVP (d 实际上))
+        (wd ，)
+        (NP-SBJ (r 他们))
+        (VP (v 获得) (y 了) (NP-OBJ (n 补贴))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 每个)) (NP (n 人)))
+    (VP
+      (ADVP (d 越是))
+      (VP
+        (v 需要)
+        (VP
+          (v 承担)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (r 自己))
+                  (VP (v 应) (VP (v 支付) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (ADJP (n 基础)) (NP (n 设施)))
+            (NP (n 成本)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (ADVP (d 越))
+      (VP
+        (v 会)
+        (VP
+          (v 影响)
+          (NP-OBJ
+            (DP (r 那些))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ (n 代价))
+                  (VP (a 昂贵)))
+                (ude 的)))
+            (NP (n 选择))))))
+    (wd ，)
+    (PP-ADV
+      (ADVP (c 无论是))
+      (PP
+        (PP (p 对) (NP (r 他们) (r 自己)))
+        (wd ，)
+        (c 还是)
+        (PP (p 对) (LCP (NP (r 其他人)) (u 而言))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (DP (r 另) (QP (m 一) (CLP (q 篇)))) (NP (n 帖子))) (f 中)))
+    (VP
+      (v 指出)
+      (y 了)
+      (NP-OBJ (DNP (NP (v 规划) (n 社区)) (ude 的)) (NP (n 问题)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-LOC (r 那里))
+    (wd ，)
+    (NP-SBJ (ADJP (v 现有)) (NP (n 居民)))
+    (VP
+      (ADVP (d 没有))
+      (VP
+        (VP (v 付) (NP-OBJ (DNP (ADJP (v 足够)) (ude 的)) (NP (n 钱))))
+        (VP
+          (v 来)
+          (VP
+            (v 支持)
+            (NP-OBJ
+              (NP (DNP (ADJP (v 公用)) (ude 的)) (NP (n 土地)))
+              (c 和)
+              (NP
+                (DNP (ADJP (n 公用)) (ude 的))
+                (ADJP (n 基础))
+                (NP (n 设施)))))))))
+  (wd ，)
+  (IP
+    (ADVP (n 结果))
+    (NP-SBJ (DP (r 这些)) (NP (n 社区)))
+    (VP
+      (VP (NP-TMP (t 现在)) (ADVP (d 只得)) (VP (v 征收) (NP-OBJ (n 附加费))))
+      (wd ，)
+      (VP
+        (ADVP (c 但))
+        (ADVP (d 仅))
+        (VP (p 针对) (NP (ADJP (a 新)) (NP (n 来者)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 在) (LCP (NP (DP (r 这种)) (NP (n 情况))) (f 下)))
+  (wd ，)
+  (NP (ADJP (a 新)) (NP (n 来者)))
+  (VP
+    (ADVP (d 没有))
+    (VP
+      (v 导致)
+      (NP-OBJ (DP (r 任何)) (DNP (ADJP (a 新)) (ude 的)) (NP (n 要求)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 仍))
+    (VP
+      (v 要求)
+      (NP-OBJ (r 他们))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-BNF
+            (p 为)
+            (NP
+              (DP (r 那些))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ-3 (-NONE- *T*-1))
+                    (VP
+                      (LCP-TMP
+                        (IP
+                          (NP-SBJ (ADJP (a 新)) (NP (n 居民)))
+                          (VP (vi 到来)))
+                        (f 之前))
+                      (ADVP (d 已))
+                      (wkz （)
+                      (VP
+                        (pbei 被)
+                        (IP-OBJ
+                          (NP-SBJ (ADJP (v 现有)) (NP (n 居民)))
+                          (wky ）)
+                          (VP
+                            (VRD (p 用) (a 坏))
+                            (NP-OBJ (-NONE- *-3)))))))
+                  (ude 的)))
+              (w ＋)
+              (NP (n 设施))))
+          (VP
+            (v 支付)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (PP-ADV (p 比) (NP (ADJP (n 现有)) (NP (n 居民))))
+                      (ADVP (d 更))
+                      (VP (a 多))))
+                  (ude 的)))
+              (NP (n 钱))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 在) (LCP (NP (r 我)) (v 看来)))
+  (wd ，)
+  (NP-SBJ (r 这))
+  (VP
+    (VRD (v 暴露) (v 出))
+    (IP-OBJ
+      (LCP-SBJ
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (r 我们))
+                (VP
+                  (LCP-MNR (NP (n 心理)) (f 上))
+                  (VP
+                    (v 认为)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (vshi 是) (VP (a 公平)))))))
+              (ude 的)))
+          (NP (n 事情)))
+        (f 中))
+      (VP (v 存在) (NP-OBJ (QP (m 一个)) (ADJP (a 重大)) (NP (n 缺陷))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (r 我)) (VP (v 会) (VP (v 同意) (NP-PN-OBJ (nrf 拉里)))))
+  (wd ，)
+  (IP
+    (CP-CND
+      (ADVP (c 如果))
+      (wm ：)
+      (IP
+        (LST (NP (nx ａ)))
+        (wky ）)
+        (NP-SBJ (ADJP (n 现有)) (NP (n 居民)))
+        (VP
+          (ADVP (d 已经))
+          (ADVP (p 在))
+          (VP
+            (VP
+              (v 付)
+              (NP-OBJ (DNP (ADJP (v 足够)) (ude 的)) (NP (n 钱))))
+            (VP
+              (v 支持)
+              (NP-OBJ
+                (DNP (ADJP (v 现有)) (ude 的))
+                (ADJP (n 基础))
+                (NP (n 设施))))))))
+    (wd ，)
+    (ADVP (c 而))
+    (ADVP (d 实际上))
+    (NP-SBJ (r 他们))
+    (VP (ADVP (ad 显然)) (ADVP (v 没有))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (wkz （)
+    (NP-SBJ (ADVP (d 至少)) (NP (QP (m 大多数)) (NP (n 人))))
+    (VP (vshi 是) (VP (ADVP (r 那样)) (VP (v 认为)))))
+  (ude 的)
+  (wj 。)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (LST (NP (nx ｂ)))
+      (wky ）)
+      (NP-SBJ
+        (DNP
+          (PP
+            (p 除)
+            (LCP
+              (NP
+                (DNP (ADJP (a 普通)) (ude 的))
+                (wn 、)
+                (DNP (ADJP (v 足够)) (ude 的))
+                (NP (n 房产税)))
+              (f 之外)))
+          (ude 的))
+        (NP (n 附加费)))
+      (wkz （)
+      (VP
+        (PP-DIR (p 对于) (NP (NP (n 城镇) (n 增容费)) (udeng 等)))
+        (wky ）)
+        (VP (vshi 是) (VP (p 经过) (NP-OBJ (ADJP (ad 仔细)) (NP (v 研究)))))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 仅))
+      (VP
+        (v 用以)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 支付)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (PP-ADV (p 与) (NP (ADJP (a 新)) (NP (n 居民))))
+                      (VP (vi 相关))))
+                  (ude 的)))
+              (DNP (ADJP (a 新)) (ude 的))
+              (wn 、)
+              (DNP (ADJP (b 额外)) (ude 的))
+              (NP (n 基建) (n 费用))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 那))
+  (VP
+    (v 意味着)
+    (wd ，)
+    (IP-OBJ
+      (PP-TMP
+        (p 当)
+        (LCP
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 增加))) (ude 的)))
+              (NP (n 基建) (n 费用)))
+            (VP
+              (ADVP (d 实际上))
+              (VP
+                (v 支持)
+                (NP-OBJ
+                  (DNP (NP (DP (b 所有)) (NP (n 居民))) (ude 的))
+                  (ADJP (a 新))
+                  (NP (n 愿望) (c 或) (n 需求))))))
+          (n 时)))
+      (wd ，)
+      (NP-SBJ (r 你))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 能)
+          (VP
+            (PP (p 因) (NP (r 此)))
+            (VP (v 责怪) (NP-OBJ (ADJP (a 新)) (NP (n 居民)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 比如))
+    (wd ，)
+    (NP-SBJ (n 犯罪率))
+    (VP (vi 上升) (QP-EXT (m ５０％))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (NP-SBJ (r 你))
+    (VP
+      (v 需要)
+      (NP-OBJ
+        (QP (m 一) (CLP (q 座)))
+        (DNP (ADJP (a 新)) (ude 的))
+        (NP (n 监狱)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (wd ，)
+  (NP-TPC-1 (ADJP (a 新)) (NP (n 居民)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 预计)
+    (IP-OBJ (NP-SBJ (-NONE- *T*-1)) (VP (v 增加) (QP-EXT (m ２５％)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (ADJP (a 新)) (NP (n 居民)))
+  (VP
+    (v 应该)
+    (VP
+      (v 承担)
+      (NP-OBJ
+        (DNP (NP (ADJP (a 新)) (NP (n 监狱))) (ude 的))
+        (QP-WH (r 多少))
+        (NP (n 成本)))))
+  (ww ？)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (r 你))
+  (VP
+    (ADVP (v 是否))
+    (VP
+      (v 要)
+      (VP
+        (v 让)
+        (NP-OBJ (r 他们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 负担)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (PP-PRP (p 因) (NP (ADJP (n 现有)) (NP (n 居民))))
+                      (VP (c 而) (VP (v 增加)))))
+                  (ude 的)))
+              (DNP (QP (m ５０％)) (ude 的))
+              (NP (n 需求))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP (v 理解) (NP-OBJ (DNP (NP-PN (nrf 拉里)) (ude 的)) (NP (n 观点))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (r 它))
+        (VP
+          (PP-LOC (p 在) (LCP (NP (n 理论)) (f 上)))
+          (ADVP (d 过于))
+          (VP (a 简单))))
+      (wd ，)
+      (CP
+        (IP
+          (ADVP (c 因此))
+          (NP-SBJ (-NONE- *pro*))
+          (VP (vshi 是) (VP (ADVP (d 不)) (VP (a 正确)))))
+        (ude 的))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 尤其))
+      (VP (vi 喜欢) (DP-OBJ (r 这) (QP (m 一) (CLP (q 点)))))))
+  (wm ：)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR (-NONE- *T*-1))
+              (VP (v 看待) (NP-OBJ (DP (r 这个)) (NP (n 问题))))))
+          (ude 的)))
+      (DP (r 另) (QP (m 一个)))
+      (NP (n 角度)))
+    (VP
+      (vshi 是)
+      (wd ，)
+      (IP-PRD
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ
+              (DNP (VP (ADVP (d 新)) (VP (v 来))) (ude 的))
+              (NP (n 人们)))
+            (VP
+              (d 必须)
+              (VP
+                (v 支付)
+                (NP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (r 他们))
+                        (VP
+                          (ADVP (ad 实际))
+                          (VP
+                            (v 应)
+                            (VP (v 分担) (NP-OBJ (-NONE- *T*-2))))))
+                      (ude 的)))
+                  (NP (ADJP (n 基础)) (NP (n 设施)))
+                  (NP (n 成本)))))))
+        (wd ，)
+        (NP-SBJ (c 那))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (v 会)
+            (VP
+              (VP (v 少) (NP-OBJ (QP (m 一些)) (NP (n 钱))))
+              (VP
+                (v 用于)
+                (NP-OBJ
+                  (NP
+                    (DNP (ADJP (ADVP (d 较)) (ADJP (a 大))) (ude 的))
+                    (NP (n 住房)))
+                  (wn 、)
+                  (NP
+                    (DNP (ADJP (a 新)) (ude 的))
+                    (ADJP (n 运动型))
+                    (NP (QP (a 多)) (NP (n 功能)))
+                    (NP (n 车)))
+                  (c 以及)
+                  (NP
+                    (DNP (ADJP (b 长途)) (ude 的))
+                    (ADJP (d 单独))
+                    (IP (VP (v 通) (ADVP (a 勤)))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (r 那)) (VP (ADVP (d 绝对)) (VP (a 正确))) (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 它))
+    (VP
+      (PP-ADV
+        (p 与)
+        (NP (DNP (NP-PN (nx ＥＭＲ)) (ude 的)) (ADJP (a 悲观)) (NP (n 预测))))
+      (ADVP (d 相))
+      (VP (vi 呼应))))
+  (wm ：)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP (d 都))
+      (ADVP (d 将))
+      (VP
+        (v 面对)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 降低))) (ude 的)))
+          (NP (n 期望))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (CP-CND
+      (ADVP (c 如果))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 选择)
+          (NP-OBJ
+            (NP
+              (DNP (NP (s 远郊) (n 地区)) (ude 的))
+              (ADJP (ADVP (d 较)) (ADJP (a 小)))
+              (NP (n 住房)))
+            (c 和)
+            (NP (ADJP (n 混合)) (NP (n 动力) (n 车))))))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP (vshi 是) (NP-PRD (QP (CLP (q 个))) (ADJP (a 好)) (NP (n 论点))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (ADVP (c 一方面))
+      (wd ，)
+      (NP-SBJ (r 我们))
+      (VP
+        (ADVP (d 根本))
+        (ADVP (d 不))
+        (VP
+          (v 知道)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (r 如何))
+              (DVP (VP (a 切实)) (ude 地))
+              (wn 、)
+              (DVP (VP (a 公平)) (ude 地))
+              (VP
+                (v 评估)
+                (NP-OBJ
+                  (DNP
+                    (NP (ADJP (a 新)) (ADJP (n 基础)) (NP (n 设施)))
+                    (ude 的))
+                  (NP (n 成本))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另一方面))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP (ADJP (a 新)) (NP (n 来者)))
+      (VP
+        (PP-BNF
+          (p 为)
+          (NP
+            (DNP (NP (r 他们) (r 自己)) (ude 的))
+            (ADJP (n 基础))
+            (NP (n 设施))))
+        (VP (v 付) (NP (n 钱))))))
+  (wd ，)
+  (CP-CND
+    (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (r 我们))
+      (w ＊)
+      (VP
+        (v 要求)
+        (w ＊)
+        (NP-OBJ (r 他们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-BNF
+              (p 为)
+              (NP
+                (DNP (NP (r 他们) (r 自己)) (ude 的))
+                (ADJP (n 基础))
+                (NP (n 设施))))
+            (VP (v 付) (NP (n 钱))))))))
+  (wd ，)
+  (ADVP (c 那么))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (r 他们))
+      (VP
+        (VP
+          (v 声称)
+          (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 拥有) (NP-OBJ (r 它)))))
+        (wd ，)
+        (VP
+          (ADVP (c 并))
+          (VP
+            (v 希望)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (pba 把)
+                (IP-OBJ
+                  (NP-SBJ (r 我们))
+                  (VP (v 排除) (PP (p 在) (NP (f 外))))))))))))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP (ADVP (d 也)) (ADVP (d 不)) (VP (v 应该) (VP (al 大惊小怪))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (QP (m 一些)) (NP (n 门禁) (n 社区))) (f 中)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 已经))
+    (VP (v 发生) (y 了) (NP-OBJ (DP (r 这种)) (NP (n 情况)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 它们))
+    (VP
+      (v 提供)
+      (NP-OBJ
+        (DNP (NP (NP (n 自行车) (n 道)) (r 之类)) (ude 的))
+        (NP (n 东西)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 现在))
+    (wd ，)
+    (NP-SBJ (DNP (NP (f 外面)) (ude 的)) (NP (n 社区)))
+    (VP
+      (v 想)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-MNR
+            (p 在)
+            (LCP
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (ADVP (d 不))
+                      (VP (v 分担) (NP-OBJ (QP (m 部分)) (NP (n 成本))))))
+                  (ude 的))
+                (NP (n 情况)))
+              (f 下)))
+          (VP (v 使用) (NP-OBJ (DP (r 这些)) (NP (n 资产))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (n 河滨) (n 退让))
+    (c 以及)
+    (NP
+      (DNP
+        (PP (p 对) (NP (NP (n 私人)) (NP (n 收入) (c 或) (n 房产))))
+        (ude 的))
+      (DP (r 其他))
+      (ADJP (v 新增))
+      (NP (n 需求))))
+  (VP (ADVP (d 也)) (VP (a 一样)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (CP-ADV
+        (ADVP (c 除非))
+        (IP
+          (NP-SBJ (r 我们))
+          (VP (v 分担) (NP-OBJ (QP (m 部分)) (NP (n 成本))))))
+      (wd ，)
+      (ADVP (c 否则))
+      (NP-SBJ (r 我们))
+      (VP
+        (ADVP (r 如何))
+        (VP
+          (v 能)
+          (VP
+            (v 期望)
+            (IP-OBJ
+              (NP-SBJ (r 它))
+              (VP
+                (VP
+                  (v 成为)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 共享)))
+                        (ude 的)))
+                    (ADJP (n 基础))
+                    (NP (n 设施))))
+                (wd ，)
+                (VP
+                  (v 让)
+                  (NP-OBJ (NP (r 我们)) (DP (b 所有)) (NP (n 人)))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (d 都)) (VP (vi 受益))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 要)
+        (VP
+          (PP-LOC
+            (p 在)
+            (LCP
+              (UCP
+                (NP
+                  (NP
+                    (NP (s 远郊))
+                    (DNP (ADJP (ADVP (d 较)) (ADJP (a 大))) (ude 的))
+                    (NP (n 住房)))
+                  (wn 、)
+                  (NP
+                    (ADJP (n 运动型))
+                    (NP (QP (a 多)) (NP (n 功能)))
+                    (NP (n 车))))
+                (p 与)
+                (UCP
+                  (NP
+                    (NP (s 市区))
+                    (DNP (ADJP (ADVP (d 较)) (ADJP (a 小))) (ude 的))
+                    (NP (n 住房)))
+                  (wn 、)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (d 也许)) (VP (v 无) (NP-OBJ (n 车)))))
+                  (wd ，)
+                  (IP
+                    (ADVP (c 并且))
+                    (NP-SBJ
+                      (DNP (NP (vi 出行) (udeng 等)) (ude 的))
+                      (NP (n 价格)))
+                    (VP (ADVP (d 更)) (VP (a 高))))))
+              (f 之间)))
+          (VP (v 进行) (NP-OBJ (n 选择)))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (d 将)) (VP (v 会) (VP-WH (r 怎么样))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 政策) (n 汤))
+  (VP
+    (VP
+      (PP-DIR (p 对) (NP (DP (r 这个)) (NP (n 话题))))
+      (w ＋)
+      (VP (vyou 有) (uguo 过) (NP-OBJ (n 评论))))
+    (wd ，)
+    (VP
+      (v 说)
+      (wd ，)
+      (wyz “)
+      (IP
+        (LCP-TMP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (NP-LOC (n 大学)) (VP (v 毕业))))
+          (f 后))
+        (wd ，)
+        (NP-SBJ (r 我))
+        (VP
+          (PP-LOC (p 在) (NP (n 水晶) (n 城)))
+          (VP (vi 住) (y 了) (QP-EXT (m 很多) (CLP (q 年))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ns 地下街))
+  (VP
+    (VP (ADVP (d 曾)) (VP (vshi 是) (NP-PRD (-NONE- *RNR*-1))))
+    (wd ，)
+    (VP
+      (ADVP (c 并且))
+      (ADVP (d 仍然))
+      (VP
+        (vshi 是)
+        (wd ，)
+        (NP-PRD-1
+          (DNP (ADJP (ADVP (d 最)) (ADJP (a 大))) (ude 的))
+          (NP (n 特色))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (n 水晶城)) (ude 的)) (ADJP (b 唯一)) (NP (n 缺点)))
+  (VP
+    (vshi 是)
+    (IP-PRD (NP-SBJ (-NONE- *PRO*)) (VP (v 没有) (NP-OBJ (n 庭院)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 位置)) (VP (ADVP (d 极)) (VP (a 佳))))
+  (wd ，)
+  (CP
+    (IP
+      (ADVP (c 但))
+      (NP-SBJ (DP (r 这个)) (NP (n 地方)))
+      (VP
+        (PP-DIR
+          (p 对于)
+          (LCP
+            (NP
+              (DP (r 任何))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (vyou 有) (NP-OBJ (n 家室))))
+                  (ude 的)))
+              (NP (n 人)))
+            (u 来说)))
+        (ADVP (d 都))
+        (ADVP (d 过于))
+        (VP (v 城市化))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (PP-TMP
+            (p 在)
+            (NP
+              (LCP (QP (NP (t 过去)) (QP (m 五) (CLP (q 年)))) (m 左右))
+              (NP (n 时间))))
+          (NP-SBJ (r 那里))
+          (VP
+            (ADVP (d 一直))
+            (ADVP (d 在))
+            (VP (v 进行) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (DNP (NP (ADJP (ADVP (d 较)) (ADJP (a 高))) (NP (n 密度))) (ude 的))
+    (NP (n 开发)))
+  (VP (vshi 是) (NP-PRD (n 罪过)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 你))
+    (VP
+      (ADVP (d 甚至))
+      (ADVP (d 不))
+      (VP (v 能) (VP (VSB (vi 步行) (v 穿越)) (NP-OBJ (n 街道))))))
+  (wd ，)
+  (CP (IP (NP-SBJ (r 一切)) (VP (ADVP (d 都)) (VP (v 堵住)))) (y 了))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (wyz ‘)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 适合) (NP-OBJ (vi 步行))))
+        (wyy ’)
+        (ude 的)))
+    (NP (n 模式)))
+  (VP (vl 不过如此))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿灵顿))
+  (VP
+    (ADVP (d 似乎))
+    (VP (VP (vl 下定决心)) (VP (v 消灭) (NP-OBJ (nt 步行者))))
+    (wd ，)
+    (VP
+      (v 强迫)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (NP-TMP (t 过去)) (VP (vi 步行))))
+            (ude 的)))
+        (NP (n 人)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-PRP
+            (p 因)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 过度)) (VP (vi 拥挤)))))
+          (VP
+            (VP
+              (c 而)
+              (VP
+                (VSB (vi 开车) (p 经过))
+                (NP-OBJ (QP (m 两) (CLP (q 个))) (NP (n 街道)))))
+            (wd ，)
+            (VP
+              (ADVP (v 像))
+              (PP-LOC (p 在) (w ＋) (NP-PN (nrf 克拉伦登)))
+              (uyy 一样)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 让)
+    (NP-OBJ (r 我们))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 祈祷)
+        (NP-OBJ (r 他们))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 停止) (NP-OBJ (ADJP (d 进一步)) (NP (vi 犯错))))
+            (wd ，)
+            (VP
+              (v 免得)
+              (IP-OBJ (NP-SBJ (DP (b 整个)) (NP (n 地方))) (VP (vi 衰败)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (ADVP (n 可能))
+  (NP-SBJ (n 结果))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (NP-SBJ (r 我们))
+      (VP
+        (v 需要)
+        (NP-OBJ
+          (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+          (NP (n 空间))))
+      (PP-PRP (ADVP (c 不仅)) (PP (p 为了) (NP (v 居住) (c 和) (vi 旅行))))
+      (wd ，)
+      (PP-PRP
+        (ADVP (d 也))
+        (PP
+          (p 为了)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 容纳)
+              (NP-OBJ (DNP (ADJP (a 不同)) (ude 的)) (NP (n 观点)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (n 有关)
+      (wm ：)
+      (NP
+        (NP (ADJP (a 新)) (NP (n 来者)))
+        (w ／)
+        (NP (ADJP (n 基础)) (NP (n 设施)))
+        (w ／)
+        (NP (n 寿命)))))))
+</S>
+<S>
+( (IP
+  (IP
+    (INTJ (y 嗯))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 认为)
+        (IP-OBJ
+          (NP-SBJ (ADJP (n 基础)) (NP (n 设施)))
+          (VP
+            (v 会)
+            (VP
+              (vyou 有)
+              (NP-OBJ
+                (DNP
+                  (LCP (NP (ADJP (b 通常)) (NP (n 意义))) (f 上))
+                  (ude 的))
+                (NP (wyz “) (p 用) (ADJP (a 坏)) (wyy ”)))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (ad 确实))
+      (VP
+        (v 同意)
+        (NP-OBJ
+          (DNP (PP (p 对) (NP (QP (m 一些)) (NP (n 事情)))) (ude 的))
+          (DP (r 那个))
+          (NP (n 前提))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (NP (n 道路)) (c 和) (NP (n 水) (w ／) (n 污水)))
+  (VP
+    (ADVP (d 不))
+    (VP (v 会) (VP (pbei 被) (VP (v 更换) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (vi 相反))
+  (wd ，)
+  (NP-SBJ (r 它们))
+  (VP (v 得到) (NP-OBJ (n 维护)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (n 学校) (wn 、) (n 监狱))
+    (c 和)
+    (NP (DP (r 其他)) (NP (n 建筑物))))
+  (VP
+    (ADVP (d 最终))
+    (ADVP (v 可能))
+    (VP
+      (v 会)
+      (VP
+        (VP (a 陈旧) (ADVP (v 不堪)))
+        (wd ，)
+        (VP
+          (v 需要)
+          (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (ADJP (d 新)) (NP (v 造)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (r 我)) (VP (v 说) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (ADJP (a 新))
+    (ADJP (n 基础))
+    (NP (n 设施)))
+  (VP
+    (vshi 是)
+    (CP-PRD
+      (IP
+        (NP-SBJ (QP (m 一个)) (NP (n 地区)))
+        (VP
+          (LCP-TMP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 不)) (VP (v 经历) (NP-OBJ (v 发展)))))
+            (n 时))
+          (ADVP (d 不))
+          (VP (v 会) (VP (v 需要)))))
+      (ude 的)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (b 所有)) (NP (n 社区)))
+    (VP
+      (PP-DIR (p 对) (NP (ADJP (n 基础)) (NP (n 设施))))
+      (ADVP (d 都))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (NP (nx ＣＩＰ))
+          (PRN (wkz （) (NP (n 基建) (n 投资) (n 计划)) (wky ）))))))
+  (w －－)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 更换) (NP-OBJ (n 设施))))
+  (c 以及)
+  (w －－)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (DNP (DP (r 每年)) (ude 的)) (NP (n 年度) (n 预算)))
+    (VP
+      (VP
+        (v 可以)
+        (w ＋)
+        (VP
+          (v 包含)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 更换) (NP-OBJ (ADJP (n 基础)) (NP (n 设施)))))))
+      (wd ，)
+      (VP
+        (ADVP (d 就))
+        (PP-ADV
+          (v 像)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 计算)
+              (IP-OBJ
+                (NP-SBJ (n 学校) (n 系统))
+                (VP
+                  (ADVP (r 每年))
+                  (VP
+                    (v 需要)
+                    (VP (v 更换) (NP-OBJ (QP-WH (r 多少)) (NP (n 校车))))))))))
+        (VP (uyy 一样)))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 已)) (VP (v 知))))
+          (ude 的)))
+      (NP (n 计算))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (wd ，)
+  (NP-SBJ (ADJP (a 新)) (ADJP (n 基础)) (NP (n 设施)))
+  (VP (ADVP (d 不)) (VP (vshi 是)))
+  (wd ，)
+  (PP-PRP (c 因为) (IP (NP-SBJ (r 它)) (VP (v 取决于) (NP-OBJ (n 增长率)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而且))
+  (NP-SBJ (r 我))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (PP-DIR
+        (p 对于)
+        (wyz “)
+        (NP
+          (IP-APP
+            (NP-SBJ (r 那))
+            (VP
+              (v 意味着)
+              (wd ，)
+              (IP-OBJ
+                (PP-TMP
+                  (p 当)
+                  (LCP
+                    (IP
+                      (NP-SBJ
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 增加)))
+                            (ude 的)))
+                        (NP (n 基建) (n 费用)))
+                      (VP
+                        (ADVP (d 实际上))
+                        (VP
+                          (v 支持)
+                          (NP-OBJ
+                            (DNP
+                              (NP (DP (b 所有)) (NP (n 居民)))
+                              (ude 的))
+                            (ADJP (a 新))
+                            (NP (n 愿望) (c 或) (n 需求))))))
+                    (n 时)))
+                (wd ，)
+                (NP-SBJ (r 你))
+                (VP
+                  (ADVP (d 不))
+                  (VP
+                    (v 能)
+                    (VP (v 责怪) (NP-OBJ (ADJP (a 新)) (NP (n 居民)))))))))
+          (wyy ”)
+          (DP (r 这种))
+          (NP (n 说法))))
+      (wd ，)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 会)
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (DNP (ADJP (a 强烈)) (ude 的))
+            (ADJP (a 不同))
+            (NP (n 意见)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP
+      (c 因为)
+      (IP
+        (NP-SBJ (ADJP (n 现有)) (NP (n 居民)))
+        (VP
+          (VP
+            (ADVP (d 不))
+            (ADVP (d 在))
+            (VP
+              (v 得到)
+              (wyz “)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (ADJP (ADVP (d 更)) (ADJP (a 高)))
+                    (wyy ”)
+                    (NP (n 水平)))
+                  (ude 的))
+                (NP (n 服务)))))
+          (wd ，)
+          (VP
+            (ADVP (c 而是))
+            (VP
+              (VP
+                (v 采取)
+                (NP-OBJ
+                  (DNP (ADJP (a 昂贵)) (ude 的))
+                  (ADJP (a 必要))
+                  (NP (n 措施))))
+              (VP
+                (v 来)
+                (VP
+                  (ADVP (d 仅仅))
+                  (VP
+                    (v 维持)
+                    (NP-OBJ
+                      (NP (r 他们))
+                      (DNP (ADJP (v 现有)) (ude 的))
+                      (NP (n 服务) (n 水平))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 大多数)) (NP (n 社区)))
+  (VP
+    (VP
+      (ADVP (d 不))
+      (w ＋)
+      (VP
+        (v 愿)
+        (VP
+          (v 选择)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 让)
+              (NP-OBJ (ADJP (n 现有)) (NP (n 居民)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 承担)
+                  (NP-OBJ
+                    (DNP
+                      (PP
+                        (p 对)
+                        (NP
+                          (CP
+                            (WHNP-1 (-NONE- *OP*))
+                            (CP
+                              (IP
+                                (NP-SBJ (ADJP (a 新)) (NP (n 居民)))
+                                (VP
+                                  (usuo 所)
+                                  (VP (v 用) (NP-OBJ (-NONE- *T*-1)))))
+                              (ude 的)))
+                          (ADJP (a 新))
+                          (ADJP (n 基础))
+                          (NP (n 设施))))
+                      (ude 的))
+                    (NP (n 经济) (n 责任))))))))))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 不))
+      (VP
+        (v 认为)
+        (CP-OBJ
+          (IP (NP-SBJ (r 这样)) (VP (vshi 是) (VP (a 公平))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 记住)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 我们))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (vshi 是)
+          (VP
+            (ADVP (p 在))
+            (VP
+              (v 讨论)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-MNR
+                    (p 用)
+                    (NP (DNP (ADJP (a 新)) (ude 的)) (NP (n 教室))))
+                  (VP
+                    (v 取代)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (-NONE- *T*-1))
+                            (VP (ADVP (d 不)) (VP (v 能) (VP (v 使用)))))
+                          (ude 的)))
+                      (ADJP (a 旧))
+                      (NP (n 教室))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我们))
+  (VP
+    (vshi 是)
+    (VP
+      (ADVP (p 在))
+      (VP
+        (v 讨论)
+        (NP-OBJ
+          (DNP (ADJP (a 新)) (ude 的))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 附加) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 教室))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-PN (w ＜) (w ＄) (nx ＢｌｏｇＢａｃｋｌｉｎｋＳｎｉｐｐｅｔ) (w ＄) (w ＞) (wj 。)))
+</S>
+<S>
+( (IP
+  (VP (v 发帖) (NP (n 人)))
+  (w ＜)
+  (w ＄)
+  (VP
+    (NP-PN-PRD
+      (NP (nx ＢｌｏｇＢａｃｋｌｉｎｋＡｕｔｈｏｒ) (w ＄))
+      (w ＞)
+      (w ＠)
+      (w ＜)
+      (w ＄)
+      (NP (nx ＢｌｏｇＢａｃｋｌｉｎｋＤａｔｅＴｉｍｅ) (w ＄) (w ＞))))
+  (wj 。)))
+</S>

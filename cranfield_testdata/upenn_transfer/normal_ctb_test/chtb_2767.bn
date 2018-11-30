@@ -1,0 +1,55 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 香港) (n 足球) (n 总会)) (NP (n 主席)))
+    (NP-PN (nr 康保局)))
+  (VP
+    (VSB (v 介绍) (v 说))
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这) (QP (m 两) (CLP (q 名)))) (NP (n 球员)))
+      (VP
+        (ADVP (d 分别))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (DNP
+              (IP (VP (ADVP (d 快)) (VP (v 译) (VP (v 通) (NP (n 队))))))
+              (ude 的))
+            (NP
+              (NP (NP-APP (n 后卫)) (NP-PN (nr 冯希志)))
+              (c 和)
+              (NP (NP-APP (n 门将)) (NP-PN (nrf 肖国基)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 来) (NP-PN-OBJ (n 港))))
+      (f 前))
+    (NP-SBJ (QP (m 两)) (NP (n 人)))
+    (VP (v 为) (NP-PRD (NP-PN (ns 广东)) (NP-PN (nt 宏远队)) (NP (n 队员)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 明年) (t 一月份))
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (p 将))
+      (QP-ADV (m 第一) (CLP (q 次)))
+      (VP
+        (VP (v 代表) (NP-PN-OBJ (nt 香港队)))
+        (VP (v 参加) (NP-OBJ (v 比赛))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (n 中央台))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (ns 香港)))))
+    (NP (n 记者)))
+  (VP (n 报道))
+  (wj 。)))
+</S>

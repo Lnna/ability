@@ -1,0 +1,234 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 最近))
+      (FLR (y 呀))
+      (wd ，)
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ (n 数字))
+          (VP
+            (v 显示)
+            (FLR (y 呢))
+            (wd ，)
+            (IP-OBJ
+              (NP-SBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (NP (m 二零零六))
+                        (ADJP (q 年))
+                        (NP-LOC (n 全国))
+                        (VP (v 毕业))))
+                    (ude 的)))
+                (ADJP (b 应届))
+                (NP (n 大学生)))
+              (VP (vyou 有) (NP-OBJ (QP (m 四百一十三万)) (NP (n 人))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (NP-LOC (r 其中))
+              (VP
+                (v 要)
+                (VP
+                  (VP (v 离开) (NP-OBJ (n 家乡)))
+                  (VP (v 到) (NP-OBJ (s 外地)))
+                  (VP (v 寻找) (NP (NP (n 工作))))))))
+          (ude 的))))
+    (VP
+      (ADVP (d 大约))
+      (VP (vyou 有) (NP-OBJ (QP (m 三百四十万)) (NP (n 人))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (FLR (n ｛) (NP (nx ｂｒｅａｔｈ)) (n ｝))
+    (NP-SBJ
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (n 记者))
+            (VP (PP-TMP (-NONE- *T*-1)) (VP (v 到) (NP-OBJ (n 旅社)))))
+          (ude 的)))
+      (NP (n 时候)))
+    (VP (vshi 是) (NP-PRD (t 下午) (t 四点))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ (DNP (QP (m 大部分)) (ude 的)) (NP (n 求职者)))
+    (VP
+      (ADVP (d 仍然))
+      (PP (p 在) (NP (f 外)))
+      (VP (v 参加) (NP-OBJ (n 招聘会)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 回来))) (ude 的)))
+      (NP (n 人)))
+    (VP (ADVP (d 还)) (ADVP (d 不)) (VP (a 多))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (c 但是))
+        (ADVP (d 已经))
+        (VP
+          (v 能够)
+          (VP
+            (VRD (v 听) (v 出))
+            (NP-OBJ
+              (NP (r 大家))
+              (DNP (NP (nl 天南海北)) (ude 的))
+              (NP (n 口音)))))))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (NP-PN-PRD (ns 太原) (n 理工大学))))
+  (wd ，)
+  (IP
+    (PP-PRP
+      (c 因为)
+      (CP
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (VP (v 来) (NP-OBJ (r 这))) (VP (vi 住))))
+                (ude 的))))
+          (VP
+            (ADVP (d 都))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP (v 找) (NP-OBJ (n 工作))))
+                    (ude 的))))))
+          (y 嘛))))
+    (wd ，)
+    (FLR (ADVP (c 所以)) (NP-SBJ (r 它)) (VP (ADVP (d 就))))
+    (wd ，)
+    (NP-LOC (r 它) (r 这儿))
+    (FLR (DP (r 这个)))
+    (NP-SBJ (n 信息))
+    (VP (ADVP (d 比较)) (VP (a 丰富))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (VP
+          (QP-ADV (m 第一) (CLP (q 次)))
+          (VP (v 到) (NP-PN-OBJ (ns 北京)))))))
+  (wd ，)
+  (CP
+    (IP
+      (IP-SBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (NP-TMP (t 晚上) (t 十一点)) (VP (vi 熄灯))))
+      (wd ，)
+      (VP
+        (PP (p 跟) (NP (n 宿舍)))
+        (ADVP (d 其实))
+        (ADVP (d 都))
+        (VP (a 一样))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 求职) (n 旅社)) (f 里)))
+    (wd ，)
+    (ADVP (d 到处))
+    (ADVP (d 都))
+    (VP (v 能够) (VP (v 看到) (NP-OBJ (n 求职) (n 信息)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (NP (n 公告栏))
+      (wd ，)
+      (NP (IP (NP (n 手)) (VP (v 写))) (NP (n 板))))
+    (wd ，)
+    (NP-SBJ (f 上面))
+    (VP (VRD (v 贴) (a 满)) (y 了) (NP-OBJ (n 招聘) (n 信息))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (ADVP (d 特别))
+      (VP
+        (v 标注)
+        (y 了)
+        (NP-OBJ
+          (NP (t 当天))
+          (DNP (NP (n 招聘会)) (ude 的))
+          (NP (n 时间) (c 和) (n 地点))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (wd ，)
+  (NP-SBJ (n 入住率))
+  (VP (p 在) (LCP-OBJ (QP (m 五分之一)) (m 左右)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (v 要)
+        (VP (v 想) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 入住)))))
+      (VP
+        (d 必须)
+        (VP
+          (v 提供)
+          (NP-OBJ (LCP (NP (n 大专)) (f 以上)) (NP (n 学历) (v 证明)))))))
+  (wd ，)
+  (IP
+    (CP-CND
+      (ADVP (c 如果))
+      (IP (NP (-NONE- *pro*)) (VP (vshi 是) (NP (n 在校生)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 就)) (VP (v 需要) (VP (v 提供) (NP-OBJ (n 学生证))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,116 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 桃园)) (ude 的))
+      (NP-PN (NP (ADJP (ns 中)) (NP (ns 义))) (n 中学)))
+    (VP
+      (NP-TMP (t 今天))
+      (VP
+        (v 欢度)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (QP (m ６０)) (NP (q 周年))) (ude 的))
+          (NP (n 校庆))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 包括)
+            (y 了)
+            (NP-OBJ
+              (NP (NP-APP (n 国防部长)) (NP-PN (nr 武世文)))
+              (c 以及)
+              (NP
+                (NP-APP (DNP (NP (n 演艺圈)) (ude 的)) (NP (n 制作人)))
+                (NP-PN (nr 周游) (wn 、) (nr 李朝勇))))))))
+    (VP
+      (VP (v 回到) (NP-OBJ (n 母校)))
+      (VP
+        (PP-ADV (c 和) (NP (n 师生)))
+        (ADVP (d 一块))
+        (PP-BNF (p 为) (NP (n 学校)))
+        (VP (v 庆生)))
+      (wd ，)
+      (VP
+        (ADVP (c 并且))
+        (VP
+          (v 颁发)
+          (y 了)
+          (NP-OBJ
+            (wyz ‘)
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 杰出))) (ude 的)))
+            (NP (n 校友))
+            (wyy ’))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (r 那))
+    (NP-SBJ (n 校友))
+    (VP
+      (VP (v 回) (NP (n 校)))
+      (VP
+        (FRAG (ADVP (d 别)) (DFL (vyou 有)))
+        (NP-OBJ (DNP (QP (m 一番)) (ude 的)) (NP (n 感情))))))
+  (wd ，)
+  (IP
+    (ADVP (d 尤其))
+    (IP-ADV
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 回忆)
+        (NP-OBJ
+          (NP (t 当时))
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (PP-TMP (-NONE- *T*-1)) (VP (VCD (a 年少) (a 轻狂)))))
+              (ude 的)))
+          (NP (n 岁月)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (CP-APP
+            (IP (NP-ADV (n 青春)) (VP (ADVP (d 不)) (VP (v 在))))
+            (ude 的))
+          (NP (n 感叹))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (NP-PN-SBJ (nr 武世文) (c 和) (nr 周游))
+    (VP
+      (ADVP (d 非常))
+      (VP (v 感谢) (NP-OBJ (DNP (NP (n 学校)) (ude 的)) (NP (n 栽培))))))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 让)
+      (NP-OBJ (r 他们))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (vyou 有) (NP-OBJ (DNP (NP (t 今天)) (ude 的)) (NP (n 表现)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 相当))
+      (VP (v 感谢) (NP-OBJ (DNP (NP (n 学校)) (ude 的)) (NP (n 栽培))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,254 @@
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 沈阳)
+  (t 十二月)
+  (t 三十日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 郭大岳)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (f 其间))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ
+          (QP (m 两) (CLP (q 个)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 体重))
+                (VP (ADVP (d 最)) (VP (a 轻))))
+              (ude 的)))
+          (NP (n 婴儿)))
+        (VP (ADVP (ad 不幸)) (VP (vi 夭折))))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ
+      (DNP
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-2)) (IP (VP (v 存) (NP (a 活))))))
+          (NP (n 婴儿)))
+        (ude 的))
+      (NP (a 健康) (n 状况)))
+    (VP
+      (v 令)
+      (NP (n 医生) (k 们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 满意)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (n 院方)) (VP (v 公布) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP (n 报告)))
+  (VP
+    (v 表明)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 目前))
+        (NP-SBJ
+          (DNP (NP (QP (m 第二) (CLP (q 个))) (NP (n 婴儿))) (ude 的))
+          (NP
+            (n 循环)
+            (n 状态)
+            (wn 、)
+            (IP (VP (v 进) (NP (n 奶))))
+            (n 情况)
+            (c 和)
+            (n 肺部)
+            (n 状况)))
+        (VP (ADVP (d 都)) (VP (v 有所) (NP-OBJ (n 改善)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (DP (r 其他)) (NP (n 孩子)))
+        (VP
+          (ADVP (d 已经))
+          (VP
+            (d 没有)
+            (NP-OBJ (IP-APP (NP-SBJ (v 呼吸)) (VP (v 暂停))) (NP (n 现象))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC (DP (r 这) (QP (m 四) (CLP (q 名)))) (NP (n 婴儿)))
+    (PP-TMP (p 在) (LCP (NP (vi 出生)) (f 后)))
+    (wd ，)
+    (PP-PRP (p 因) (IP (NP-SBJ (n 水份)) (VP (vi 散失))))
+    (wd ，)
+    (NP-SBJ (n 体重))
+    (VP (ADVP (d 曾)) (ADVP (d 一度)) (VP (vi 下降))))
+  (wd ，)
+  (IP
+    (IP-TMP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP-SBJ (p 从) (NP (t 昨天))) (VP (v 开始))))
+    (wd ，)
+    (NP-SBJ (DNP (NP (r 他们)) (ude 的)) (NP (n 体重)))
+    (VP (v 开始) (VP (ADVP (ad 明显)) (VP (v 增加)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-SBJ (DNP (NP (DP (r 这个)) (NP (n 孩子))) (ude 的)) (NP (n 情况)))
+    (VP (PP-TMP (p 在) (NP (t 二十八日))) (ADVP (d 非常)) (VP (a 危险))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (PP-MNR
+        (p 通过)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 降低) (VP (n 输液) (NP (n 量))))))
+      (VP (v 来) (VP (v 减少) (NP-OBJ (n 心脏) (n 血管) (n 负担))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (t 现在)) (ude 的)) (NP (n 情况)))
+  (VP
+    (v 表明)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 措施)))
+      (VP
+        (v 使)
+        (NP-OBJ (DNP (NP (r 她)) (ude 的)) (NP (n 病情)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-DIR
+              (p 向)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 好)))
+                    (ude 的)))
+                (NP (n 方向))))
+            (VP (v 发展)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (NP-TPC (DP (r 这) (QP (m 四) (CLP (q 名)))) (NP (n 婴儿)))
+    (NP-SBJ (n 体重))
+    (VP
+      (v 增长)
+      (QP-EXT
+        (QP (m 十五) (CLP (q 克)))
+        (p 至)
+        (QP (m 四十) (CLP (q 克)))
+        (ADVP (vi 不等)))))
+  (wf ；)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (DP-TMP (f 前) (QP (m 两) (CLP (q 日)))) (VP (v 出现))))
+          (ude 的)))
+      (NP (ADJP (b 轻度)) (NP (n 黄疸)))
+      (NP (n 现象)))
+    (VP (ADVP (d 都)) (VP (v 有所) (NP-OBJ (n 减轻)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (ADVP (ad 意外)) (VP (vi 出生))))
+          (ude 的)))
+      (QP (m 第六) (CLP (q 个)))
+      (NP (n 男婴)))
+    (VP
+      (v 让)
+      (NP (n 医生) (k 们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 最为)) (VP (v 放心))))))
+  (wd ，)
+  (IP
+    (NP-TPC (r 他))
+    (IP
+      (IP (NP-SBJ (n 状态)) (VP (a 良好)))
+      (wd ，)
+      (IP (NP-SBJ (n 心音)) (VP (a 有力)))
+      (wd ，)
+      (IP (NP-SBJ (n 肢体)) (VP (v 无) (NP-OBJ (n 硬肿))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 体重))
+        (VP
+          (VP (QP-PRD (m 八百八十) (CLP (q 克))))
+          (wd ，)
+          (VP
+            (PP (p 较) (NP (ADJP (f 前)) (NP (q 日))))
+            (VP (v 增长) (QP-EXT (m 三十) (CLP (q 克)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 毛健) (n 博士))
+  (VP
+    (ADVP (f 最后))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-TMP (t 目前))
+          (NP-SBJ (DP (r 这些)) (NP (n 婴儿)))
+          (VP
+            (ADVP (d 仍))
+            (VP
+              (v 处于)
+              (LCP-OBJ
+                (NP
+                  (NP (ADJP (a 严密)) (NP (n 监护)))
+                  (c 及)
+                  (NP (ADJP (ad 积极)) (NP (v 抢救))))
+                (f 中)))))
+        (wd ，)
+        (PP
+          (c 因为)
+          (IP
+            (NP-SBJ (r 他们))
+            (VP
+              (ADVP (d 仍然))
+              (ADVP (d 随时))
+              (VP (v 可能) (VP (v 出现) (NP-OBJ (an 危险))))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

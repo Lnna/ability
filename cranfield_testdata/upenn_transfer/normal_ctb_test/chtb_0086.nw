@@ -1,0 +1,504 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 中国)) (QP (m 三) (CLP (q 家))) (NP (n 企业)))
+  (VP
+    (v 获)
+    (NP-OBJ
+      (NP-PN (NP-PN (ns 美国)) (QP (m 第一)) (NP (n 国民) (n 银行)))
+      (NP (v 赔偿))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 上海)
+  (t 十二月)
+  (t 二十七日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 罗康雄)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (IP-APP
+        (NP-SBJ (NP-PN (ns 中国)) (NP (n 企业)))
+        (VP
+          (v 状告)
+          (NP-PN-OBJ (NP-PN (ns 美国)) (QP (m 第一)) (NP (n 国民) (n 银行)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 赔偿)))))
+      (QP (m 一))
+      (NP (n 案)))
+    (wd ，)
+    (VP
+      (PP-MNR
+        (p 经)
+        (NP
+          (NP-PN (ns 上海市))
+          (NP-PN
+            (wyz “)
+            (NP (NP (n 段)) (c 和) (NP (n 段)))
+            (n 律师)
+            (n 事务所)
+            (wyy ”))
+          (DNP (QP (QP (m 一) (CLP (q 年))) (ADVP (m 多))) (ude 的))
+          (ADJP (a 艰难))
+          (NP (n 诉讼))))
+      (wd ，)
+      (NP-TMP (t 最近))
+      (PP-LOC (p 在) (NP-PN (ns 美国) (ns 新墨西哥州) (n 联邦) (n 地方) (n 法院)))
+      (VP (v 达成) (NP-OBJ (n 调解) (n 协议)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (NP-PN (ns 美国)) (QP (m 第一)) (NP (n 国民) (n 银行)))
+    (VP
+      (ADVP (d 共))
+      (VP
+        (v 赔偿)
+        (NP-IO (QP (m 三) (CLP (q 家))) (NP-PN (ns 中国)) (NP (n 企业)))
+        (QP-OBJ (m 一百八十五万五千) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 获) (NP-OBJ (v 赔偿))))
+        (ude 的)))
+    (DP (r 这) (QP (m 三) (CLP (q 家))))
+    (NP-PN (ns 中国))
+    (NP (n 企业)))
+  (VP
+    (ADVP (d 分别))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP-PN
+          (NP-PN (ns 上海市))
+          (NP (ADJP (b 家用)) (NP (n 纺织品)))
+          (NP (n 进出口) (n 公司)))
+        (wn 、)
+        (NP-PN (ns 上海市) (nz 荣恒) (n 国际) (n 贸易) (n 进出口) (n 公司))
+        (c 和)
+        (NP-PN (ns 浙江省) (ns 嘉兴) (nz 天发) (n 丝绸) (n 进出口) (n 公司)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ
+      (NP-PN (ns 上海))
+      (NP (ADJP (b 家用)) (NP (n 纺织品)))
+      (NP (n 进出口) (n 公司)))
+    (VP
+      (LCP-TMP (NP (t 一九九三年)) (f 起))
+      (PP (p 与) (NP-PN (ns 美国) (ns 新墨西哥州) (n 商业) (n 资源) (n 公司)))
+      (VP (v 建立) (NP-OBJ (n 贸易) (n 关系)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (v 同意)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (v 采用)
+            (NP-OBJ
+              (CP-APP
+                (WHNP (-NONE- *OP*))
+                (CP (IP (NP-SBJ (n 银行)) (VP (v 托收))) (ude 的)))
+              (NP (n 方式))))
+          (VP (VP (vi 付款)) (VP (v 承兑) (NP-OBJ (n 商业) (n 票据))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-PN-SBJ (NP-PN (ns 美国)) (QP (m 第一)) (NP (n 国民) (n 银行)))
+    (VP
+      (ADVP (d 私下))
+      (ADVP (d 一直))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (ns 中国))
+                  (VP (VRD (v 寄) (v 来)) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (NP (n 快件))
+            (PRN
+              (wkz （)
+              (IP
+                (NP-SBJ (r 其中))
+                (VP
+                  (v 包括)
+                  (NP-OBJ
+                    (NP-APP (n 提单) (udeng 等))
+                    (NP (n 商业) (n 票据)))))
+              (wky ）)))
+          (VP
+            (DVP (ADVP (d 无偿)) (ude 地))
+            (VP (VRD (v 递送) (v 给)) (NP-PN-OBJ (nx ＣＲ) (n 公司))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nx ＣＲ) (n 公司))
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR (p 凭) (NP (n 提单)))
+              (VP (VRD (v 拿) (v 到)) (NP-OBJ (n 货物)))))
+          (f 后)))
+      (wd ，)
+      (VP
+        (VP
+          (v 拖延)
+          (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 付) (NP-OBJ (n 货款)))))
+        (c 或)
+        (VP (ADVP (d 不)) (VP (vi 付款))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 拖欠) (NP-OBJ (-NONE- *T*-2)))))
+      (NP (n 货款)))
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (a 最高)))
+      (VP (v 达) (QP-OBJ (m 一百八十五万) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 去年) (t 四月))
+    (wd ，)
+    (NP-PN-SBJ (nx ＣＲ) (n 公司))
+    (VP (v 开始) (y 了) (NP-OBJ (NP (r 其)) (NP (n 破产) (n 程序)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP (NP (r 其)) (DP (b 所有)) (NP (n 资产))) (ude 的))
+      (NP (n 偿债率)))
+    (VP (ADVP (d 仅)) (VP (v 为) (QP-PRD (m 百分之五)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (ns 上海) (nz 荣恒) (n 国际) (n 贸易) (n 进出口) (n 公司))
+    (wn 、)
+    (NP-PN (ns 浙江省) (ns 嘉兴) (nz 天发) (n 丝绸) (n 进出口) (n 公司)))
+  (VP (PP (p 与) (NP (ADJP (b 上述)) (NP (n 情况)))) (VP (a 相似)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 因此))
+  (wd ，)
+  (NP-SBJ (DP (r 这) (QP (m 三) (CLP (q 家)))) (NP (n 企业)))
+  (VP
+    (v 聘请)
+    (NP-OBJ
+      (NP-PN (ns 上海))
+      (NP-PN
+        (wyz “)
+        (NP (NP (n 段)) (c 和) (NP (n 段)))
+        (n 律师)
+        (n 事务所)
+        (wyy ”)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (n 全权))
+        (VP
+          (n 代理)
+          (NP-OBJ
+            (DNP (PP (p 在) (NP-PN (ns 美国))) (ude 的))
+            (NP-APP (n 起诉) (wn 、) (n 索赔) (udeng 等))
+            (NP (n 法律) (n 事务)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 经过)
+    (NP
+      (DNP (NP (QP (m 一) (CLP (q 段))) (NP (n 时间))) (ude 的))
+      (NP (n 准备))))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (NP-APP (IP (VP (v 留) (NP (ns 美)))) (NP (n 硕士)))
+      (NP-PN (nr 段祺华) (n 律师)))
+    (p 与)
+    (NP
+      (DNP (NP (NP-PN (ns 新墨西哥州)) (NP (s 当地))) (ude 的))
+      (NP (n 律师))))
+  (VP
+    (ADVP (ad 正式))
+    (PP-DIR (p 向) (NP-PN (ns 美国) (ns 新墨西哥州) (n 联邦) (n 地方) (n 法院)))
+    (VP
+      (v 递交)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 状告)
+              (NP-PN-OBJ
+                (NP-PN (ns 美国))
+                (QP (m 第一))
+                (NP (n 国民) (n 银行)))))
+          (ude 的))
+        (NP (n 诉状)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (v 庭审)) (f 中)))
+  (wd ，)
+  (NP-SBJ (NP (n 对方)) (NP (n 律师)))
+  (VP
+    (ADVP (d 竟))
+    (PP-DIR
+      (p 对)
+      (NP
+        (CP-APP
+          (IP
+            (NP-SBJ (NP (n 中方)) (ADJP (n 托收)) (NP (n 银行)))
+            (VP (v 寄送) (NP-OBJ (VSB (v 托) (v 受)) (NP (n 文件)))))
+          (ude 的))
+        (NP (n 事实))))
+    (ADVP (d 全盘))
+    (VP (v 否认)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (nr 段祺华) (n 律师))
+    (c 和)
+    (NP (DNP (NP (r 他)) (ude 的)) (NP (n 同事) (k 们))))
+  (VP
+    (VP
+      (PP-PRP (bl 为此))
+      (ADVP (d 又))
+      (VP
+        (v 进行)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 艰苦))) (ude 的)))
+          (NP (n 调查) (n 取证)))))
+    (wd ，)
+    (VP
+      (ADVP (d 终于))
+      (VP
+        (v 取得)
+        (y 了)
+        (NP-OBJ
+          (NP
+            (DNP (NP (n 文件) (VRD (v 送) (v 递))) (ude 的))
+            (NP (n 快件) (n 号码)))
+          (c 和)
+          (NP
+            (CP-APP
+              (IP
+                (NP-PN-SBJ (QP (m 第一)) (NP (n 国民) (n 银行)))
+                (VP (v 签收)))
+              (ude 的))
+            (NP (n 证据)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (t 今年) (t 九月)) (f 初))
+    (wd ，)
+    (NP-PN-SBJ (ns 美国) (ns 新墨西哥州) (n 联邦) (n 地方) (n 法院))
+    (VP (v 作出) (NP-OBJ (n 判决))))
+  (wm ：)
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (n 原告)) (VP (v 提出) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 诉讼) (n 请求)))
+    (wd ，)
+    (IP
+      (IP (NP-SBJ (n 事实)) (VP (a 清楚)))
+      (wd ，)
+      (IP (NP-SBJ (n 证据)) (VP (a 充分)))))
+  (wf ；)
+  (IP
+    (NP-SBJ (NP-APP (n 被告)) (NP-PN (QP (m 第一)) (NP (n 国民) (n 银行))))
+    (VP
+      (ADVP (ad 明显))
+      (VP
+        (v 违反)
+        (y 了)
+        (QP-OBJ
+          (QP
+            (NP-PN (ns 美国) (NP (n 商) (n 法典)))
+            (QP (m 第四) (CLP (q 章))))
+          (c 和)
+          (QP
+            (DNP (NP-PN (n 国际) (n 商会)) (ude 的))
+            (QP (m 第三二二) (CLP (n 条款))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 并))
+      (VP
+        (v 确定)
+        (IP-OBJ
+          (NP-SBJ (DP (r 该)) (NP (n 银行)))
+          (VP
+            (VP
+              (PP-DIR
+                (p 对)
+                (NP
+                  (NP-PN
+                    (NP-PN (ns 上海))
+                    (NP (ADJP (b 家用)) (NP (n 纺织品)))
+                    (NP (n 进出口) (n 公司)))
+                  (DNP
+                    (NP
+                      (QP (ADVP (d 共)) (QP (m 三十一) (CLP (q 笔))))
+                      (NP (n 托收) (n 单据)))
+                    (ude 的))
+                  (NP (n 款项))))
+              (VP (v 承担) (NP-OBJ (DP (m 全部)) (NP (n 责任)))))
+            (wd ，)
+            (VP (v 索赔) (QP-OBJ (m 一百八十五万) (CLP (q 美元)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 最终))
+  (NP-SBJ (n 双方))
+  (VP
+    (PP-MNR (p 以) (QP (m 一百七十万) (CLP (q 美元))))
+    (VP (v 达成) (NP-OBJ (n 协议))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (wd ，)
+  (NP-SBJ (n 被告))
+  (VP
+    (ADVP (d 还))
+    (PP-MNR
+      (p 以)
+      (NP
+        (DNP (QP (m 十五万五千) (CLP (q 美元))) (ude 的))
+        (NP (n 赔偿) (n 总额))))
+    (PP
+      (p 与)
+      (NP
+        (NP-PN (ns 上海) (nz 荣恒) (n 国际) (n 贸易) (n 进出口) (n 公司))
+        (c 以及)
+        (NP-PN (ns 浙江省) (ns 嘉兴) (nz 天发) (n 丝绸) (n 进出口) (n 公司))))
+    (VP (v 达成) (NP-OBJ (n 调解) (n 协议))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 最近))
+  (wd ，)
+  (NP-PN-SBJ (wyz “) (nz 段和段) (n 律师) (n 事务所) (wyy ”))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (d 将)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP
+            (QP (ADVP (d 总共)) (QP (m 一百八十五万五千) (CLP (q 美元))))
+            (ude 的))
+          (NP (n 赔款)))
+        (wd ，)
+        (VP
+          (IP (NP (v 汇)) (VP (v 给)))
+          (NP-OBJ (DP (r 这) (QP (m 三) (CLP (q 家)))) (NP (n 企业)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 了解)))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 上海市))
+    (NP-PN
+      (wyz “)
+      (NP (NP (n 段)) (c 和) (NP (n 段)))
+      (n 律师)
+      (n 事务所)
+      (wyy ”)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-LGS
+                (p 由)
+                (NP
+                  (NP-APP (VP (v 留) (NP (ns 美))) (NP (n 硕士)))
+                  (NP-PN (nr 段祺华) (n 律师))))
+              (PP-TMP (p 在) (NP (t 一九九三年)))
+              (VP (VSB (vi 回国) (v 创办)))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (dl 近年来))
+  (wd ，)
+  (NP-SBJ (DP (r 这个)) (NP (n 律师) (n 事务所)))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 国际)) (f 上)))
+        (VP
+          (VSB (v 打) (n 嬴))
+          (y 了)
+          (NP-OBJ
+            (QP (NP (QP (m 十)) (NP (m 余))) (CLP (q 起)))
+            (ADJP (n 涉外))
+            (NP (n 经济) (n 案件)))))
+      (wd ，)
+      (VP
+        (PP-BNF (p 为) (NP (NP (s 国内)) (NP (n 企业) (c 和) (n 公民))))
+        (VP
+          (VRD (v 追) (v 回))
+          (NP-OBJ (n 赔款))
+          (QP-EXT (ADVP (v 近)) (QP (m 千万) (CLP (q 美元))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

@@ -1,0 +1,180 @@
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (VP (ADVP (d 首先)) (VP (v 展开) (NP-OBJ (a 亲民) (n 活动))))
+    (wd ，)
+    (VP
+      (PP-ADV (p 与) (NP (n 学生) (c 及) (n 居民)))
+      (VP (v 闲话) (NP-OBJ (n 家常)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (v 喜)) (VP (v 见) (NP-OBJ (NP-PN (ns 香港)) (NP (n 变化))))))
+  (NP-PN-SBJ (nr 吴邦国))
+  (VP
+    (VP
+      (NP-TMP (t 3日))
+      (VP
+        (v 出席)
+        (NP-OBJ
+          (DNP (NP (n 世界) (n 电信) (n 展)) (ude 的))
+          (NP (n 开幕) (n 礼) (c 及) (n 酒会)))))
+    (wd ，)
+    (VP
+      (NP-TMP (t 傍晚))
+      (VP
+        (v 会)
+        (VP
+          (VP (v 到) (NP (n 礼宾) (n 府)))
+          (VP
+            (v 出席)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (NP-APP (n 特首)) (NP-PN (nr 曾荫权)))
+                    (VP
+                      (PP-BNF (p 为) (NP (r 他)))
+                      (VP (v 举办) (NP-OBJ (-NONE- *T*-1)))))
+                  (ude 的)))
+              (NP (n 家宴))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (DP-SBJ (r 这次))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-PN-SBJ (nr 吴邦国))
+      (VP (QP-ADV (m 第二) (CLP (q 度))) (VP (v 访) (NP-PN-OBJ (n 港))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (NP-TMP (t 2日)) (VP (v 抵) (NP-PN-OBJ (n 港)))))
+      (f 后))
+    (wd ，)
+    (QP-ADV (m 两) (CLP (q 度)))
+    (VP
+      (v 强调)
+      (IP-OBJ
+        (NP-TMP (t 现时))
+        (NP-SBJ (NP-PN (ns 香港)) (NP (n 经济) (c 及) (n 民生)))
+        (wd ，)
+        (VP
+          (IP-ADV
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP
+                (p 跟)
+                (LCP
+                  (IP
+                    (NP-SBJ (r 他))
+                    (VP
+                      (DP-ADV (v 上) (QP (m 一) (CLP (q 次))))
+                      (NP-TMP (t 2000年))
+                      (VP (v 访) (NP-PN-OBJ (n 港)))))
+                  (n 时)))
+              (VP (vi 相比))))
+          (ADVP (d 大))
+          (VP (vyou 有) (NP-OBJ (n 改善)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (m 六) (CLP (q 年))) (f 前))
+  (NP-PN-SBJ (nr 吴邦国))
+  (VP
+    (vshi 是)
+    (VP
+      (PP-MNR (p 以) (NP (NP (ADJP (b 副)) (NP (n 总理))) (n 身分)))
+      (VP (v 访) (NP-PN-OBJ (n 港)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHPP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (nr 吴邦国))
+          (VP
+            (PP-PRP (-NONE- *T*-2))
+            (DP-ADV (r 这次))
+            (VP (v 访) (NP-PN-OBJ (n 港)))))
+        (ude 的)))
+    (ADJP (b 主要))
+    (NP (n 任务)))
+  (wd ，)
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 要)
+        (VP
+          (v 主持)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (NP-TMP (t 3日)) (VP (vi 开幕))))
+                (ude 的)))
+            (wyz “)
+            (NP (t 2006年) (n 世界) (n 电信) (n 展)))))))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 抵) (NP-PN-OBJ (n 港))))
+      (n 时))
+    (VP
+      (ADVP (d 先))
+      (PP-LOC (p 在) (NP (n 停机坪)))
+      (VP
+        (VP (v 发表) (NP-OBJ (ADJP (a 简短)) (NP (n 讲话))))
+        (wd ，)
+        (VP
+          (ADVP (vl 开宗明义))
+          (VP
+            (v 表示)
+            (IP-OBJ
+              (NP-SBJ
+                (CP
+                  (WHPP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (PP-PRP (-NONE- *T*-1))
+                        (DP-ADV (r 这) (CLP (q 次)))
+                        (VP (v 访) (NP-PN-OBJ (n 港)))))
+                    (ude 的)))
+                (NP (n 目的)))
+              (wd ，)
+              (VP
+                (vshi 是)
+                (IP-PRD
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 要)
+                    (VP (v 主持) (NP-OBJ (n 世界) (n 电信) (n 展) (vi 开幕))))))))))))))
+</S>

@@ -1,0 +1,138 @@
+<S>
+( (NP-PN-HLN (ns 日本)))
+</S>
+<S>
+( (FRAG
+  (r 本报)
+  (ns 东京)
+  (t ２月)
+  (t １３日)
+  (n 电)
+  (n 记者)
+  (nr 于青)
+  (v 报道)
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 杨振亚) (n 大使))
+  (VP
+    (ADVP (d 首先))
+    (PP-DIR (p 向) (NP (n 侨胞) (c 和) (n 台胞)))
+    (VP (v 祝贺) (NP-OBJ (t 春节))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 赞扬)
+    (NP-OBJ (n 侨胞) (n 台胞))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-PRP
+          (p 为)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 支援)
+              (NP-OBJ (DNP (NP (n 祖国)) (ude 的)) (NP (n 社会主义) (n 建设))))))
+        (VP (v 做出) (y 了) (NP-OBJ (ADJP (a 重要)) (NP (n 贡献)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 相信)
+    (wd ，)
+    (IP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 进入) (NP (QP (m ９０)) (NP (n 年代)))))
+      (wd ，)
+      (PP-PRP
+        (p 为)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 实现)
+            (NP-OBJ
+              (DNP (NP (NP (n 我国)) (NP (n 现代化) (n 建设))) (ude 的))
+              (QP (m 第二) (CLP (q 个)))
+              (NP (n 战略) (n 目标))))))
+      (wd ，)
+      (NP-SBJ (n 侨胞) (c 和) (n 台胞))
+      (VP
+        (ADVP (d 一定))
+        (VP
+          (v 会)
+          (VP
+            (VP
+              (v 继续)
+              (VP (v 发扬) (NP-OBJ (ADJP (a 爱国)) (NP (n 传统)))))
+            (wd ，)
+            (VP
+              (PP-PRP
+                (p 为)
+                (IP (NP-SBJ (n 祖国)) (VP (VCD (vl 繁荣富强)))))
+              (VP
+                (v 做出)
+                (NP-OBJ (ADJP (ADVP (d 更)) (ADJP (a 大))) (NP (n 贡献))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 东京) (n 华侨) (n 总会)) (NP (n 会长)))
+    (NP-PN (nr 陈旺)))
+  (VP
+    (VP (vi 讲话))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 希望)
+          (IP
+            (NP-SBJ (NP-PN (ns 台湾)) (NP (n 当局)))
+            (VP
+              (v 能够)
+              (VP
+                (VP
+                  (v 兑现)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (NP-TMP (t 今年) (t ５月))
+                          (VP
+                            (v 解除)
+                            (NP-OBJ
+                              (wyz “)
+                              (v 动员)
+                              (IP (NP (v 戡)) (VP (a 乱)))
+                              (n 时期)
+                              (wyy ”)))))
+                      (ude 的))
+                    (NP (n 许诺))))
+                (wd ，)
+                (VP
+                  (v 让)
+                  (NP-OBJ
+                    (QP (m 许多))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (ADVP (a 久)) (ADVP (d 未)) (VP (vi 还乡))))
+                        (ude 的)))
+                    (NP-PN (ns 台湾))
+                    (NP (n 同胞)))
+                  (IP (NP-SBJ (-NONE- *PRO*)) (VP (vl 如愿以偿)))))))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,261 @@
+<S>
+( (IP-HLN
+  (NP-TPC (NP-PN (ns 广州)) (ADJP (b 私营)) (NP (n 经济)))
+  (NP-SBJ (n 发展))
+  (VP (ad 迅猛))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 广州)
+  (t 四月)
+  (t 二十三日)
+  (n 电)
+  (wkz （)
+  (n 通讯员)
+  (nr 赵胜民)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 广州)) (ADJP (b 私营)) (NP (n 经济)))
+    (VP (ADVP (ad 迅猛)) (VP (v 发展))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 企业) (n 规模))
+    (VP
+      (VP (ADVP (d 逐渐)) (VP (v 扩大)))
+      (wd ，)
+      (c 并)
+      (VP
+        (v 开始)
+        (VP
+          (PP-DIR
+            (p 向)
+            (NP
+              (NP
+                (NP (ADJP (a 高) (wn 、) (a 新)) (NP (n 技术)))
+                (NP (n 产业)))
+              (NP (n 领域))))
+          (VP (v 发展))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 统计)))
+  (wd ，)
+  (PP-TMP (p 到) (NP (NP (t 今年)) (QP (m 第一)) (NP (n 季度))))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 广州))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (VCD (v 登记) (vi 注册))))
+        (ude 的)))
+    (ADJP (b 私营))
+    (NP (n 企业)))
+  (VP (ADVP (d 已)) (VP (v 达) (QP-OBJ (m 七千六百四十六) (CLP (q 家)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (ADJP (b 从业)) (NP (n 人员)))
+    (VP (NP-PRD (QP (m 九万七千九百六十三)) (NP (n 人)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (ADJP (b 私营)) (NP (n 企业))) (ADJP (n 注册)) (NP (n 资金)))
+    (VP
+      (QP-PRD
+        (QP (QP (m 三十亿零八千)) (QP (ADVP (m 多)) (QP (m 万))))
+        (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 分别))
+      (PP (p 比) (NP (NP (t 去年)) (f 同期)))
+      (VP
+        (v 增长)
+        (QP-EXT (QP (m 一) (CLP (q 成))) (p 至) (QP (m 两) (CLP (q 成)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (NP (t 今年)) (n 首季))
+    (wd ，)
+    (NP-SBJ
+      (DNP (NP (NP-PN (ns 广州市)) (ADJP (b 私营)) (NP (n 企业))) (ude 的))
+      (NP (n 发展)))
+    (VP (ADVP (d 又)) (VP (v 呈现) (NP-OBJ (QP (m 许多)) (NP (n 特点))))))
+  (wm ：)
+  (IP (NP-SBJ (nl 各行各业)) (VP (ADVP (ad 全面)) (VP (v 发展))))
+  (wd ，)
+  (IP (NP-SBJ (NP (n 工业) (wn 、) (n 商业)) (NP (n 发展))) (VP (a 突出)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (ADJP (b 从业)) (NP (n 人员)))
+    (VP (NP-PRD (QP (m 七万六千七百二十四)) (NP (n 人)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 分别))
+      (PP (p 比) (NP (t 去年) (t 年底)))
+      (VP (v 增长) (QP-EXT (m 百分之九点三三) (c 和) (m 百分之十一点二二)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (ADJP (b 私营)) (NP (n 工业) (wn 、) (n 商业)))
+            (VP
+              (v 占)
+              (NP-OBJ
+                (NP (n 全市))
+                (NP
+                  (NP (NP (ADJP (b 私营)) (NP (n 企业))) (n 总户数))
+                  (c 和)
+                  (NP (NP (ADJP (b 从业)) (NP (n 人员))) (NP (n 总数)))))
+              (NP-EXT (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 比重)))
+    (VP
+      (ADVP (d 分别))
+      (VP (v 为) (QP-PRD (m 百分之七十六点三三) (c 和) (m 百分之七十八点三二)))))
+  (wf ；)
+  (IP
+    (NP-SBJ
+      (ADJP (b 私营))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (a 新)) (VP (n 开业)))))
+      (NP (n 户数)))
+    (VP (ADVP (d 不断)) (VP (v 增加))))
+  (wd ，)
+  (IP
+    (NP-TMP (NP (t 今年)) (QP (m 第一)) (NP (n 季度)))
+    (ADVP (v 累计))
+    (wd ，)
+    (NP-SBJ (n 全市))
+    (VP
+      (v 登记)
+      (NP-OBJ
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-3))
+              (VP (ADVP (d 新)) (VP (vi 开业))))
+            (ude 的)))
+        (ADJP (b 私营))
+        (NP (n 企业)))
+      (QP-EXT (m 八百五十一) (CLP (q 家)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP (p 比) (NP (DP (t 上年)) (f 同期)))
+      (VP (v 增长) (QP-EXT (m 百分之五点九八)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (NP-SBJ (NP (ADJP (b 私营)) (NP (n 企业))) (NP (n 注册) (n 资金) (n 投入)))
+  (VP
+    (v 呈)
+    (NP-OBJ
+      (CP-APP
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 大幅)) (VP (vi 上升))))
+        (uzhi 之))
+      (NP (n 势))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 到) (LCP (NP (NP (t 今年)) (QP (m 第一)) (NP (n 季度))) (f 末)))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 广州市))
+    (NP (ADJP (b 私营)) (NP (n 企业)))
+    (NP (n 注册) (n 资金)))
+  (VP
+    (VP (v 为) (QP-PRD (m 三十点八亿) (CLP (q 元))))
+    (wd ，)
+    (VP
+      (PP (p 比) (NP (t 去年) (t 年底)))
+      (VP (v 增加) (QP-EXT (m 百分之二十四点九七)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 广州市)) (ADJP (b 私营)) (NP (n 企业)))
+    (VP
+      (v 开始)
+      (VP
+        (v 涉足)
+        (NP-OBJ
+          (NP (NP (ADJP (a 高) (wn 、) (a 新)) (NP (n 技术))) (NP (n 产业)))
+          (NP (n 领域))))))
+  (c 并且)
+  (IP (NP-SBJ (n 发展) (n 速度)) (VP (ADVP (d 较)) (VP (a 快))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (t 今年)) (QP (m 第一)) (NP (n 季度)))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 广州市)) (ADJP (b 私营)) (NP (n 科技) (n 咨询业)))
+  (VP
+    (VP (ADVP (d 已)) (VP (v 达) (QP-OBJ (m 五百三十四) (CLP (q 家)))))
+    (wd ，)
+    (VP
+      (PP (p 比) (NP (NP (t 去年)) (f 同期)))
+      (VP (v 增加) (LCP-EXT (QP (m 一) (CLP (q 倍))) (f 以上)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 随着)
+    (IP (NP-SBJ (n 经营) (n 规模)) (VP (ADVP (d 不断)) (VP (v 扩大)))))
+  (wd ，)
+  (NP-SBJ (n 经济效益))
+  (VP (ADVP (ad 明显)) (VP (v 提高)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (NP (t 今年)) (QP (m 第一)) (NP (n 季度)))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN (ns 广州))
+      (ADJP (b 私营))
+      (NP (n 工业) (wn 、) (n 建筑业) (c 和) (n 交通运输业)))
+    (VP (v 完成) (NP-OBJ (n 总产值)) (QP-EXT (m 四点一二亿) (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP (p 比) (NP (DP (t 上年)) (f 同期)))
+      (VP (v 增长) (QP-EXT (m 百分之二十二点六二)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

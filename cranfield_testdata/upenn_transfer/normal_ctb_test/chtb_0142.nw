@@ -1,0 +1,614 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nr 石万鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 纺织) (n 工业))
+              (VP
+                (NP-ADV (-NONE- *T*-1))
+                (VP (v 摆脱) (NP-OBJ (n 困境)))))
+            (ude 的)))
+        (NP (n 条件)))
+      (VP (ADVP (d 已)) (ADVP (ad 基本)) (VP (v 具备)))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 一月) (t 三日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (NP-TMP (t 最近))
+    (VP
+      (v 提出)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-SBJ (n 纺织) (n 工业))
+            (VP
+              (v 作为)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (NP (ADJP (n 国有)) (NP (n 企业)))
+                    (NP (n 改革) (c 和) (n 解困)))
+                  (ude 的))
+                (NP (n 突破口)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (NP-TMP (t 近日))
+                (PP-LOC (p 在) (NP-PN (ns 北京)))
+                (VP (v 召开))))
+            (ude 的)))
+        (NP (n 全国))
+        (NP (n 纺织) (n 工业) (n 工作) (n 会议)))
+      (ude 的))
+    (ADJP (b 主要))
+    (NP (n 议题)))
+  (wd ，)
+  (VP
+    (ADVP (d 就))
+    (VP
+      (vshi 是)
+      (VP
+        (v 研究)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (r 如何))
+            (VP
+              (VRD (v 打) (a 好))
+              (NP-OBJ (DP (r 这) (CLP (q 场))) (NP (n 攻坚战)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-ADV (n 会议) (f 期间))
+  (wd ，)
+  (NP-SBJ (NP-APP (n 纺织) (n 总会) (n 会长)) (NP-PN (nr 石万鹏)))
+  (VP
+    (v 接受)
+    (y 了)
+    (NP-OBJ
+      (DNP
+        (NP
+          (NP (NP-PN (nt 新华社)) (NP (n 记者)))
+          (c 和)
+          (NP (NP-PN (nt 人民日报社)) (NP (n 记者))))
+        (ude 的))
+      (ADJP (n 联合))
+      (NP (n 采访))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 石万鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 纺织) (n 工业))
+                (VP
+                  (NP-ADV (-NONE- *T*-1))
+                  (VP (v 摆脱) (NP-OBJ (n 困境)))))
+              (ude 的)))
+          (NP (n 条件)))
+        (VP (ADVP (d 已)) (ADVP (ad 基本)) (VP (v 具备))))
+      (wm ：)
+      (IP
+        (NP-PN-SBJ (ns 中国))
+        (VP
+          (PP-DIR
+            (p 对)
+            (IP (NP-SBJ (n 纺织) (n 工业)) (VP (VCD (vl 扭亏解困)))))
+          (wd ，)
+          (VP
+            (vi 出台)
+            (y 了)
+            (NP-OBJ
+              (QP (m 一) (CLP (q 系列)))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-2)) (VP (bl 强有力)))
+                  (ude 的)))
+              (NP (n 政策) (c 和) (n 措施))))))
+      (wf ；)
+      (IP
+        (NP-SBJ (NP (n 纺织) (n 行业)) (ADJP (b 广大)) (NP (n 干部) (n 职工)))
+        (VP
+          (ADVP (d 已经))
+          (VP
+            (VRD (vi 意识) (v 到))
+            (NP-OBJ
+              (NP
+                (DNP
+                  (NP
+                    (CP
+                      (WHNP-3 (-NONE- *OP*))
+                      (IP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP (v 面临) (NP-OBJ (-NONE- *T*-3)))))
+                    (NP (a 困难)))
+                  (ude 的))
+                (NP (n 严重性)))
+              (wn 、)
+              (NP (DNP (NP (vl 扭亏解困)) (ude 的)) (NP (n 紧迫性)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (c 不仅)
+          (VP (v 事关) (NP-OBJ (NP (r 自身)) (NP (n 生存) (c 和) (n 发展))))
+          (wd ，)
+          (c 而且)
+          (VP
+            (PP-DIR
+              (p 对)
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ (DP (b 整个)) (ADJP (n 国有)) (NP (n 经济)))
+                    (VP (VCD (n 发展) (c 和) (a 稳定))))
+                  (ude 的))
+                (NP (n 全局))))
+            (VP (v 具有) (NP-OBJ (ADJP (a 深远)) (NP (n 影响)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (dl 近年来))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 纺织) (n 工业)))
+  (VP (v 面临) (NP-OBJ (ADJP (a 严重)) (NP (an 困难))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (ADJP (n 国有)) (NP (n 纺织) (n 工业)))
+    (VP
+      (ADVP (d 已))
+      (QP-ADV (ADVP (a 连续)) (QP (m 五) (CLP (q 年))))
+      (VP (v 亏损))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 一九九六年))
+    (NP-SBJ (n 亏损额))
+    (VP (v 达) (QP-OBJ (m 一百零六亿) (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 一九九七年))
+      (VP
+        (v 预计)
+        (IP-OBJ
+          (IP (NP-SBJ (v 亏损)) (VP (QP-PRD (m 八十亿) (CLP (q 元)))))
+          (wd ，)
+          (IP (NP-SBJ (n 亏损面)) (VP (v 达) (QP-OBJ (m 百分之五十三))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 涉及)
+              (NP-OBJ (n 职工))
+              (NP-EXT (QP (m 一百八十万)) (NP (n 人)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (n 资产负债率))
+            (VP
+              (IP (VP (ADVP (a 高)) (VP (v 达))))
+              (QP-OBJ (m 百分之八十二))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 均))
+              (VP
+                (v 居)
+                (NP-OBJ
+                  (NP (n 全国))
+                  (DNP (NP (DP (r 各)) (NP (n 行业))) (uzhi 之))
+                  (NP (n 首))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-5 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ
+            (DNP (NP (NP-PN (ns 中国)) (NP (n 纺织) (n 工业))) (ude 的))
+            (NP (an 困难)))
+          (VP (usuo 所) (VP (v 反映) (NP-OBJ (-NONE- *T*-5)))))
+        (ude 的)))
+    (NP (n 问题)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (NP (r 其)) (ADJP (n 国有)) (NP (n 工业))) (f 中)))
+    (ADVP (d 很))
+    (VP (vyou 有) (NP-OBJ (n 代表性))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (a 具体)) (NP (n 表现)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (IP
+        (NP-SBJ
+          (NP (ADJP (a 低)) (NP (n 水平)))
+          (ADJP (vd 重复))
+          (NP (v 建设)))
+        (VP (ADVP (d 相当)) (VP (a 突出))))
+      (wd ，)
+      (IP (NP-SBJ (n 历史) (n 包袱)) (VP (a 沉重)))
+      (wd ，)
+      (IP
+        (NP-SBJ (ADJP (n 富余)) (NP (n 人员)))
+        (VP (ADVP (d 过)) (VP (a 多))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 如果))
+        (VP
+          (v 能)
+          (VP
+            (VP
+              (PP-LOC
+                (p 在)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-TPC (-NONE- *T*-1))
+                        (IP
+                          (IP
+                            (NP-SBJ (an 困难))
+                            (VP (ADVP (d 最)) (VP (a 严重))))
+                          (wn 、)
+                          (IP
+                            (NP-SBJ (an 矛盾))
+                            (VP (ADVP (d 最)) (VP (a 集中))))))
+                      (ude 的)))
+                  (NP (n 纺织) (n 行业))))
+              (ADVP (d 重点))
+              (VP (v 突破)))
+            (wd ，)
+            (VP (ADVP (d 率先)) (VP (v 扭转) (NP-OBJ (a 困难) (n 局面))))))))
+    (wd ，)
+    (ADVP (d 就))
+    (VP
+      (v 能)
+      (VP
+        (VP
+          (PP-BNF (p 为) (NP (DP (r 其他)) (NP (n 行业))))
+          (VP (v 提供) (NP-OBJ (n 经验))))
+        (wd ，)
+        (VP
+          (v 增强)
+          (NP-OBJ
+            (CP
+              (WHNP-6 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (NP-ADV (-NONE- *T*-6)) (VP (v 解困))))
+                (ude 的)))
+            (NP (n 信心) (c 和) (n 决心)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 石万鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (PP-PRP
+          (p 为了)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 使)
+              (NP-OBJ (n 纺织) (n 行业))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-LOC
+                    (p 在)
+                    (NP (NP (v 改革) (c 和) (n 解困)) (NP (n 方面))))
+                  (VP
+                    (v 取得)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-7 (-NONE- *OP*))
+                        (CP
+                          (IP (NP-SBJ (-NONE- *T*-7)) (VP (a 大)))
+                          (ude 的)))
+                      (NP (n 突破)))))))))
+        (wd ，)
+        (NP-SBJ
+          (NP-PN (nt 国务院))
+          (c 及)
+          (NP (ADJP (n 有关)) (NP (n 部门))))
+        (VP
+          (ADVP (d 先后))
+          (VP
+            (v 确定)
+            (y 了)
+            (NP-OBJ
+              (QP (m 一) (CLP (q 系列)))
+              (CP
+                (WHNP-8 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-8)) (VP (a 有力))) (ude 的)))
+              (NP (n 政策) (n 措施))))))
+      (wm ：)
+      (IP
+        (LST (m 一))
+        (wn 、)
+        (PP-PRP
+          (p 为)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 搞好)
+              (NP-OBJ
+                (IP-APP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (VCD (v 压缩) (v 淘汰))
+                    (NP-OBJ (ADJP (a 落后)) (NP (n 棉纺锭)))))
+                (NP (n 工作))))))
+        (wd ，)
+        (IP
+          (IP
+            (IP-ADV
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (r 每))
+                (VP (v 压) (QP-OBJ (m 一万) (CLP (q 锭))))))
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 给予) (NP-OBJ (QP (m 三百万) (CLP (q 元))) (NP (n 补贴)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (NP (n 中央) (c 和) (n 地方)) (NP (n 财政)))
+            (VP (ADVP (r 各)) (VP (v 承担) (QP-OBJ (m 一半)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 提供)
+              (NP-OBJ (QP (m 二百万) (CLP (q 元))) (NP (nl 贴息贷款)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (n 贴息))
+            (VP (PP-LGS (p 由) (NP (n 地方) (n 财政))) (VP (v 承担))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 三))
+  (wn 、)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 一九九八年))
+    (VP
+      (VP
+        (p 将)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (n 纺织品) (n 出口) (n 退税率))
+            (VP (v 提高) (NP-OBJ (QP (m 二) (CLP (q 个))) (NP (n 百分点)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-DIR
+                (p 由)
+                (QP (DNP (NP (t 目前)) (ude 的)) (QP (m 百分之九))))
+              (VP (v 增至) (QP-OBJ (m 百分之十一)))))))
+      (wd ，)
+      (VP
+        (ADVP (c 同时))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (LCP-SBJ
+              (QP
+                (DNP
+                  (NP
+                    (NP
+                      (CP
+                        (WHNP-11 (-NONE- *OP*))
+                        (IP
+                          (NP-SBJ (-NONE- *T*-11))
+                          (VP
+                            (IP (VP (v 输)) (p 往))
+                            (NP-PN-OBJ (ns 欧) (ns 美)))))
+                      (NP (n 纺织品)))
+                    (NP (n 协议) (n 配额) (n 总量)))
+                  (ude 的))
+                (QP (m 百分之十五)))
+              (f 以上))
+            (VP
+              (VP
+                (ADVP (ad 直接))
+                (VP (wyz “) (v 戴) (NP-OBJ (n 帽)) (wyy ”)))
+              (VP
+                (VSB (v 分配) (v 给))
+                (NP-OBJ (NP (n 纺织)) (ADJP (n 自营)) (NP (n 出口) (n 企业))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 五))
+  (wn 、)
+  (NP-SBJ (b 棉纺) (n 细纱机) (n 出口))
+  (VP
+    (v 实行)
+    (NP-OBJ (NP (n 出口) (n 信贷)) (c 和) (NP (NP (n 全额)) (NP (n 退税)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 六))
+  (wn 、)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 保证)
+    (NP-OBJ
+      (NP (n 下岗) (n 职工))
+      (NP
+        (NP (ADJP (a 基本)) (NP (n 生活费)))
+        (c 和)
+        (NP
+          (DNP
+            (NP (UCP (ADJP (n 养老)) (wn 、) (NP (n 医疗))) (NP (n 保险)))
+            (ude 的))
+          (NP (n 支付))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP
+        (p 随着)
+        (NP
+          (DNP
+            (NP
+              (NP
+                (v 压锭)
+                (v 重组)
+                (wn 、)
+                (v 兼并)
+                (vi 破产)
+                (wn 、)
+                (n 结构)
+                (n 调整))
+              (NP (n 工作)))
+            (ude 的))
+          (NP (n 进行))))
+      (wd ，)
+      (ADVP (d 必然))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ (QP (m 大量)) (ADJP (n 富余)) (NP (n 人员)))
+          (VP
+            (VP (VCD (vi 下岗) (vi 分流)))
+            (c 和)
+            (VP (ADVP (d 再)) (VP (vi 就业))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 预计)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-14 (-NONE- *OP*))
+            (CP
+              (IP
+                (LCP (QP (m 三) (CLP (q 年))) (f 内))
+                (NP-TPC (NP-PN (ns 中国)) (NP (n 纺织) (n 行业)))
+                (NP-SBJ (-NONE- *T*-14))
+                (VP (VCD (vi 下岗) (vi 分流))))
+              (ude 的)))
+          (NP (n 职工)))
+        (VP (vyou 有) (NP-OBJ (QP (m 一百二十万)) (NP (n 人)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 石万鹏))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-TPC (NP-SBJ (n 纺织) (v 解困)) (VP (a 成功) (ADVP (u 与否))))
+        (wd ，)
+        (NP-SBJ (n 关键))
+        (VP
+          (v 在于)
+          (IP-OBJ
+            (NP-SBJ (n 下岗) (n 分流) (n 人员))
+            (VP
+              (v 能否)
+              (VP (v 得到) (NP-OBJ (ADJP (a 妥善)) (NP (n 安置))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 这))
+        (VP
+          (vshi 是)
+          (NP-PRD (DNP (NP (n 工作)) (ude 的)) (NP (n 重点) (c 和) (n 难点)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 一定))
+    (VP
+      (v 要)
+      (VP
+        (VP (DVP (VP (vyou 有) (NP-OBJ (n 计划))) (ude 地)) (VP (vi 推进)))
+        (wd ，)
+        (IP
+          (VP
+            (LCP (IP (VP (ADVP (d 先)) (VP (a 易)))) (f 后))
+            (VP (a 难))))
+        (wd ，)
+        (VP
+          (v 兼顾)
+          (NP-OBJ
+            (DNP (NP (DP (r 各)) (NP (n 方面))) (ude 的))
+            (NP (n 承受) (n 能力)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

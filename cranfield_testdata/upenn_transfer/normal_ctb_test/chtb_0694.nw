@@ -1,0 +1,337 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nr 江泽民))
+  (VP
+    (ADVP (ad 亲切))
+    (VP (v 勉励) (NP-OBJ (NP-PN (ns 香港)) (NP (n 学生)))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 十二月) (t 二十八日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (vi 为期) (QP-OBJ (m 七) (CLP (q 天)))))
+          (ude 的)))
+      (IP-APP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (wyz “)
+          (VP (v 爱) (NP-OBJ (NP (r 我)) (NP-PN (nz 中华))))
+          (wd ，)
+          (VP (vi 建树) (NP-PN-OBJ (ns 香江)))
+          (wyy ”)))
+      (NP (n 公民) (n 教育) (n 教学) (n 系列) (n 活动)))
+    (NP (NP-PN (ns 香港)) (NP (n 学生)))
+    (n 交流)
+    (n 团))
+  (VP
+    (ADVP (ad 圆满))
+    (VP
+      (v 结束)
+      (y 了)
+      (NP-OBJ
+        (DNP (PP (p 在) (NP (n 祖国) (s 内地))) (ude 的))
+        (NP (n 考察) (n 交流)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (v 来自)
+              (NP-OBJ
+                (NP-PN (ns 香港))
+                (QP (m 五十一) (CLP (q 所)))
+                (NP (n 中学)))))
+          (ude 的)))
+      (QP (m 一千) (CLP (q 名)))
+      (NP (n 学生)))
+    (VP
+      (ADVP (d 分别))
+      (PP
+        (p 与)
+        (NP
+          (DNP
+            (NP
+              (NP-PN-APP
+                (ns 北京)
+                (wn 、)
+                (ns 上海)
+                (wn 、)
+                (ns 江苏)
+                (wn 、)
+                (ns 云南)
+                (wn 、)
+                (ns 陕西)
+                (udeng 等))
+              (NP (n 地)))
+            (ude 的))
+          (NP (s 内地) (n 学生))))
+      (VP
+        (v 开展)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (PP-MNR
+                    (p 以)
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (VP
+                          (v 增强)
+                          (NP-OBJ (n 国家) (n 意识) (c 和) (n 民族) (n 观念)))
+                        (wd ，)
+                        (VP (v 加强) (NP-OBJ (n 爱国主义) (n 教育))))))
+                  (VP (v 为) (NP-OBJ (n 主题)))))
+              (ude 的)))
+          (NP (n 交流) (n 活动))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 使)
+      (NP-OBJ (NP-PN (ns 香港)) (NP (n 学生)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (ad 深入))
+          (VP
+            (VP
+              (v 了解)
+              (y 了)
+              (NP-OBJ
+                (DNP (NP (n 祖国)) (ude 的))
+                (NP
+                  (NP (ADJP (a 悠久)) (NP (n 历史)))
+                  (c 和)
+                  (NP (ADJP (a 灿烂)) (NP (n 文化))))))
+            (wd ，)
+            (VP
+              (v 了解)
+              (y 了)
+              (NP-OBJ
+                (NP
+                  (NP (NP-PN (ns 香港)) (NP (n 同胞)))
+                  (p 与)
+                  (NP (n 祖国) (n 人民)))
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (IP (NP (n 血脉)) (VP (vi 相连))))
+                  (ude 的))
+                (NP (n 历史))))
+            (wd ，)
+            (VP
+              (v 了解)
+              (y 了)
+              (NP-OBJ
+                (CP
+                  (WHNP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (n 祖国) (s 内地))
+                      (VP
+                        (LCP-TMP
+                          (QP
+                            (NP (v 改革) (v 开放))
+                            (QP (m 二十) (CLP (q 年))))
+                          (f 来))
+                        (VP (v 取得) (NP-OBJ (-NONE- *T*-3)))))
+                    (ude 的)))
+                (ADJP (a 伟大))
+                (NP (n 成就)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 使)
+      (LCP-OBJ
+        (NP (NP (NP (s 内地)) (c 和) (NP-PN (ns 香港))) (NP (n 青少年)))
+        (f 之间))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 进一步))
+          (VP
+            (VP (v 沟通) (y 了) (NP-OBJ (n 感情)))
+            (wn 、)
+            (VP (v 加深) (y 了) (NP-OBJ (n 友谊))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (n 活动)) (VP (v 取得) (y 了) (NP-OBJ (a 圆满) (an 成功))) (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (IP (NP-SBJ (n 活动)) (VP (v 结束))) (n 时))
+    (wd ，)
+    (NP-SBJ
+      (DNP
+        (NP (NP (NP-PN (ns 香港)) (NP (n 学生))) (VP (v 交流) (NP (n 团))))
+        (ude 的))
+      (NP (n 同学) (k 们)))
+    (VP
+      (DVP (VP (a 欣喜)) (ude 地))
+      (VP
+        (v 得到)
+        (y 了)
+        (NP-OBJ (QP (m 一) (CLP (q 份))) (NP (t 新年)) (n 厚礼)))))
+  (w ━━)
+  (IP
+    (NP-PN-SBJ (nr 江泽民) (n 主席))
+    (VP
+      (ADVP (d 亲笔))
+      (VP
+        (v 致函)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP (NP-PN (ns 香港)) (NP (n 学生)))
+              (VP (v 交流) (NP (n 团))))
+            (ude 的))
+          (NP (n 同学) (k 们))))))
+  (wm ：)
+  (wyz “)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 祝)
+      (NP-OBJ (r 你们))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (NP-TMP (t 新年)) (VP (a 快乐))))))
+  (wt ！)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 希望)
+      (IP-OBJ
+        (NP-SBJ (r 你们))
+        (VP
+          (VP (ADVP (ad 努力)) (VP (v 学习)))
+          (wd ，)
+          (VP (v 立志) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 成才))))
+          (wd ，)
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-PN-SBJ (ns 香港))
+              (VP (v 建设) (ude 得) (VP-EXT (ADVP (d 更加)) (VP (a 美好))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-DIR
+      (p 向)
+      (NP
+        (DNP (NP (r 你们)) (ude 的))
+        (NP (n 家人) (c 及) (NP (n 同学) (k 们)))))
+    (VP (vi 问好)))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (VP
+      (ADVP (ad 充分))
+      (VP
+        (v 体现)
+        (y 了)
+        (NP-OBJ
+          (NP-PN (nr 江泽民) (n 主席))
+          (DNP
+            (PP (p 对) (NP (ADJP (b 广大)) (NP-PN (ns 香港)) (NP (n 学生))))
+            (ude 的))
+          (ADJP (a 亲切))
+          (NP (n 关怀)))))
+    (wd ，)
+    (VP
+      (p 给)
+      (NP-IO (DNP (NP (v 交流) (n 团)) (ude 的)) (DP (n 全体)) (NP (n 成员)))
+      (PP
+        (p 以)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 极大))) (ude 的)))
+          (NP (n 鼓舞))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (n 活动) (n 组织者))
+    (DNP
+      (NP-PN
+        (ns 香港)
+        (n 教育工作者)
+        (n 联会)
+        (c 和)
+        (ns 香港)
+        (n 国际)
+        (n 青年)
+        (n 文化)
+        (n 交流)
+        (n 中心))
+      (ude 的))
+    (NP (n 负责人)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 一定))
+        (VP
+          (v 要)
+          (VP
+            (VP
+              (v 牢记)
+              (NP-OBJ
+                (DNP (NP-PN (nr 江泽民) (n 主席)) (ude 的))
+                (NP (n 教导))))
+            (wd ，)
+            (VP
+              (PP-BNF
+                (p 为)
+                (NP
+                  (DNP
+                    (QP (NP-PN (ns 香港)) (NP (n 青少年)) (QP (n 一代)))
+                    (ude 的))
+                  (ADJP (a 健康))
+                  (NP (n 成长))))
+              (VP
+                (v 做出)
+                (NP-OBJ (DNP (ADJP (z 不懈)) (ude 的)) (NP (an 努力))))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

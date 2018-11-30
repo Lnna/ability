@@ -1,0 +1,145 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 越南)) (NP (NP-PN (ns 湄公河)) (NP (n 地区))))
+    (VP
+      (NP-TMP (t 最近))
+      (PP-PRP (c 因为) (NP (ADJP (a 连续)) (NP (n 豪雨))))
+      (VP
+        (v 造成)
+        (y 了)
+        (IP-OBJ
+          (NP-SBJ (QP (m ３００) (QP (m 多))) (NP (n 人)))
+          (VP (vi 死亡))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (nz 中华) (n 民国))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (n 教廷)))))
+      (NP (n 大使馆)))
+    (VP
+      (QP (m ２０) (CLP (q 号)))
+      (VP
+        (VP
+          (v 响应)
+          (NP-OBJ (NP-PN (n 教廷)) (ADJP (n 人道)) (NP (n 关怀) (n 号召))))
+        (wd ，)
+        (VP
+          (PP-MNR
+            (v 透过)
+            (NP
+              (NP-APP (NP-PN (n 意兴) (n 委员会)) (NP (n 主席)))
+              (NP-PN (nr 高德士) (NP (ADJP (b 总)) (NP (n 主教))))))
+          (VP
+            (VP (v 代表) (NP-OBJ (n 政府)))
+            (VP (v 捐赠) (QP-OBJ (m ２５００) (CLP (q 美元))))
+            (VP
+              (IP (VP (vi 供) (NP (v 作))))
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 救助) (NP-OBJ (n 水灾) (n 难民))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 日前))
+  (NP-SBJ (NP-PN (ns 梵蒂冈) (n 国际) (n 广播) (n 电台)) (NP (v 报道)))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP (NP-PN (ns 越南)) (NP (NP-PN (ns 湄公河)) (NP (n 地区))))
+        (VP
+          (PP-PRP (c 因为) (NP (ADJP (a 连续)) (NP (n 豪雨))))
+          (VP
+            (v 造成)
+            (IP-OBJ
+              (NP-SBJ (QP (QP (m ３００)) (QP (m 多))) (NP (n 人)))
+              (VP (vi 死亡))))))
+      (wd ，)
+      (IP
+        (NP-ADV (r 其中))
+        (NP-SBJ (n 儿童))
+        (VP (v 占) (y 了) (NP-OBJ (QP (m ２３６)) (NP (n 人))) (wd ，)))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (IP (VP (ADVP (d 预)) (VP (v 请))))
+          (NP-OBJ (n 国际) (n 社会))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 救助)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 响应)
+        (NP-OBJ (NP-PN (n 教廷)) (ADJP (n 人道)) (NP (n 关怀) (n 号召))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (nz 中华) (n 民国))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (n 教廷)))))
+      (NP (n 大使馆)))
+    (VP
+      (ADJP (d 特别))
+      (PP-MNR
+        (v 透过)
+        (NP
+          (NP-APP (NP-PN (n 教廷) (n 意兴) (n 委员会)) (NP (n 主席)))
+          (NP-PN (nr 高德士) (ADJP (b 总)) (NP (n 主教))))))
+    (VP
+      (VP
+        (VP (n 代表) (NP-OBJ (NP-PN (nz 中华) (n 民国)) (NP (n 政府))))
+        (VP (v 捐赠) (QP-OBJ (m ２５００) (CLP (q 美元)))))
+      (wd ，)
+      (VP
+        (IP (VP (vi 供) (NP (v 作))))
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 救助) (NP-OBJ (n 水灾) (n 难民))))
+            (uzhi 之))
+          (NP (n 用))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP (NP-PN (n 教廷) (n 正义) (c 及) (n 和平) (n 委员会)) (NP (n 主席)))
+      (NP-PN (nr 阮文顺) (ADJP (b 总)) (NP (n 主教))))
+    (c 以及)
+    (NP
+      (NP
+        (NP (NP (NP-PN (ns 越南)) (NP (n 地区))) (NP (n 主教团)))
+        (NP (n 主席)))
+      (wn 、)
+      (NP (n 书记) (n 主教))))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 获知))) (f 之后)))
+    (ADVP (d 都))
+    (PP-DIR
+      (p 向)
+      (NP
+        (NP (n 我国))
+        (NP (NP (n 政府)) (c 和) (NP (NP (n 教廷)) (NP (n 大使馆))))))
+    (VP
+      (v 表达)
+      (y 了)
+      (NP-OBJ
+        (CP-APP (IP (NP-SBJ (-NONE- *pro*)) (NP (v 感谢))) (uzhi 之))
+        (NP (n 意)))))
+  (wj 。)))
+</S>

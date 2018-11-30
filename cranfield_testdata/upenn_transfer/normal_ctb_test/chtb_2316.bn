@@ -1,0 +1,270 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DP (r 这) (CLP (q 枚)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (ADVP (a 重)) (VP (v 达) (QP-EXT (m 两百) (CLP (q 公斤))))))
+          (ude 的)))
+      (NP (n 轰炸机) (n 炸药)))
+    (VP
+      (pbei 被)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (ns 澎湖) (n 籍)) (ude 的))
+          (NP-PN (nz 瑞星丽号) (n 渔船)))
+        (VP
+          (ADVP (ad 紧急))
+          (VP (VRD (v 拽) (v 回)) (NP-PN-OBJ (ns 澎湖) (n 渔港)))))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 当时))
+    (NP-SBJ (n 船长))
+    (VP
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (VCD (vi 捕鱼) (VP (v 捞) (NP (n 网))))))
+            (n 时)))
+        (VP
+          (v 感觉)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (d 很)) (VP (a 重))))))
+      (wd ，)
+      (VP
+        (v 以为)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (vshi 是)
+            (VP
+              (VRD (v 捞) (v 到))
+              (y 了)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 条)))
+                (ADJP (a 大))
+                (NP (n 白鲨)))))))
+      (wd ，)
+      (VP
+        (ADVP (d 不料))
+        (LCP-TMP
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 离) (NP-OBJ (n 水))))
+          (f 之后))
+        (VP
+          (v 发现)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 竟然))
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (QP (m 一) (CLP (q 枚)))
+                  (ADJP (a 大))
+                  (NP (n 炸弹))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 船长) (c 和) (n 船员) (k 们))
+    (VP
+      (VP (ADVP (d 当场)) (VP (a 傻) (y 了) (NP-OBJ (n 眼))))
+      (wd ，)
+      (VP
+        (ADVP (c 但))
+        (ADVP (d 还是))
+        (DVP (VP (a 大胆)) (ude 的))
+        (VP
+          (VP
+            (VRD (v 捞) (v 起))
+            (NP-OBJ (DP (r 这) (CLP (q 枚))) (NP (n 炸弹))))
+          (VP (VSB (v 回来) (vi 报警)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 警方))
+    (VP (ADVP (d 随即)) (VP (v 通知) (NP-OBJ (n 军方) (n 防爆) (n 小组)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 消防队))
+    (VP (ADVP (d 也)) (PP-LOC (p 在) (NP (f 旁边))) (VP (n 界护))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ (n 防爆) (n 小组))
+    (VP (v 进行) (NP-OBJ (n 鉴定))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 确认)
+            (IP
+              (LCP-SBJ (NP (n 炸弹)) (f 上))
+              (VP
+                (VP (d 没有) (VP (v 引) (NP (n 芯))))
+                (VP
+                  (ADVP (d 不))
+                  (VP
+                    (v 会)
+                    (VP
+                      (vyou 有)
+                      (NP-OBJ
+                        (CP-APP
+                          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 爆炸)))
+                          (ude 的))
+                        (NP (an 危险))))))))))
+        (f 之后)))
+    (wd ，)
+    (ADVP (c 则))
+    (NP-SBJ (n 船长))
+    (VP
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ-1 (DP (r 这) (CLP (q 枚))) (NP (n 炸弹)))
+          (VP
+            (PP-MNR (p 以) (NP (n 绳索)))
+            (VP (v 捆绑) (NP-OBJ (-NONE- *-1))))))
+      (VP
+        (VP (v 利用) (NP-OBJ (DNP (LCP (s 船上)) (ude 的)) (NP (n 吊杆))))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (ADVP (a 重))
+                      (VP (v 达) (QP-EXT (m 两百) (CLP (q 公斤))))))
+                  (ude 的)))
+              (NP (n 炸弹)))
+            (VP (VRD (v 吊) (v 上)) (y 了) (NP-OBJ (n 岸堤))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (nr 阿兵哥))
+    (VP
+      (VP
+        (ADVP (d 还))
+        (VP
+          (d 必须)
+          (VP
+            (v 费尽)
+            (NP-OBJ
+              (CP
+                (WHPP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-MNR (-NONE- *T*-3))
+                      (VP (v 吃) (NP (n 奶)))))
+                  (ude 的)))
+              (NP (n 力气))))))
+      (VP
+        (ADVP (d 才))
+        (VP
+          (v 能)
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ-4 (DP (r 这) (CLP (q 枚))) (NP (n 炸弹)))
+              (VP (VRD (v 拉) (v 上来)) (NP-OBJ (-NONE- *-4)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (n 总后))
+    (NP (nt 勤署))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 判断)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (DP (r 这) (CLP (q 枚))) (NP (n 炸弹)))
+            (VP
+              (v 应该)
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-TMP (n 日军) (n 时代))
+                        (NP-SBJ (n 轰炸机))
+                        (VP (v 使用) (NP-OBJ (-NONE- *T*-1))))
+                      (ude 的)))
+                  (QP (m ５００) (CLP (q 磅)))
+                  (NP (n 外抛弹))))))
+          (wd ，)
+          (IP
+            (NP-SBJ (n 威力))
+            (VP
+              (d 足以)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VRD (v 轰) (a 平))
+                  (NP-OBJ (DP (b 整个)) (NP (n 渔港)))))))))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP
+        (NP-SBJ (n 防爆) (n 小组))
+        (VP
+          (v 认为)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 没有)
+              (NP-OBJ
+                (CP-APP
+                  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 爆炸)))
+                  (ude 的))
+                (NP (an 危险))))))))
+    (wd ，)
+    (ADVP (c 但))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (IP-MNR
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (NP-FOC-2 (ADVP (ulian 连)) (NP (n 防爆) (n 毯)))
+            (ADVP (d 也))
+            (ADVP (d 不))
+            (VP (v 裹) (NP-OBJ (-NONE- *-2)))))
+        (ADVP (d 就))
+        (VP (v 带走) (y 了) (NP-OBJ (DP (r 这) (CLP (q 枚))) (NP (n 炸弹))))))
+    (wd ，)
+    (VP
+      (ADVP (d 不禁))
+      (VP
+        (v 让)
+        (NP-OBJ (n 人))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 捏)
+            (y 了)
+            (NP-OBJ (QP (m 一) (CLP (q 把))) (NP (n 冷汗))))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,251 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (dl 接下来))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (QP (m 一) (CLP (q 则)))
+          (DNP (ADJP (a 最新)) (ude 的))
+          (NP (n 消息))))))
+  (wm ：)
+  (IP
+    (NP-SBJ
+      (NP-PN (nz 国泰) (n 航空))
+      (QP (m 一) (CLP (q 架)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-DIR (p 从) (NP-PN (ns 香港)))
+              (VP (v 飞往) (NP-PN-OBJ (ns 汉城)))))
+          (ude 的)))
+      (NP (n 班机)))
+    (VP
+      (NP-TMP (t 中午))
+      (NP-TMP
+        (CP
+          (WHPP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-TMP (-NONE- *T*-2))
+                (VP (v 接近) (NP-OBJ (NP-PN (ns 台湾)) (NP (s 上空))))))
+            (ude 的)))
+        (NP (n 时候)))
+      (wd ，)
+      (ADVP (ad 突然))
+      (VP (v 传出) (y 了) (IP-OBJ (NP-SBJ (n 机舱)) (VP (vi 冒烟))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 机长))
+    (VP
+      (VP
+        (ADVP (ad 紧急))
+        (PP-DIR (p 向) (NP-PN (nz 中胜) (n 机场)))
+        (VP (v 请求) (NP-OBJ (vi 迫降))))
+      (wd ，)
+      (VP
+        (PP-TMP (p 在) (NP (d 刚刚)))
+        (ADVP (d 已经))
+        (ADVP (ad 安全))
+        (VP (vi 降落) (y 了)))
+      (wd ，)
+      (VP
+        (ADVP (c 而))
+        (PP-MNR (p 经过) (NP (v 检查)))
+        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+        (VP (v 发现) (NP-OBJ (n 异样))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ (n 飞机))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (VP (vi 停) (PP-LOC (p 在) (NP-PN (nz 中胜) (n 机场))))
+        (VP (v 进行) (NP-OBJ (an 安全) (n 检查))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ
+      (DNP (NP (n 飞机)) (f 上) (ude 的))
+      (QP (m ９９) (CLP (q 名)))
+      (NP (n 乘客)))
+    (VP (ADVP (d 都)) (VP (vl 平安无事))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这) (CLP (q 架)))
+    (DNP
+      (NP
+        (NP (NP (n 编号)) (IP (NP (nx ｃｘｃ)) (VP (QP (m ０)))))
+        (NP
+          (s 空中)
+          (n 巴士)
+          (IP (DFL (nx ａ)) (VP (NP (QP (m ３４０)) (NP (k 型)))))))
+      (ude 的))
+    (NP-PN (nz 国泰))
+    (NP (n 班机)))
+  (VP
+    (ADVP (n 原定))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-DIR (p 从) (NP-PN (ns 香港)))
+        (VP (v 飞往) (NP-PN-OBJ (ns 汉城))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (n 结果))
+    (IP-TMP
+      (NP-SBJ (n 飞机))
+      (VP (ADVP (d 才)) (VP (vi 起飞) (VP (v 没) (NP (r 多久))))))
+    (wd ，)
+    (NP-SBJ (n 机长))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 发现)
+        (y 了)
+        (IP-OBJ
+          (LCP-SBJ (IP (VP (v 坐) (NP (n 舱)))) (f 内))
+          (VP
+            (vyou 有)
+            (NP-OBJ (DNP (NP (v 烧焦)) (ude 的)) (NP (n 味道))))))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 当时))
+    (NP-SBJ (n 飞机))
+    (VP
+      (ADVP (d 已经))
+      (VP (v 进入) (NP-OBJ (NP-PN (ns 台湾)) (NP (nz 飞航) (n 情报) (n 区))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 机长))
+    (VP
+      (ADVP (d 立刻))
+      (PP-DIR (p 向) (NP (r 我) (n 机转) (n 中心)))
+      (VP (v 请求) (NP-OBJ (n 支助)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (nz 中胜) (n 机场)) (NP (n 塔台)))
+  (VP
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 马上))
+      (VP (IP (VP (ADVP (v 空)) (VP (v 出)))) (y 了) (NP-OBJ (n 停机坪))))
+    (wd ，)
+    (VP
+      (ADVP (c 并且))
+      (VP
+        (v 通知)
+        (NP-OBJ (n 消防车) (c 和) (n 救护车))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 待命))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP (c 由于) (IP (NP-SBJ (n 状况)) (VP (v 不明))))
+  (wd ，)
+  (ADVP (f 最后))
+  (ADVP (v 还))
+  (NP-SBJ (n 化石) (n 矿物) (n 车))
+  (VP (ADVP (d 也)) (VP (v 出动) (y 了)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (b 整个) (NP (n 机场)))
+  (VP
+    (v 弥漫)
+    (y 了)
+    (NP-OBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 紧张))) (ude 的)))
+      (NP (n 气氛))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 机场)) (ude 的)) (NP (n 机务) (n 人员)))
+  (VP
+    (VP
+      (ADVP (d 立刻))
+      (VP (VP (v 上) (NP-OBJ (n 飞机))) (VP (v 进行) (NP-OBJ (n 检查)))))
+    (wd ，)
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 初步)) (VP (v 看来))))
+      (ADVP (d 没有))
+      (VP (v 发现) (NP-OBJ (n 异样)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ (n 飞机))
+    (VP
+      (ADVP (d 还))
+      (VP (vi 停) (PP-LOC (p 在) (NP (NP (r 这边)) (NP (n 机坪)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (NP (s 机上)) (QP (m ９９) (CLP (q 名))) (NP (n 旅客)))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 安排)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 下) (NP-OBJ (n 飞机)))
+            (VP (v 到) (NP-OBJ (f 附近)))
+            (VP (v 去) (VP (v 休息) (wn 、) (vi 吃饭))))))))
+  (wd ，)
+  (IP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 确定) (NP-OBJ (DNP (NP (n 飞机)) (ude 的)) (NP (n 状况)))))
+      (f 之后))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 再))
+      (VP
+        (v 决定)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 是否)
+            (VP
+              (VP
+                (v 要)
+                (VP (NP (ADJP (b 原)) (NP (n 机))) (VP (vi 起飞))))
+              (wd ，)
+              (IP (VP (ADVP (c 或者)) (VP (vshi 是))))
+              (VP
+                (ADVP (d 另外))
+                (VP
+                  (v 安排)
+                  (NP-OBJ (n 飞机))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 前往) (NP-PN-OBJ (ns 汉城))))))))))))
+  (wj 。)))
+</S>

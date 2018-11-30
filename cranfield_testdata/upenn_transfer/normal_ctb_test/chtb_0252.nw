@@ -1,0 +1,545 @@
+<S>
+( (NP-HLN
+  (NP (n 短评))
+  (wm ：)
+  (NP
+    (DNP (NP (NP (ns 欧洲)) (LCP (t 战后)) (NP (n 历史) (n 时期))) (ude 的))
+    (NP (n 终结)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 波恩)
+  (t ８月)
+  (t ３１日)
+  (n 电)
+  (n 短评)
+  (wm ：)
+  (ns 欧洲)
+  (t 战后)
+  (n 历史)
+  (n 时期)
+  (ude 的)
+  (n 终结)
+  (nt 新华社)
+  (n 记者)
+  (nr 夏治沔)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (n 军队)))
+  (VP
+    (NP-TMP (t ３１日))
+    (VP
+      (v 举行)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (NP-ADV (-NONE- *T*-1))
+                (VP (vi 告别) (NP-OBJ (ns 德国))))))
+          (ude 的))
+        (ADJP (f 最后))
+        (NP (n 仪式)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP-PN-APP (ns 美) (wn 、) (ns 英) (wn 、) (ns 法))
+        (QP (m 三))
+        (NP (n 国)))
+      (ude 的))
+    (NP (n 士兵)))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 将))
+    (PP-TMP (p 于) (LCP (NP (t ９月)) (f 初)))
+    (ADVP (f 最后))
+    (VP (v 撤离) (NP-PN-OBJ (ns 柏林))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (LCP-LOC (NP (NP-PN (ns 德国)) (NP (n 领土))) (f 上))
+          (VP (v 存在) (NP-OBJ (n 占领军)))))
+      (ude 的))
+    (NP (n 状态)))
+  (VP (ADVP (d 行将)) (VP (v 结束)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t １９３９年) (t ９月) (t １日))
+    (wd ，)
+    (NP-SBJ (NP-PN (nrf 希特勒)) (NP (n 军队)))
+    (VP (v 进攻) (NP-OBJ-PN (ns 波兰))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 开始)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (PP-BNF
+                  (p 给)
+                  (NP
+                    (NP (NP-PN (ns 欧洲)) (c 和) (n 世界大战))
+                    (NP (n 人民))))
+                (VP (v 带来) (NP-OBJ (ADJP (a 巨大)) (NP (an 痛苦))))))
+            (ude 的)))
+        (QP (m 第二) (CLP (q 次)))
+        (NP (nl 世界)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 迄今)) (ADVP (z 正好)) (QP-PRD (m ５５) (CLP (q 年)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC (NP (DP (r 这) (CLP (q 次))) (NP (n 战争))) (f 中))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 包括) (LCP-OBJ (NP-PN (ns 德国)) (u 在内))))
+        (ude 的)))
+    (NP-PN (ns 欧洲))
+    (NP (n 国家)))
+  (VP (ADVP (d 共)) (VP (vi 死亡) (NP-OBJ (QP (m ４００万)) (NP (n 人)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-ADV (r 其中))
+  (wd ，)
+  (NP-PN-SBJ (ns 苏联))
+  (VP
+    (PP-PRP
+      (v 为)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 战胜) (NP-OBJ (NP-PN (ns 德国)) (NP (n 侵略者))))))
+    (VP
+      (VP (v 作出) (y 了) (NP-OBJ (ADJP (a 巨大)) (NP (n 牺牲))))
+      (wd ，)
+      (VP
+        (v 伤亡)
+        (NP-OBJ (QP (ADVP (a 近)) (QP (m ２８００万))) (NP (n 人))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 半) (CLP (q 个))) (NP (n 世纪)))
+    (VP (ADVP (d 转瞬)) (VP (vi 逝去))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 欧洲))
+    (VP
+      (v 经历)
+      (y 了)
+      (NP-OBJ
+        (n 热战)
+        (wn 、)
+        (n 冷战)
+        (wn 、)
+        (a 动荡)
+        (wn 、)
+        (vi 冲突)
+        (c 和)
+        (vi 剧变))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 现在))
+  (wd ，)
+  (CP-CND
+    (NP-SBJ (n 热战) (c 和) (n 冷战))
+    (VP (ADVP (c 虽)) (ADVP (d 已)) (VP (v 成为) (NP-OBJ (t 过去)))))
+  (wd ，)
+  (ADVP (c 但))
+  (NP-SBJ (a 动荡) (c 和) (n 冲突))
+  (VP (ADVP (d 仍)) (VP (VPT (v 看不到)) (NP-OBJ (f 尽头))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 当时))
+  (NP-SBJ
+    (DNP (NP-PN (ns 德国)) (ude 的))
+    (ADJP (a 最高))
+    (NP (n 决策) (n 当局)))
+  (VP (vshi 是) (NP-PN-PRD (wyz “) (n 盟国) (n 管制) (n 委员会) (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 德国))
+  (VP
+    (ADVP (t 此后))
+    (ADVP (d 长期))
+    (VP
+      (v 处于)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (VP (vi 无权)) (c 和) (VP (pbei 被) (VP (vi 分裂)))))
+          (ude 的))
+        (NP (n 状态)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (m 不久))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN (ns 美) (ns 苏))
+      (QP (m 两))
+      (NP (n 国))
+      (DNP (PP (p 在) (NP-PN (ns 欧洲))) (ude 的))
+      (NP (n 较量)))
+    (VP
+      (v 使)
+      (NP-OBJ
+        (DNP (ADJP (b 原来)) (ude 的))
+        (ADJP (vi 反))
+        (NP (n 法西斯))
+        (NP (n 联盟)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 发生) (y 了) (NP-OBJ (vi 分裂))))))
+  (wd ，)
+  (IP (NP-PN-SBJ (ns 德国)) (VP (ADVP (d 也)) (vl 一分为二)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC (p 在) (NP (f 西边)))
+    (wd ，)
+    (NP-PN-SBJ (ns 美国))
+    (VP
+      (VP (v 组织) (NP-PN-OBJ (nt 北约)))
+      (wd ，)
+      (VP (v 扶植) (NP-PN-OBJ (n 西德)))
+      (wd ，)
+      (VP-PRP (p 以) (VP (wyz “) (v 遏制) (wyy ”) (NP-PN-OBJ (ns 苏联))))))
+  (wf ；)
+  (IP
+    (PP-LOC (p 在) (NP (f 东边)))
+    (wd ，)
+    (NP-PN-SBJ (ns 苏联))
+    (VP
+      (VP (v 组建) (NP-OBJ (NP-PN (nt 华约)) (NP (n 集团))))
+      (wd ，)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-PN-SBJ (nz 东德))
+          (VP
+            (v 建成)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (v 对付) (NP-OBJ (s 西方))))
+                  (ude 的)))
+              (NP (n 桥头堡))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 分裂))) (ude 的)))
+    (NP-PN (ns 德国)))
+  (VP
+    (v 成)
+    (y 了)
+    (NP-OBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (f 东西方))
+            (VP (NP-LOC (-NONE- *T*-2)) (VCD (n 冷战) (vi 对峙))))
+          (ude 的)))
+      (NP (s 前线))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 从) (LCP (NP (r 那时)) (f 起)))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 欧洲)) (NP (n 政局)))
+  (VP
+    (VP (v 无) (NP-OBJ (QP (m 一) (CLP (q 日))) (NP (a 安宁))))
+    (wd ，)
+    (IP (NP (n 危机)) (VP (z 重重))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (wd ，)
+  (PP-TMP (p 从) (LCP (NP (t １９８９年)) (v 开始)))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 欧洲)) (NP (n 形势)))
+  (VP
+    (ADVP (d 又))
+    (VP
+      (v 发生)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+        (NP (n 转折)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (NP-PN (ns 东欧)) (NP (vi 剧变)))
+      (wn 、)
+      (NP (NP-PN (ns 德国)) (NP (n 统一)))
+      (wn 、)
+      (NP (NP-PN (nt 华约)) (NP (v 瓦解)))
+      (wn 、)
+      (NP (NP-PN (ns 苏联)) (NP (vi 解体))))
+    (VP (vl 接踵而至)))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (ADJP (b 原来)) (ude 的))
+      (NP-TTL (wyz “) (NP-PN (ns 雅尔塔)) (NP (n 体制)) (wyy ”)))
+    (VP (vl 难以为继)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (DP (r 这) (QP (m 一)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 巨大))) (ude 的)))
+        (NP (n 变革)))
+      (f 中)))
+  (wd ，)
+  (NP-PN-SBJ (ns 德国))
+  (VP
+    (v 成为)
+    (NP-OBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (d 最)) (VP (a 大))))
+          (ude 的)))
+      (NP (n 得益者))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP (ADJP (v 统一)) (NP-PN (ns 德国))) (ude 的))
+      (NP (n 崛起)))
+    (VP
+      (v 改变)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (NP-PN (ns 欧洲)) (NP (n 力量))) (ude 的))
+        (NP (n 对比)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 原来))
+              (VP (v 作为) (NP-OBJ (NP (n 世界)) (NP (n 政治)) (n 大国)))))
+          (ude 的)))
+      (NP-PN (ns 英国) (c 和) (ns 法国)))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (v 开始)
+        (VP
+          (v 担心)
+          (IP-OBJ
+            (NP-SBJ (r 自己))
+            (VP
+              (v 沦为)
+              (NP-OBJ
+                (DNP (NP (QP (b 二等)) (n 大国)) (ude 的))
+                (NP (n 地位)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP (NP (t 当今)) (ADJP (b 唯一)) (n 超级大国))
+      (NP-PN (ns 美国)))
+    (VP
+      (VP
+        (ADVP (d 近来))
+        (ADVP (d 则))
+        (VP
+          (v 开始)
+          (VP
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-PN-SBJ (ns 德国))
+                (VP (v 视为) (NP-OBJ (wyz “) (n 领导) (n 伙伴) (wyy ”)))))
+            (wd ，)
+            (VP
+              (v 鼓励)
+              (NP-OBJ (r 它))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-LOC (p 在) (LCP (NP (n 世界) (n 政治)) (f 中)))
+                  (VP (wyz “) (v 发挥) (NP-OBJ (n 领导) (n 作用)) (wyy ”))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 其)) (NP (n 原因)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (bl 显而易见))) (ude 的))))))
+  (wm ：)
+  (IP
+    (NP-PN-SBJ (ns 美国))
+    (VP
+      (v 要)
+      (VP (v 借重) (NP-OBJ (DNP (NP-PN (ns 德国)) (ude 的)) (NP (n 力量))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今日))
+  (NP-SBJ (DNP (ADJP (a 统一)) (ude 的)) (NP-PN (ns 德国)))
+  (VP
+    (ADVP (d 正在))
+    (PP-DIR (p 从) (NP (NP (n 经济)) (n 大国)))
+    (VP (v 走向) (NP-OBJ (NP (n 政治)) (n 大国))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 德国))
+    (VP
+      (PP-MNR (p 凭借) (NP (NP (r 其)) (ADJP (a 雄厚)) (NP (n 实力))))
+      (PP-LOC (p 在) (LCP (NP-PN (ns 欧洲) (n 联盟)) (f 中)))
+      (VP (vl 独占鳌头))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 其)) (NP (wyz “) (n 巨人) (wyy ”)) (NP (n 角色)))
+    (VP
+      (ADVP (d 亦))
+      (VP
+        (p 为)
+        (IP-OBJ
+          (NP-SBJ (n 世人))
+          (VP (usuo 所) (VP (ADVP (d 共)) (VP (v 睹))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它))
+  (VP
+    (VP
+      (ADVP (d 竭力))
+      (VP
+        (v 发挥)
+        (NP-OBJ
+          (DNP (LCP (NP-PN (ns 东西欧)) (f 间)) (ude 的))
+          (NP (wyz “) (n 桥梁) (n 作用) (wyy ”)))))
+    (wd ，)
+    (VP
+      (v 参与)
+      (NP-OBJ
+        (DNP (LCP (NP (NP-PN (nt 联合国)) (NP (n 旗帜))) (f 下)) (ude 的))
+        (IP-APP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 维护) (NP-OBJ (wyz “) (n 和平))))
+        (NP (n 使命))
+        (wyy ”)))
+    (wd ，)
+    (VP
+      (v 争取)
+      (NP-OBJ
+        (DNP
+          (NP (NP-PN (nt 联合国) (nt 安理会)) (ADJP (b 常任)) (NP (n 理事国)))
+          (ude 的))
+        (NP (n 席位)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 现在))
+  (wd ，)
+  (NP-SBJ (LCP (t 战后)) (QP (m 一个)) (NP (n 历史) (n 时期)))
+  (VP
+    (ADVP (d 即将))
+    (VP (LCP (NP (v 画)) (v 上)) (NP-OBJ (QP (m 一个)) (NP (n 句号)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 它))
+          (VP (v 留给) (NP-IO (n 后人)) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP (n 血泪) (n 教训) (c 与) (an 痛苦) (n 经验)))
+  (wd ，)
+  (VP
+    (ADVP (d 还))
+    (VP (v 需要) (VP (v 继续) (VP (ADVP (ad 认真)) (VP (v 总结))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

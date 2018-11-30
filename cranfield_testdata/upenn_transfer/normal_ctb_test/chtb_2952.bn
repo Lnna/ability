@@ -1,0 +1,293 @@
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 报道)))
+  (wd ，)
+  (NP-PN-SBJ (nr 朱容基))
+  (VP
+    (v 表示)
+    (IP-OBJ
+      (IP-TPC
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 开放) (NP-OBJ (ADJP (a 小)) (NP (n 三通)))))
+      (wd ，)
+      (NP-SBJ (NP (n 大陆)) (NP (n 方面)))
+      (VP
+        (VP
+          (ADJP (ad 确实))
+          (VP
+            (v 要)
+            (VP
+              (v 作出)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (ADVP (d 很)) (VP (a 大))))
+                    (ude 的)))
+                (NP (n 让步) (c 和) (n 牺牲))))))
+        (wd ，)
+        (VP
+          (ADVP (c 但))
+          (ADVP (d 也))
+          (VP
+            (vshi 是)
+            (IP-PRD
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP
+                  (vi 让步)
+                  (PP-BNF (p 给) (NP (NP (ns 中国)) (NP (n 人)))))
+                (wd ，)
+                (VP
+                  (vi 让步)
+                  (PP-BNF
+                    (p 给)
+                    (NP (DNP (NP (r 自己)) (ude 的)) (NP (n 同胞))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 报道))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (nt 中共中央) (PP (p 对) (NP-PN (ns 台))) (NP (n 工作) (n 小组)))
+      (VP
+        (v 认为)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (n 两岸))
+            (VP
+              (LCP-TMP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 加入) (NP-PN-OBJ (n 世界) (n 贸易) (n 组织))))
+                (f 以后))
+              (ADVP (d 必然))
+              (VP (v 要) (VP (v 讲) (NP-OBJ (n 三通) (n 问题))))))
+          (wd ，)
+          (IP
+            (ADVP (c 因此))
+            (IP-SBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 先))
+                (VP
+                  (VP (v 谈) (NP-OBJ (ADJP (a 小)) (NP (n 三通))))
+                  (wd ，)
+                  (VP
+                    (PP-BNF (p 为) (IP (NP-SBJ (n 两岸)) (VP (n 三通))))
+                    (VP (vi 热身))))))
+            (wd ，)
+            (VP
+              (v 具有)
+              (NP-OBJ (DNP (ADJP (b 一定)) (ude 的)) (NP (n 意义)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 台湾)) (ADJP (b 主要)) (n 在野党))
+  (VP
+    (ADVP (d 近来))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP-SBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (v 认同)
+              (NP-OBJ
+                (NP
+                  (DNP (NP (QP (m 一个)) (NP-PN (ns 中国))) (ude 的))
+                  (NP (n 原则)))
+                (wd ，)
+                (p 和)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (n 两岸))
+                        (VP
+                          (NP-TMP (t １９９２年))
+                          (VP (v 达成) (NP-OBJ (-NONE- *T*-1)))))
+                      (ude 的)))
+                  (NP (n 共识)))))))
+        (wd ，)
+        (VP
+          (PP-BNF (p 为) (NP (ADJP (a 小)) (NP (n 三通))))
+          (VP (v 奠定) (NP-OBJ (n 基础)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 台湾)) (NP (nt 陆委会) (n 主委)))
+    (NP-PN (nr 蔡英文)))
+  (VP
+    (NP-TMP (t 星期天))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (NP-PN (ns 台湾)) (NP (n 政府))) (ude 的))
+          (NP (NP (n 两岸)) (NP (n 关系)))
+          (NP (n 政策)))
+        (wd ，)
+        (VP
+          (IP (VP (v 着重) (p 于)))
+          (NP-OBJ (ADJP (ad 积极)) (NP (v 交流)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 中国)) (NP (n 大陆))) (ude 的))
+    (NP-PN (NP (NP (n 海峡)) (n 两岸)) (NP (n 关系)) (NP (n 研究) (n 中心))))
+  (VP
+    (NP-TMP (t 星期一))
+    (PP-LOC (p 在) (NP-PN (ns 广东省) (ns 珠海市)))
+    (QP (m 首) (CLP (q 次)))
+    (VP
+      (VP (v 举办) (NP-OBJ (NP (NP (n 两岸)) (NP (n 关系))) (NP (n 论谈))))
+      (wd ，)
+      (VP
+        (PP-DIR
+          (p 就)
+          (NP
+            (NP
+              (NP (NP (ns 台)) (NP (n 海)) (NP (n 局势)))
+              (c 和)
+              (NP (NP (n 两岸)) (NP (n 关系))))
+            (NP (n 发展))))
+        (VP (n 交流) (NP-OBJ (n 看法))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 据悉))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP (DP (r 这) (CLP (q 次))) (NP (n 会议))) (ude 的))
+    (NP (n 主题)))
+  (VP
+    (vshi 是)
+    (wyz “)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-MNR
+          (p 在)
+          (LCP
+            (NP
+              (DNP (NP (QP (m 一个)) (NP-PN (ns 中国))) (ude 的))
+              (NP (n 原则) (n 基础)))
+            (f 上)))
+        (VP (v 推动) (NP-OBJ (NP (n 两岸)) (NP (n 对话) (c 和) (n 谈判))))))
+    (wyy ”))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (QP (QP (QP (m ６０)) (ADVP (m 多))) (CLP (q 名)))
+    (NP (n 学者) (wn 、) (n 专家)))
+  (VP
+    (VSB (vi 应邀) (v 出席))
+    (NP-OBJ (DP (r 这) (CLP (q 次))) (NP (n 会议))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (NP (NP (NP (n 海岸)) (n 两岸)) (NP (n 关系))) (NP (n 中心)))
+      (NP (n 主任)))
+    (NP-PN (nr 唐树备)))
+  (VP
+    (NP-TMP (t 星期天))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (NP (n 大陆)) (NP-PN (nt 海协会)))
+        (VP
+          (VP
+            (ADVP (d 本来))
+            (VP
+              (v 希望)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-ADV
+                    (p 与)
+                    (NP (NP-PN (ns 台湾)) (NP-PN (nt 海基会))))
+                  (ADVP (v 联合))
+                  (VP
+                    (v 举办)
+                    (NP-OBJ
+                      (DP (r 这次))
+                      (NP (NP (n 两岸)) (NP (n 关系)))
+                      (NP (n 论谈))))))))
+          (wd ，)
+          (VP
+            (ADVP (c 但是))
+            (VP
+              (v 遭到)
+              (NP-OBJ
+                (DNP (NP (NP-PN (ns 台湾)) (NP (n 方面))) (ude 的))
+                (NP (n 拒绝)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 唐树备))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-TMP (t 当前))
+        (NP-SBJ (NP-PN (ns 台湾)) (NP (n 形势)))
+        (VP (v 发生) (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 变化)))))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (DNP (NP (NP (n 两岸)) (NP (n 关系))) (ude 的))
+          (NP (n 发展)))
+        (VP (v 处于) (NP-OBJ (ADJP (a 关键)) (NP (n 时刻)))))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-MNR (-NONE- *T*-1))
+                  (ADVP (ad 和平))
+                  (VP (v 解决) (NP-OBJ (NP-PN (ns 台湾)) (NP (n 问题))))))
+              (ude 的)))
+          (NP (n 基础) (c 和) (n 前提)))
+        (wd ，)
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (NP-PN (ns 台湾)) (NP (n 当局)))
+            (VP
+              (d 必须)
+              (VP
+                (v 承认)
+                (NP-OBJ (NP (QP (m 一个)) (NP-PN (ns 中国))) (NP (n 原则))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>

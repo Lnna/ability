@@ -1,0 +1,124 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (NP (NP-PN (ns 波罗的海)) (NP (QP (m 三)) (NP (n 国))))
+    (NP (n 总统)))
+  (VP
+    (PP (p 就) (IP (NP-PN-SBJ (ns 俄)) (VP (vi 撤军))))
+    (VP (v 发表) (NP-OBJ (n 声明))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 莫斯科)
+  (t ８月)
+  (t ３１日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 谢荣)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP-PN (ns 波罗的海)) (NP (QP (m ３)) (NP (n 国))))
+    (NP (n 总统)))
+  (VP
+    (NP-TMP (t ８月) (t ３１日))
+    (VP
+      (VP (v 发表) (NP-OBJ (ADJP (n 联合)) (NP (n 声明))))
+      (VP
+        (v 指出)
+        (wd ，)
+        (IP-OBJ
+          (IP-SBJ
+            (NP-PN-SBJ (ns 俄))
+            (VP
+              (PP-DIR
+                (p 从)
+                (NP (NP-PN (ns 波罗的海)) (NP (QP (m ３)) (NP (n 国)))))
+              (VP (vi 撤军))))
+          (VP
+            (ADVP (d 将))
+            (VP
+              (wyz “)
+              (v 巩固)
+              (NP-OBJ (DNP (NP-PN (ns 欧洲)) (ude 的)) (NP (an 安全)))
+              (wyy ”)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 声明))
+  (VP
+    (v 强调)
+    (IP-OBJ
+      (IP-SBJ (NP-PN-SBJ (ns 俄罗斯)) (VP (v 完成) (NP-OBJ (n 撤军))))
+      (VP
+        (v 应)
+        (VP
+          (v 促进)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP-PN (ns 俄))
+                (PP (p 同) (NP (NP-PN (ns 波罗的海)) (NP (n 国家))))
+                (NP (n 关系)))
+              (ude 的))
+            (NP (n 发展)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-TPC (ns 俄))
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 驻) (NP-PN-OBJ (ns 立陶宛))))
+        (ude 的)))
+    (NP (n 军队)))
+  (VP
+    (ADVP (a 早))
+    (PP-TMP (p 在) (LCP (QP (m 一) (CLP (q 年))) (f 前)))
+    (VP (v 撤回) (y 了) (NP-PN-OBJ (ns 俄罗斯))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 今年) (t ８月) (t ３１日))
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-PN-TPC (ns 俄))
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (v 驻) (NP-PN-OBJ (ns 拉脱维亚))))
+          (ude 的)))
+      (NP (n 军队)))
+    (VP (ADVP (m 全部)) (VP (v 撤离))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 驻) (NP-PN-OBJ (ns 爱沙尼亚))))
+          (ude 的)))
+      (NP (n 俄军)))
+    (VP
+      (ADVP (d 也))
+      (PP-TMP (p 于) (NP (t 今年) (t ８月) (t ２９日)))
+      (VP (v 完成) (y 了) (NP-OBJ (n 撤军) (n 工作)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

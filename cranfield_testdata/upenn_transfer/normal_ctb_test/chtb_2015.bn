@@ -1,0 +1,133 @@
+<S>
+( (IP
+  (PP-LOC (p 在) (NP (NP (n 大陆) (n 消息)) (NP (n 方面))))
+  (wd ，)
+  (NP-SBJ-1
+    (NP-APP
+      (NP
+        (ADJP (d 原来))
+        (NP-PN (ns 广西省) (ns 北海市))
+        (NP (n 经济) (n 协作) (n 委员会) (n 主任)))
+      (wn 、)
+      (NP (NP-PN (nt 经协) (n 实业) (n 开发) (n 公司)) (NP (n 总经理))))
+    (NP-PN (nr 王淑桦)))
+  (VP
+    (PP-PRP
+      (c 因为)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (vi 受贿) (NP-OBJ (QP (m １０万) (CLP (q 元))) (NP (n 人民币))))))
+    (NP-TMP (t 日前))
+    (VP
+      (pbei 被)
+      (IP-OBJ
+        (NP-PN (ns 北海市) (ns 海城区) (n 法院))
+        (VP
+          (NP-ADV (b 一审))
+          (VP
+            (v 判处)
+            (NP-IO (-NONE- *-1))
+            (NP-OBJ (nl 有期徒刑))
+            (QP-EXT (m ５) (CLP (q 年))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 根据) (IP (NP-PN-SBJ (n 大陆) (n 新华网)) (VP (v 报道))))
+  (wd ，)
+  (NP-SBJ (n 法院))
+  (VP
+    (VSB (v 审理) (v 认定))
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (nr 王淑桦))
+      (VP
+        (NP-TMP
+          (IP-APP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 担任)
+              (NP-OBJ
+                (NP
+                  (NP-PN (ns 北海市) (n 经济) (n 协作) (n 委员会))
+                  (NP (n 主任)))
+                (v 兼)
+                (NP
+                  (NP-PN (ns 北海) (nt 经协) (n 实业) (n 开发) (n 公司))
+                  (NP (n 总经理))))))
+          (NP (f 期间)))
+        (wd ，)
+        (VP
+          (VP
+            (PP-ADV
+              (p 与)
+              (NP-PN (ns 北海) (n 华侨) (n 房地产) (n 开发) (n 公司)))
+            (VP
+              (v 签订)
+              (NP-OBJ
+                (IP-APP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 转让)
+                    (NP-OBJ (QP (m ３０) (CLP (q 亩))) (NP (n 土地)))))
+                (NP (n 合同)))))
+          (wd ，)
+          (VP
+            (v 接受)
+            (NP-OBJ
+              (NP (NP-PN (n 华侨) (n 房地产) (n 公司)) (NP (n 经理)))
+              (NP (n 贿赂)))
+            (QP-EXT (m １０万) (CLP (q 元))))
+          (VP (v 购买) (NP-OBJ (n 楼房)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今年) (t 一月))
+  (wd ，)
+  (NP-PN-SBJ (nr 王淑桦))
+  (VP
+    (VP (ADVP (ad 主动)) (VP (v 交代) (NP-OBJ (n 受贿) (n 事实))))
+    (c 并且)
+    (VP (v 退回) (NP-OBJ (n 楼房))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 法院))
+  (VP
+    (VP
+      (v 认定)
+      (IP-OBJ
+        (NP-PN-SBJ (nr 王淑桦))
+        (VP (ADVP (d 已经)) (VP (v 构成) (NP-OBJ (n 受贿罪))))))
+    (wd ，)
+    (VP
+      (ADVP (c 但是))
+      (PP-PRP
+        (IP (VP (vyou 有) (QP (CLP (p 鉴于)))))
+        (IP
+          (NP-PN-SBJ (nr 王淑桦))
+          (VP
+            (VP (vi 自首))
+            (c 并且)
+            (VP (ADVP (ad 积极)) (VP (v 退回) (NP-OBJ (n 赃款)))))))
+      (wd ，)
+      (VP
+        (VP
+          (ADVP (d 依法))
+          (VP (v 轻判) (NP-OBJ (nl 有期徒刑)) (QP-EXT (m ５) (CLP (q 年)))))
+        (wd ，)
+        (VP
+          (v 没收)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (usuo 所) (VP (v 退) (NP-OBJ (-NONE- *T*-1))))))
+            (NP (n 房屋))))
+        (c 并且)
+        (VP (v 上缴) (NP-OBJ (n 国库))))))
+  (wj 。)))
+</S>

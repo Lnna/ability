@@ -1,0 +1,277 @@
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿) (n 总统))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (ns 印度) (c 和) (ns 巴基斯坦))
+              (VP
+                (PP-PRP
+                  (v 为)
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (v 消除)
+                      (NP-OBJ
+                        (NP (NP-PN (ns 克什米尔)) (NP (n 地区)))
+                        (ADJP (a 紧张))
+                        (NP (n 气氛))))))
+                (VP (c 而) (VP (v 采取) (NP-OBJ (-NONE- *T*-1))))))
+            (ude 的)))
+        (NP (n 步骤))))
+    (VP (v 表示) (NP-OBJ (v 赞扬))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (v 呼吁)
+    (NP-OBJ (n 双方))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-MNR (p 通过) (NP (v 谈判)))
+        (wd ，)
+        (VP
+          (v 解决)
+          (NP-OBJ
+            (DNP (LCP (NP (r 他们)) (f 之间)) (ude 的))
+            (ADJP (b 长期))
+            (NP (n 冲突)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 请)
+    (VP
+      (v 听)
+      (NP-OBJ
+        (DNP
+          (NP (NP-APP (NP-PN (n 美国之音)) (NP (n 记者))) (NP-PN (nrf 泰特)))
+          (ude 的))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿) (n 总统))
+  (VP
+    (VP (v 发表) (NP-OBJ (ADJP (b 书面)) (NP (n 声明))))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 对)
+        (IP
+          (NP-PN-SBJ (ns 印度))
+          (VP
+            (v 决定)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (d 将)
+                (IP-OBJ
+                  (NP-SBJ-1 (ADJP (d 单方面)) (NP (vi 停火)))
+                  (VP
+                    (v 延长)
+                    (NP-OBJ (-NONE- *-1))
+                    (NP-EXT (QP (m 一个)) (NP (n 月))))))))))
+      (VP (v 表示) (NP-OBJ (v 欢迎)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-SBJ (r 这))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-PRP
+                    (v 为)
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (v 终止) (NP-OBJ (vi 冲突)))))
+                  (VP
+                    (c 而)
+                    (VP
+                      (ADVP (vi 向前))
+                      (VP (vi 迈进) (NP-OBJ (-NONE- *T*-1)))))))
+              (ude 的)))
+          (ADJP (a 重大))
+          (QP (m 一))
+          (NP (q 步))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (DNP (NP-PN (ns 印度)) (ude 的)) (DP (r 这项)) (NP (n 决定)))
+      (VP
+        (VRD (v 显示) (v 出))
+        (IP-OBJ
+          (NP-PN-SBJ (nrf 瓦杰帕伊) (n 总理))
+          (VP
+            (VP (vyou 有) (NP-OBJ (n 决心)))
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 克什米尔)))
+              (VP (v 谋求) (NP-OBJ (n 和平)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ
+        (NP (DP (r 这) (QP (m 一))) (NP (n 举动)))
+        (c 以及)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (ns 巴基斯坦))
+                (VP (usuo 所) (VP (v 做出) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (n 反应))))
+      (VP
+        (v 使)
+        (NP-OBJ (n 国际) (n 社会))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 增加)
+            (y 了)
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP-PN-SBJ (ns 克什米尔))
+                  (VP (v 可能) (VP (v 恢复) (NP-OBJ (n 和平)))))
+                (ude 的))
+              (NP (n 希望))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (ns 巴勒斯坦)) (ude 的)) (NP (n 反应)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-DIR
+          (p 从)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (vyou 有) (NP-OBJ (n 争议))))
+                (ude 的)))
+            (NP (n 边界) (n 地区))))
+        (VP (v 撤出) (NP-OBJ (QP (m 部分)) (NP (n 军队)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿) (n 总统))
+  (VP
+    (ADVP (d 曾))
+    (PP-TMP
+      (p 在)
+      (NP (t 今年) (PP (ADVP (a 早)) (NP (QP (CLP (q 些))) (NP (n 时候))))))
+    (VP
+      (v 访问)
+      (NP-OBJ (NP-PN (ns 印) (wn 、) (ns 巴)) (QP (m 两)) (NP (n 国)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 声明)) (f 中)))
+    (VP
+      (v 呼吁)
+      (NP-OBJ (ADJP (n 有关)) (r 各方))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (v 放弃) (NP-OBJ (n 暴力)))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (PP-MNR (p 经由) (NP (vi 对话)))
+            (ADVP (ad 和平))
+            (VP (v 解决) (NP-OBJ (n 冲突))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP (p 自从) (LCP (NP (t １９４７年)) (f 以来)))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 印) (wn 、) (ns 巴)) (QP (m 两)) (NP (n 国)))
+    (VP (v 进行) (uguo 过) (NP-OBJ (QP (m 三) (CLP (q 次))) (NP (n 战争)))))
+  (wd ，)
+  (CP
+    (IP
+      (QP-SBJ-1 (NP (r 其中)) (QP (m 两) (CLP (q 次))))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-LGS (p 由) (NP (NP-PN (ns 克什米尔)) (NP (n 问题))))
+          (VP (v 引起) (QP-OBJ (-NONE- *-1))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (n 双方))
+          (VP
+            (PP-PRP
+              (p 为)
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 解决) (NP-OBJ (NP-PN (ns 克什米尔)) (NP (n 问题))))))
+            (VP (c 而) (VP (v 举行) (NP-OBJ (-NONE- *T*-1))))))
+        (ude 的)))
+    (NP (n 会谈)))
+  (wd ，)
+  (VP
+    (PP-TMP (p 在) (LCP (QP (m 两) (CLP (q 年))) (f 前)))
+    (VP (v 宣告) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 破裂)))))
+  (wj 。)))
+</S>

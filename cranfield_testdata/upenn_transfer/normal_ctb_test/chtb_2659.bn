@@ -1,0 +1,123 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ-2 (-NONE- *T*-1))
+            (VP
+              (PP-LGS
+                (p 由)
+                (NP
+                  (NP-APP
+                    (NP-PN (ns 中国) (nz 基督教) (n 协会))
+                    (NP (n 会长)))
+                  (NP-PN (nr 韩温早))))
+              (VP (v 率领) (NP-OBJ (-NONE- *-2)))))
+          (ude 的)))
+      (NP-PN (ns 中国))
+      (NP (nz 基督教) (n 代表团)))
+    (VP
+      (ADVP (vi 应邀))
+      (PP-TMP
+        (p 于)
+        (NP (QP (m ２２) (CLP (q 号))) (p 到) (QP (m ２９) (CLP (q 号)))))
+      (VP (v 访问) (y 了) (NP-PN-OBJ (ns 瑞典)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 中国) (nz 基督教) (n 协会))
+      (p 与)
+      (NP (NP-PN (ns 瑞典)) (NP (n 教会))))
+    (VP
+      (v 同意)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (ADVP (d 进一步)) (VP (v 增加) (NP-OBJ (n 人员) (n 交流)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP (NP (NP-PN (ns 瑞典)) (NP (n 教会))) (NP (n 负责人)))
+      (NP-PN (nrf 哈玛尔) (n 大主教)))
+    (VP
+      (NP-TMP (t 明年))
+      (ADVP (d 将))
+      (VP
+        (VP (v 率领) (NP-OBJ (NP-PN (ns 瑞典)) (NP (nz 基督教) (n 代表团))))
+        (VP (v 访问) (NP-PN-OBJ (ns 中国))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 同意)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 进一步))
+            (VP
+              (v 扩大)
+              (NP-OBJ
+                (DNP
+                  (PP
+                    (p 在)
+                    (LCP (NP (n 神学) (n 理论) (n 研究) (n 领域)) (f 里)))
+                  (ude 的))
+                (NP (n 合作)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (v 包括)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (NP-PN (ns 中国)) (NP (n 方面)))
+          (VP
+            (ADVP (d 将))
+            (VP
+              (v 派遣)
+              (NP-OBJ (n 学生))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP (v 到) (NP-PN-OBJ (ns 瑞典)))
+                  (VP (v 进修) (NP-OBJ (n 神学))))))))
+        (udeng 等))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 达成)
+        (y 了)
+        (NP-OBJ
+          (NP
+            (DP (r 其它) (QP (m 一些)))
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 具体))) (ude 的)))
+            (NP (n 合作) (n 意向) (n 协议)))
+          (wd ，)
+          (PRN
+            (IP
+              (ADVP (v 如))
+              (IP
+                (IP
+                  (NP-SBJ (NP-PN (ns 瑞典)) (NP (n 教会)))
+                  (VP
+                    (ADVP (d 将))
+                    (VP
+                      (v 帮助)
+                      (NP-PN-OBJ (ns 中国) (nz 基督教) (n 协会))
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (IP (VP (v 召) (NP (v 募))))
+                          (NP-OBJ (nz 英文) (n 教员)))))))
+                (udeng 等))))))))
+  (wj 。)))
+</S>

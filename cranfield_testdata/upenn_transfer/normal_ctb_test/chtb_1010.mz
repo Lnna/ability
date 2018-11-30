@@ -1,0 +1,1791 @@
+<S>
+( (QP-HLN (NP (n 大陆)) (QP (m 第一) (CLP (q 座))) (wm ：)))
+</S>
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (NP-PN (ns 东莞)) (NP (n 台商) (n 子弟)) (NP (n 学校)))
+  (VP (vi 动土))))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (n 台商))
+    (VP (PP-LOC (p 在) (NP (f 外))) (VSB (v 打) (n 拚))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 最))
+            (VP (VPT (v 放心) (d 不) (v 下)) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (NP-APP (n 家庭))
+      (wd ，)
+      (NP
+        (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+        (NP (DNP (LCP (NP (vi 成长)) (f 中)) (ude 的)) (NP (n 子女))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (n 台商))
+            (VP (ADVP (d 高度)) (VP (v 集中) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (n 大陆))
+      (NP-PN (ns 东莞))
+      (NP (n 地区))))
+  (wd ，)
+  (NP-SBJ
+    (QP (NP (DP (a 全)) (NP (n 大陆))) (QP (m 第一) (CLP (q 所))))
+    (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校))))
+  (VP
+    (VP (ADVP (d 已然)) (VP (vi 动工)))
+    (wd ，)
+    (VP
+      (ADVP (d 将))
+      (PP-TMP (p 在) (NP (t 今年) (t 九月)))
+      (ADVP (ad 正式))
+      (VP (vi 招生)))
+    (wd ，)
+    (VP
+      (PP-BNF
+        (p 为)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 解决)
+            (NP-OBJ
+              (NP (n 台商))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (IP (VP (v 恼) (NP (n 人)))))
+                  (ude 的)))
+              (NP (n 子女) (n 教育))
+              (NP (n 问题))))))
+      (VP
+        (VRD (v 跨) (v 出))
+        (QP-OBJ (m 一) (CLP (ADJP (a 大)) (CLP (q 步)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 有时))
+    (VP
+      (IP (VP (v 想) (IP (VP (v 想)))))
+      (IP-OBJ
+        (IP
+          (IP-ADV
+            (NP-SBJ (n 人生))
+            (VP (VRD (v 走) (v 到)) (NP-OBJ (DP (r 这个)) (NP (n 地步)))))
+          (wd ，)
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 该) (VP (vyou 有) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的))))
+          (VP (ADVP (d 都)) (VP (vyou 有) (y 了))))
+        (wd ，)
+        (IP
+          (ADVP (c 但))
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (VP (vi 回头)) (VP (ADVP (d 一)) (VP (v 看)))))
+          (wd ，)
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 却))
+            (ADVP (d 彷佛))
+            (NP-TPC (r 什么))
+            (VP (ADVP (d 都)) (VP (d 没) (VP (v 留下)))))))))
+  (wt ！)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 说话))) (ude 的)))
+      (NP (n 人)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP-APP
+          (DNP
+            (NP-PN (NP-PN (ns 东莞)) (NP-PN (nz 东聚) (n 电业)))
+            (ude 的))
+          (NP (n 董事长)))
+        (NP-PN (nr 叶宏灯)))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (r 他))
+      (VP
+        (v 到)
+        (NP-OBJ (n 大陆))
+        (QP-EXT (QP (m 十)) (NP (m 余)) (CLP (q 年)))))
+    (IP
+      (LCP-SBJ (IP (NP-SBJ (-NONE- *pro*)) (VP (v 辖))) (f 下))
+      (VP (vyou 有) (NP-OBJ (QP (m 九) (CLP (q 个))) (NP (n 厂))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (LCP (s 手下)) (NP (n 员工)))
+    (VP (QP-PRD (ADVP (v 超过)) (QP (m 四千) (CLP (q 名))))))
+  (wd ，)
+  (IP-Q
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (VP (nl 事业有成))
+              (d 又)
+              (VP
+                (ADVP (ad 素))
+                (VP (v 孚) (IP (NP (n 人)) (VP (v 望)))))))
+          (ude 的)))
+      (NP (r 他)))
+    (wd ，)
+    (VP (ADVP-WH (r 为何)) (ADVP (r 这么)) (VP (a 感伤))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (wyz 「)
+    (IP
+      (NP-SBJ (DNP (NP (r 我)) (ude 的)) (NP (n 太太)))
+      (VP
+        (NP-TMP (t 最近))
+        (ADVP (d 不断))
+        (VP
+          (VP
+            (PP-DIR (p 从) (NP-PN (ns 加拿大)))
+            (VP (VP (vi 打电话)) (VP (v 来))))
+          (wd ，)
+          (VP
+            (v 谈及)
+            (NP-OBJ
+              (NP (n 孩子))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 头痛))) (ude 的)))
+              (NP (n 管教) (n 问题)))))))
+    (wd ，)
+    (IP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (c 即使))
+          (VP
+            (PP-PRD
+              (PP (p 从) (NP-PN (ns 台湾)))
+              (PP (p 到) (NP-PN (ns 加拿大)))))))
+      (wd ，)
+      (NP-SBJ (n 孩子))
+      (VP (ADVP (d 还是)) (VP (VPT (v 管) (d 不) (vi 住)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (v 怕)) (VP (v 要) (VP (VRD (v 变) (a 坏)) (y 了)))))
+    (w ……)
+    (wyy 」))
+  (IP
+    (NP-PN-SBJ (nr 叶宏灯))
+    (VP
+      (LCP-TMP (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 说话))) (n 时))
+      (VP
+        (VP
+          (IP (VP (ADVP (d 紧)) (VP (v 蹙))))
+          (uzhe 着)
+          (NP-OBJ (n 眉头)))
+        (wd ，)
+        (VP
+          (NP-PRD
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (m 十分)) (VP (v 困扰))))
+              (ude 的))
+            (NP (n 样子)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VRD (v 说) (v 起))
+        (NP-OBJ (DNP (NP (n 台商) (n 子女)) (ude 的)) (NP (n 教育) (n 问题)))))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP (vshi 是) (NP (DNP (ADJP (b 切身)) (uzhi 之)) (NP (an 痛)))))
+  (wd ，)
+  (wyy 」)
+  (NP-SBJ (r 他))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-VOC (n 孩子))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 要)
+    (NP-OBJ (r 你))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP (p 比) (NP (r 我))) (VP (a 强)))))))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 卸下)
+          (NP-OBJ
+            (NP (NP-PN (ns 东莞) (nt 台协)) (NP (n 会长)))
+            (NP (n 职务)))))
+      (f 后))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (d 便))
+        (VP
+          (v 接)
+          (y 了)
+          (NP-OBJ
+            (NP
+              (NP-PN (NP-PN (ns 东莞)) (NP (n 台商) (n 子弟)) (NP (n 学校)))
+              (NP (n 筹备) (n 主任)))
+            (NP (n 职务)))))
+      (wd ，)
+      (VP
+        (PP-DIR
+          (p 从)
+          (NP (wyz 「) (QP (m 一个)) (ADJP (a 小)) (NP (n 火坑))))
+        (wd ，)
+        (VP
+          (vi 跳)
+          (PP (v 到) (NP (QP (m 一个)) (ADJP (a 大)) (NP (n 火坑))))))))
+  (wd ，)
+  (wyy 」)
+  (NP-SBJ (r 他))
+  (VP (v 表示) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (NP-PN (ns 东莞))
+      (QP (QP (QP (m 三千)) (ADVP (m 多))) (CLP (q 家)))
+      (NP (n 台商)))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-1))
+            (NP-SBJ (n 眷属))
+            (VP (ADVP (d 一起)) (VP (v 来))))
+          (ude 的))))
+    (VP (QP-PRD (IP (VP (ADVP (d 不)) (VP (v 到)))) (QP (m 百分之五)))))
+  (wd ，)
+  (IP
+    (IP-TPC-2
+      (IP
+        (NP-SBJ (n 台商))
+        (VP (ADVP (d 只身)) (VP (v 在) (NP-OBJ (f 外)))))
+      (wd ，)
+      (IP
+        (NP-TPC (n 子女))
+        (PP-PRP
+          (p 因)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 乏)
+              (NP-OBJ (n 人))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (n 管教))))))
+        (wn 、)
+        (NP-TPC (n 配偶))
+        (PP-PRP
+          (p 因)
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 长期)) (VP (a 孤单)))))
+        (wd ，)
+        (wyz 「)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 造成)
+          (NP-OBJ (QP (m 不少)) (NP (n 家庭) (c 及) (n 社会)) (NP (n 问题))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 他))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (n 台商) (n 眷属))
+  (VP
+    (ADVP-WH (r 为何))
+    (ADVP (d 不))
+    (VP (v 愿) (VP (v 来) (NP-OBJ (n 大陆)))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (IP
+        (NP-SBJ (n 眷属))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 台)))
+          (VP (vyou 有) (NP-OBJ (n 工作)))))
+      (wn 、)
+      (IP
+        (NP-TPC (n 大陆))
+        (NP-SBJ (n 治安) (wn 、) (n 医疗) (n 条件))
+        (VP (ADVP (d 不)) (VP (a 佳))))
+      (udeng 等))
+    (VP (ADVP (d 都)) (VP (vshi 是) (NP-PRD (n 原因)))))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-DIR
+          (p 对)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (NP-LOC (n 家)) (VP (vyou 有) (NP-OBJ (n 子女)))))
+                (ude 的)))
+            (NP (n 台商))))
+        (VP (u 来说))))
+    (wd ，)
+    (IP-Q-SBJ (NP-SBJ (n 大陆) (n 教育) (n 品质)) (VP-WH (r 如何)))
+    (VP (ADVP (d 更)) (VP (vshi 是) (NP-PRD (n 关键)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-1
+      (wyz 「)
+      (IP-Q
+        (NP-SBJ
+          (CP-APP (IP (NP-SBJ (r 我们)) (VP (v 打) (NP (n 拚)))) (ude 的))
+          (NP (n 目的)))
+        (VP (vshi 是) (PP-PRD (r 为什么))))
+      (ww ？)
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 总))
+            (VP
+              (v 希望)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 让)
+                  (DP-OBJ (n 下一代))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (vyou 有)
+                      (NP-OBJ
+                        (CP
+                          (WHNP-2 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-2))
+                              (VP (ADVP (d 更)) (VP (a 好))))
+                            (ude 的)))
+                        (NP (n 生活))))))))))
+        (y 呀)))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ
+      (NP-APP
+        (NP (NP-PN (ns 东莞)) (NP (n 台商) (n 妇女)) (NP (n 联谊会)))
+        (ADJP (b 副))
+        (NP (n 会长)))
+      (NP-PN (nr 杨惠德)))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-1))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (n 大陆)) (ude 的)) (NP (n 教育) (n 水准)))
+    (VP (ADVP (d 不)) (VP (a 差))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (n 生活) (n 习惯))
+    (VP (ADVP (d 却)) (ADVP (d 总)) (VP (vl 格格不入))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-Q
+    (wyz 「)
+    (PP-TMP
+      (p 当)
+      (LCP
+        (IP
+          (NP-SBJ (n 孩子))
+          (VP
+            (VP (v 回来))
+            (VP
+              (VP
+                (ADVP (d 大))
+                (VP (v 唱) (NP-OBJ (NP-PN (nt 中共)) (NP (n 国歌)))))
+              (wd ，)
+              (d 又)
+              (VP
+                (ADVP (d 大))
+                (VP
+                  (v 骂)
+                  (NP-OBJ (NP (nr 蒋匪帮)) (wn 、) (NP-PN (nr 李登辉)))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (vshi 是) (NP-PRD (n 历史) (n 败类)))))))))
+        (n 时)))
+    (wd ，)
+    (NP-SBJ (r 你))
+    (VP (ADVP-WH (r 如何)) (VP (v 处理))))
+  (ww ？)
+  (wyy 」)
+  (IP
+    (NP-SBJ (QP (m 一) (CLP (q 位))) (NP (n 台商)))
+    (VP
+      (ADVP (d 就))
+      (VP (v 碰到) (NP-OBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 事情))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (nr 徐沆)) (ude 的)) (NP (n 方式)))
+    (VP
+      (ADVP (d 颇))
+      (VP
+        (v 令)
+        (NP-OBJ (n 人))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 激赏))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP-DIR (p 对) (NP (QP (m 许多)) (NP (n 台商)))) (VP (u 来说))))
+    (wd ，)
+    (NP-SBJ (DNP (NP (n 直觉)) (ude 的)) (NP (n 反应)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (wyz 「)
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (d 不)) (VP (v 习惯)))
+          (wyy 」)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-2
+    (wyz 「)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 怕) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VRD (v 培养) (v 出))
+          (NP-OBJ (QP (m 一个个)) (ADJP (a 小)) (NP (n 共产党)))))))
+  (wd ，)
+  (wyy 」)
+  (NP-SBJ (QP (m 一) (CLP (q 位))) (NP (n 台商)))
+  (VP (ADVP (r 这样)) (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 台商))
+    (VP
+      (VP (PP-LOC (p 在) (NP (n 大陆))) (VSB (v 打) (n 拚)))
+      (wd ，)
+      (VP
+        (ADVP (c 但))
+        (ADVP (d 并))
+        (ADVP (d 不))
+        (VP
+          (v 希望)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (PP (p 与) (NP-PN (ns 台湾))) (VP (vi 脱节))))))))
+  (wd ，)
+  (IP
+    (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+    (NP-SBJ (DNP (NP (n 孩子)) (ude 的)) (NP (n 教育)))
+    (VP
+      (ADVP (d 更))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (LCP-TMP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 回) (NP-PN-OBJ (ns 台湾))))
+              (f 后))
+            (VP
+              (v 能)
+              (VP (ADVP (d 立刻)) (VP (wyz 「) (vi 接轨) (wyy 」)))))))))
+  (wd ，)
+  (IP
+    (PP-TMP
+      (p 当)
+      (IP
+        (NP-SBJ (NP-PN (ns 东莞)) (NP (n 台商)))
+        (VP
+          (IP (VP (ADVP (d 越)) (VP (v 聚))) (ADVP (d 越)))
+          (VP (a 多)))))
+    (wd ，)
+    (NP-SBJ
+      (DNP (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校))) (ude 的))
+      (NP (n 设立)))
+    (VP (ADVP (d 已)) (VP (vshi 是) (VP (vl 势在必行)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP (NP (DNP (NP-PN (nr 叶宏灯)) (ude 的)) (NP (n 倡议))) (f 下)))
+  (wd ，)
+  (QP (m 九四) (CLP (q 年)))
+  (NP-PN-SBJ (nt 台协))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 开始)
+      (VP
+        (PP-BNF
+          (v 为)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 创设) (NP-PN-OBJ (NP (n 台商) (n 子弟)) (NP (n 学校))))))
+        (VP (vi 奔走)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 但))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP-LOC (p 在) (NP (n 大陆))) (VP (vi 办学))))
+    (VP (vl 非同小可)))
+  (wd ，)
+  (IP
+    (NP-TPC
+      (NP-APP (n 土地) (wn 、) (n 经费) (wn 、) (n 师资) (udeng 等))
+      (NP (n 环节)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 都)) (VP (v 要) (VP (v 克服)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-Q-TPC
+    (LCP-LOC
+      (IP
+        (NP-SBJ (NP (n 两岸)) (NP (n 政治)))
+        (VP (ADVP (d 尚)) (ADVP (p 在)) (VP (vi 对立))))
+      (f 之下))
+    (wd ，)
+    (NP-PN-SBJ (NP-PN (ns 东莞)) (NP (n 台商) (n 学校)))
+    (VP-WH
+      (v 能否)
+      (VP
+        (wyz 「)
+        (VP
+          (v 聘)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (NP-PN-DIR (ns 台湾)) (VP (v 来))))
+                (ude 的)))
+            (NP (n 老师))))
+        (wn 、)
+        (VP (v 用) (NP-OBJ (DNP (NP-PN (ns 台湾)) (ude 的)) (NP (n 教材))))
+        (wn 、)
+        (VP
+          (v 请)
+          (NP-OBJ (n 台湾人))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 任) (NP-OBJ (n 校长)))))
+        (wyy 」)
+        (udeng 等))))
+  (wd ，)
+  (DP-SBJ (r 每) (CLP (q 项)))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (vi 待)
+      (NP-OBJ (-NONE- *pro*))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (v 协商) (v 突破))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-LOC (p 在) (DP (NP-PN (ns 台湾)) (DP (r 这边))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 东莞)) (NP (n 台商)))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (n 台商))
+        (VP (PP-LOC (p 在) (NP-PN (ns 台湾))) (ADVP (d 也)) (VP (vi 缴税))))
+      (wd ，)
+      (IP-Q
+        (IP-CND
+          (NP-SBJ (-NONE- *pro*))
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-LOC (p 在) (NP (n 大陆)))
+              (VP (v 办) (NP-OBJ (n 台商) (n 小学)))))
+          (ADVP (c 若))
+          (VP (v 沿袭) (NP-OBJ (wyz 「) (n 台制) (wyy 」))))
+        (wd ，)
+        (NP-PN-SBJ (nt 教育部))
+        (VP
+          (ADVP-WH (v 是否))
+          (VP
+            (v 能)
+            (VP
+              (IP-ADV
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 仿照)
+                  (NP-OBJ
+                    (NP (NP (ADJP (b 私立)) (NP (n 学校))) (NP (n 设置)))
+                    (NP (n 办法)))))
+              (VP (v 给予) (NP-OBJ (n 补助)))))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 若是))
+    (IP
+      (NP-SBJ (NP (ADJP (b 公立)) (NP (n 学校))) (NP (n 教师)))
+      (VP
+        (v 愿意)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VP (vi 前来) (NP-OBJ (n 大陆))) (VP (vi 教书)))))))
+  (wd ，)
+  (IP-Q-SBJ
+    (IP
+      (NP-SBJ (n 年资))
+      (VP (ADVP-WH (v 是否)) (VP (v 能够) (VP (v 延续)))))
+    (udeng 等))
+  (wd ，)
+  (VP
+    (ADVP (d 也))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校)))
+                (VP (n 筹备) (NP (n 处))))
+              (VP
+                (v 亟待)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 争取) (NP-OBJ (-NONE- *T*-1))))))
+            (ude 的)))
+        (NP (n 重点)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (CP-CND
+      (ADVP (c 如果))
+      (IP
+        (NP-SBJ (DNP (ADJP (b 现任)) (ude 的)) (NP (n 教师)))
+        (VP (ADVP (d 不)) (VP (v 能) (VP (v 来))))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR (p 对) (NP (DNP (NP (n 师资)) (ude 的)) (NP (n 品质))))
+      (ADVP (d 恐))
+      (VP (vyou 有) (NP-OBJ (n 影响)))))
+  (wd ，)
+  (wyy 」)
+  (NP-PN-SBJ (nr 叶宏灯))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-PRP (bl 为此))
+    (wd ，)
+    (NP-PN-SBJ (nr 叶宏灯))
+    (VP
+      (ADVP (d 常))
+      (PP-DIR
+        (p 向)
+        (NP
+          (NP (n 两岸))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 主事))))
+          (NP (n 官员))))
+      (VP
+        (v 强调)
+        (IP-OBJ
+          (wyz 「)
+          (IP
+            (NP-SBJ (n 政治))
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (DNP
+                  (NP (NP-APP (r 你们)) (NP (wyz 『) (n 大人) (wyy 』)))
+                  (ude 的))
+                (NP (n 事)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 孩子)))
+            (VP (v 需要) (VP (VP (vi 念书)) (VP (v 受) (NP-OBJ (n 教育))))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (NP-PRD (r 如此)) (ADVP (y 而已))))))))
+  (wd ，)
+  (wyy 」)
+  (IP
+    (NP-SBJ (r 他))
+    (VP (ADVP (d 不断)) (VP (VP (vi 奔走)) (VP (v 排解) (NP-OBJ (n 难关))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-TMP (p 于) (NP (t 去年) (t 年底)))
+      (ADVP (d 总算))
+      (ADVP (d 大致))
+      (VCD (v 抵) (v 定))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (wd ，)
+    (PP-DIR
+      (p 对)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (n 台商)) (VP (v 提出) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP-APP (n 教材) (wn 、) (n 师资) (udeng 等))
+        (NP (n 题))))
+    (wd ，)
+    (NP-SBJ (n 大陆) (n 方面))
+    (VP (ADVP (d 皆)) (ADVP (d 已)) (VP (v 同意))))
+  (wd ，)
+  (IP
+    (IP-TPC-2
+      (PP-TPC (p 至于) (NP (n 校长)))
+      (wd ，)
+      (wyz 「)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 可能)
+        (VP
+          (ADVP (d 也))
+          (PP-MNR (p 以) (NP (n 总监) (n 名称)))
+          (ADVP (n 弹性))
+          (VP (n 处理)))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ
+      (NP-APP (NP-PN (nt 台协)) (ADJP (b 副)) (NP (n 会长)))
+      (NP-PN (nr 叶春荣)))
+    (VP (v 猜测) (IP-OBJ (-NONE- *T*-2))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (DNP (NP (ADJP (v 娇娇)) (NP (n 子女))) (ude 的)) (NP (n 挑战))))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 叶宏灯))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 目前))
+        (NP-PN-SBJ (ns 东莞))
+        (VP
+          (ADVP (d 约))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ (QP (m 四百) (CLP (q 名))) (NP (n 台商) (n 子弟)))
+              (VP (PP-LOC (p 在) (NP (n 大陆))) (VP (vi 念书)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (DNP (QP (m 百分之四十)) (ude 的)) (NP (n 孩子)))
+        (VP (v 念) (NP-OBJ (NP (n 大陆)) (ADJP (a 一般)) (NP (n 中小学)))))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 经济) (n 情况))
+                (VP (ADVP (d 较)) (VP (a 好))))
+              (ude 的)))
+          (NP (n 台商)))
+        (VP
+          (ADVP (c 则))
+          (ADVP (d 通常))
+          (VP
+            (v 送)
+            (NP-OBJ (n 孩子))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 到)
+                (NP-OBJ
+                  (NP-PN
+                    (NP (NP-PN (ns 香港)) (NP (n 子弟)))
+                    (NP (n 学校)))
+                  (c 或)
+                  (NP-PN (NP (n 外商) (n 子弟)) (NP (n 学校)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (nt 台协) (n 妇女) (n 联谊会)) (NP (n 会长)))
+    (NP-PN (nr 张梅良)))
+  (VP (v 属于) (NP-OBJ (r 后者)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (r 她)) (ude 的))
+    (QP (m 一) (CLP (q 双)))
+    (NP (n 儿女)))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 台湾)))
+          (VP (VRD (v 念) (vi 完)) (NP-OBJ (n 小学)))))
+      (f 以后))
+    (wd ，)
+    (ADVP (d 就))
+    (VP
+      (VP (VRD (v 送) (v 到)) (NP-PN-OBJ (ns 英国)))
+      (VP (v 念) (NP-OBJ (n 寄宿) (n 学校)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ (DNP (QP (m 十) (CLP (q 岁))) (ude 的)) (NP (n 老三)))
+  (VP
+    (VP (ADVP (d 还)) (ADVP (d 太)) (VP (a 小)))
+    (wd ，)
+    (VP
+      (ADVP (d 便))
+      (PP-LOC
+        (p 在)
+        (NP
+          (DNP (NP-PN (ns 深圳)) (ude 的))
+          (NP-PN (NP (NP-PN (ns 香港)) (NP (n 子弟))) (NP (n 学校)))))
+      (VP (vi 读书)))
+    (wd ，)
+    (VP
+      (QP-TMP (m 一) (CLP (q 周)))
+      (ADVP (d 才))
+      (VP (vi 回家) (QP-EXT (m 一) (CLP (q 次))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 三)) (NP (n 人)))
+  (VP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VRD (v 加) (v 起来))))
+    (QP-ADV (m 一) (CLP (q 年)))
+    (ADVP (d 也))
+    (VP (v 得) (VP (v 花费) (NP-OBJ (QP (m 几十万)) (NP (n 台币))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (NP (NP-PN (ns 香港)) (NP (n 子弟))) (NP (n 小学)))
+      (p 与)
+      (NP-PN (NP (n 外商) (n 子弟)) (NP (n 学校))))
+    (VP
+      (VP (ADVP (d 都)) (VP (PP-PRD (p 在) (NP-PN (ns 深圳)))))
+      (wd ，)
+      (VP
+        (PP-DIR (v 离) (NP-PN (ns 东莞)))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (QP
+              (QP (m 一) (CLP (-NONE- *RNR*-1)))
+              (QP (m 两) (CLP-1 (q 个))))
+            (NP (n 钟头)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (QP (m 许多)) (NP-PN (ns 东莞)) (NP (n 台商)))
+    (VP
+      (ADVP (d 仍))
+      (VP
+        (wyz 「)
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (DP-TMP (r 每天)) (VP (v 看到) (NP-OBJ (n 孩子)))))
+        (wyy 」))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP-TMP (p 从) (NP (t 前年) (t 二月))) (VP (v 开始))))
+    (wd ，)
+    (NP-SBJ (QP (m 一些)) (NP-PN (ns 东莞)) (NP (n 台商)))
+    (VP
+      (ADVP (d 又))
+      (VP
+        (vi 筹资)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 厚街镇)))
+              (VP
+                (v 创办)
+                (NP-PN-OBJ
+                  (NP-PN (wyz 「) (ADJP (a 小)) (NP-PN (n 牛津)) (wyy 」))
+                  (ADJP (n 双语))
+                  (NP (n 学校)))))
+            (wd ，)
+            (VP
+              (v 招收)
+              (NP-OBJ
+                (DNP
+                  (PP
+                    (PP (p 从) (QP (m 三) (CLP (q 岁))))
+                    (PP
+                      (v 到)
+                      (NP (NP (n 国小)) (QP (m 五)) (NP (n 年级)))))
+                  (ude 的))
+                (NP (n 学生)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP
+          (NP-APP (DP (r 有些)) (NP (n 台商)))
+          (NP (ADVP (p 像)) (NP-PN (nr 徐沆))))
+        (ude 的))
+      (NP (n 小孩)))
+    (VP
+      (ADVP (d 便))
+      (PP-DIR (p 从) (NP-PN (ns 深圳)))
+      (VP (v 转) (NP (v 回)))))
+  (wd ，)
+  (IP
+    (ADVP (d 也))
+    (NP-SBJ (DP (r 有些)) (NP (n 台商)))
+    (VP
+      (PP-DIR (p 从) (NP (NP (n 大陆)) (ADJP (a 一般)) (NP (n 学校))))
+      (VP (VRD (v 转) (v 进来)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ (n 学生))
+    (VP (ADVP (d 已)) (VP (vyou 有) (NP-OBJ (QP (m 两百)) (NP (n 人))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (wyz 「) (ADJP (a 小)) (NP-PN (n 牛津)) (wyy 」))
+    (VP
+      (ADVP (d 很))
+      (VP
+        (IP (VP (a 类似) (p 于)))
+        (NP-OBJ
+          (DNP
+            (LCP (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 筹办))) (f 中))
+            (ude 的))
+          (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 不仅))
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 使用) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 教材)))
+    (VP
+      (ADVP (d 大致))
+      (PP (p 与) (NP (DNP (NP-PN (ns 台湾)) (ude 的)) (NP (n 小学))))
+      (VP (vi 雷同))))
+  (wd ，)
+  (IP
+    (LCP-SBJ (NP (QP (m 十几) (CLP (q 位))) (NP (n 老师))) (f 中))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (QP-SBJ (m 三) (CLP (q 位)))
+          (VP (PP-DIR (p 从) (NP-PN (ns 台湾))) (VP (v 来)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (d 比较)) (VP (a 不同))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (VP (v 使用) (NP-OBJ (n 中英文) (n 双语))) (VP (n 教学))))))
+  (wd ，)
+  (PP
+    (c 因为)
+    (IP
+      (IP-SBJ
+        (wyz 「)
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 加强) (NP-OBJ (nz 英语) (n 教育)))
+        (wyy 」))
+      (VP
+        (ADVP (d 也))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (n 台商))
+                  (VP (v 关心) (NP-OBJ (-NONE- *T*-3))))
+                (ude 的)))
+            (NP (n 重点)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 黄苏))
+    (VP
+      (VP (v 来自) (NP-PN-OBJ (ns 北京)))
+      (wd ，)
+      (VP (ADVP (d 原来)) (VP (v 学) (NP-OBJ (nz 英语) (wn 、) (n 电脑))))
+      (wd ，)
+      (VP
+        (PP-DIR (p 对) (NP (v 教育)))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 浓厚))) (ude 的)))
+            (NP (n 兴趣)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (VP
+          (LCP (NP (f 南)) (v 下))
+          (VP (VP (v 到) (NP-PN-OBJ (ns 东莞))) (VP (v 来))))
+        (VP
+          (v 嫁)
+          (y 了)
+          (NP-OBJ
+            (DNP (NP (QP (m 一) (CLP (q 家))) (NP (n 企业))) (ude 的))
+            (ADJP (b 台籍))
+            (NP (n 干部)))))
+      (VP
+        (c 而)
+        (VP
+          (pbei 被)
+          (IP-OBJ
+            (NP-SBJ (n 台商))
+            (VP
+              (VRD (v 敦请) (v 出来))
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 办) (NP-OBJ (n 学校))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (wyz 「) (ADJP (a 小)) (NP-PN (n 牛津)) (wyy 」))
+      (NP (n 办学) (n 成绩)))
+    (VP
+      (PP-LOC (p 在) (LCP (NP (n 台商)) (f 中)))
+      (ADVP (d 颇))
+      (VP (vyou 有) (NP-OBJ (n 口碑)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 可)
+        (VP
+          (v 看到)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (ADVP (a 远))
+                    (PP-DIR (p 从) (NP-PN (ns 珠海)))
+                    (VP (v 来))))
+                (ude 的)))
+            (NP (n 台商) (n 子弟)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 令)
+            (NP-PN-OBJ (nr 黄苏))
+            (IP (NP-SBJ (-NONE- *PRO*)) (IP (NP (n 印象)) (VP (a 深刻))))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (NP-SBJ (n 台商))
+      (VP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (c 虽然)) (VP (vi 生活) (PP (p 在) (NP (f 外))))))
+        (wd ，)
+        (ADVP (d 还是))
+        (ADVP (d 很))
+        (VP (v 注重) (NP-OBJ (DNP (NP (n 孩子)) (ude 的)) (NP (n 教育)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (p 像))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ (QP (CLP (q 位))) (NP (n 台商)))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (v 拜托)
+            (NP-PN-OBJ (nr 黄苏))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (dl 无论如何)))
+                (VP
+                  (v 要)
+                  (VP
+                    (v 收)
+                    (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 孩子))))))))))))
+  (wd ，)
+  (IP
+    (PP-TPC-1
+      (c 因为)
+      (IP
+        (NP-SBJ
+          (DNP (NP (r 他)) (ude 的))
+          (QP (m 六) (CLP (q 岁)))
+          (NP (n 孩子)))
+        (VP
+          (PP-DIR (PP (p 从) (NP (vi 出生))) (PP (p 到) (NP (t 现在))))
+          (wd ，)
+          (VP
+            (wyz 「)
+            (VP
+              (ADVP (d 只))
+              (VP
+                (v 接触)
+                (uguo 过)
+                (NP-OBJ (n 保姆) (p 跟) (n 工厂) (n 员工))))
+            (wd ，)
+            (VP (ADVP (d 从来)) (VP (d 没有) (VP (v 玩) (NP (n 伴)))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 她))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-1))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP (NP-PN (ADJP (a 小)) (NP-PN (ns 牛津))) (NP (n 校园))))
+      (wd ，)
+      (VP
+        (v 可以)
+        (VP
+          (v 看到)
+          (NP-OBJ
+            (DNP (NP (ADJP (a 不同)) (NP (n 家庭) (n 背景))) (ude 的))
+            (NP (n 台商) (n 小孩)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (PP-PRD
+          (v 好像)
+          (NP
+            (QP (m 一) (CLP (q 群)))
+            (NP (wyz 「) (ADJP (a 小)) (NP (n 台商)) (wyy 」))
+            (NP (n 社群)))))))
+  (wd ，)
+  (IP
+    (NP (n 孩子) (k 们))
+    (IP
+      (IP (NP-TPC (r 有的)) (NP-SBJ (n 中英文)) (VP (v 夹杂)))
+      (wd ，)
+      (IP
+        (NP-TPC (r 有的))
+        (NP-SBJ (vi 说话) (n 外貌))
+        (VP (ADVP (d 都)) (VP (v 酷似) (NP-OBJ (n 大陆) (n 小孩)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (ADVP (d 一)) (VP (VRD (v 问) (v 起来)))))
+  (NP-SBJ (QP (m 许多)) (NP (n 孩子)))
+  (VP
+    (ADVP (d 都))
+    (VP
+      (wyz 「)
+      (v 转战)
+      (wyy 」)
+      (v 过)
+      (NP-OBJ
+        (DNP
+          (NP
+            (NP-PN (ns 美国))
+            (wn 、)
+            (NP-PN (ns 台湾))
+            (wd ，)
+            (c 或是)
+            (NP (n 大陆)))
+          (ude 的))
+        (QP (m 好几) (CLP (q 所)))
+        (NP (n 学校)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-2
+      (wyz 「)
+      (IP
+        (NP-SBJ (DNP (NP-PN (ns 加拿大)) (ude 的)) (NP (n 学校)))
+        (VP (ADVP (d 比较)) (VP (a 好))))
+      (wd ，)
+      (IP (NP-SBJ (n 功课)) (VP (ADVP (d 比较)) (VP (a 少))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (ns 台湾))
+        (VP (PP (p 跟) (NP (n 大陆))) (VP (a 一样))))
+      (wd ，)
+      (IP (NP-SBJ (n 功课)) (VP (ADVP (d 太)) (VP (a 多) (y 了))))
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 不)) (VP (a 好玩)))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ
+      (QP (m 一) (CLP (q 位)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 戴) (NP-OBJ (n 眼镜))))
+          (ude 的)))
+      (NP (n 孩子)))
+    (VP (ADVP (r 这样)) (VP (v 说) (IP-OBJ (-NONE- *T*-2)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-APP (NP (r 她家)) (NP (n 兄妹))) (NP (m 俩)))
+    (VP
+      (ADVP (d 都))
+      (ADVP (d 曾))
+      (PP-LOC (p 在) (NP (n 外国)))
+      (VP (vi 待) (uguo 过))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (wd ，)
+    (PP-LOC
+      (p 在)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (n 休闲) (n 文化) (n 生活))
+              (VP (v 缺乏)))
+            (ude 的)))
+        (NP-PN (ns 东莞))))
+    (wd ，)
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 除非))
+        (ADVP (d 很))
+        (VP (vyou 有) (NP-OBJ (n 教育) (an 热诚)))))
+    (wd ，)
+    (ADVP (c 否则))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 很))
+      (VP
+        (a 难)
+        (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 留住) (NP-OBJ (n 教师)))))))
+  (wd ，)
+  (IP
+    (IP-TPC-3
+      (wyz 「)
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP
+                (ADVP (d 常))
+                (VP (v 带) (v 著) (NP-OBJ (v 比较) (n 眼光)))))
+            (ude 的)))
+        (NP-PN (ns 台湾))
+        (NP (n 老师)))
+      (VP (ADVP (d 更)) (VP (a 难))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nr 黄苏))
+    (VP (v 坦承) (IP-OBJ (-NONE- *T*-3))))
+  (wj 。)))
+</S>
+<S>
+( (NP-PN (NP-PN (ns 东莞)) (NP (ns 靖) (n 乐园))))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-2
+      (IP-ADV
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 众))
+                (VP (usuo 所) (VP (v 关注) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校))))
+        (VP (ADVP (c 虽)) (ADVP (d 已)) (VP (vi 奠基))))
+      (wd ，)
+      (ADVP (c 但))
+      (wyz 「)
+      (IP
+        (IP (NP-SBJ (n 经费)) (VP (a 不足)))
+        (wn 、)
+        (IP (NP-SBJ (n 师资)) (VP (vi 未定)))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nr 叶宏灯))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VRD (v 看) (v 起来))))
+        (ADVP (c 虽然))
+        (VP (a 乐观))))
+    (wd ，)
+    (ADVP (c 但))
+    (NP-TPC (n 前途))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 仍)) (VP (d 须) (VP (a 努力)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校)))
+      (QP (m 第一) (CLP (q 期)))
+      (NP (n 经费)))
+    (VP (v 预计) (QP-OBJ (NP (n 人民币)) (QP (m 六千万)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 已))
+      (VP (v 募集) (y 了) (QP-OBJ (m 三千万)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR (p 离) (NP (v 预定)))
+      (ADVP (d 还))
+      (VP (v 差) (QP-OBJ (m 一半)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-3
+    (PP-PRP
+      (p 为了)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 募集)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (NP-MNR (-NONE- *T*-1))
+                    (VP (v 兴建) (NP-OBJ (n 台商) (n 小学)))))
+                (ude 的)))
+            (NP (n 经费))))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-2))
+            (NP-SBJ (NP (n 大陆) (n 投资)) (NP (n 经验)))
+            (VP (a 丰富)))
+          (ude 的)))
+      (NP-PN (nr 叶宏灯)))
+    (VP
+      (VP
+        (ADVP (d 常))
+        (VP
+          (VP (v 回) (NP-PN-OBJ (ns 台)))
+          (VP (n 演讲) (NP-OBJ (n 专业) (n 议题)))))
+      (wd ，)
+      (VP
+        (wyz 「)
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (n 演讲费))
+            (VP (v 提) (ude 得) (VP-EXT (ADVP (d 很)) (VP (a 高))))))
+        (wd ，)
+        (VP
+          (v 希望)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 能)
+              (VP
+                (VP
+                  (ADVP (ad 多))
+                  (VP (v 赚) (NP-OBJ (QP (CLP (q 点))) (NP (n 钱)))))
+                (VP (n 挹注) (NP-OBJ (n 学校))))))))))
+  (wd ，)
+  (wyy 」)
+  (NP-SBJ (r 他))
+  (VP (DVP (VP (vi 开玩笑)) (ude 地)) (VP (v 说) (IP-OBJ (-NONE- *T*-3))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-PN-SBJ (nt 台协))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 正))
+    (VP
+      (v 考虑)
+      (IP-Q-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP-WH (v 是否))
+          (VP
+            (VP
+              (PP-MNR
+                (p 以)
+                (NP (DNP (NP (n 基金会)) (ude 的)) (NP (n 方式))))
+              (wd ，)
+              (VP
+                (v 让)
+                (NP-OBJ (n 企业))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 来) (VP (v 认) (NP (n 股)))))))
+            (wd ，)
+            (VP
+              (PP-MNR (d 以此))
+              (VP
+                (v 筹募)
+                (NP-OBJ
+                  (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (n 办校)))
+                  (NP (n 基金))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (IP (VP (v 盛) (v 载)))
+              (uzhe 着)
+              (NP-OBJ (ADJP (m 众多)) (NP (n 期望)))))
+          (ude 的)))
+      (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校))))
+    (NP-SBJ (n 校地))
+    (VP (ADVP (d 已经)) (VP (v 选定))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 位于)
+        (NP-OBJ
+          (NP-PN (ns 东莞))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (IP (NP (n 风光)) (VP (a 明媚))))
+              (ude 的)))
+          (NP-PN (ns 中堂镇) (ns 潢涌村))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-3))
+            (VP (VP-FOC (v 占地)) (VP (b 广大))))
+          (ude 的)))
+      (NP (n 校址)))
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 还))
+      (ADVP (d 只))
+      (VP
+        (vshi 是)
+        (NP-PRD (QP (m 一) (CLP (q 片))) (ADJP (a 黄)) (NP (n 沙地))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-TPC
+      (CP
+        (WHNP-4 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-4)) (VP (vi 整地))) (ude 的)))
+      (NP (n 怪手)))
+    (NP-SBJ (n 机器声))
+    (VP (o 轰隆)))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-5 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-5)) (VP (VRD (vi 打桩) (a 好))))
+          (ude 的)))
+      (NP (n 地基)))
+    (VP (IP (NP (v 隐)) (VP (c 然))) (VP (v 可见))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (n 心能格圣))
+  (wd ，)
+  (IP
+    (NP (ADVP (d 就)) (NP (f 中)))
+    (VP (ADVP (d 即)) (VP (vshi 是) (NP-PN-PRD (ns 武当山)))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC
+      (p 在)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (d 处处))
+              (VP (NP-PRD (n 商机))))
+            (ude 的)))
+        (NP-PN (ns 东莞))))
+    (wd ，)
+    (NP-SBJ
+      (DNP (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校))) (ude 的))
+      (NP (wyz 「) (n 人文) (n 气) (wyy 」)))
+    (VP
+      (v 令)
+      (NP-OBJ (n 人))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 感动)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (vl 众望所归))) (ude 的)))
+      (NP-PN (NP (n 台商) (n 子弟)) (NP (n 学校))))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 令)
+        (NP-OBJ (n 人))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 期待))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (PP-ADV (p 除了) (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 赚钱))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 东莞)) (NP (n 台商)))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 会)
+      (VP
+        (v 创出)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP-WH (r 怎样))) (ude 的)))
+          (NP (wyz 「) (NP-PN (ns 台湾)) (NP (n 经验)) (wyy 」))))))
+  (ww ？)))
+</S>

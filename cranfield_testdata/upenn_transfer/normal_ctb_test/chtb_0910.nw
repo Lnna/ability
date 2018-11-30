@@ -1,0 +1,499 @@
+<S>
+( (IP-HLN
+  (NP-PN-TTL-SBJ (wkz 《) (nz 人民日报) (wky 》))
+  (VP
+    (v 发表)
+    (IP-OBJ
+      (NP (n 评论员) (n 文章))
+      (wm ：)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 迎接)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+            (NP (n 科技) (n 革命) (n 挑战)))))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 十二月) (t 二十八日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 最近))
+  (wd ，)
+  (NP-SBJ (QP (m 一些)) (NP (n 外国) (n 学者)))
+  (VP
+    (VP (ADVP (d 纷纷)) (VP (vi 撰文)))
+    (wd ，)
+    (VP
+      (ADVP (d 高度))
+      (VP
+        (v 评价)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (nr 江泽民))
+                (VP
+                  (LCP-TMP
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (NP-TMP (t 十一月) (t 二十四日))
+                        (VP (v 访问) (NP-PN-OBJ (ns 俄罗斯)))))
+                    (n 时))
+                  (VP (v 发表) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP-TTL
+            (wkz 《)
+            (DNP
+              (LCP
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (PP-LOC
+                      (p 在)
+                      (NP
+                        (NP (ADJP (a 新)) (NP (ns 西伯利亚)))
+                        (NP (n 科学) (n 城))))
+                    (VP (v 会见) (NP-OBJ (n 科技界) (n 人士)))))
+                (n 时))
+              (ude 的))
+            (NP (n 讲话))
+            (wky 》)))))
+    (wd ，)
+    (VP
+      (v 称赞)
+      (NP-OBJ (DP (r 这) (CLP (q 篇))) (NP (n 演讲)))
+      (IP
+        (IP
+          (NP-SBJ (DNP (NP (n 影响)) (uzhi 之)) (NP (a 大)))
+          (wd ，)
+          (VP
+            (ADVP (d 远远))
+            (VP
+              (wyz “)
+              (v 超出)
+              (NP-OBJ
+                (DNP
+                  (NP (NP-PN (ns 中国) (p 与) (ns 俄罗斯)) (NP (n 关系)))
+                  (ude 的))
+                (NP (n 范围)))
+              (wyy ”))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (wyz “)
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (DP-TMP (r 这) (QP (m 几) (CLP (q 年))))
+                      (NP-SBJ (n 国务) (n 活动家))
+                      (VP (v 发表) (NP-OBJ (-NONE- *T*-2))))
+                    (ude 的)))
+                (CP
+                  (WHNP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-3))
+                      (VP (ADVP (d 最)) (VP (a 精彩))))
+                    (ude 的)))
+                (NP (n 演讲) (r 之一))))
+            (wd ，)
+            (VP
+              (PP-BNF (p 为) (NP (n 全人类)))
+              (VP
+                (v 规划)
+                (y 了)
+                (NP-OBJ
+                  (DNP
+                    (NP (DP (f 下) (CLP (q 个))) (NP (n 世纪)))
+                    (ude 的))
+                  (NP (n 蓝图)))))
+            (wyy ”)))))
+    (wf ；)
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ (r 这))
+        (VP
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (wyz “)
+              (CP
+                (WHNP-4 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-4))
+                    (VP (v 能) (VP (v 改变) (NP-OBJ (n 历史)))))
+                  (ude 的)))
+              (NP (n 讲话))
+              (wyy ”)))
+          (wd ，)
+          (VP
+            (wyz “)
+            (vshi 是)
+            (NP-PRD (QP (m 一) (CLP (q 次))) (NP (n 战略) (n 革命)))
+            (wyy ”))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 江泽民))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 讲话)) (f 中)))
+    (ADVP (d 特别))
+    (VP
+      (v 强调)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ
+          (NP (QP (m 一个)) (NP (n 国家)))
+          (wd ，)
+          (NP (QP (m 一个)) (NP (n 民族))))
+        (wd ，)
+        (VP
+          (IP-CND
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (ADVP (c 如果))
+              (VP
+                (VP
+                  (ADVP (d 不))
+                  (ADVP (d 紧紧))
+                  (VP
+                    (PP (v 跟) (NP (v 上)))
+                    (NP-OBJ
+                      (CP-APP
+                        (IP (NP-SBJ (n 科技)) (VP (n 进步)))
+                        (ude 的))
+                      (NP (n 时代) (n 潮流)))))
+                (wd ，)
+                (VP
+                  (ADVP (d 不))
+                  (VP
+                    (VP
+                      (v 结合)
+                      (NP-OBJ
+                        (DNP (NP (NP (r 本国)) (NP (v 发展))) (ude 的))
+                        (NP (n 实际))))
+                    (VP
+                      (ADVP (ad 努力))
+                      (VP (v 提高) (NP-OBJ (n 科学技术) (n 水平)))))))))
+          (wd ，)
+          (VP
+            (VP (ADVP (d 就)) (VP (v 会) (VP (a 落后))))
+            (wd ，)
+            (VP
+              (ADVP (d 就))
+              (VP
+                (v 会)
+                (VP
+                  (v 陷入)
+                  (NP-OBJ
+                    (CP-APP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (ADVP (d 极为)) (VP (a 被动))))
+                      (ude 的))
+                    (NP (n 境地)))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 文章))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP (PP (PP (p 像) (NP-PN (ns 中国))) (ADVP (r 这样))) (ude 的))
+        (nl 发展中国家))
+      (wd ，)
+      (VP
+        (ADVP (d 一定))
+        (VP
+          (v 要)
+          (VP
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新)))
+                        (ude 的)))
+                    (NP (n 科技) (n 革命)))
+                  (f 中)))
+              (VP
+                (VP
+                  (VP (v 抓住) (NP-OBJ (n 机遇)))
+                  (c 而)
+                  (VP
+                    (ADVP (d 不))
+                    (VP (vshi 是) (VP (v 丧失) (NP-OBJ (n 机遇))))))
+                (wd ，)
+                (VP
+                  (VP (vl 发奋图强))
+                  (c 而)
+                  (VP
+                    (ADVP (d 不))
+                    (VP (vshi 是) (VP (n 墨守) (NP (n 陈规))))))))
+            (wd ，)
+            (VP
+              (PP-MNR
+                (p 以)
+                (NP
+                  (NP
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 饱满)))
+                        (ude 的)))
+                    (NP (an 热情)))
+                  (wn 、)
+                  (NP (DNP (QP (m 百倍)) (ude 的)) (NP (an 努力)))))
+              (VP
+                (VP (v 迎接) (NP-OBJ (n 挑战)))
+                (wd ，)
+                (VP (v 加快) (NP-OBJ (v 发展)))
+                (wd ，)
+                (VP
+                  (ADVP (d 进一步))
+                  (VP
+                    (v 缩小)
+                    (NP-OBJ
+                      (DNP
+                        (PP
+                          (p 与)
+                          (NP (NP (nl 发达国家)) (NP (n 科技) (n 水平))))
+                        (ude 的))
+                      (NP (n 距离))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP-TPC
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 要)
+      (VP
+        (v 迎接)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (IP (NP-SBJ (n 科学技术)) (VP (vl 突飞猛进)))
+              (c 和)
+              (IP
+                (NP-SBJ (n 知识) (n 经济))
+                (VP (ADVP (ad 迅速)) (VP (v 兴起)))))
+            (ude 的))
+          (NP (n 挑战))))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 最)) (VP (a 重要))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (IP-PRD (NP-SBJ (-NONE- *PRO*)) (VP (v 坚持) (NP-OBJ (vi 创新)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 江泽民))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 讲话)) (f 中)))
+    (VP
+      (VSB (vd 强调) (v 指出))
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-SBJ (vi 创新))
+        (VP
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP (NP (QP (m 一个)) (NP (n 民族))) (ude 的))
+              (NP (n 灵魂))))
+          (wd ，)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP-APP
+                (IP
+                  (NP-SBJ (QP (m 一个)) (NP (n 国家)))
+                  (VP (VCD (vl 兴旺发达))))
+                (ude 的))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 不竭))))
+              (NP (n 动力))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 文章))
+  (VP
+    (VP (v 评价))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 这))
+        (VP
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP (PP (p 对) (NP (n 时代) (n 脉搏))) (ude 的))
+              (ADJP (a 准确))
+              (NP (n 把握))))
+          (wd ，)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP
+                (PP
+                  (PP
+                    (p 对)
+                    (NP
+                      (LCP (NP (t 近代)) (f 以来))
+                      (NP (n 世界) (n 历史) (n 发展))))
+                  (wd ，)
+                  (PP
+                    (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+                    (PP
+                      (p 对)
+                      (NP
+                        (NP (t 当前))
+                        (LCP (NP (n 国际)) (f 上))
+                        (ADJP (ad 剧烈))
+                        (NP (v 竞争))))))
+                (ude 的))
+              (ADJP (a 科学))
+              (NP (n 概括))))
+          (wd ，)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (QP (m 一个))
+              (DNP (NP (n 马克思主义)) (ude 的))
+              (ADJP (a 重要))
+              (NP (n 论断))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 文章))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (d 必须)
+          (VP
+            (ADVP (d 紧紧))
+            (VP
+              (v 咬定)
+              (NP-OBJ
+                (QP (m 一个))
+                (NP (wyz “) (a 新) (wyy ”))
+                (NP (n 字)))))
+          (wd ，))
+        (VP
+          (v 要)
+          (VP
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (n 知识)
+                    (vi 创新)
+                    (wn 、)
+                    (n 科技)
+                    (vi 创新)
+                    (c 和)
+                    (n 体制)
+                    (vi 创新))
+                  (f 上)))
+              (VP (v 下) (NP-OBJ (n 功夫))))
+            (wd ，)
+            (VP
+              (ADVP (d 真正))
+              (VP
+                (VP
+                  (VRD (v 搞) (v 出))
+                  (NP-OBJ
+                    (DNP (NP-PN (ns 中国)) (ude 的))
+                    (NP (n 创新) (n 体系))))
+                (VP (v 来)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (d 必须)
+    (VP
+      (VP
+        (v 加大)
+        (NP-OBJ
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-MNR (-NONE- *T*-1))
+                  (VP
+                    (v 实施)
+                    (NP-OBJ
+                      (NP
+                        (IP-APP
+                          (NP-SBJ (vl 科教))
+                          (VP (n 兴) (NP-OBJ (c 国))))
+                        (NP (NN 战略)))
+                      (v 和)
+                      (NP
+                        (IP-APP
+                          (NP-SBJ (vd *PRO*))
+                          (VP (v 可) (VP (ADVP (n 持续)) (VP (ude 发展)))))
+                        (NP (n 战略)))))))
+              (wd 的)))
+          (NP (d 力度))))
+      (v ，)
+      (VP
+        (ADVP (a 进一步))
+        (VP
+          (n 树立)
+          (NP-OBJ
+            (DNP (NP (DP (ude 全)) (NP (n 民族))) (n 的))
+            (NP (wj 创新) (NN 意识)))))))
+  (PU 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

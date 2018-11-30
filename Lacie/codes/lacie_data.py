@@ -6,7 +6,7 @@ import numpy as np
 from gensim.models import Word2Vec
 import pickle as pc
 
-import pos_methods as seg
+from codes import pos_methods as seg
 
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing import sequence
@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 home_dir=os.path.abspath(os.path.join(os.path.dirname(__file__),'../'))
 
 class CleanData():
-    def __init__(self, segment=True, content_maxlen=1000,title_maxlen=50,question_maxlen=50, word_dim=100):
+    def __init__(self, segment=True, content_maxlen=1000,title_maxlen=50,question_maxlen=50, word_dim=100,answer_maxlen=50):
         '''
 
         :param segment:
@@ -28,6 +28,7 @@ class CleanData():
         self.title_maxlen=title_maxlen
         self.question_maxlen=question_maxlen
         self.dim=word_dim
+        self.answer_maxlen=answer_maxlen
 
 
     def raw_text(self,src_json):
@@ -71,12 +72,13 @@ class CleanData():
                 self.seg_answer.append(list(self.segmentor.ltpseg(a)))
 
         self.token=Tokenizer()
-        self.token.fit_on_texts(self.seg_content+self.seg_question+self.seg_title)
+        self.token.fit_on_texts(self.seg_content+self.seg_question+self.seg_title+self.seg_answer)
 
 
         self.contents_sequences=sequence.pad_sequences(self.token.texts_to_sequences(self.seg_content),maxlen=self.content_maxlen)
         self.questions_sequences=sequence.pad_sequences(self.token.texts_to_sequences(self.seg_question),maxlen=self.question_maxlen)
         self.titles_sequences=sequence.pad_sequences(self.token.texts_to_sequences(self.seg_title),maxlen=self.title_maxlen)
+        # self.answer_sequences=self.token.texts_to_sequences(self.seg_answer)
 
     def answer_y(self):
         self.answer_start=[]
@@ -90,8 +92,12 @@ class CleanData():
                 for j in range(len(self.seg_content[i])-l):
                     if self.seg_content[i][j:j+l]==self.seg_answer[i]:
                         start=j
-                        end=j+l-1
+                        if j+l-1-start+1<=self.answer_maxlen:
+                            end=j+l-1
+                        else:
+                            end=start+self.answer_maxlen-1
                         break
+
             self.answer_start.append(start)
             self.answer_end.append(end)
             # self.answer_start = np.array(self.answer_start)
@@ -111,19 +117,22 @@ class CleanData():
              vocab_path=home_dir + '/intermediate/vocab.pc',
              words_path=home_dir+'/intermediate/words.txt',noise_path=home_dir+'/intermediate/noise.txt'):
         model=Word2Vec.load(model_path)
-
-        embeddings=[]
+        # print(model.wv['ld-2000'])
+        self.embeddings=[]
         index_words = {}
         for k, v in self.token.word_index.items():
             index_words[v]=k
-        embeddings.append(np.zeros(shape=(self.dim,)))
+            self.embeddings.append(np.zeros(shape=(self.dim,),dtype=np.float32))
         for i in range(1,len(index_words.keys())+1):
-            embeddings.append(model.wv[index_words[i]])
+            try:
+                self.embeddings.append(model.wv[index_words[i]])
+            except:
+                self.embeddings.append(np.zeros(shape=(self.dim,), dtype=np.float32))
         #a bytes-like object is required, not 'list':pickle file 应该以bytes的mode打开
-        pc.dump([self.ids,self.titles,self.questions,self.contents,self.answer],open(raw_pk_path,mode='wb'))
+        pc.dump([self.ids,self.qids,self.titles,self.questions,self.contents,self.answer],open(raw_pk_path,mode='wb'))
         pc.dump([self.seg_title,self.seg_question,self.seg_content,self.seg_answer],open(seg_pk_path,mode='wb'))
-        pc.dump([self.titles_sequences,self.questions_sequences,self.contents_sequences,self.answer_start,self.answer_end],open(seq_pk_path,mode='wb'))
-        pc.dump([embeddings,index_words, self.token.word_index],open(vocab_path,mode='wb'))
+        pc.dump([self.ids,self.qids,self.titles_sequences,self.questions_sequences,self.contents_sequences,self.answer,self.answer_start,self.answer_end],open(seq_pk_path,mode='wb'))
+        pc.dump([self.embeddings,index_words, self.token.word_index],open(vocab_path,mode='wb'))
         word_counts=sorted(self.token.word_counts.items(),key=lambda d:d[1],reverse=True)
         with open(words_path,mode='w') as f:
             for wc in word_counts:
@@ -133,6 +142,38 @@ class CleanData():
             for wc in self.create:
                 f.write('{}\n'.format(wc[0]))
         f.close()
+
+    def gen_batches(self,batch_size,type='train'):
+
+        ids, qids,titles_sequences, questions_sequences, contents_sequences,answers, answer_start, answer_end \
+            = pc.load(open(home_dir + '/intermediate/seq_lacie.pc', mode='rb'))
+        start=0
+        end=len(titles_sequences)
+
+        if type=='train':
+            start=0
+            end = len(titles_sequences)*7//10
+        elif type=='dev':
+            start=len(titles_sequences)*7//10+1
+            end=len(titles_sequences)*9//10
+        elif type == 'test':
+            start = len(titles_sequences) * 9 // 10 + 1
+            end = len(titles_sequences)
+        for i in range(start,end,batch_size):
+            batch={
+                'ids':ids[i:i+batch_size],
+                'qids':qids[i:i+batch_size],
+                'title':titles_sequences[i:i+batch_size],
+                'question':questions_sequences[i:i+batch_size],
+                'content':contents_sequences[i:i+batch_size],
+                'seg_content':self.seg_content[i:i+batch_size],
+                'answer':answers[i:i+batch_size],
+                'answer_start':answer_start[i:i+batch_size],
+                'answer_end':answer_end[i:i+batch_size],
+                'content_len':[self.content_maxlen]*batch_size,
+                'question_len':[self.question_maxlen]*batch_size
+            }
+            yield batch
 
     def view(self,word_path=home_dir+'/intermediate/sample_words.txt',pk_path=home_dir+'/intermediate/lacie.pc'):
         # 可视化测试
@@ -162,7 +203,11 @@ class CleanData():
 
 
 
-
+    def gen_train_data(self):
+        self.raw_text(src_json=home_dir + '/raw_data/lacie.json')
+        self.answer_y()
+        self.embed()
+        self.save()
 
 
 if __name__=="__main__":

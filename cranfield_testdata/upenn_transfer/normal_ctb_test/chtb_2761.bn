@@ -1,0 +1,158 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 正))
+              (PP-LOC (p 在) (NP-PN (ns 加拿大)))
+              (VP (v 访问))))
+          (ude 的)))
+      (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 总统)))
+      (NP-PN (nrf 普京)))
+    (c 和)
+    (NP
+      (NP-APP (DNP (NP-PN (ns 加拿大)) (ude 的)) (NP (n 总理)))
+      (NP-PN (nrf 克雷蒂安))))
+  (VP
+    (QP (m １８) (CLP (q 号)))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (QP (m 一) (CLP (q 项))) (ADJP (n 联合)) (NP (n 声明)))
+        (f 当中)))
+    (ADVP (d 共同))
+    (VP
+      (v 呼吁)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 维护)
+          (NP-OBJ
+            (NP (DNP (ADJP (v 现有)) (ude 的)) (NP (n 军控) (n 条约)))
+            (wd ，)
+            (PRN
+              (NP
+                (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+                (NP
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-PN-SBJ (ns 美国) (c 和) (ns 苏联))
+                        (VP
+                          (PP-TMP (p 在) (NP (t １９７２年)))
+                          (VP (v 签署) (NP-OBJ (-NONE- *T*-2)))))
+                      (ude 的)))
+                  (NP
+                    (wkz 《)
+                    (IP-APP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (vi 反) (NP-OBJ (n 弹道导弹))))
+                    (NP (n 条约))
+                    (wky 》))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 普京))
+  (VP
+    (NP-TMP (t 当天))
+    (PP-ADV (p 与) (NP-PN (nrf 克雷地安)))
+    (VP
+      (VP
+        (v 进行)
+        (y 了)
+        (NP-OBJ (DNP (QP (m ９０) (CLP (q 分钟))) (ude 的)) (NP (n 会谈))))
+      (wd ，)
+      (VP
+        (ADVP (c 并))
+        (PP-DIR (p 就) (NP (n 国际) (an 安全) (n 问题)))
+        (VP (v 发表) (y 了) (NP-OBJ (ADJP (n 联合)) (NP (n 声明)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 声明))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (wyz “)
+      (NP-PN-SBJ (ns 俄罗斯) (c 和) (ns 加拿大))
+      (VP
+        (ADVP (ad 一致))
+        (VP
+          (v 认为)
+          (IP-OBJ
+            (NP-SBJ (wkz 《) (b 反导) (n 条约) (wky 》))
+            (VP
+              (VP-PRD
+                (NP (DNP (NP (n 全球) (n 战略) (a 稳定))) (ude 的))
+                (NP (n 基石)))
+              (wd ，)
+              (VP
+                (ADVP (d 也))
+                (VP
+                  (vshi 是)
+                  (NP-PRD
+                    (UCP
+                      (NP (n 国际) (n 核裁军))
+                      (c 和)
+                      (IP
+                        (NP-SBJ (n 核))
+                        (VP (ADVP (d 不)) (VP (v 扩散)))))
+                    (ADJP (a 重要))
+                    (NP (n 基础)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 两)) (NP (n 国)))
+  (VP
+    (v 希望)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 尽早))
+        (VP
+          (VP
+            (v 实施)
+            (NP-OBJ
+              (wkz 《)
+              (IP-APP
+                (NP-PN-SBJ (ns 美) (ns 俄))
+                (VP
+                  (NP-ADV (QP (m 第二)) (NP (n 阶段)))
+                  (VP (v 削减) (NP-OBJ (n 战略) (n 武器)))))
+              (NP (n 条约))
+              (wky 》)))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (VP
+              (v 达成)
+              (NP-OBJ
+                (wkz 《)
+                (IP-APP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (NP-ADV (QP (m 第三)) (NP (n 阶段)))
+                    (VP (v 削减) (NP-OBJ (n 战略) (n 武器)))))
+                (NP (n 条约))
+                (wky 》))))))))))
+</S>
+<S>
+( (IP
+  (NP-TMP (DNP (NP (n 节目)) (ude 的)) (NP (f 最后)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 来)
+    (VP (v 看) (NP-OBJ (DNP (NP (n 天气)) (ude 的)) (NP (n 情况)))))
+  (wj 。)))
+</S>

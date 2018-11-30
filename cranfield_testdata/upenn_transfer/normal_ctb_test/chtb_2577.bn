@@ -1,0 +1,206 @@
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (NP-SBJ (NP (n 劳工)) (ADJP (b 法定)) (NP (n 工时)))
+    (VP
+      (VCP (v 缩减) (v 为))
+      (NP-OBJ (QP (m 两) (CLP (q 周))) (QP (m ８４)) (NP (n 小时)))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (DP-ADV (r 每周))
+        (VP
+          (VRD (v 多) (v 出来))
+          (NP-OBJ
+            (DNP (NP (QP (m ６)) (NP (n 小时))) (ude 的))
+            (NP (n 休假))))))
+    (y 呢))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 传出)
+      (IP
+        (NP-SBJ (IP (NP (nt 劳委)) (VP (v 会))) (p 跟) (NP (n 资方)))
+        (VP
+          (vi 有意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 要)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP
+                    (v 采取)
+                    (NP-OBJ
+                      (DNP (NP (ADJP (b 无息)) (NP (vi 休假))) (ude 的))
+                      (NP (n 原则))))
+                  (wd ，)
+                  (VP
+                    (ADVP (d 不))
+                    (VP (v 发给) (NP-IO (n 劳工)) (NP-OBJ (n 薪水))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 劳工) (n 团体))
+    (VP
+      (NP-TMP (t 上午))
+      (VP
+        (v 扬言)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 排除)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *pro*))
+                (VP (ADVP (d 再度)) (VP (vi 抗争))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (NP-APP (NP-PN (nt 劳委会)) (NP (n 主委))) (NP-PN (nr 陈菊)))
+    (VP
+      (ADVP (d 则))
+      (VP
+        (vshi 是)
+        (VP
+          (v 强调)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 还))
+              (ADVP (d 没有))
+              (VP (v 作出) (NP-OBJ (n 决定)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 劳工))
+    (VP
+      (VP-FOC (v 争取) (NP-OBJ (QP (m ８４) (CLP (n 小时))) (NP (n 工时))))
+      (VP
+        (ADVP (d 才))
+        (ADVP (d 刚刚))
+        (VP (v 获得) (NP-OBJ (ADJP (a 重大)) (NP (n 胜利)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 却))
+      (VP
+        (v 传出)
+        (IP-OBJ
+          (IP (NP (nt 劳委)) (VP (v 会)))
+          (VP
+            (d 有意)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 做成)
+                (NP-OBJ
+                  (NP (v 解释))
+                  (wd ，)
+                  (PRN
+                    (IP
+                      (IP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP
+                          (DP-ADV (r 每周))
+                          (VP
+                            (VRD (v 多) (v 出来))
+                            (NP-OBJ
+                              (DNP
+                                (NP (QP (m ６)) (NP (n 小时)))
+                                (ude 的))
+                              (NP (n 休假))))))
+                      (IP
+                        (NP-SBJ (n 资方))
+                        (VP
+                          (v 可以)
+                          (VP
+                            (ADVP (d 不))
+                            (VP (v 付给) (NP-OBJ (n 薪水))))))))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这项)) (NP (n 政策)))
+    (VP (ADVP (d 还)) (ADVP (d 没)) (VP (vi 推进))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 劳资) (n 冲突))
+    (VP (ADVP (d 恐怕)) (ADVP (d 又)) (VP (v 要) (VP (v 爆发)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-TPC (DP (r 这个)) (NP (nl 经济危机)))
+  (wd ，)
+  (ADVP (v 应该))
+  (NP-SBJ-1 (DP (r 这个)) (NP (n 问题)))
+  (VP
+    (PP-LGS (p 由) (NP (n 劳资) (n 双方)))
+    (VP (v 来) (VP (vi 推进) (NP-OBJ (-NONE- *-1)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 劳工) (n 团体))
+    (VP
+      (v 批评)
+      (NP-PN-OBJ (nt 劳委会))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (IP (VP (ADVP (a 独)) (VP (a 厚)))) (NP-OBJ (n 企业界))))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 缩短) (y 了) (NP-OBJ (n 工时)))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 却)) (ADVP (d 又)) (VP (v 降低) (NP-OBJ (n 劳工) (n 薪水)))))
+  (wd ，)
+  (IP
+    (IP-TMP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 听到) (NP-OBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 说法)))))
+    (wd ，)
+    (NP-SBJ (NP-APP (NP-PN (nt 劳委会)) (NP (n 主委))) (NP-PN (nr 陈菊)))
+    (VP
+      (VP (DVP (ADVP (vi 相当)) (ude 的)) (VP (n 气愤)))
+      (wd ，)
+      (VP
+        (v 强调)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (n 政策))
+            (VP (ADVP (d 还)) (ADVP (d 没)) (VP (v 确定))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (d 不)) (VP (v 会) (VP (v 牺牲) (NP-OBJ (n 劳工))))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (wyz “)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 真))
+      (VP (vyou 有) (NP-OBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 倾向))))))
+  (y 吗)
+  (ww ？)
+  (wyy ”)))
+</S>

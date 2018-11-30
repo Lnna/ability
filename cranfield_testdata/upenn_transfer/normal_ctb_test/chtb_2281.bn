@@ -1,0 +1,90 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (f 最后)) (VP (VCD (v 播) (v 送)) (NP-OBJ (n 简讯))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 应)
+      (NP
+        (DNP (NP (NP (n 国家) (n 主席)) (NP-PN (nr 江泽民))) (ude 的))
+        (NP (n 邀请)))))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 越南社会主义共和国)) (NP (n 主席)))
+    (NP-PN (nr 陈德梁)))
+  (VP
+    (ADVP (d 将))
+    (PP-TMP
+      (p 于)
+      (NP
+        (NP (t １２月) (QP (m ２５) (CLP (q 号))))
+        (p 到)
+        (QP (m ２９) (CLP (q 号)))))
+    (PP-DIR (p 对) (NP (n 我国)))
+    (VP (v 进行) (NP-OBJ (ADJP (a 正式) (a 友好)) (NP (n 访问)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (n 访问) (f 期间))
+  (NP-SBJ
+    (NP (NP-PN (ns 中) (ns 越)) (QP (m 两)) (NP (n 国)))
+    (NP (n 领导人)))
+  (wd ，)
+  (VP
+    (ADVP (d 将))
+    (PP-DIR
+      (p 就)
+      (UCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 加强)
+            (NP-OBJ (NP (QP (m 两)) (NP (n 国))) (NP (nl 睦邻友好)))))
+        (p 与)
+        (NP (ADJP (ad 全面)) (NP (v 合作)))
+        (c 以及)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (ADVP (d 共同))
+                  (VP (v 关心) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (n 问题)))))
+    (VP (v 交换) (y 了) (NP-OBJ (n 意见))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方))
+  (VP
+    (ADVP (d 还))
+    (ADVP (d 将))
+    (VP
+      (v 发表)
+      (NP-OBJ
+        (NP-APP
+          (NP
+            (DNP
+              (PP
+                (p 关于)
+                (NP
+                  (NP (ADJP (a 新)) (NP (n 世纪)))
+                  (ADJP (ad 全面))
+                  (NP (v 合作))))
+              (ude 的))
+            (ADJP (n 联合))
+            (NP (n 声明)))
+          (udeng 等))
+        (NP (n 文件)))))
+  (wj 。)))
+</S>

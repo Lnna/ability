@@ -1,0 +1,388 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 台湾)) (NP (n 总统))) (NP-PN (nr 陈水扁)))
+  (VP
+    (VP
+      (v 致函)
+      (NP-OBJ
+        (NP-APP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 刚刚)) (VP (vi 就职))))
+              (ude 的)))
+          (NP-PN (ns 美国))
+          (NP (n 总统)))
+        (NP-PN (nrf 布什))))
+    (wd ，)
+    (VP
+      (v 呼吁)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-PRP
+            (p 对)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 加强) (NP-OBJ (NP-PN (ns 美) (ns 台)) (NP (n 对话))))))
+          (wd ，)
+          (VP
+            (v 希望)
+            (IP-OBJ
+              (NP-PN-SBJ (ns 美国))
+              (VP
+                (PP-DIR (p 向) (NP-PN (ns 台湾)))
+                (VP (v 出售) (NP-OBJ (n 神盾级) (NP (n 驱逐舰)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 请)
+    (VP
+      (v 听)
+      (NP-OBJ
+        (DNP
+          (NP
+            (NP-APP (NP-APP (n 美国之音)) (NP (n 记者)))
+            (NP-PN (nr 吉永明)))
+          (ude 的))
+        (ADJP (n 综合))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TMP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 美国)) (ADJP (a 新)) (NP (n 总统)))
+      (NP-PN (nrf 布什)))
+    (VP (ADVP (d 刚刚)) (VP (VSB (vi 宣誓) (vi 就职)))))
+  (wd ，)
+  (NP-SBJ (NP-APP (NP-PN (ns 台湾)) (NP (n 总统))) (NP-PN (nr 陈水扁)))
+  (VP
+    (VP
+      (ADVP (d 就))
+      (ADVP (d 已经))
+      (PP-DIR (p 向) (NP (r 他)))
+      (VP (v 递交) (y 了) (VP (ADVP (b 亲笔)) (VP (n 函)))))
+    (wd ，)
+    (VP
+      (v 希望)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (v 加强)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (NP (NP-PN (ns 美国)) (NP (n 政府)))
+                  (c 和)
+                  (NP
+                    (NP-PN (ns 台湾))
+                    (NP
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (v 驻) (NP-PN-OBJ (ns 美)))))
+                      (NP (n 机构)))
+                    (NP (n 官员))))
+                (ude 的))
+              (NP (n 沟通))))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (VP
+              (v 促请)
+              (NP-PN-OBJ (ns 美国))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 增加)
+                  (NP-OBJ (PP (p 对) (NP-PN (ns 台))) (NP (n 军售)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 特别))
+    (VP
+      (v 提出)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 希望)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (v 购买)
+                (NP-OBJ (NP-PN (ns 美国)) (NP (n 神盾级)) (NP (n 驱逐舰))))
+              (wd ，)
+              (c 以及)
+              (VP
+                (v 增强)
+                (NP-OBJ
+                  (DNP (NP-PN (ns 台湾)) (ude 的))
+                  (NP (an 安全) (n 保障))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (nr 陈水扁))
+          (VP (p 给) (NP-PN-IO (nrf 布什)) (NP-OBJ (-NONE- *T*-2))))
+        (ude 的)))
+    (NP (n 信函)))
+  (VP
+    (vshi 是)
+    (VP
+      (v 托)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (VP (vi 前来) (NP-PN-OBJ (ns 华盛顿)))
+                (VP
+                  (v 参加)
+                  (NP-OBJ (NP-PN (nrf 布什)) (NP (n 就职) (n 大典))))))
+            (ude 的)))
+        (NP-APP (NP-PN (ns 台湾)) (NP (VP (v 立) (NP (n 法院))) (n 院长)))
+        (NP-PN (nr 汪金平)))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-MNR
+            (p 经由)
+            (NP-PN
+              (NP-PN (ns 美国))
+              (PP (p 在) (NP-PN (ns 台)))
+              (NP (n 协会))))
+          (VP
+            (v 送交)
+            (NP-OBJ (NP-PN (ns 美国)) (NP (nt 国务院)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 呈报) (NP-PN-OBJ (nrf 布什) (n 总统)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 台湾)) (NP (n 官员)))
+  (VP
+    (v 证实)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (n 函件) (n 内容))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (v 呼吁)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (v 加强)
+                  (NP-OBJ (NP-PN (ns 台) (ns 美)) (NP (n 关系))))))
+            (wd ，)
+            (VP
+              (v 促请)
+              (NP-PN-OBJ (nrf 布什))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-DIR (p 向) (NP-PN (ns 台湾)))
+                  (VP (v 出售) (NP-OBJ (n 神盾舰)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 陈水扁))
+    (VP
+      (v 希望)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 美国))
+        (VP
+          (ADVP (d 重新))
+          (VP
+            (v 考虑)
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-DIR (p 向) (NP-PN (ns 台湾)))
+                    (VP
+                      (IP (VP (v 租) (NP (v 售))))
+                      (NP-OBJ
+                        (QP (m ４) (CLP (q 艘)))
+                        (NP (n 吉德级))
+                        (NP (n 导弹) (n 驱逐舰))))))
+                (ude 的))
+              (NP (n 计划))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 台湾))
+    (VP
+      (ADVP (d 仍然))
+      (ADVP (ad 积极))
+      (VP
+        (v 争取)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 购得) (NP-OBJ (n 神盾) (n 驱逐舰)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 刚刚)) (VP (vi 卸任))))
+        (ude 的)))
+    (NP-PN (nrf 克林顿))
+    (NP (n 政府)))
+  (VP
+    (NP-TMP (t 去年))
+    (PP-LOC
+      (p 在)
+      (LCP (NP (NP-PN (ns 台) (ns 美)) (NP (n 军售) (n 会议))) (f 中)))
+    (wd ，)
+    (VP
+      (v 推迟)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-PN-SBJ (ns 台湾))
+            (VP
+              (v 要求)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 采购) (NP-OBJ (n 神盾舰))))))
+          (ude 的))
+        (NP (n 要求)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 美国))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 应该)
+        (VP
+          (VP
+            (DVP (VP (a 详细)) (ude 的))
+            (VP
+              (n 评估)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (NP (NP-PN (ns 台湾)) (NP (n 海军)))
+                    (ADJP (n 整体))
+                    (NP (vi 作战)))
+                  (ude 的))
+                (NP (n 能力)))))
+          (wd ，)
+          (VP (ADVP (c 然后)) (ADVP (d 再)) (VP (v 作) (NP-OBJ (n 决定))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (ADVP (d 实际上))
+    (VP
+      (vshi 是)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ
+            (DP (r 这个))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 棘手))) (ude 的)))
+            (NP (n 问题)))
+          (VP
+            (v 留给)
+            (y 了)
+            (NP-OBJ (DNP (DP (b 下届)) (ude 的)) (NP (n 政府))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-SBJ (DNP (NP-PN (ns 华盛顿)) (ude 的)) (NP (n 军事) (n 人士)))
+  (VP
+    (v 指出)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (CP-ADV
+          (ADVP (c 即使))
+          (IP
+            (NP-SBJ (NP-PN (nrf 布什)) (ADJP (a 新)) (NP (n 政府)))
+            (VP
+              (v 同意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-DIR (p 向) (NP-PN (ns 台湾)))
+                  (VP (v 出售) (NP-OBJ (n 神盾舰))))))))
+        (wd ，)
+        (NP-PN-SBJ (ns 美国))
+        (VP
+          (ADVP (d 至少))
+          (ADVP (d 也))
+          (VP
+            (v 要)
+            (VP
+              (PP-TMP (v 到) (NP (t ２００８年)))
+              (ADVP (d 才))
+              (VP (v 会) (VP (v 开始) (VP (v 建造))))))))
+      (wd ，)
+      (IP
+        (ADVP (c 因此))
+        (NP-PN-SBJ (ns 台湾))
+        (VP
+          (LCP-TMP (QP (m １０) (CLP (q 年))) (f 之内))
+          (ADVP (d 难以))
+          (VP
+            (VP (v 倚仗) (NP-OBJ (n 神盾舰)))
+            (VP (v 来) (VP (v 充实) (NP-OBJ (n 军力)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 以上))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (NP (NP-APP (NP-PN (n 美国之音)) (NP (n 记者))) (NP-PN (nr 吉永明)))
+        (ude 的))
+      (ADJP (n 综合))
+      (NP (n 报道))))
+  (wj 。)))
+</S>

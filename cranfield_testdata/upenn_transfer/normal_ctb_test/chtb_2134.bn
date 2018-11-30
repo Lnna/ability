@@ -1,0 +1,119 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 台湾)) (NP (n 留学生)))
+    (VP
+      (PP-LOC (p 在) (NP (s 国外)))
+      (ADVP (d 又))
+      (VP (v 传) (NP-OBJ (n 车祸) (a 不幸)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (QP (m 两) (CLP (q 名)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 来自) (NP-PN-OBJ (ns 台湾))))
+            (ude 的)))
+        (NP (n 留学生)))
+      (NP-PN (nr 许朝清) (c 和) (nr 王贯仁)))
+    (VP
+      (NP-TMP (NP (DP (r 这个)) (NP (n 月))) (QP (m １０) (CLP (q 号))))
+      (LCP-TMP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-LOC (p 在) (NP (NP-PN (ns 加州)) (NP (f 中部))))
+            (VP (vi 驾车))))
+        (n 时))
+      (wd ，)
+      (PP-PRP
+        (c 因为)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (VP-FOC (n 操控) (NP-OBJ (n 方向盘))) (VP (d 不慎)))))
+      (VP (v 发生) (NP-OBJ (vi 翻车) (a 意外)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 造成)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (IP (QP-SBJ (m 一)) (VP (v 死)))
+            (IP (QP-SBJ (m 一)) (VP (v 伤))))
+          (ude 的))
+        (NP (n 惨剧)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN (nr 许朝清))
+    (VP
+      (VP
+        (IP (VP (v 毕业) (p 于)))
+        (NP-OBJ (NP-PN (n 交通) (n 大学)) (NP (n 研究所))))
+      (wd ，)
+      (VP (n 现年) (QP-EXT (m ２８) (CLP (q 岁))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 受到) (NP-OBJ (n 轻伤))))
+          (ude 的)))
+      (NP-PN (nr 王贯仁)))
+    (VP
+      (VP
+        (ADVP (d 则))
+        (VP
+          (vshi 是)
+          (VP (IP (VP (v 毕业) (p 于))) (NP-PN (nz 辅仁) (n 大学)))))
+      (wd ，)
+      (VP
+        (PP-ADV (p 与) (NP-PN (nr 许朝清)))
+        (PP-LOC (p 在) (NP-PN (ns 美国)))
+        (VP (vshi 是) (VP (n 同班) (NP (n 同学)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (DNP (NP-PN (nr 许朝清)) (ude 的)) (NP (n 家人)))
+  (VP
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 获悉) (NP-OBJ (n 噩耗))))
+          (f 之后)))
+      (ADVP (d 已经))
+      (PP-TMP (p 在) (QP (m １５) (CLP (q 号))))
+      (PP-DIR (p 自) (NP-PN (ns 台北)))
+      (VP (IP (VP (vi 飞) (v 抵))) (NP-PN-OBJ (ns 洛杉矶))))
+    (wd ，)
+    (VP
+      (ADVP (d 随即))
+      (VP
+        (VP
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (NP-APP
+                  (NP
+                    (NP-PN (ns 洛杉矶))
+                    (NP-PN (ns 台北) (n 经济) (n 文化) (n 办事处)))
+                  (NP (n 文化) (n 组长)))
+                (NP-PN (nr 黄景新))
+                (FLR (ude 的))))
+            (VP (n 陪同) (NP-OBJ (-NONE- *-1))))
+          (VP (v 来到) (NP-OBJ (s 当地) (n 医院))))
+        (VP (v 料理) (NP-OBJ (n 后事))))))
+  (wj 。)))
+</S>

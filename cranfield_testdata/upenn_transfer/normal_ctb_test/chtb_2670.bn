@@ -1,0 +1,204 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这些)) (NP (n 武侠小说)))
+    (VP
+      (PP-TMP
+        (p 从)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (NP-TMP (t １９５５年)) (ADVP (d 陆续)) (VP (vi 问世))))
+          (f 以来)))
+      (wd ，)
+      (PP-LOC (p 在) (LCP (NP (n 世界) (n 华人)) (f 中)))
+      (VP (v 产生) (y 了) (NP-OBJ (ADJP (z 久远)) (NP (n 影响))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其) (n 作品))
+    (VP
+      (VP
+        (NP-ADV (QP (m 一)) (NP (n 版)))
+        (NP-ADV (QP (m 一)) (NP (n 版)))
+        (VP (VP (ADVP (ad 久)) (VP (v 销))) (VP (v 不衰))))
+      (wd ，)
+      (VP
+        (ADVP (c 并))
+        (ADVP (p 经))
+        (QP-ADV (m 多次))
+        (VP
+          (VRD (v 搬) (v 上))
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP (n 祖国) (n 大陆))
+                (wn 、)
+                (NP-PN (ns 台湾))
+                (wn 、)
+                (NP-PN (ns 香港)))
+              (ude 的))
+            (NP (n 电影) (wn 、) (n 电视))
+            (NP (n 屏幕)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (NP-TMP (t 现在)) (ADVP (d 不)) (VP (v 写))))
+    (y 了))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (NP-ADV (NP (r 我)) (DP (r 这个)) (NP (n 年纪)))
+        (VP (v 应该) (VP (v 做) (NP-OBJ (n 教授))))))
+    (y 了))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP
+      (VP
+        (v 没有)
+        (IP-OBJ
+          (DP-SBJ (r 哪) (QP (m 一) (CLP (q 部))))
+          (VP (ADVP (d 特别)) (VP (v 满意)))))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (VP
+          (v 没有)
+          (IP-OBJ
+            (DP-SBJ (r 哪) (QP (m 一) (CLP (q 部))))
+            (VP (ADVP (d 特别)) (ADVP (d 不)) (VP (v 满意))))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-TPC (DNP (NP (r 我)) (ude 的)) (NP (n 比喻)))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (ADVP (d 都))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP (NP (r 我)) (ude 的))
+              (NP (n 儿子) (c 和) (n 女儿)))))
+        (VP (ADVP (m 全部)) (ADVP (d 都)) (VP (vi 喜欢)))))
+    (ude 的))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (v 介绍)))
+    (wd ，)
+    (NP-PN-SBJ (nr 金庸) (n 先生))
+    (VP
+      (ADVP (d 长期))
+      (VP
+        (v 担任)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP-PN-APP
+                (nt 北京大学)
+                (wn 、)
+                (ns 英国)
+                (nz 剑桥)
+                (n 大学)
+                (wn 、)
+                (ns 香港)
+                (nz 中文)
+                (n 大学)
+                (udeng 等))
+              (NP (n 世界))
+              (QP (a 多) (CLP (q 所)))
+              (ADJP (a 知名))
+              (NP (n 大学)))
+            (ude 的))
+          (ADJP (n 名誉))
+          (NP (n 教授))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nt 北京大学))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (nr 金庸)) (NP (n 小说) (n 艺术) (n 研究)))
+          (VP
+            (ADVP (ad 正式))
+            (VP (v 纳入) (NP-OBJ (n 教学) (n 科研) (n 体系))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t １９９９年))
+    (NP-PN-SBJ (nr 金庸))
+    (VP
+      (ADVP (d 又))
+      (VP
+        (VSB
+          (vi 应邀)
+          (v 担任)
+          (NP-OBJ (NP-PN (ns 浙江) (n 大学)) (NP (n 文学院) (n 院长)))))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (vi 为期) (QP-OBJ (m ３) (CLP (q 天)))))
+              (ude 的)))
+          (NP (n 研讨会)))
+        (f 上)))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (v 来自)
+              (NP-OBJ
+                (NP-APP
+                  (ns 中国)
+                  (wn 、)
+                  (ns 美国)
+                  (wn 、)
+                  (ns 韩国)
+                  (wn 、)
+                  (ns 日本)
+                  (wn 、)
+                  (ns 以色列)
+                  (c 和)
+                  (ns 台湾)
+                  (wn 、)
+                  (ns 香港)
+                  (udeng 等))
+                (NP (ns 中国) (c 及) (n 地区)))))
+          (ude 的))
+        (NP (n 专家) (k 们))))
+    (wd ，)
+    (VP
+      (ADVP (d 将))
+      (PP-DIR (p 就) (NP (NP-PN (nr 金庸)) (NP (n 武侠小说)) (NP (n 创作))))
+      (VP (v 进行) (NP-OBJ (n 研讨)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (NP-PN (n 中央台)) (NP (n 记者))) (VP (n 报道)) (wj 。)))
+</S>

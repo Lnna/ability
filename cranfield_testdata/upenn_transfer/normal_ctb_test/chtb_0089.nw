@@ -1,0 +1,462 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 陕西))
+  (VP
+    (ADVP (d 将))
+    (PP-DIR (p 向) (NP (s 海内外)))
+    (VP
+      (VP
+        (v 推出)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 批)))
+          (ADJP (n 国有))
+          (ADJP (a 小))
+          (NP (n 企业))))
+      (VP (v 拍卖))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 西安)
+  (t 十二月)
+  (t 三十日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 张连业)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 陕西省))
+  (VP
+    (ADVP (d 将))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (NP (t 明年) (t 春季))
+          (NP-PN
+            (wyz “)
+            (NP (m 九八))
+            (NP-PN (ns 中国))
+            (NP (f 东西部))
+            (NP (n 合作) (c 与) (n 投资) (n 贸易))
+            (NP (n 洽谈会))
+            (wyy ”)))
+        (f 上)))
+    (wd ，)
+    (VP
+      (VP
+        (v 推出)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 批)))
+          (ADJP (n 国有))
+          (ADJP (a 小))
+          (NP (n 企业))))
+      (wd ，)
+      (VP
+        (PP-DIR (v 面向) (NP (s 国内外) (n 客商)))
+        (ADVP (ad 公开))
+        (VP (v 拍卖)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这个)) (NP (n 省)))
+  (VP
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 已))
+      (VP (v 制定) (NP-OBJ (n 优惠) (n 政策))))
+    (wd ，)
+    (VP
+      (v 鼓励)
+      (NP-OBJ
+        (NP (n 省) (f 内外))
+        (NP
+          (NP (ADJP (n 国有)) (NP (n 企业)))
+          (wn 、)
+          (NP (n 集体) (n 企业))
+          (wn 、)
+          (NP (ADJP (b 私营)) (NP (n 企业)))
+          (wn 、)
+          (NP (ADJP (b 民营)) (NP (n 科技) (n 企业)))
+          (wn 、)
+          (NP (n 外资) (n 企业))
+          (c 和)
+          (NP (n 社会) (n 自然人))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-MNR (p 以) (NP (DP (r 各种)) (NP (n 方式))))
+          (VP
+            (v 参与)
+            (NP-OBJ
+              (NP
+                (NP-PN (ns 陕西))
+                (ADJP (n 国有))
+                (ADJP (a 小))
+                (NP (n 企业)))
+              (NP (n 改革))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 鼓励)
+    (NP-OBJ (ADJP (n 国有)) (ADJP (a 小)) (NP (n 企业)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP
+          (VP
+            (VP (v 跨) (NP-OBJ (n 行业)))
+            (wn 、)
+            (VP (v 跨) (NP-OBJ (n 地区)))
+            (wn 、)
+            (VP (v 跨) (NP-OBJ (n 所有制))))
+          (VP (v 寻找) (NP-OBJ (n 合作) (n 对象))))
+        (wd ，)
+        (VP
+          (ADVP (ad 主动))
+          (PP (p 与) (NP (n 优势) (n 企业)))
+          (VP
+            (VP (VCD (wyz “) (vi 联姻) (vi 结亲) (wyy ”)))
+            (c 和)
+            (VP (ADVP (d 互相)) (VP (v 兼并))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 陕西)) (ADJP (n 国有)) (ADJP (a 小)) (NP (n 企业)))
+    (VP
+      (v 占)
+      (LCP-OBJ
+        (DNP (NP (NP (ADJP (n 国有)) (NP (n 企业))) (NP (n 总数))) (ude 的))
+        (LCP (QP (m 九) (CLP (q 成))) (f 以上)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (nl 固定资产))
+    (VP
+      (v 占)
+      (LCP-OBJ
+        (DNP (NP (ADJP (n 国有)) (NP (n 企业))) (ude 的))
+        (LCP (QP (m 三) (CLP (q 成))) (f 上)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 职工) (n 人数))
+    (VP
+      (v 占)
+      (LCP-OBJ
+        (DNP (NP (n 总数)) (ude 的))
+        (LCP (QP (m 五) (CLP (q 成))) (f 以上)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 陕西省))
+  (VP
+    (v 提出)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (NP-TMP (t 明年))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ
+              (NP (n 全省))
+              (ADJP (n 国有))
+              (ADJP (a 小))
+              (NP (n 企业)))
+            (VP (ADVP (d 基本上)) (VP (VCD (v 放开) (v 搞活)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (NP-TMP (t 日前)) (VP (vi 出台))))
+        (ude 的)))
+    (NP (n 优惠) (n 政策)))
+  (VP
+    (v 包括)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (PP-DIR
+          (p 对)
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (vyou 有) (NP-OBJ (n 净资产))))
+                  (wn 、)
+                  (IP
+                    (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (v 经营))
+                    (VP (ADVP (d 比较)) (VP (a 好)))))
+                (ude 的)))
+            (NP (n 企业))))
+        (wd ，)
+        (NP-TPC
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (n 企业) (n 资产))
+                (NP-SBJ (-NONE- *T*-3))
+                (VP
+                  (v 出售)
+                  (PP (v 给) (NP (n 法人) (c 和) (n 社会) (n 自然人)))))
+              (ude 的))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 给予) (NP-OBJ (ADJP (a 适当)) (NP (n 优惠)))))
+      (wf ；)
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-4 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-4))
+                (VP (v 实行) (NP-OBJ (v 拍卖))))
+              (ude 的))))
+        (wd ，)
+        (VP (v 可) (VP (v 减免) (NP-OBJ (ADJP (n 有关)) (NP (n 税收))))))
+      (wf ；)
+      (IP
+        (NP-TPC
+          (CP
+            (WHNP-5 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-5))
+                (VP (v 实行) (NP-OBJ (n 股份合作制) (n 改制))))
+              (ude 的))))
+        (wd ，)
+        (NP-SBJ (ADJP (n 国有)) (n 净资产))
+        (VP
+          (ADVP (vd 优先))
+          (VP
+            (v 出售)
+            (PP (v 给) (NP (NP (DP (r 本)) (NP (n 企业))) (NP (n 职工)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-1))
+            (PP-MNR (p 经) (NP (v 评估)))
+            (NP-SBJ (NP (n 资)) (NP (n 债)))
+            (VP (vi 相当)))
+          (ude 的)))
+      (NP (n 企业)))
+    (wd ，)
+    (VP
+      (v 实行)
+      (NP-OBJ
+        (NP (wyz “) (QP (m 零)) (NP (n 资产)) (wyy ”))
+        (NP (v 出售)))))
+  (wd ，)
+  (IP (NP-SBJ (n 债)) (VP (PP (v 随) (NP (n 资))) (VP (v 走))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 出售)
+            (PP
+              (v 给)
+              (NP
+                (NP (DP (r 本)) (NP (n 企业)))
+                (DP (n 全体))
+                (NP (n 职工))))))
+        (ude 的))))
+  (wd ，)
+  (NP-SBJ (n 企业) (n 所有制) (n 形式) (c 和) (n 职工) (n 身份))
+  (VP (ADVP (d 同时)) (VP (v 改变)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (VP (v 出售) (PP (v 给) (NP (n 法人) (c 和) (n 社会) (n 自然人))))
+              (VP (v 接受) (NP-OBJ (n 职工) (v 安置)))))
+          (ude 的))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHPP-4 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-MNR (-NONE- *T*-4))
+              (VP
+                (v 买断)
+                (NP-OBJ (NP (ADJP (n 国有)) (NP (n 职工))) (NP (n 工龄))))))
+          (ude 的)))
+      (NP (n 费用)))
+    (wd ，)
+    (VP
+      (v 可)
+      (VP
+        (VP
+          (v 采用)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 减免) (NP-OBJ (n 地方) (n 税收))))
+              (ude 的))
+            (NP (n 办法))))
+        (VP (v 解决)))))
+  (wf ；)
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (ADVP (d 不)) (VP (v 安置) (NP-OBJ (n 职工)))))
+          (ude 的))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHPP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-MNR (-NONE- *T*-3))
+              (VP
+                (v 买断)
+                (NP-OBJ (NP (ADJP (n 国有)) (NP (n 职工))) (NP (n 工龄))))))
+          (ude 的)))
+      (NP (n 费用)))
+    (wd ，)
+    (VP
+      (PP-MNR (p 按) (NP (n 财务) (n 隶属) (n 关系)))
+      (wd ，)
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP (NP (ADJP (n 国有)) (n 净资产)) (NP (n 出售) (n 收入)))
+          (f 中)))
+      (VP (v 支付))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (IP-SBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 救活) (NP-OBJ (-NONE- *T*-2))))
+              (VP (vi 无望)))
+            (ude 的)))
+        (NP (n 企业))))
+    (wd ，)
+    (ADVP (ad 坚决))
+    (VP
+      (v 实行)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (PP-MNR (d 依法)) (VP (vi 破产))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 股份合作制))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 放开)
+              (NP-OBJ (ADJP (n 国有)) (ADJP (a 小)) (NP (n 企业)))))
+          (ude 的))
+        (ADJP (a 重要))
+        (NP (n 形式)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-MNR (p 按) (NP (NP (r 此)) (NP (n 形式))))
+              (VP (n 改制))))
+          (ude 的)))
+      (NP (n 企业)))
+    (VP
+      (v 可)
+      (VP
+        (v 享受)
+        (NP-OBJ
+          (IP-APP
+            (IP
+              (NP-SBJ (n 所得税))
+              (VP (VP (v 超) (NP (n 基数))) (VP (v 返还))))
+            (wn 、)
+            (IP
+              (NP-SBJ (n 不动产))
+              (VP
+                (d 暂)
+                (VP
+                  (v 免)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 征收) (NP-OBJ (n 营业税)))))))
+            (udeng 等))
+          (NP (n 优惠) (n 政策))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

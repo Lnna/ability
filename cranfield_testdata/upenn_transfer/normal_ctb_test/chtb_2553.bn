@@ -1,0 +1,150 @@
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (NP
+      (NP (DNP (NP (n 总统府)) (ude 的)) (NP (n 绯闻) (n 案)))
+      (NP (n 方面))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 今天))
+    (VP
+      (vyou 有)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 重大))) (ude 的)))
+        (NP (n 发展)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-MNR
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 经过)
+      (y 了)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 反复)) (VP (v 思考))))))
+  (wd ，)
+  (NP-SBJ (NP (ADJP (b 副)) (NP (n 总统))) (NP-PN (nr 吕秀莲)))
+  (VP
+    (ADVP (d 还是))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 要)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 控告)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-PN-SBJ
+                        (wkz 《)
+                        (ADJP (a 新))
+                        (NP (n 新闻))
+                        (wky 》))
+                      (VP
+                        (PP-MNR
+                          (p 关于)
+                          (IP
+                            (NP-SBJ (-NONE- *pro*))
+                            (VP
+                              (v 报道)
+                              (NP-OBJ (n 总统府) (NP (n 绯闻) (n 案))))))
+                        (VP
+                          (usuo 所)
+                          (VP (v 产生) (NP-OBJ (-NONE- *T*-1))))))
+                    (ude 的)))
+                (NP (n 纠纷)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (ADJP (b 副)) (NP (n 总统))) (n 律师) (n 团))
+  (VP
+    (NP-TMP (t 今天))
+    (ADVP (d 将))
+    (VP
+      (VP
+        (VP (v 前往) (NP-OBJ (NP-PN (ns 台北)) (NP (n 地院))))
+        (VP (v 去) (VP (v 递) (NP (n 状)))))
+      (wd ，)
+      (VP
+        (v 控告)
+        (NP-PN-OBJ (wkz 《) (ADJP (a 新)) (NP (n 新闻)) (wky 》))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 诽谤))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-TMP (t 今天))
+  (ADVP (d 稍))
+  (ADVP (a 早))
+  (FLR (y 呢))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (VSB (vi 居中) (v 协调))
+            (NP-OBJ
+              (NP
+                (NP (ADJP (b 副)) (NP (n 总统)))
+                (p 与)
+                (NP-PN (wkz 《) (ADJP (a 新)) (NP (n 新闻)) (wky 》)))
+              (NP (n 绯闻) (n 诉讼) (n 纠纷)))))
+        (ude 的)))
+    (NP (n 律师) (n 团)))
+  (VP
+    (ADVP (d 也))
+    (PP-LOC (p 在) (NP (ADJP (a 最高)) (NP (n 法院))))
+    (ADVP (ad 公开))
+    (VP
+      (v 声明)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (NP (n 双方)) (NP (n 调解) (n 过程)))
+          (VP (ADVP (d 已经)) (VP (v 终止) (y 了))))
+        (wd ，)
+        (IP
+          (NP-TPC (v 协商))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (ad 正式))
+            (VP (v 宣告) (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (vi 破裂)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP (ADJP (b 副)) (NP (n 总统)))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 要) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 控告)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (wkz 《) (ADJP (a 新)) (NP (n 新闻)) (wky 》))
+    (VP
+      (VP (ADVP (d 也)) (VP (vl 严阵以待)))
+      (wd ，)
+      (VP
+        (ADVP (d 将))
+        (PP-TMP (p 在) (NP (t 下午)))
+        (VP (v 做出) (NP-OBJ (n 回应))))))
+  (wj 。)))
+</S>

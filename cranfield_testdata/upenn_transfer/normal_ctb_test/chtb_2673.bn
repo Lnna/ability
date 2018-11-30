@@ -1,0 +1,232 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-PN-SBJ (ns 朝鲜) (p 同) (ns 美国))
+            (VP (PP-DIR (p 就) (NP (n 导弹) (n 问题))) (VP (v 举行))))
+          (ude 的)))
+      (QP (m 第二) (CLP (q 次)))
+      (NP (vi 会谈)))
+    (VP
+      (QP (m ３))
+      (NP (q 号))
+      (PP-LOC
+        (p 在)
+        (NP (NP-APP (NP-PN (ns 马来西亚)) (NP (n 首都))) (NP-PN (ns 吉隆坡))))
+      (VP (v 结束))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (PP-LOC (p 在) (LCP (NP (ADJP (b 主要)) (NP (n 问题))) (f 上)))
+      (ADVP (d 没有))
+      (VP (v 达成) (NP-OBJ (n 协议)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 美国))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (vi 会谈)) (f 中)))
+    (VP
+      (v 希望)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 朝鲜))
+        (VP
+          (v 承诺)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (v 停止)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 试射) (NP-OBJ (ADJP (b 远程)) (NP (n 导弹))))))
+              (wd ，)
+              (VP
+                (v 限制)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-DIR
+                      (p 向)
+                      (NP
+                        (NP-PN (ns 巴基斯坦))
+                        (c 和)
+                        (NP (QP (m 一些)) (NP-PN (ns 中东)) (NP (n 国家)))))
+                    (VP
+                      (n 出口)
+                      (NP-OBJ
+                        (ADJP (f 中))
+                        (wn 、)
+                        (ADJP (b 短程))
+                        (NP (n 导弹)))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 美) (ns 朝)) (NP (n 双方)))
+  (VP
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 讨论)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (PP-MNR (d 由此)) (VP (v 产生))))
+              (ude 的)))
+          (DNP (PP (p 对) (NP-PN (ns 朝鲜))) (ude 的))
+          (NP (n 赔偿) (n 问题)))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (ADVP (ad 深入))
+      (VP
+        (v 探讨)
+        (y 了)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-MNR
+              (p 用)
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (v 帮助)
+                  (NP-PN-OBJ (ns 朝鲜))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 发射) (NP-OBJ (n 卫星)))))))
+            (VP
+              (v 作为)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-PN-SBJ (ns 朝鲜))
+                    (VP
+                      (v 限制)
+                      (NP-OBJ (NP (r 其)) (NP (n 导弹) (n 发展)))))
+                  (ude 的))
+                (NP (n 交换) (n 条件)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP (NP-PN (ns 美国)) (NP (n 代表团))) (NP (n 团长)))
+    (NP-PN (nrf 爱因霍恩)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (LCP-TMP (IP (NP-SBJ (vi 会谈)) (VP (v 结束))) (f 后))
+                  (VP (v 发表) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (QP (m 一) (CLP (q 份)))
+          (NP (n 声明)))
+        (f 中)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (vi 会谈))
+        (VP
+          (v 涉及)
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ
+                    (NP-PN (ns 朝) (ns 美))
+                    (QP (m 两))
+                    (NP (n 国)))
+                  (VP
+                    (ADVP (d 共同))
+                    (VP (v 考虑) (NP-OBJ (-NONE- *T*-2)))))
+                (ude 的)))
+            (DNP (PP (p 关于) (NP (n 导弹))) (ude 的))
+            (DP (m 全部))
+            (NP (n 内容)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (VP
+        (ADVP (d 进一步))
+        (VP
+          (vi 澄清)
+          (y 了)
+          (NP-OBJ
+            (NP (r 各自))
+            (DNP (PP (p 对) (NP (n 导弹) (n 问题))) (ude 的))
+            (NP (n 立场)))))
+      (wd ，)
+      (VP
+        (ADVP (c 并))
+        (ADVP (d 将))
+        (VP
+          (v 继续)
+          (VP
+            (v 扩展)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (ADVP (d 共同))
+                      (VP (v 关心) (NP-OBJ (-NONE- *T*-1)))))
+                  (ude 的)))
+              (NP (n 领域))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (ADJP (b 主要)) (NP (n 课题)))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 有待)
+        (NP-OBJ
+          (DNP (ADJP (b 进一步)) (ude 的))
+          (NP (n 讨论) (c 和) (n 解决))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 朝) (ns 美))
+  (VP
+    (ADVP (d 曾))
+    (PP-TMP (p 于) (NP (t 今年) (t ７月)))
+    (PP-LOC (p 在) (NP-PN (ns 吉隆坡)))
+    (VP
+      (v 举行)
+      (ude 的)
+      (NP-OBJ (QP (m 第一) (CLP (q 次))) (NP (n 导弹) (n 会谈)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-PN-SBJ (n 中央台)) (VP (VSB (n 编译) (n 报道))) (wj 。)))
+</S>

@@ -1,0 +1,833 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (nr 李鹏) (n 总理)) (p 同) (NP-PN (nrf 阿卡耶夫) (n 总统)))
+  (VP (v 举行) (NP-OBJ (n 会谈)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 比什凯克)
+  (t ４月)
+  (t ２３日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 俱孟军)
+  (wn 、)
+  (nr 胡晓光)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (nr 李鹏) (n 总理))
+    (c 和)
+    (NP (NP-APP (NP-PN (ns 吉尔吉斯共和国)) (NP (n 总统))) (NP-PN (nrf 阿卡耶夫))))
+  (VP
+    (VP
+      (NP-TMP (t 今天) (t 上午))
+      (PP-LOC (p 在) (NP (n 政府) (n 大楼)))
+      (VP
+        (v 举行)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (QP (m 两个半)) (NP (n 小时))) (ude 的))
+          (NP (n 会谈)))))
+    (wd ，)
+    (VP
+      (PP
+        (p 就)
+        (NP
+          (NP (NP (QP (m 两)) (NP (n 国))) (NP (n 关系)))
+          (c 以及)
+          (NP (n 地区) (n 问题))
+          (udeng 等)))
+      (ADVP (ad 深入))
+      (VP (v 交换) (y 了) (NP-OBJ (n 意见)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (vi 会谈))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (VCD (a 亲切) (a 友好))))
+                      (ude 的))
+                    (NP (n 气氛)))
+                  (f 中)))
+              (v 进行)))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫) (n 总统))
+  (VP
+    (ADVP (d 首先))
+    (PP-DIR
+      (p 对)
+      (IP
+        (NP-PN-SBJ (nr 李鹏) (n 总理))
+        (VP (v 访问) (NP-PN-OBJ (ns 吉尔吉斯共和国)))))
+    (VP (v 表示) (NP-OBJ (ADJP (a 热烈)) (NP (n 欢迎)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫))
+  (VP
+    (v 强调)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (NP-PN-SBJ (nr 李鹏) (n 总理))
+          (DNP (PP (p 在) (NP-PN (ns 塔什干))) (ude 的))
+          (ADJP (a 重要))
+          (NP (n 演讲)))
+        (VP
+          (v 提出)
+          (y 了)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-PN-SBJ (ns 中国))
+                (VP
+                  (v 发展)
+                  (NP-OBJ
+                    (PP (p 同) (NP (NP-PN (ns 中亚)) (r 各国)))
+                    (NP (nl 睦邻友好) (NP (n 关系))))))
+              (ude 的))
+            (ADJP (a 明确))
+            (NP (n 原则)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (DP (r 这些)) (NP (n 原则)))
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (DNP
+                (NP
+                  (NP-PN (ns 吉尔吉斯))
+                  (c 和)
+                  (NP (DP (b 整个)) (NP (NP-PN (ns 中亚)) (NP (n 地区)))))
+                (ude 的))
+              (NP (n 和平) (c 与) (an 稳定))))
+          (VP (v 具有) (NP-OBJ (ADJP (a 重要)) (NP (n 意义))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 中国))
+      (VP
+        (PP-MNR
+          (p 作为)
+          (NP (NP-PN (nt 联合国) (nt 安理会)) (ADJP (b 常任)) (NP (n 理事国))))
+        (PP-LOC (p 在) (LCP (NP (n 国际) (n 事务)) (f 中)))
+        (VP
+          (v 发挥)
+          (uzhe 着)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 特殊))) (ude 的)))
+            (ADJP (a 积极))
+            (NP (n 作用)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (ns 吉尔吉斯))
+        (VP
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (QP (m 一个))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (v 独立))
+                    (VP (m 不久)))
+                  (ude 的)))
+              (ADJP (a 年轻))
+              (NP (n 国家))))
+          (wd ，)
+          (VP
+            (v 需要)
+            (VP
+              (v 借鉴)
+              (NP-OBJ (DNP (NP-PN (ns 中国)) (ude 的)) (NP (n 经验)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 包括)
+          (NP-OBJ
+            (NP-PN (ns 中国))
+            (DNP (PP (p 在) (LCP (NP (n 国际) (n 活动)) (f 中))) (ude 的))
+            (NP (n 经验)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 希望)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP (NP (QP (m 两)) (NP (n 国))) (ude 的))
+        (NP (n 外交) (n 代表)))
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 国际) (n 组织)) (f 中)))
+        (VP
+          (VP (v 保持) (NP-OBJ (n 磋商)))
+          (wd ，)
+          (VP (v 加强) (NP-OBJ (v 合作)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 李鹏) (n 总理))
+  (VP
+    (ADVP (d 首先))
+    (VP
+      (v 转达)
+      (y 了)
+      (NP-OBJ
+        (NP-PN (nr 江泽民) (n 主席))
+        (DNP (PP (p 对) (NP-PN (nrf 阿卡耶夫) (n 总统))) (ude 的))
+        (ADJP (a 亲切))
+        (NP (n 问候)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 李鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (NP-PN (ns 中) (ns 吉)) (QP (m 两)) (NP (n 国)))
+        (VP
+          (v 有着)
+          (NP-OBJ
+            (NP (DNP (ADJP (b 共同)) (ude 的)) (NP (n 边界)))
+            (c 和)
+            (NP (DNP (ADJP (n 传统)) (ude 的)) (NP (n 友谊))))))
+      (wd ，)
+      (IP
+        (LCP-TMP (IP (NP-PN-SBJ (ns 吉尔吉斯)) (VP (v 独立))) (f 以后))
+        (NP-TPC (NP (QP (m 两)) (NP (n 国))) (NP (n 关系)))
+        (NP-SBJ (v 发展))
+        (VP (a 顺利)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (v 愿意)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-PRP
+          (p 为)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (ADVP (d 不断))
+              (VP (v 加深) (NP-OBJ (DP (r 这种)) (NP (n 友谊)))))))
+        (VP (v 作出) (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (NP (an 努力)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫))
+  (VP
+    (v 请)
+    (NP-PN-OBJ (nr 李鹏))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 转达)
+        (NP-OBJ
+          (NP
+            (NP (r 他))
+            (DNP (PP (p 对) (NP-PN (nr 江泽民) (n 主席))) (ude 的))
+            (NP (n 问候)))
+          (c 和)
+          (NP
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 访问) (NP-PN-OBJ (ns 吉尔吉斯))))
+              (ude 的))
+            (n 邀请))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 加强)
+          (NP-OBJ
+            (PP (p 同) (NP-PN (ns 中国)))
+            (DNP
+              (PP
+                (p 在)
+                (NP
+                  (NP-APP
+                    (NP
+                      (n 政治)
+                      (wn 、)
+                      (n 经济)
+                      (wn 、)
+                      (n 科技)
+                      (wn 、)
+                      (n 文化))
+                    (udeng 等))
+                  (DP (r 各个))
+                  (NP (n 领域))))
+              (ude 的))
+            (NP (n 合作) (n 关系)))))
+      (VP
+        (VP
+          (v 符合)
+          (NP-OBJ
+            (DNP (NP (NP-PN (ns 吉尔吉斯)) (NP (n 民族))) (ude 的))
+            (ADJP (a 最高))
+            (NP (n 利益))))
+        (wd ，)
+        (VP
+          (ADVP (d 也))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ
+                      (NP-PN (ns 吉尔吉斯))
+                      (PP (n 对外))
+                      (NP (n 政策)))
+                    (VP
+                      (PP-DIR (-NONE- *T*-1))
+                      (ADVP (vd 优先))
+                      (VP (v 发展))))
+                  (ude 的)))
+              (NP (n 方向) (r 之一))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫) (n 总统))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nr 李鹏) (n 总理))
+              (VP (v 提出) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 建设)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新)))
+                    (ude 的)))
+                (NP (nl 丝绸之路)))))
+          (ude 的))
+        (NP (n 设想))))
+    (VP (v 表示) (NP-OBJ (v 赞同))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 吉尔吉斯))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP
+            (PP-PRP (bl 为此))
+            (VP (v 作出) (NP-OBJ (DNP (NP (r 自己)) (ude 的)) (an 努力))))
+          (wd ，)
+          (VP
+            (v 使)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+              (NP (nl 丝绸之路)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 成为)
+                (NP-OBJ
+                  (NP (DNP (NP (v 合作)) (uzhi 之)) (NP (n 路)))
+                  (wd ，)
+                  (NP (DNP (NP (a 友好)) (uzhi 之)) (NP (n 路)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 吉尔吉斯))
+      (VP
+        (ADVP (d 将))
+        (ADVP (d 永远))
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-PN-SBJ (ns 中国))
+            (VP
+              (VCP (v 看作) (vshi 是))
+              (NP-OBJ
+                (NP
+                  (DNP (NP (NP-PN (ns 中亚)) (NP (n 国家))) (ude 的))
+                  (ADJP (a 友好))
+                  (NP (n 邻邦)))
+                (c 和)
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (ADVP (d 相互)) (VP (v 信赖))))
+                      (ude 的)))
+                  (NP (n 合作) (n 伙伴))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 关于) (NP (NP (NP-PN (ns 中) (ns 吉)) (NP (n 边界))) (NP (n 问题))))
+  (wd ，)
+  (NP-SBJ (n 双方))
+  (VP
+    (ADVP (ad 一致))
+    (VP
+      (v 认为)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (NP-TMP (t 目前))
+          (VP
+            (v 应)
+            (VP
+              (VP (v 抓紧) (NP-OBJ (n 时间)))
+              (VP
+                (PP-MNR (p 以) (NP (n 法律) (n 形式)))
+                (VP
+                  (v 落实)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (ADVP (t 以往)) (VP (v 达成))))
+                        (ude 的)))
+                    (NP (n 协议)))))
+              (wd ，)
+              (VP
+                (ADVP (c 同时))
+                (PP-DIR
+                  (p 对)
+                  (NP
+                    (DP (r 某些))
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-2))
+                          (VRD (v 遗留) (f 下)))
+                        (ude 的)))
+                    (NP (n 问题))))
+                (VP
+                  (v 继续)
+                  (VP (v 进行) (NP-OBJ (ADJP (a 友好)) (NP (n 谈判))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 鉴于)
+    (IP
+      (NP-SBJ (n 双方))
+      (VP (ADVP (d 都)) (VP (VSB (v 抱) (vyou 有)) (NP-OBJ (n 诚意))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 相信)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 一定))
+        (VP
+          (v 会)
+          (VP
+            (PP-TMP
+              (p 在)
+              (LCP
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (ADVP (d 不)) (ADVP (d 太)) (VP (a 长))))
+                      (ude 的)))
+                  (NP (n 时间)))
+                (f 里)))
+            (wd ，)
+            (ADVP (ad 圆满))
+            (VP
+              (v 解决)
+              (NP-OBJ
+                (DNP (NP (QP (m 两)) (NP (n 国))) (ude 的))
+                (NP (n 边界) (n 问题)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 李鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-SBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (d 尽早)) (VP (v 达成) (NP-OBJ (n 边界) (n 协议)))))
+        (VP
+          (PP-BNF
+            (p 对)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 加强) (NP-OBJ (NP-PN (ns 中) (ns 吉)) (NP (n 关系))))))
+          (VP (v 具有) (NP-OBJ (ADJP (a 重要)) (NP (n 意义))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 希望)
+          (IP-OBJ
+            (NP-SBJ (NP (QP (m 两)) (NP (n 国))) (NP (n 边界)))
+            (VP
+              (v 能)
+              (VP
+                (v 成为)
+                (NP-OBJ
+                  (NP (DNP (NP (a 和平) (a 友好)) (ude 的)) (NP (n 纽带)))
+                  (c 和)
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (v 促进) (NP-OBJ (n 经济) (a 繁荣))))
+                        (ude 的)))
+                    (NP (n 桥梁)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DNP (NP (QP (m 两)) (NP (n 国))) (ude 的))
+          (NP (n 经贸) (n 合作) (n 关系) (n 势头)))
+        (VP (ADVP (d 很)) (VP (a 好))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (ns 中国))
+        (VP
+          (NP-TMP (t 目前))
+          (ADVP (d 已))
+          (VP
+            (v 成为)
+            (NP-OBJ
+              (DNP (NP-PN (ns 吉尔吉斯)) (ude 的))
+              (ADJP (a 重要))
+              (NP (n 贸易) (n 伙伴))))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (ns 吉尔吉斯))
+        (VP
+          (VP
+            (v 希望)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (p 将)
+                (IP-OBJ
+                  (NP-SBJ
+                    (DNP (NP (QP (m 两)) (NP (n 国))) (ude 的))
+                    (NP (n 经贸) (n 关系)))
+                  (VP
+                    (VRD (v 提高) (v 到))
+                    (NP-OBJ
+                      (QP (m 一个))
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新)))
+                          (ude 的)))
+                      (NP (n 水平))))))))
+          (wd ，)
+          (VP
+            (v 欢迎)
+            (NP-OBJ (NP-PN (ns 中国)) (NP (n 企业)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (VP (v 到) (NP-PN-OBJ (ns 吉尔吉斯))) (VP (v 投资)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫))
+  (VP
+    (ADVP (d 还))
+    (ADVP (d 高度))
+    (VP
+      (v 评价)
+      (y 了)
+      (NP-OBJ
+        (LCP
+          (NP (NP (QP (m 两)) (NP (n 国))) (NP (n 科技) (n 工作者)))
+          (f 之间))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 富有) (NP-OBJ (n 成果))))
+            (ude 的)))
+        (NP (n 合作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 李鹏))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (NP-PN (ns 中) (ns 吉)) (QP (m 两)) (NP (n 国)))
+      (VP
+        (v 应)
+        (VP
+          (v 加强)
+          (NP-OBJ
+            (DNP
+              (LCP
+                (NP
+                  (NP-APP
+                    (n 经贸)
+                    (wn 、)
+                    (n 科技)
+                    (wn 、)
+                    (n 文化)
+                    (udeng 等))
+                  (NP (n 领域)))
+                (f 中))
+              (ude 的))
+            (NP (n 合作) (n 关系)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 表示)
+    (wm ：)
+    (wyz “)
+    (IP
+      (IP
+        (PP-TMP
+          (p 自从)
+          (LCP (IP (NP-PN-SBJ (ns 吉尔吉斯)) (VP (v 独立))) (f 以后)))
+        (wd ，)
+        (NP-SBJ (NP (QP (m 两)) (NP (n 国))) (NP (n 贸易额)))
+        (VP
+          (vyou 有)
+          (y 了)
+          (NP-OBJ (ADJP (ADVP (d 较)) (ADJP (a 大))) (NP (n 增长)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 这))
+        (VP (ADVP (d 主要)) (VP (vshi 是) (NP-PRD (n 边贸)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 我))
+        (VP
+          (v 同意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP-APP
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (VCD (nl 平等互利))))
+                      (ude 的))
+                    (NP (n 基础)))
+                  (f 上)))
+              (ADVP (d 进一步))
+              (VP (v 扩大) (NP-OBJ (n 经贸) (n 关系)))))))
+      (wd ，)
+      (IP
+        (PP-DIR
+          (p 对)
+          (NP
+            (CP-APP
+              (IP
+                (NP-SBJ (DNP (NP-PN (ns 中国)) (ude 的)) (NP (n 企业家)))
+                (VP (VP (v 来) (NP-PN-OBJ (ns 吉))) (VP (n 投资)))))
+            (NP (n 问题))))
+        (NP-SBJ (NP-PN (ns 中国)) (NP (n 政府)))
+        (VP (v 持) (NP-OBJ (ADJP (a 积极)) (NP (n 态度)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 李鹏) (n 总理))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-PN-SBJ (ns 中国))
+        (VP
+          (v 支持)
+          (LCP-OBJ
+            (LCP (NP (NP-PN (ns 中亚)) (r 各国)) (f 之间))
+            (c 以及)
+            (LCP (NP (NP (r 它们)) (p 同) (NP-PN (ns 俄罗斯))) (f 之间)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 保持) (NP-OBJ (ADJP (a 友好)) (NP (n 关系)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿卡耶夫) (n 总统))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (NP (NP-PN (ns 中亚)) (r 各国))
+          (DNP (PP (p 同) (NP-PN (ns 俄罗斯))) (ude 的))
+          (NP (n 关系)))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (n 历史))
+                  (VP
+                    (ADVP (d 长期))
+                    (VP (v 形成) (NP-OBJ (-NONE- *T*-2)))))
+                (ude 的))))))
+      (wd ，)
+      (IP
+        (IP-SBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 保持)
+            (NP-OBJ
+              (DNP (LCP (NP (b 相互)) (f 间)) (ude 的))
+              (ADJP (a 良好))
+              (NP (n 关系)))))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 很)) (VP (a 重要))))
+                (ude 的))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (QP (m 两)) (NP (n 国))) (NP (n 领导人)))
+  (VP
+    (ADVP (d 还))
+    (PP (p 就) (NP (DP (r 其他) (QP (m 一些))) (NP (n 地区) (n 问题))))
+    (DVP (VP (a 深入)) (ude 地))
+    (VP (v 交换) (y 了) (NP-OBJ (n 意见))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

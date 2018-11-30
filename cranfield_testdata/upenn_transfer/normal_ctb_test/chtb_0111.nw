@@ -1,0 +1,208 @@
+<S>
+( (IP-HLN
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP
+        (NP-SBJ (-NONE- *T*-1))
+        (VP (NP-PN-LOC (ns 纽约) (n 证交所)) (vi 上市))))
+    (NP (n 外国) (n 企业)))
+  (VP (ADVP (d 大幅)) (VP (v 增加)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 纽约)
+  (t １月)
+  (t １３日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 周锡生)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (dl 近年来))
+  (wd ，)
+  (NP-SBJ
+    (QP (m 一) (CLP (ADJP (a 大)) (CLP (q 批))))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (IP
+            (IP (NP-SBJ (n 实力)) (VP (a 雄厚)))
+            (wn 、)
+            (IP (NP-SBJ (n 发展) (n 前景)) (VP (v 看好)))))
+        (ude 的)))
+    (NP (n 外国) (n 企业)))
+  (VP (ADVP (d 纷纷)) (VP (v 涌入) (NP-PN-OBJ (ns 纽约) (n 证券) (n 交易所))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 统计)))
+  (wd ，)
+  (NP-TMP (t 目前))
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-2))
+          (VP (PP-LOC (p 在) (NP-PN (ns 纽约) (n 证交所))) (VP (vi 上市))))
+        (ude 的)))
+    (NP (n 外国) (n 企业)))
+  (VP
+    (VP
+      (ADVP (d 已))
+      (VP (v 达) (QP-OBJ (QP (QP (m ３４０)) (ADVP (m 多))) (CLP (q 家)))))
+    (wd ，)
+    (VP
+      (p 为)
+      (QP-PRD
+        (DNP (LCP (QP (m ５) (CLP (q 年))) (f 前)) (ude 的))
+        (QP (m 三) (CLP (q 倍))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-5 (-NONE- *OP*))
+      (IP
+        (NP-SBJ (-NONE- *T*-5))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (CP
+              (WHNP-6 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *T*-6))
+                (VP
+                  (PP-LOC (p 在) (NP-PN (ns 纽约) (n 证交所)))
+                  (VP (n 上市)))))
+            (NP (n 企业)))))
+      (ude 的))
+    (NP (n 国家) (c 和) (n 地区)))
+  (VP (ADVP (d 已)) (QP-PRD (ADVP (v 近)) (QP (m ５０) (CLP (q 个)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 分析)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHPP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (n 外国) (n 企业))
+          (VP
+            (PP-PRP (-NONE- *T*-2))
+            (ADVP (d 纷纷))
+            (VP
+              (VP
+                (v 到)
+                (NP-OBJ (NP-PN (ns 美国)) (NP (n 证券) (n 交易) (n 市场))))
+              (VP-PRP (vi 上市)))))
+        (ude 的)))
+    (ADJP (b 主要))
+    (NP (n 原因)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (IP
+        (LCP-TMP (dl 近年来))
+        (NP-SBJ (NP-PN (ns 美国)) (NP (n 经济)))
+        (VP (ADVP (vd 持续)) (ADVP (ad 稳定)) (VP (v 增长))))
+      (wd ，)
+      (IP
+        (NP-PN-SBJ (ns 纽约) (n 证交所))
+        (VP
+          (IP-ADV (NP-SBJ (v 管理)) (VP (a 严格)))
+          (wd ，)
+          (IP-ADV (NP-SBJ (n 运作)) (VP (n 规范)))
+          (wd ，)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 较)) (VP (a 理想))))
+                  (ude 的)))
+              (ADJP (n 筹资))
+              (NP (n 场所))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (v 统计))
+  (VP
+    (v 表明)
+    (wd ，)
+    (IP-OBJ
+      (LCP-TMP (NP (t １９９２年)) (f 以来))
+      (wd ，)
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 外国) (n 企业))
+              (VP
+                (PP-LOC (p 在) (NP-PN (ns 纽约) (n 证交所)))
+                (VP (v 筹措) (NP-OBJ (-NONE- *T*-2)))))
+            (ude 的)))
+        (NP (n 资金)))
+      (VP (ADVP (d 已)) (VP (v 达) (QP-OBJ (m ６００亿) (CLP (q 美元)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ (DNP (NP-PN (ns 华尔街)) (ude 的)) (NP (n 金融) (n 专家)))
+  (VP
+    (VSB (v 提醒) (v 说))
+    (wd ，)
+    (IP-OBJ
+      (IP-SBJ
+        (NP-SBJ (n 外国) (n 企业))
+        (VP (PP-LOC (p 在) (NP-PN (ns 纽约) (n 证交所))) (VP (vi 上市))))
+      (wd ，)
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP (ADJP (ADVP (d 很)) (ADJP (a 大))) (NP (n 程度)))
+            (f 上)))
+        (VP
+          (v 意味着)
+          (IP-OBJ
+            (NP-SBJ (DP (r 这些)) (NP (n 企业)))
+            (VP
+              (v 需要)
+              (VP
+                (v 采用)
+                (NP-OBJ
+                  (NP-PN (ns 美国))
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 严格)))
+                      (ude 的)))
+                  (NP (n 经营) (c 和) (n 财物) (n 管理))
+                  (NP (n 方式))))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

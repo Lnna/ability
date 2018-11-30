@@ -1,0 +1,295 @@
+<S>
+( (IP-HLN
+  (NP-TPC
+    (NP
+      (IP-APP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (wyz “)
+          (VP (vi 携手))
+          (VP (v 筑) (NP-PN-OBJ (ns 长城)))
+          (wyy ”)))
+      (NP (n 赈灾) (n 义演) (n 晚会)))
+    (NP (n 认捐) (n 款物)))
+  (NP-SBJ (n 绝大部分))
+  (VP (ADVP (d 已经)) (VP (vi 到位)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 十二月)
+  (t 三十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 李术峰)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (NP-TMP (t 今天))
+    (PP-DIR (p 从) (NP-PN (nt 民政部)))
+    (VP
+      (v 获悉)
+      (wd ，)
+      (IP-OBJ
+        (NP-TPC
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (PP-LGS (p 由) (NP-PN (nt 民政部) (wn 、) (nt 文化部)))
+                    (VP (v 举办) (NP-OBJ (-NONE- *-2)))))
+                (ude 的)))
+            (IP-APP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (wyz “)
+                (VP (vi 携手))
+                (VP (v 筑) (NP-PN-OBJ (ns 长城)))
+                (wyy ”)))
+            (NP (n 赈灾) (n 义演) (n 晚会)))
+          (NP (n 认捐) (n 款物)))
+        (NP-SBJ (n 绝大部分))
+        (VP (ADVP (d 已经)) (VP (vi 到位))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (v 截至) (NP (t 目前)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (vi 捐款))
+      (VP (vi 到位) (QP-OBJ (m 五点一四八四亿) (CLP (q 元)))))
+    (wd ，)
+    (IP (NP-SBJ (vi 捐物)) (VP (vi 到位) (QP-OBJ (m 五点六八亿) (CLP (q 元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 款物))
+      (VP (ADVP (d 共)) (VP (vi 到位) (QP-OBJ (m 十点八二八四亿) (CLP (q 元))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 占)
+        (QP-OBJ
+          (DNP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (ADVP (t 当初))
+                    (VP
+                      (IP (VP (v 认) (IP (VP (v 捐)))))
+                      (NP-OBJ (-NONE- *T*-1))))))
+              (NP (n 数)))
+            (ude 的))
+          (QP (m 百分之九十九))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今年))
+  (NP-TMP (vi 抗洪) (vi 救灾) (f 期间))
+  (wd ，)
+  (PP-PRP
+    (p 为)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (d 进一步))
+        (VP
+          (v 唤起)
+          (NP-OBJ
+            (NP (NP (n 社会)) (r 各界))
+            (DNP (PP (p 对) (NP (n 灾区))) (ude 的))
+            (NP (n 支持)))))))
+  (wd ，)
+  (NP-PN-SBJ (nt 民政部) (p 与) (nt 文化部))
+  (VP
+    (PP-TMP (p 于) (NP (t 八月) (t 二十一日)))
+    (PP-LOC (p 在) (NP-PN (n 人民) (n 大会堂)))
+    (ADVP (ad 成功))
+    (VP
+      (v 举办)
+      (y 了)
+      (NP-OBJ
+        (IP-APP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (wyz “)
+            (VP (vi 携手))
+            (VP (v 筑) (NP-PN-OBJ (ns 长城)))
+            (wyy ”)))
+        (ADJP (b 大型))
+        (NP (n 赈灾) (n 义演) (n 晚会)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (n 晚会))
+          (VP
+            (IP (VP (v 认) (IP (VP (v 捐)))))
+            (NP-OBJ (-NONE- *T*-1)))))
+      (NP (n 救灾) (n 捐赠))
+      (NP (n 款物)))
+    (VP (v 达) (QP-OBJ (m 十点九三亿) (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-ADV (r 其中))
+    (NP-SBJ (n 认捐) (n 资金))
+    (VP (QP-PRD (m 五点二亿) (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (vi 捐物))
+    (VP (vi 折) (n 款) (QP-OBJ (m 五点七三亿) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-LOC
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (PP-DIR (p 向) (NP-PN (nt 民政部)))
+                (VP (v 提供) (y 了) (NP-OBJ (n 认捐书)))))
+            (ude 的)))
+        (NP (n 单位)))
+      (f 中))
+    (wd ，)
+    (NP-SBJ (ADJP (a 个别)) (NP (n 单位)))
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR (p 按) (NP (n 捐赠) (n 数额)))
+              (VP
+                (vi 到位)
+                (y 了)
+                (NP-OBJ
+                  (NP (r 其中))
+                  (QP (m 大部分))
+                  (NP (n 物资) (c 和) (n 资金))))))
+          (f 后)))
+      (wd ，)
+      (PP-PRP
+        (p 因)
+        (IP
+          (IP (NP-SBJ (v 生产)) (VP (a 不景气)))
+          (wd ，)
+          (IP (NP-SBJ (n 效益)) (VP (vi 下降)))))
+      (VP
+        (c 而)
+        (VP
+          (ADVP (v 难于))
+          (VP (v 兑现) (NP-OBJ (ADJP (n 剩余)) (NP (n 部分))))))))
+  (wd ，)
+  (IP
+    (PP-DIR (p 对) (NP (r 此)))
+    (NP-PN-SBJ (nt 民政部))
+    (VP (ADVP (d 已)) (VP (v 予) (VP (v 表示) (NP-OBJ (v 理解))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 另))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-TPC
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-MNR (p 通过) (NP (n 晚会) (s 现场) (n 热线) (n 电话)))
+                  (IP (VP (v 认) (IP (VP (v 捐)))))))
+              (ude 的)))
+          (NP (m 少部分))
+          (NP (n 单位) (c 和) (n 个人)))
+        (IP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (NP-TMP (t 当时))
+              (VP
+                (d 没有)
+                (VP
+                  (v 留下)
+                  (NP-OBJ
+                    (n 联系)
+                    (n 电话)
+                    (wn 、)
+                    (v 联系)
+                    (n 地址)
+                    (wn 、)
+                    (n 联系人))))))
+          (c 或)
+          (IP
+            (IP
+              (NP-SBJ (n 联系) (n 电话) (wn 、) (v 联系) (n 地址))
+              (VP (vyou 有) (NP-OBJ (n 误))))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (v 无法)) (VP (v 核查)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 位))) (NP (n 负责人)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-TMP (t 今年))
+      (NP-SBJ
+        (NP
+          (NP
+            (DNP
+              (NP (DNP (NP (vi 救灾) (v 捐赠)) (ude 的)) (NP (a 热情)))
+              (uzhi 之))
+            (NP (n 高)))
+          (wd ，)
+          (NP (DNP (NP (n 规模)) (uzhi 之)) (NP (a 大)))
+          (wd ，)
+          (NP (DNP (NP (n 成效)) (uzhi 之)) (NP (a 显著)))))
+      (VP
+        (PP-LOC (p 在) (LCP (NP (NP-PN (ns 中国)) (NP (n 救灾史))) (f 上)))
+        (ADVP (d 都))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 空前))) (ude 的))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

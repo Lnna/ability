@@ -1,0 +1,264 @@
+<S>
+( (IP
+  (IP
+    (PP-LOC
+      (p 在)
+      (NP
+        (DNP (NP (NP-PN (ns 高雄) (p 跟) (ns 台南)) (NP (n 地区))) (ude 的))
+        (NP (n 诊所))))
+    (NP-SBJ (n 医生))
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 正))
+      (VP
+        (v 进行)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 项)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 罕见))) (ude 的)))
+          (ADJP (n 传接))
+          (NP (n 行动))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (d 正在))
+      (VP
+        (v 对抗)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 位)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (PP-LOC (p 在) (NP (d 暗地))) (VP (v 活动))))
+              (ude 的)))
+          (NP (n 歹徒))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这) (CLP (q 位))) (NP (n 歹徒)))
+    (VP
+      (ADVP (d 已经))
+      (ADVP (d 先后))
+      (PP-DIR
+        (p 对)
+        (NP (QP (m ２９) (CLP (q 名))) (NP (n 医生) (p 跟) (n 诊所))))
+      (VP (v 发生) (y 了) (NP (v 恐吓) (n 信)))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (DP-ADV (r 这) (QP (m 一) (CLP (q 次))))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 没有)
+      (IP
+        (NP-SBJ
+          (QP (m 一) (CLP (q 家)))
+          (NP (n 医生) (c 或) (IP (NP (n 院)) (VP (usuo 所)))))
+        (VP (v 愿意) (IP (NP (-NONE- *PRO*)) (VP (v 付出) (NP (n 赔偿金))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而且))
+    (NP (-NONE- *pro*))
+    (VP
+      (v 表示)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 将))
+          (VP (v 会) (VP (ADVP (d 全力)) (VP (v 对抗) (ADVP (vi 到底)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP (n 警方))
+  (VP
+    (v 希望)
+    (IP
+      (NP (-NONE- *pro*))
+      (VP (ADVP (d 赶快)) (VP (VRD (v 抓) (v 到)) (NP (r 他))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这) (CLP (q 位)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (PP-LOC (p 在) (NP-PN (ns 高雄市) (ns 前正区))) (VP (vi 开业))))
+        (ude 的)))
+    (NP (n 牙) (n 医师)))
+  (VP (NP-TMP (t 最近)) (VP (vl 心神不宁)))
+  (wd ，)
+  (PP-PRP
+    (c 因为)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (al 莫名其妙))
+        (VP
+          (v 接到)
+          (NP-OBJ
+            (NP (n 歹徒))
+            (CP
+              (WHPP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-LOC (-NONE- *T*-2))
+                    (VP (v 要求) (VP (v 跑) (NP (n 路费))))))
+                (ude 的)))
+            (NP (n 恐吓信)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (CP
+    (IP (NP-SBJ (r 我们)) (VP (VSB (vi 花钱) (VP (v 消) (NP (n 灾))))))
+    (y 啊))
+  (wd ，)
+  (IP
+    (IP-TPC
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 遇到) (NP-OBJ (DP (r 这种)) (NP (n 事情)))))
+    (NP-SBJ (r 我们))
+    (VP (ADVP (d 也)) (VP (v 没有) (NP-OBJ (n 办法)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (IP (NP (n 市) (n 警)) (VP (a 大))) (NP (n 鉴事组)))
+    (VP
+      (ADVP (c 并))
+      (PP-DIR (p 对) (VP (v 恐吓) (NP (n 信))))
+      (VP
+        (v 进行)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 仔细))) (ude 的)))
+          (NP (n 指纹) (n 辨识))))))
+  (wd ，)
+  (IP
+    (LCP-SBJ (NP (n 信)) (f 中))
+    (VP
+      (ADVP (d 只))
+      (VP
+        (vyou 有)
+        (IP
+          (NP-SBJ
+            (NP
+              (CP
+                (WHPP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-DIR (-NONE- *T*-2)) (VP (vi 汇款))))
+                  (ude 的)))
+              (NP (n 账号)))
+            (c 和)
+            (NP
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (v 勒索) (NP-OBJ (-NONE- *T*-3))))
+                  (ude 的)))
+              (NP (n 金额))))
+          (VP (vshi 是) (VP (n 手写)))))))
+  (wd ，)
+  (IP (NP-SBJ (n 数目)) (VP (ADVP (d 不)) (VP (a 大))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 摆明)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 要)
+          (NP-OBJ (n 医师))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (VSB (vi 花钱) (VP (v 消) (NP (n 灾))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (PP-MNR (p 通过) (NP (DP (r 这) (CLP (q 件))) (NP (n 事))))
+  (NP-SBJ (r 我们))
+  (VP
+    (VP (ADVP (d 都)) (VP (v 加装) (y 了) (NP-OBJ (n 监视器))))
+    (wd ，)
+    (VP
+      (ADVP (d 尽量))
+      (VP
+        (v 来)
+        (VP (v 防止) (IP-OBJ (NP-SBJ (n 歹徒)) (VP (v 来) (VP (v 抢劫))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 上个月))
+    (PP-LOC (p 在) (NP-PN (ns 台南)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 发生)
+        (y 了)
+        (NP-OBJ
+          (QP (m 十几) (CLP (q 件)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 类似))) (ude 的)))
+          (CP-APP
+            (IP (NP-SBJ (-NONE- *pro*)) (VP (v 恐吓) (NP-OBJ (n 牙医))))
+            (ude 的))
+          (NP (n 案件))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vyou 有)
+          (NP-OBJ (DNP (ADJP (vi 相当)) (ude 的)) (NP (n 关联性)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (v 锁定)
+        (y 了)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 名)))
+          (NP (NP-PN (nr1 杨)) (NP (n 姓)))
+          (NP (n 嫌犯))))
+      (wd ，)
+      (VP
+        (v 要)
+        (NP-OBJ (r 他))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (VCD (n 到案) (v 表明)))))))
+  (wj 。)))
+</S>

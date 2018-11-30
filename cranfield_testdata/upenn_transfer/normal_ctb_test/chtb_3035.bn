@@ -1,0 +1,109 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (ns 台湾))
+      (DNP (ADJP (a 著名)) (ude 的))
+      (NP (n 佛教界) (n 人士)))
+    (NP (NP (n 佛) (ns 光山)) (NP-PN (n 星云) (n 法师))))
+  (VP
+    (NP-TMP (t 星期天))
+    (VP (VP (v 抵达) (NP-PN-OBJ (ns 扬州) (ns 江都市))) (VP (v 访问))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 星云) (n 法师))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (n 大陆))
+      (VP
+        (VP
+          (PP-DIR (p 对) (NP-PN (ns 台湾)))
+          (VP
+            (v 应当)
+            (VP
+              (v 采取)
+              (NP-OBJ (DNP (ADJP (n 柔性)) (ude 的)) (NP (n 做法))))))
+        (wd ，)
+        (VP
+          (ADVP (n 凡事))
+          (VP
+            (v 要)
+            (VP
+              (PP-BNF (p 为) (NP (NP-PN (ns 台湾)) (NP (n 人民))))
+              (VP (vi 着想)))))
+        (wd ，)
+        (VP
+          (v 放弃)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-MNR (p 以) (NP (n 武力)))
+                  (VP (v 攻打) (NP-PN-OBJ (ns 台湾)))))
+              (ude 的))
+            (NP (n 政策)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 因为)
+    (IP
+      (NP-SBJ (n 枪炮))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 能)
+          (VP
+            (v 消除)
+            (NP-OBJ
+              (DNP (LCP (NP (n 两岸)) (f 之间)) (ude 的))
+              (NP (n 隔阂))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 星云) (n 法师))
+  (VP
+    (v 强调)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (NP (wyz “) (QP (m 一个)) (NP-PN (ns 中国)) (wyy ”))
+          (NP (n 政策)))
+        (VP
+          (ADVP (d 究竟))
+          (VP
+            (v 会)
+            (VP
+              (PP-BNF (p 给) (NP-PN (ns 台湾)))
+              (VP (v 带来) (NP-OBJ (DP-WH (r 什么)) (NP (n 好处))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 大陆) (n 方面))
+        (VP
+          (v 应当)
+          (VP (VP (VRD (v 说) (a 清楚))) (wd ，) (VP (VRD (v 讲) (a 明白))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (f 以上)) (VP (n 报告) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (NP-PRD (QP (m 一) (CLP (q 组))) (NP-PN (ns 中国)) (NP (n 简讯))))
+  (wj 。)))
+</S>

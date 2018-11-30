@@ -1,0 +1,179 @@
+<S>
+( (IP
+  (NP-PN-SBJ (ns 嘉义))
+  (VP
+    (vyou 有)
+    (IP-OBJ
+      (NP-SBJ (QP (m 一) (CLP (q 名))) (VP (v 驾驭) (NP (n 人))))
+      (VP
+        (NP-TMP
+          (CP
+            (WHPP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-TMP (-NONE- *T*-2))
+                  (NP-TMP (t 今天))
+                  (VP
+                    (VP
+                      (v 开)
+                      (uzhe 着)
+                      (NP-OBJ
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 进口)))
+                            (ude 的)))
+                        (NP-PN (nz 富豪))
+                        (NP (n 轿车))))
+                    (VP (PP-LOC (p 在) (NP (s 路边))) (VP (vi 倒车))))))
+              (ude 的)))
+          (NP (n 时候)))
+        (wd ，)
+        (ADVP (d 没))
+        (VP
+          (v 想到)
+          (IP-OBJ
+            (NP-SBJ (n 车子))
+            (VP
+              (VP (vi 失控))
+              (wd ，)
+              (VP
+                (VRD (v 撞) (v 进))
+                (y 了)
+                (LCP-OBJ
+                  (NP (QP (m 一) (CLP (q 家))) (NP (n 店)))
+                  (f 里面)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 车主))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (r 这))
+        (VP (vshi 是) (NP (QP (m 一) (CLP (q 件))) (NP (n 爆冲) (n 事件)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-PN-SBJ (nz 富豪) (n 公司))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-TMP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ
+                    (DNP (NP (t 以往)) (ude 的))
+                    (NP (n 爆冲) (n 事件)))
+                  (VP
+                    (NP-TMP (-NONE- *T*-1))
+                    (VP (VRD (v 传) (v 出来)))))
+                (ude 的)))
+            (NP (n 时候)))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 都))
+            (VP
+              (vshi 是)
+              (IP-PRD (NP-SBJ (n 车子)) (VP (VRD (v 冲) (v 出去)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 从来))
+            (ADVP (d 没有))
+            (VP
+              (PP-TMP
+                (p 在)
+                (NP (DNP (NP (vi 倒车)) (ude 的)) (NP (n 时候))))
+              (VP (v 传出) (NP-OBJ (DP (r 这种)) (NP (n 事情))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 听到)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 发生)
+          (NP-OBJ
+            (QP (m 一) (CLP (q 次)))
+            (NP (n 汽车) (VSB (d 爆) (v 冲))))))))
+  (wd ，)
+  (NP-SBJ (n 车商))
+  (VP
+    (VP (ADVP (d 也)) (VP (VSB (vi 赶来) (v 关切))))
+    (wd ，)
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (IP
+          (IP-SBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (ADVP (t 往后)) (VP (v 冲))))
+          (VP
+            (ADVP (d 并))
+            (ADVP (d 不))
+            (VP
+              (v 等于)
+              (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VSB (v 爆) (v 冲))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (d 必须) (VP (ADVP (d 再)) (VP (VRD (v 鉴定) (a 清楚)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 车商))
+    (VP
+      (v 表示)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 保) (y 了) (NP-OBJ (a 险))))
+              (ude 的)))
+          (NP (n 车子)))
+        (VP (v 可以) (VP (v 得到) (NP-OBJ (n 理赔)))))))
+  (wd ，)
+  (IP-Q
+    (ADVP (c 不过))
+    (NP-SBJ-3
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 遭) (NP-OBJ (v 破坏))))
+          (ude 的)))
+      (NP
+        (NP (n 箱行车))
+        (c 和)
+        (NP (DNP (NP (n 电脑) (n 公司)) (ude 的)) (NP (n 门面)))))
+    (VP
+      (v 该)
+      (VP
+        (PP-LGS (p 由) (NP (r 谁)))
+        (VP (v 来) (VP (v 负责) (NP-OBJ (-NONE- *-3))))))
+    (ww ？))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (d 则)) (VP (v 没有) (NP-OBJ (n 答案))))
+  (wj 。)))
+</S>

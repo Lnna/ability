@@ -1,0 +1,87 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (NP-PN (ns 澳门)) (NP (n 特区)) (ADJP (a 特别)) (NP (n 行政区)))
+      (NP (n 行政) (n 长官)))
+    (NP-PN (nr 何厚铧)))
+  (VP
+    (NP-TMP (QP (m ９) (CLP (q 号))) (t 下午))
+    (VP
+      (VP
+        (v 发表)
+        (NP-OBJ
+          (NP (s 任内))
+          (QP (m 第一) (CLP (q 份)))
+          (NP (b 施政) (n 报告))))
+      (VP
+        (v 表示)
+        (wd ，)
+        (IP-OBJ
+          (IP
+            (NP-SBJ
+              (NP (NP-PN (ns 澳门)) (NP (n 经济)))
+              (c 和)
+              (NP (n 旅游业)))
+            (VP (ADVP (d 已经)) (VP (v 开始) (VP (vi 复苏)))))
+          (wd ，)
+          (IP
+            (NP-SBJ
+              (DNP (NP (t 今年)) (ude 的))
+              (NP (n 经济) (VCD (n 成长) (k 率))))
+            (VP (v 预计) (VP (v 可) (VP (v 达) (QP-OBJ (m ４％))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (LCP-TMP
+        (NP (NP (t 过去)) (NP (QP (m １１) (CLP (q 个))) (NP (n 月))))
+        (f 来))
+      (wd ，)
+      (IP
+        (IP
+          (NP-SBJ (NP-PN (ns 澳门)) (NP (n 重案) (n 犯罪率)))
+          (VP (ADVP (ad 明显)) (VP (vi 下降))))
+        (wd ，)
+        (IP (NP-SBJ (n 破案率)) (VP (v 升高)))
+        (wd ，)
+        (IP (NP-SBJ (n 治安)) (VP (vi 好转))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 何厚铧))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (NP-PN (ns 澳门)) (NP (n 政府)))
+        (VP
+          (v 会)
+          (VP
+            (VP (v 扩大) (NP-OBJ (n 投资)))
+            (VP
+              (v 进行)
+              (NP-OBJ (QP (m 一) (CLP (q 系列))) (NP (n 基础) (n 建设)))))))
+      (wd ，)
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 加上) (NP-OBJ (n 自然) (n 工程))))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 预计)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 可以)
+              (VP
+                (v 创造)
+                (NP-OBJ (QP (m ６０００) (CLP (q 个))) (NP (n 就业) (n 机会))))))))))
+  (wj 。)))
+</S>

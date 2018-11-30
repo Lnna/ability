@@ -1,0 +1,80 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (NP (nr1 杜) (r 阿拉)) (NP (n 发电) (n 机队)))
+  (VP (v 赢得) (NP-OBJ (NP-PN (ns 喀麦隆) (n 足协杯赛)) (NP (n 冠军))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t １２月) (t ２８日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 喀麦隆) (nr1 杜) (r 阿拉) (n 发电) (n 机队))
+  (VP
+    (VP
+      (NP-TMP (t ２７日))
+      (PP-TMP
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (NP-LOC (NP-APP (n 首都)) (NP-PN (ns 雅温得)))
+                    (VP (v 举行))))
+                (ude 的)))
+            (NP-PN (ns 喀麦隆) (n 足协杯赛))
+            (NP (n 决赛)))
+          (f 中)))
+      (wd ，)
+      (PP-MNR (p 以) (QP (m １) (wm ：) (m ０)))
+      (VP (v 战胜) (NP-OBJ (NP-APP (n 东道主)) (NP-PN (ns 雅温得) (n 炮队)))))
+    (wd ，)
+    (VP
+      (QP-ADV (m 第三) (CLP (q 次)))
+      (VP (v 赢得) (NP-OBJ (NP-PN (ns 喀麦隆) (n 足协杯赛)) (NP (n 冠军))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (n 外电) (v 报道)))
+  (wd ，)
+  (NP-SBJ
+    (DP (r 这个))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 制胜))) (ude 的)))
+    (NP (n 球)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (VSB (v 替补) (vi 上场))))
+                  (ude 的)))
+              (IP (VP (v 让) (wp －) (NP (nrf 雅克·埃迪)) (ADVP (d 莫)))))
+            (VP
+              (PP-TMP (p 在) (QP (m 第七十六) (CLP (q 分钟))))
+              (VP (VRD (v 攻) (v 进)) (NP-OBJ (-NONE- *T*-3)))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m ６万)) (NP (n 观众)))
+  (VP (v 观看) (y 了) (NP-OBJ (DP (r 这) (CLP (q 场))) (NP (n 决赛))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

@@ -1,0 +1,352 @@
+<S>
+( (PP-HLN
+  (PP-DIR (p 从) (NP (b 赤贫)))
+  (PP-DIR (p 到) (NP (v 暴富)))
+  (PRN (wp ——) (QP (NP (n 经济)) (QP (m 五十) (CLP (q 年)))))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 李光真)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 记得)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (wyz 「)
+              (NP-SBJ (n 三轮车))
+              (wd ，)
+              (VP (v 跑) (ude 得) (VP-EXT (a 快)))
+              (wyy 」))
+            (ude 的))
+          (NP (n 童谣))))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-TMP (NP-PN (n 民国)) (QP (m 五十七) (CLP (q 年))))
+    (wd ，)
+    (NP-SBJ (n 计程车))
+    (VP (ADVP (d 逐渐)) (VP (v 取代) (NP-OBJ (n 三轮车)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 图))
+    (VP
+      (v 为)
+      (NP-PRD
+        (NP-PN (ns 台北市))
+        (NP (n 三轮车))
+        (NP (wyz 「) (n 坟场) (wyy 」)))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 郑桑溪)) (VP (v 摄)) (wky ）)))
+</S>
+<S>
+( (IP-HLN
+  (NP-SBJ (-NONE- *PRO*))
+  (VP
+    (NP-MNR (QP (m 三) (CLP (q 篓))) (NP (n 香蕉)))
+    (VP (v 过) (QP-OBJ (m 一) (CLP (q 年)))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (NP-TMP (t 早年)) (PP-DIR (p 从) (NP (n 农校))) (VP (v 毕业))))
+        (ude 的)))
+    (NP-APP (NP-PN (n 经建会)) (NP (n 主委)))
+    (NP-PN (nr 江丙坤)))
+  (VP
+    (v 记得)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (QP-TMP (NP-PN (n 民国)) (QP (m 五十) (CLP (q 年))))
+        (NP-SBJ (r 他))
+        (VP
+          (VP
+            (LCP-TMP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (PP-LOC (p 在) (NP (n 政府) (n 机构))) (VP (vi 上班))))
+              (n 时))
+            (wd ，)
+            (VP
+              (VRD (v 拿) (v 到))
+              (NP-OBJ
+                (DNP (NP-PN (n 国民党)) (ude 的))
+                (NP-PN (ns 中山) (n 奖学金)))))
+          (wd ，)
+          (VP
+            (v 准备)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (VP (v 赴) (NP-PN-OBJ (ns 日))) (VP (v 留学)))))))
+      (wd ，)
+      (IP
+        (ADVP (c 然而))
+        (NP-SBJ (n 父亲))
+        (VP (ADVP (d 不)) (VP (v 同意))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (IP
+      (NP-TMP (DP (r 那)) (NP (n 时候)))
+      (NP-SBJ
+        (NP (r 我))
+        (DNP (NP (DP (r 每个)) (NP (n 月))) (ude 的))
+        (NP (n 薪水)))
+      (VP
+        (VP (QP-PRD (m 九百) (CLP (q 元))))
+        (wd ，)
+        (VP
+          (ADVP (d 都))
+          (VP
+            (vshi 是)
+            (VP (ADVP (dl 原封不动)) (VP (VP (v 拿)) (VP (vi 回家))))))))
+    (wd ，)
+    (IP
+      (IP-ADV (NP-SBJ (r 我)) (VP (ADVP (d 一)) (VP (v 走))))
+      (wd ，)
+      (NP-SBJ (n 父亲))
+      (VP
+        (ADVP (d 就))
+        (VP
+          (v 会)
+          (VP
+            (ADVP (ad 少))
+            (VP (v 收) (DP-OBJ (r 这) (QP (m 九百) (CLP (q 元))))))))))
+  (wd ，)
+  (wyy 」)
+  (NP-PN-SBJ (nr 江丙坤))
+  (VP (v 解释) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 当时))
+  (NP-SBJ (r 他))
+  (VP
+    (PP-DIR (p 跟) (NP (n 父亲)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (wyz 「)
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (vl 没关系)))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 我))
+          (VP
+            (v 可以)
+            (VP
+              (NP-ADV (DP (r 每个)) (NP (n 月)))
+              (VP (p 给) (NP-IO (r 你)) (QP-OBJ (m 一千) (CLP (q 元))))))))))
+  (wt ！)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (IP
+    (wyz 「)
+    (IP
+      (IP-ADV
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 到) (y 了) (NP-PN-OBJ (ns 日本))))
+      (wd ，)
+      (NP-SBJ (QP (m 一) (CLP (q 篓))) (NP (n 香蕉)))
+      (VP
+        (v 卖)
+        (y 了)
+        (NP-OBJ
+          (QP (m 十) (CLP (q 元)))
+          (NP (n 美金))
+          (wd ，)
+          (PRN
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (IP (VP (ADVP (vi 相当)) (VP (p 于))))
+                (NP-OBJ (QP (m 三千六百) (CLP (q 块))) (NP (n 日币)))))))))
+    (wf ；)
+    (IP (QP-SBJ (m 三) (CLP (q 篓))) (VP (QP-PRD (m 三十) (CLP (q 美金)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 刚好))
+        (VP
+          (v 等于)
+          (NP-OBJ
+            (NP (r 我))
+            (PP (p 在) (NP-PN (ns 东京) (n 大学)))
+            (DNP (QP (m 一) (CLP (q 年))) (ude 的))
+            (NP (n 学费)))))))
+  (wt ！)
+  (wyy 」)
+  (IP
+    (NP-PN-SBJ (nr 江丙坤))
+    (VP
+      (v 回忆)
+      (NP-OBJ
+        (NP (t 当时))
+        (NP-PN (ns 台湾))
+        (NP (n 农产品))
+        (DNP (PP (p 在) (NP-PN (ns 日本))) (ude 的))
+        (NP (a 吃香) (n 情况)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-TMP (NP-PN (n 民国)) (QP (m 五十一) (CLP (q 年))))
+    (wd ，)
+    (NP-SBJ (n 工业) (n 产值))
+    (VP (QP-ADV (t 首度)) (VP (v 超过) (NP-OBJ (n 农业) (n 产值)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 台湾)) (ude 的))
+      (NP (wyz 「) (n 工业) (n 时代) (wyy 」)))
+    (VP (PP-DIR (d 自此)) (VP (v 开始))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (IP (NP-SBJ (n 外汇)) (VP (v 缺乏)))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VPT (v 买不起))
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 进口) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (NP (n 机器) (n 设备)))))))
+  (wd ，)
+  (NP-SBJ (n 政府))
+  (VP
+    (VP
+      (v 制订)
+      (NP-TTL-OBJ
+        (wyz 「)
+        (NP (v 加工) (IP (VP (v 出) (NP (n 口区)))))
+        (NP (n 条例))
+        (wyy 」)))
+    (wd ，)
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-MNR
+            (p 以)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (QP-ADV (m 五) (CLP (q 年))) (VP (vi 免税)))))
+          (VP (v 为) (NP-OBJ (n 优惠)))))
+      (wd ，)
+      (ADVP (d 全力))
+      (VP
+        (v 吸引)
+        (NP-OBJ (n 外人))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VP (v 来) (NP-PN-OBJ (ns 台))) (VP (v 投资))))))
+    (wd ，)
+    (c 并)
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP (QP (NP-PN (n 民国)) (QP (m 五十五) (CLP (q 年)))) (n 时)))
+      (wd ，)
+      (PP-LOC (p 在) (NP-PN (ns 高雄)))
+      (VP
+        (vi 成立)
+        (y 了)
+        (NP-OBJ
+          (QP (LCP (NP (n 世界)) (f 上)) (QP (m 第一) (CLP (q 个))))
+          (NP (v 加工) (IP (VP (v 出) (NP (s 口区)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (NP-TMP (r 那时))
+              (PP-LOC (p 在) (NP-PN (ns 日本)))
+              (VP (v 攻读) (NP-OBJ (n 博士)))))
+          (ude 的)))
+      (NP-PN (nr 江丙坤)))
+    (wd ，)
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vi 奉命)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 到) (NP-OBJ (r 各处)))
+            (VP (v 去) (VP (VSB (vi 演讲) (vi 招商)))))))))
+  (wd ，)
+  (IP
+    (ADVP (r 其中))
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (d 最)) (VP (v 轰动))))
+          (ude 的))))
+    (wd ，)
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (ad 成功))
+            (VP
+              (v 引进)
+              (NP-OBJ
+                (NP-APP (NP-PN (ns 日本)) (NP (n 光学) (n 大厂)))
+                (NP-PN (nx CANON)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP
+                    (v 到)
+                    (NP-OBJ
+                      (NP-PN (ns 台中))
+                      (NP (v 加工) (IP (VP (v 出) (NP (s 口区)))))))
+                  (VP (v 设) (NP (n 厂)))))))))))
+  (wj 。)))
+</S>

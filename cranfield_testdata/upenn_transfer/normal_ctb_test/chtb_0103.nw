@@ -1,0 +1,288 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nt 中国银行))
+  (VP
+    (NP-TMP (t 去年))
+    (VP
+      (v 实现)
+      (NP-OBJ (n 利润))
+      (QP-EXT (ADVP (v 超过)) (QP (m 六十亿) (CLP (q 元))))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 一月)
+  (t 十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 钱宇红)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC
+      (NP-APP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (NP-PN-LOC (ns 中国)) (ADVP (d 最)) (VP (a 大))))
+            (ude 的)))
+        (NP (n 外汇) (n 银行)))
+      (NP-PN (nt 中国银行)))
+    (NP-TMP (t 一九九七年))
+    (NP-SBJ (n 经营) (n 业绩))
+    (VP (a 良好)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (DP-ADV (n 全年))
+      (VP (v 实现) (NP-OBJ (n 利润)) (QP-EXT (m 六十点三三亿) (CLP (q 元))))))
+  (wd ，)
+  (IP
+    (NP-ADV (r 其中))
+    (IP (NP (s 国内)) (VP (n 行)))
+    (VP (v 实现) (NP-OBJ (n 利润)) (QP-EXT (m 二十四点二八亿) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 利润) (n 总额))
+  (VP
+    (v 继续)
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP (NP (NP (s 国内)) (DP (r 各)) (NP (n 金融) (n 机构))) (f 中)))
+      (VP (v 居) (QP-OBJ (m 首) (CLP (q 位))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 中行))
+  (VP
+    (VP
+      (NP-TMP (t 一九九七年))
+      (DVP (VP (VCD (a 积极) (a 稳妥))) (ude 地))
+      (VP
+        (vi 推进)
+        (y 了)
+        (NP-OBJ
+          (NP-APP
+            (n 信贷)
+            (n 管理)
+            (n 体制)
+            (wd ，)
+            (n 稽核)
+            (n 体制)
+            (wn 、)
+            (n 人事)
+            (n 管理)
+            (n 体制)
+            (udeng 等))
+          (DP (r 各项))
+          (NP (n 经营) (n 体制) (n 改革)))))
+    (wd ，)
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (IP-APP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 建立) (NP-OBJ (n 市场) (n 营销) (n 机制))))
+          (NP (n 方面))))
+      (ADVP (d 也))
+      (VP (v 进行) (y 了) (NP-OBJ (n 探索)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (NP (n 经营) (n 方面)))
+  (wd ，)
+  (NP-SBJ (r 该行))
+  (VP
+    (VP (v 加强) (y 了) (NP-OBJ (n 存款) (n 工作)))
+    (wd ，)
+    (VP
+      (v 使)
+      (NP-OBJ (DNP (NP (n 人民币) (n 存款)) (ude 的)) (NP (n 增幅)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 回升))))
+    (wd ，)
+    (VP
+      (ADVP (c 同时))
+      (PP-MNR
+        (p 通过)
+        (NP
+          (IP-APP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (v 签订) (NP-OBJ (n 银企合作) (n 协议)))
+              (c 和)
+              (VP
+                (v 加强)
+                (NP-OBJ
+                  (PP (p 对) (NP (ADJP (a 大)) (NP (n 客户))))
+                  (NP (n 服务))))
+              (udeng 等)))
+          (NP (n 方式))))
+      (wd ，)
+      (VP
+        (v 发展)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (vyou 有) (NP-OBJ (n 潜力))))
+              (ude 的)))
+          (ADJP (b 优质))
+          (NP (n 客户))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV (p 据) (NP (v 统计)))
+  (wd ，)
+  (NP-PN-TPC (nt 中行))
+  (NP-TMP (t 去年))
+  (IP
+    (IP
+      (NP-SBJ (n 人民币) (n 存款) (n 余额))
+      (VP (v 达到) (QP-OBJ (m 五千九百一十二点三九亿) (CLP (q 元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (DP (r 各项)) (NP (n 人民币) (n 贷款) (n 余额)))
+      (VP (v 达) (QP-OBJ (m 五千六百四十四点五二亿) (CLP (q 元)))))
+    (wf ；)
+    (IP
+      (NP-SBJ (DP (r 各项)) (NP (n 外币) (n 存款) (n 余额)))
+      (VP (v 为) (QP-PRD (m 三百五十五点零八亿) (CLP (q 美元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (DP (r 各项)) (NP (n 现汇) (n 贷款) (n 余额)))
+      (VP (v 为) (QP-PRD (m 三百九十七点八七亿) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 同时))
+    (wd ，)
+    (NP-PN-SBJ (nt 中行))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (VP
+          (v 注意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 发挥) (NP-OBJ (n 整体) (n 优势)))))
+        (wd ，)
+        (VP (ADVP (ad 积极)) (VP (v 开展) (NP-OBJ (n 市场) (n 营销) (n 工作))))
+        (wd ，)
+        (VP
+          (v 使)
+          (NP-OBJ
+            (DNP (NP (n 传统)) (ude 的))
+            (NP (n 国际) (n 结算) (n 业务)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 激烈)))
+                        (ude 的)))
+                    (NP (n 市场) (n 竞争)))
+                  (f 中)))
+              (wd ，)
+              (VP (v 继续) (VP (v 保持) (y 了) (NP-OBJ (n 优势) (n 地位))))))))))
+  (wf ；)
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (n 结售汇)
+        (wn 、)
+        (n 信用卡)
+        (wn 、)
+        (n 代理)
+        (wn 、)
+        (NP (QP (CLP (v 代))) (NP (vi 收费)))
+        (udeng 等))
+      (NP (f 中间) (n 业务)))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+          (NP (n 发展))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 据悉))
+  (wd ，)
+  (IP
+    (IP
+      (NP-TPC (r 该行))
+      (NP-TMP (t 去年))
+      (NP-SBJ (n 结售汇) (n 业务))
+      (VP
+        (ADVP (d 分别))
+        (VP
+          (v 达到)
+          (y 了)
+          (QP-OBJ
+            (QP (m 九百一十点七亿) (CLP (q 美元)))
+            (c 和)
+            (QP (m 四百七十一亿) (CLP (q 美元)))))))
+    (wf ；)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (DP-ADV (n 全年))
+        (ADVP (d 共))
+        (VP
+          (v 办理)
+          (NP-OBJ (n 国际) (n 贸易) (n 结算) (n 业务))
+          (QP-EXT (m 一千三百九十八点五七亿) (CLP (q 美元)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (ns 长城) (n 信用卡)) (ude 的)) (NP (n 发行量)))
+    (VP (v 达到) (QP-OBJ (m 七百八十万) (CLP (q 张)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 当年))
+    (NP-SBJ
+      (DNP (NP (n 信用卡)) (ude 的))
+      (ADJP (a 直接))
+      (NP (n 消费) (n 额)))
+    (VP (v 为) (QP-PRD (m 一百二十亿) (CLP (q 元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 分别))
+      (PP (p 比) (DP (t 上年)))
+      (VP (v 增长) (QP-EXT (m 百分之六十六) (c 和) (m 百分之十七点六)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

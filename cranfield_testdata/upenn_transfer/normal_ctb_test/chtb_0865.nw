@@ -1,0 +1,111 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 韩国)) (NP (t ９８年)) (NP (n 经济) (n 增长率)))
+  (VP (v 为) (QP-PRD (ADJP (b 负)) (QP (m 百分之七))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 汉城)
+  (t １２月)
+  (t ３１日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 朱克川)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 韩国) (n 财政) (n 经济部))
+  (VP
+    (NP-TMP (t 今天))
+    (VP
+      (v 宣布)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-TMP (t ９８年))
+          (NP-SBJ (DNP (NP-PN (ns 韩国)) (ude 的)) (NP (n 经济) (n 增长率)))
+          (VP (v 为) (QP-PRD (ADJP (b 负)) (QP (m 百分之七)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (ADJP (n 人均)) (NP (n 国民) (n 生产总值)))
+          (VP
+            (PP (p 比) (NP (t ９７年)))
+            (VP (vi 下降) (QP-EXT (m 百分之三十三点五))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (PP-MNR
+        (p 按)
+        (IP
+          (NP-TMP (t ９８年))
+          (NP-SBJ
+            (DNP (NP (n 韩元) (p 与) (n 美元)) (ude 的))
+            (ADJP (a 平均))
+            (NP (n 汇率)))
+          (VP (v 为) (QP-PRD (m １４００) (v 比) (m １)))))
+      (VP (v 计算))))
+  (wd ，)
+  (NP-TMP (t ９８年))
+  (NP-SBJ (NP-PN (ns 韩国)) (ADJP (n 人均)) (NP (n 国民) (n 生产总值)))
+  (VP
+    (VP (v 为) (QP-PRD (m ６３２１) (CLP (q 美元))))
+    (wd ，)
+    (VP
+      (PP
+        (p 比)
+        (NP (DNP (NP (t ９７年)) (ude 的)) (QP (m ９５１１) (CLP (q 美元)))))
+      (VP (vi 下降) (QP-EXT (m 百分之三十三点五))))
+    (wd ，)
+    (VP
+      (ADVP (d 略))
+      (VP (v 低于) (NP-OBJ (DNP (NP (t １９９１年)) (ude 的)) (NP (n 水平))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 韩国) (n 财政) (n 经济部))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-TMP (t １９９９年))
+      (NP-SBJ (DNP (NP-PN (ns 韩国)) (ude 的)) (NP (n 经济) (n 增长率)))
+      (VP (ADVP (d 将)) (VP (VRD (v 恢复) (v 到)) (QP-OBJ (m 百分之二))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一些)) (ADJP (a 权威)) (NP (n 经济) (n 研究) (n 机构)))
+  (VP
+    (v 预测)
+    (wd ，)
+    (IP-OBJ
+      (CP-CND
+        (ADVP (c 如果))
+        (IP
+          (NP-SBJ
+            (DNP (NP (n 韩元) (p 对) (n 美元)) (ude 的))
+            (NP (q 年))
+            (ADJP (a 平均))
+            (NP (n 汇率)))
+          (VP
+            (v 能够)
+            (VP (v 保持) (PP (p 在) (QP (m １２００) (v 比) (m １)))))))
+      (wd ，)
+      (NP-TMP (t １９９９年))
+      (NP-SBJ (NP-PN (ns 韩国)) (ADJP (n 人均)) (NP (n 国民) (n 生产总值)))
+      (VP
+        (ADVP (d 将))
+        (VP (VRD (v 回升) (v 到)) (QP-OBJ (m ７７００) (CLP (q 美元)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

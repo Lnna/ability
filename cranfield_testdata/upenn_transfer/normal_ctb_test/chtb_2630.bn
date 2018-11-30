@@ -1,0 +1,102 @@
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (QP (m ９) (CLP (q 号)))
+    (PP-DIR (p 从) (NP-PN (nt 铁道部)))
+    (VP
+      (VRD (v 了解) (v 到))
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (NP-PN (ns 中国)) (NP (n 铁路)))
+          (VP (ADVP (d 将)) (ADVP (d 再次)) (VP (v 提速))))
+        (wd ，)
+        (IP
+          (NP-TMP (t 目前))
+          (NP-SBJ
+            (DNP
+              (LCP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 提速))) (f 前))
+              (ude 的))
+            (DP (r 各项))
+            (NP (n 工作)))
+          (VP (ADVP (d 已经)) (VP (vi 就绪)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 确保) (NP-OBJ (DNP (NP (v 提速)) (ude 的)) (NP (an 安全))))))
+  (wd ，)
+  (NP-SBJ (NP-PN (nt 铁道部)) (c 和) (NP (DP (r 各)) (NP (n 铁路局))))
+  (VP
+    (ADVP (d 先后))
+    (VP
+      (VP
+        (v 投资)
+        (QP-EXT
+          (QP (QP (QP (m ２０)) (ADVP (m 多))) (QP (m 亿)))
+          (CLP (q 元))))
+      (VP
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (ADJP (v 现有))
+              (DNP
+                (QP (QP (QP (m １万)) (ADVP (m 多))) (CLP (q 公里)))
+                (ude 的))
+              (NP (n 铁路))))
+          (VP-OBJ (v 进行) (NP (n 改造))))
+        (wd ，)
+        (VP
+          (v 更换)
+          (NP-OBJ (n 提速) (n 道岔))
+          (QP-EXT (m ２０４６) (CLP (q 组))))
+        (wd ，)
+        (VP
+          (v 改造)
+          (NP-OBJ (ADJP (a 大)) (NP (n 弯道)))
+          (QP-EXT (m ４４３) (CLP (q 处))))
+        (wd ，)
+        (VP (v 更换) (NP-OBJ (nl 无缝钢管)) (QP-EXT (m ６０３) (CLP (q 公里))))
+        (wd ，)
+        (VP (v 封闭) (NP-OBJ (n 线路)) (QP-EXT (m １２１０) (CLP (q 公里)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (NP-SBJ (n 铁路) (n 部门))
+  (VP
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 增加)
+        (y 了)
+        (NP-OBJ
+          (NP
+            (QP (m １１０) (CLP (q 台)))
+            (DNP (ADJP (n 提速)) (ude 的))
+            (ADJP (b 新型))
+            (NP (n 机车)))
+          (c 和)
+          (NP
+            (QP (QP (QP (m ７００)) (ADVP (m 多))) (CLP (q 辆)))
+            (ADJP (n 提速))
+            (NP (n 车厢))))))
+    (wd ，)
+    (VP
+      (ADVP (ad 基本))
+      (VP
+        (v 能够)
+        (VP (v 满足) (NP-OBJ (DNP (NP (n 提速)) (ude 的)) (NP (n 需求)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (NP-SBJ (NP-PN (n 中央台)) (NP (n 记者))) (VP (n 报道)) (wj 。)))
+</S>

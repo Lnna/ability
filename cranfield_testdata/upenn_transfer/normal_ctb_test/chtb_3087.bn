@@ -1,0 +1,523 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 美国)) (NP (n 国务卿))) (NP-PN (nrf 奥尔布赖特)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 美国))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 反对)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 贝尔格莱德)))
+              (VP
+                (v 举行)
+                (NP-OBJ
+                  (DNP
+                    (PP
+                      (p 对)
+                      (NP
+                        (NP-APP
+                          (NP-PN (ns 南斯拉夫))
+                          (ADJP (f 前))
+                          (NP (n 总统)))
+                        (NP-PN (nrf 米洛舍维奇))))
+                    (ude 的))
+                  (NP (n 战争) (n 罪) (n 审判))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ (n 条件))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-PRD
+      (NP-SBJ-1 (DP (r 这个)) (NP (n 审判)))
+      (VP
+        (d 必须)
+        (VP
+          (PP-LGS
+            (p 由)
+            (NP (NP-PN (ns 海牙)) (NP-PN (nt 联合国)) (NP (n 法院))))
+          (VP (v 进行) (NP-OBJ (-NONE- *-1)))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-PN-SBJ (nrf 奥尔布赖特))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 会见)
+                (y 了)
+                (NP-OBJ
+                  (NP-APP (NP-PN (ns 南斯拉夫)) (ADJP (a 新)) (NP (n 外长)))
+                  (NP-PN (nrf 苏维兰·诺维奇)))))
+            (f 之后)))
+        (wd ，)
+        (PP-DIR (p 对) (NP-PN (nt 路透社)))
+        (VP (v 作出) (NP-OBJ (ADJP (b 上述)) (NP (n 表示)))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-TMP (f 下面))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 请)
+    (VP (v 听) (NP-OBJ (DNP (NP-PN (n 美国之音)) (ude 的)) (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 奥尔布赖特))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-PN-SBJ (nrf 米洛舍维奇))
+      (VP
+        (VP (VRD (v 犯) (v 下)) (y 了) (NP-OBJ (n 国际) (n 罪行)))
+        (wd ，)
+        (VP
+          (ADVP (c 因此))
+          (VP (d 必须) (VP (v 面对) (NP-OBJ (n 国际) (n 司法) (n 审判))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 她))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP-ADV
+        (NP-SBJ (v 审判))
+        (VP
+          (ADVP (c 不管))
+          (PP-LOC (p 在) (NP (DP-WH (r 什么)) (NP (n 地方))))
+          (VP (v 举行))))
+      (wd ，)
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 重要))) (ude 的))))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (r 他))
+          (VP
+            (d 必须)
+            (VP
+              (PP-ADV
+                (p 和)
+                (NP
+                  (NP (ADJP (f 前)) (NP-PN (ns 南斯拉夫)))
+                  (NP (n 国际) (b 刑事) (n 法庭))))
+              (ADVP (d 相))
+              (VP (vi 关联))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (nt 国务院) (n 负责人)) (NP-PN (nr 鲍策)))
+  (VP
+    (v 证实)
+    (y 了)
+    (NP-OBJ
+      (NP (DP (r 这) (QP (m 一))) (NP (n 看法)))
+      (wd ，)
+      (PRN
+        (VP
+          (v 即)
+          (IP
+            (NP-SBJ (n 国际) (n 战争) (n 罪行) (n 法庭))
+            (VP
+              (d 必须)
+              (VP (v 参与) (NP-OBJ (DP (r 这) (QP (m 一))) (NP (n 审判)))))
+            (wd ，)
+            (CP-ADV
+              (IP (VP (ADVP (c 既)) (VP (d 便))))
+              (IP
+                (NP-SBJ (v 审判))
+                (VP
+                  (ADVP (d 不))
+                  (PP-LOC (p 在) (NP-PN (ns 海牙)))
+                  (VP (v 举行))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 鲍策))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (IP
+            (NP-PN-SBJ (nrf 奥尔布赖特))
+            (VP (usuo 所) (VP (v 表示) (NP-OBJ (-NONE- *T*-1))))))
+        (wd ，)
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (ADVP (c 而))
+              (NP-SBJ (r 我))
+              (VP
+                (v 要)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (ADVP (d 再次))
+                    (VP (v 表明) (NP-OBJ (-NONE- *T*-2)))))))
+            (ude 的)))
+        (NP (n 要点)))
+      (VP
+        (vshi 是)
+        (wd ，)
+        (IP-PRD
+          (IP-SBJ-3
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 追究) (NP-OBJ (n 国际) (n 责任))))
+          (wd ，)
+          (VP
+            (v 应该)
+            (VP
+              (PP-LGS (p 由) (NP (NP-PN (ns 海牙)) (NP (n 国际) (n 法庭))))
+              (VP (v 来) (VP (v 进行) (IP-OBJ (-NONE- *-3))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 在) (LCP (NP (DP (r 这)) (NP (n 前提))) (f 下)))
+  (wd ，)
+  (ADVP (ad 具体))
+  (PP-LOC (p 在) (LCP (NP (n 地点) (n 问题)) (f 上)))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (v 愿意)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 让)
+        (NP-OBJ
+          (NP (NP-PN (ns 南斯拉夫)) (NP (n 政府)))
+          (c 和)
+          (NP (NP-PN (ns 海牙)) (NP (n 法庭))))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (VSB (v 协商) (v 同意)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 正))
+              (PP-LOC (p 在) (NP-PN (ns 美国)))
+              (VP (v 访问))))
+          (ude 的)))
+      (NP-PN (ns 南斯拉夫))
+      (NP (n 外长)))
+    (NP-PN (nrf 苏维兰·诺维奇)))
+  (VP
+    (v 暗示)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP (PP (p 对) (NP-PN (nrf 米洛舍维奇))) (ude 的))
+        (NP (n 审判)))
+      (wd ，)
+      (VP (v 可以) (VP (vyou 有) (IP (NP-SBJ (n 国际)) (VP (n 参与)))))
+      (wd ，)
+      (CP-CND
+        (ADVP (c 只要))
+        (IP
+          (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 审判)))
+          (VP (PP-LOC (p 在) (NP-PN (ns 南斯拉夫))) (VP (v 举行)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 星期五))
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (ad 简要))
+      (VP
+        (v 提出)
+        (y 了)
+        (NP-OBJ (QP (m 一个)) (QP (m 三) (CLP (q 点))) (NP (n 建议))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 内容))
+    (VP
+      (v 包括)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 南斯拉夫)))
+          (VP
+            (v 设立)
+            (NP-OBJ
+              (QP (m 一个))
+              (NP-PN (nt 联合国))
+              (NP (n 法院) (n 办公室) (c 和) (n 真相) (n 委员会)))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 来)
+                (VP
+                  (v 调查)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (PP-TMP
+                              (p 在)
+                              (NP
+                                (DNP (NP (t 最近)) (ude 的))
+                                (NP-PN (ns 巴尔干) (n 战争))
+                                (NP (f 期间))))
+                            (VP
+                              (usuo 所)
+                              (VP
+                                (VRD (v 犯) (v 下))
+                                (NP-OBJ (-NONE- *T*-1))))))
+                        (ude 的)))
+                    (NP (n 罪行)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 包括)
+            (LCP-OBJ (NP (NP-APP (n 总统)) (NP-PN (nrf 科什图尼察))) (u 在内))))
+        (ude 的)))
+    (NP-PN (ns 南斯拉夫))
+    (NP (n 官员) (k 们)))
+  (VP
+    (ADVP (d 一再))
+    (VP
+      (v 重申)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (VP
+            (v 反对)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (p 将)
+                (IP-OBJ
+                  (NP-PN-SBJ (nrf 米洛舍维奇))
+                  (VP (VP (v 引渡) (NP-PN-OBJ (n 海牙))) (VP (vi 受审)))))))
+          (wd ，)
+          (VP
+            (ADVP (c 但是))
+            (VP
+              (v 希望)
+              (IP-OBJ
+                (NP-SBJ (r 他))
+                (VP
+                  (PP-LOC (p 在) (NP-PN (ns 塞尔维亚)))
+                  (VP
+                    (v 接受)
+                    (NP-OBJ
+                      (DNP (NP (s 当地) (n 法庭)) (ude 的))
+                      (NP (n 审判))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ
+    (NP (NP-PN (ns 南斯拉夫)) (NP (n 外长)))
+    (DNP
+      (PP
+        (p 有关)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-ADV
+              (c 和)
+              (NP
+                (NP (ADJP (f 前)) (NP-PN (ns 南斯拉夫)))
+                (NP (n 国际) (n 战争) (n 罪行) (n 法庭))))
+            (VP (v 合作)))))
+      (ude 的))
+    (NP (n 表态)))
+  (wd ，)
+  (VP
+    (ADVP (d 似乎))
+    (PP-BNF
+      (p 为)
+      (IP
+        (NP-SBJ (DP (r 该)) (NP (n 法庭)))
+        (VP
+          (v 参与)
+          (NP-OBJ
+            (DNP
+              (PP
+                (p 对)
+                (NP
+                  (NP-PN-APP (nrf 米洛舍维奇) (udeng 等))
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ-2 (-NONE- *T*-1))
+                        (VP
+                          (pbei 被)
+                          (VP
+                            (v 指控)
+                            (NP-OBJ (-NONE- *-2))
+                            (IP
+                              (NP-SBJ (-NONE- *PRO*))
+                              (VP
+                                (VRD (v 犯) (v 下))
+                                (NP-OBJ (n 战争) (n 罪行)))))))
+                      (ude 的)))
+                  (NP (n 被告))))
+              (ude 的))
+            (NP (n 审判))))))
+    (wd ，)
+    (VP (v 敞开) (y 了) (NP-OBJ (n 大门))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ
+    (NP-APP
+      (DNP
+        (NP
+          (NP (ADJP (f 前)) (NP-PN (ns 南斯拉夫)))
+          (NP (n 国际) (n 战争) (n 罪行) (n 法庭)))
+        (ude 的))
+      (ADJP (n 主))
+      (IP (VP (v 提供) (NP (n 官)))))
+    (NP-PN (nrf 庞特)))
+  (VP
+    (v 排除)
+    (y 了)
+    (NP-OBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-LOC (p 在) (NP-PN (ns 南斯拉夫)))
+            (VP (v 举行) (NP-OBJ (n 审判)))))
+        (ude 的))
+      (NP (n 可能性))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (nrf 庞特)) (ude 的)) (NP (n 发言人)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (ns 贝尔格莱德))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (QP (m 一个))
+              (DNP (ADJP (vi 中立)) (ude 的))
+              (NP (n 地点))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (v 无法))
+          (VP
+            (v 想象)
+            (IP-OBJ
+              (NP-SBJ (n 受害者))
+              (VP (v 可以) (VSB (vi 出庭) (vi 作证)))))))
+      (wd ，)
+      (IP
+        (ADVP (c 因此))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 可能)
+            (VP
+              (PP-LOC (p 在) (NP (r 那里)))
+              (VP (v 进行) (NP-OBJ (n 审判)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 并))
+    (ADVP (d 不))
+    (VP
+      (v 排除)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 贝尔格莱德)))
+          (VP
+            (v 进行)
+            (NP-OBJ
+              (NP (QP (m 一些)) (NP (n 初审)))
+              (wd ，)
+              (PRN (NP (ADVP (v 例如)) (NP (v 听证) (udeng 等))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 以上))
+  (VP
+    (vshi 是)
+    (NP-PRD (DNP (NP-PN (n 美国之音)) (ude 的)) (ADJP (n 综合)) (NP (n 报道))))
+  (wj 。)))
+</S>

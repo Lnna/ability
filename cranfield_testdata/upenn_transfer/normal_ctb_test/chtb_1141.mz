@@ -1,0 +1,2142 @@
+<S>
+( (NP-HLN
+  (DNP (NP (n 小学生)) (ude 的))
+  (NP (n 肾脏) (n 守护者))
+  (PRN (wp ——) (NP-PN (nr 谢从宾)))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 张琼方) (w ／) (v 图) (wj ．) (nr 邱瑞金)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (m 十三) (CLP (q 年))) (f 来))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (NP-PN (ns 台北)) (ADJP (b 市立)) (NP (n 妇幼) (n 医院)))
+      (NP (n 小儿科))
+      (nl 主治医师))
+    (NP-PN (nr 谢从宾)))
+  (wd ，)
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 利用) (NP-OBJ (n 工作) (NP (uzhi 之) (NP (n 余))))))
+    (wd ，)
+    (VP
+      (VP (vi 巡回) (NP-OBJ (DP (r 各)) (NP (n 小学))))
+      (wd ，)
+      (VP
+        (ADVP (d 义务))
+        (PP-BNF (p 为) (NP (n 学童) (c 及) (n 老师)))
+        (VP (v 做) (NP-OBJ (n 超音波) (n 检查))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-PRP (c 因为) (NP (DP (r 这项)) (NP (n 筛检))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 让)
+      (NP-OBJ (QP (m 许多)) (NP (n 学童) (c 和) (n 老师)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 得以)
+          (VP
+            (VP
+              (NP-ADV (f 早期))
+              (VP
+                (v 发现)
+                (NP-OBJ (DNP (NP (n 身体)) (ude 的)) (NP (n 异样)))))
+            (wd ，)
+            (VP (NP-ADV (f 早期)) (VP (v 治疗))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (ADVP (c 因此))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (DNP (NP (QP (m 许多)) (NP (n 师生))) (ude 的))
+          (wyz 「)
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 救命))))
+          (NP (n 恩人))
+          (wyy 」)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP
+    (NP-PN-SBJ (nr1 谢) (n 医师))
+    (VP (ADVP (d 已经)) (ADVP (d 很)) (VP (a 老) (y 了))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 义务))
+      (PP-BNF (p 为) (NP (r 我们)))
+      (VP (v 做) (NP-OBJ (n 检查)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这种)) (NP (n 精神)))
+    (VP (ADVP (d 很)) (VP (a 了不起))))
+  (wd ，)
+  (wyy 」)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (vi 就读)
+              (NP-OBJ (NP-PN (ns 敦化) (n 国小)) (QP (m 六)) (NP (n 年级)))))
+          (ude 的)))
+      (NP-PN (nr 林子杰)))
+    (VP
+      (ADVP (r 这么))
+      (VP
+        (v 形容)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP
+                    (NP-TMP (t 今年))
+                    (VP (QP-PRD (QP (m 五十) (CLP (m 来))) (CLP (q 岁))))))
+                (wn 、)
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ (n 满头))
+                  (VP (NP-PRD (n 白发))))
+                (wn 、)
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ (n 态度))
+                  (VP (VCD (a 亲切) (a 和蔼)))))
+              (ude 的)))
+          (NP-PN (n 谢从宾))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (QP-TMP (NP-PN (n 民国)) (QP (m 七十六) (CLP (q 年))))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ADJP (b 市立)) (NP (n 妇幼) (n 医院)))
+    (NP (n 小儿科) (n 医师))
+    (NP-PN (nr 谢从宾)))
+  (wd ，)
+  (VP
+    (VP
+      (IP (VP (ADVP (r 自)) (VP (vi 掏腰包))))
+      (VP
+        (v 买)
+        (NP-OBJ (QP (m 一) (CLP (q 台))) (ADJP (b 手提式)) (NP (n 超音波)))))
+    (wd ，)
+    (VP
+      (v 开始)
+      (VP
+        (VP (v 到) (NP-OBJ (DP (r 各)) (NP (n 小学))))
+        (VP
+          (PP-BNF (p 为) (NP (n 学童)))
+          (VP
+            (v 做)
+            (NP-OBJ (NP (n 肾脏) (n 超音波)) (VP (v 筛) (NP (v 检)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (LCP-TMP (QP (a 多) (CLP (q 年))) (f 来))
+        (NP-SBJ (n 肾脏) (n 疾病))
+        (VP
+          (ADVP (d 一直))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (NP (NP (n 国人)) (QP (m 十)) (ADJP (a 大)) (NP (n 死因)))
+              (NP (r 之一))))))))
+  (wd ，)
+  (IP
+    (IP-TPC-2
+      (wyz 「)
+      (NP-TPC
+        (ADVP (c 不论是))
+        (NP (n 肾脏) (n 移植) (c 或) (IP (VP (v 洗) (NP (n 肾)))) (n 病人)))
+      (wd ，)
+      (LCP-SBJ (NP (n 肉体)) (f 上))
+      (VP
+        (ADVP (d 都))
+        (VP
+          (v 要)
+          (VP
+            (v 承受)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 相当)) (VP (a 大))))
+                  (ude 的)))
+              (NP (an 痛苦)))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ (r 他))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wd ，)
+  (IP
+    (PP-ADV
+      (p 除了)
+      (LCP
+        (NP (DNP (LCP (NP (n 生理)) (f 上)) (ude 的)) (NP (an 痛苦)))
+        (f 外)))
+    (wd ，)
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (d 未)) (VP (v 实施) (NP-OBJ (n 全民) (n 健保)))))
+        (f 前)))
+    (wd ，)
+    (NP-SBJ (n 肾脏) (n 疾病))
+    (VP
+      (ADVP (d 常))
+      (PP-BNF (p 给) (NP (n 病人)))
+      (VP
+        (v 带来)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (nr 沈重))) (ude 的)))
+          (NP (n 经济) (n 负担))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 如今))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (v 实施) (NP-OBJ (n 全民) (n 健保)))
+      (wd ，)
+      (VP
+        (d 将)
+        (IP-OBJ
+          (VP (v 洗) (NP (n 肾)))
+          (VP (v 纳入) (NP-OBJ (n 健保) (v 给付)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (PP-DIR (p 对) (NP (nrf 健保))) (VP (u 来说))))
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (QP (m 一) (CLP (q 笔)))
+          (DNP (ADJP (a 庞大)) (ude 的))
+          (NP (n 医疗) (n 支出))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-1
+      (wyz 「)
+      (NP-SBJ (DP (r 有些)) (NP (n 肾脏) (n 疾病)))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (v 可以) (VP (wyz 『) (v 预防) (wyy 』))))
+              (ude 的))))))
+    (wd ，)
+    (wyy 」)
+    (NP-SBJ
+      (NP-APP (NP (n 小儿) (n 肾脏)) (NP (n 专科) (n 医师)))
+      (NP-PN (nr 谢从宾)))
+    (VP (v 指出) (IP-OBJ (-NONE- *T*-1))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 大约))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ (DNP (QP (m 百分之二十)) (ude 的)) (NP (n 肾脏) (vi 衰竭)))
+          (VP (v 源自) (NP-OBJ (n 幼童) (n 时期)))))))
+  (wd ，)
+  (IP
+    (IP-CND
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 如果))
+        (VP
+          (v 能)
+          (VP
+            (VP (NP-ADV (d 早期)) (VP (v 发现)))
+            (wn 、)
+            (VP (NP-ADV (f 早期)) (VP (v 治疗)))))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR (p 对) (NP (DP (r 某些)) (NP (n 病人))))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-3)) (VP (vyou 有) (NP (n 帮助))))
+              (ude 的)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-SBJ (-NONE- *PRO*))
+  (VP
+    (VP (NP-ADV (t 早期)) (VP (v 发现)))
+    (wn 、)
+    (VP (NP-ADV (f 早期)) (VP (v 治疗))))))
+</S>
+<S>
+( (IP
+  (LCP-ADV (bl 事实上))
+  (wd ，)
+  (PP-DIR
+    (p 自)
+    (LCP (QP (NP-PN (n 民国)) (QP (m 六十三) (CLP (q 年)))) (f 起)))
+  (wd ，)
+  (NP-PN-SBJ (ns 台北市) (n 教育局))
+  (VP
+    (DP-ADV (r 每年))
+    (ADVP (d 都))
+    (VP
+      (v 会)
+      (VP
+        (PP-BNF
+          (p 为)
+          (NP
+            (NP (n 国))
+            (ADJP (a 小))
+            (NP
+              (NP (QP (m 一)) (NP (n 年级)))
+              (c 及)
+              (NP (QP (m 四)) (NP (n 年级))))
+            (NP (n 学童))))
+        (VP
+          (v 做)
+          (NP-OBJ
+            (NP (ADJP (n 全身)) (NP (an 健康) (n 检查)))
+            (c 和)
+            (NP (n 尿液) (n 筛检)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (ADJP (n 全身)) (NP (an 健康) (n 检查))) (NP (n 项目)))
+  (VP
+    (v 包括)
+    (wm ：)
+    (NP-OBJ
+      (n 视力)
+      (wn 、)
+      (n 听力)
+      (wn 、)
+      (n 耳)
+      (n 鼻)
+      (n 喉)
+      (wn 、)
+      (n 牙齿)
+      (wn 、)
+      (n 心脏)
+      (wn 、)
+      (n 生殖)
+      (n 器官)
+      (udeng 等)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (NP-MNR (-NONE- *T*-1))
+            (VP (IP (VP (v 筛) (NP (v 检)))) (NP-OBJ (n 肾脏) (n 疾病)))))
+        (ude 的)))
+    (NP (n 方法)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 通常))
+    (VP
+      (v 使用)
+      (QP-OBJ
+        (NP-APP (n 尿液) (wn 、) (n 血液) (wn 、) (n 超音波) (vi 显影))
+        (QP (m 三) (CLP (q 种))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-ADV (r 其中))
+    (NP-SBJ (n 血液) (n 筛检))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 很))
+      (VP
+        (a 难)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-TMP (p 在) (NP (f 早期)))
+            (VP (v 发现) (NP-OBJ (n 肾脏) (n 病变))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (ADVP (d 往往))
+        (VP
+          (v 要)
+          (VP
+            (LCP-OBJ
+              (IP
+                (NP-SBJ (n 肾脏))
+                (VP
+                  (VP (VRD (v 损伤) (v 到)) (NP-OBJ (n 相当) (n 程度)))
+                  (wd ，)
+                  (VP
+                    (ADVP (c 甚至))
+                    (ADVP (d 只))
+                    (VP (v 剩下) (NP-OBJ (QP (m 四分之一)) (NP (n 功能)))))))
+              (n 时)))))
+      (wd ，)
+      (VP
+        (ADVP (d 才))
+        (VP
+          (v 能)
+          (VP
+            (PP-DIR (p 由) (LCP (NP (n 血液)) (f 中)))
+            (VP (VRD (v 检验) (v 出来))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 尿液) (VP (v 筛) (NP (v 检))))
+    (wd ，)
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (vl 一般来说)))
+      (ADVP (c 并))
+      (ADVP (v 无法))
+      (VP
+        (v 发现)
+        (NP-OBJ
+          (DNP (NP (n 肾脏) (n 结构)) (ude 的))
+          (ADJP (a 异常))
+          (NP (n 情况))))))
+  (wd ，)
+  (PP
+    (c 因为)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 尿液))
+              (VP (NP-PRP (-NONE- *T*-1)) (VP (a 异常))))
+            (ude 的)))
+        (NP (n 原因)))
+      (VP (ADVP (d 很)) (VP (a 多)))))
+  (wd ，)
+  (IP
+    (ADVP (v 例如))
+    (wm ：)
+    (ADVP (d 有时候))
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (VP-FOC (n 站)) (VP (ADVP (d 太)) (VP (a 久))))
+        (wn 、)
+        (VP (n 运动))
+        (wn 、)
+        (VP (n 发烧))
+        (udeng 等)))
+    (VP (ADVP (d 都)) (VP (v 会) (VP (v 引起) (NP-OBJ (n 蛋白) (n 尿))))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (NP-SBJ
+      (QP (m 许多))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (IP-TMP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (QP-ADV (d 初次)) (VP (v 检查))))
+              (VP (vyou 有) (NP-OBJ (n 问题)))))
+          (ude 的)))
+      (NP (n 学童)))
+    (wd ，)
+    (VP
+      (LCP-TMP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (ADVP (d 再)) (VP (v 作) (NP-OBJ (v 复检)))))
+        (n 时))
+      (ADVP (d 往往))
+      (VP (v 没有) (NP-OBJ (n 问题)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 因此))
+  (wd ，)
+  (NP-PN-SBJ (nr 谢从宾))
+  (VP
+    (v 选择)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (v 使用) (NP-OBJ (n 超音波)))
+        (VP (v 做) (NP-OBJ (n 筛检) (n 工具))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC (nr 超音波) (v 检查))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 通常))
+      (VP
+        (v 得)
+        (VP
+          (VP (v 平躺))
+          (wn 、)
+          (VP
+            (PP-LOC
+              (p 在)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 受检))))
+                (NP (n 部位))))
+            (VP (v 涂抹) (NP-OBJ (n 乳胶))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 相当)) (VP (VP (a 费时)) (VP (a 费事)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 原))
+      (ADVP (d 不))
+      (VP
+        (IP (VP (vi 适用) (p 于)))
+        (NP-OBJ (DNP (NP (b 大规模)) (ude 的)) (NP (n 筛检))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (PP-TMP (p 经) (LCP (IP (NP-PN-SBJ (nr 谢从宾)) (VP (v 简化))) (f 之后)))
+    (wd ，)
+    (IP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (c 不仅)) (VP (a 方便) (wn 、) (b 快速))))
+      (wd ，)
+      (IP (NP-SBJ (n 经费)) (VP (ADVP (d 也)) (ADVP (d 很)) (VP (a 低廉))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 首先))
+  (NP-SBJ (r 他))
+  (VP
+    (VP (v 改变) (NP-OBJ (DNP (NP (v 检查)) (ude 的)) (NP (n 姿势))))
+    (wd ，)
+    (VP
+      (v 让)
+      (NP-OBJ (n 学童))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (VRD (v 卷) (v 起))
+            (NP-OBJ (DNP (NP (n 背部)) (ude 的)) (NP (n 衣服))))
+          (wd ，)
+          (VP
+            (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (vi 站) (uzhe 着)))
+            (VP (v 接受) (NP-OBJ (n 检查))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 此外))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (n 乳胶))
+          (VP (v 装) (PP (p 在) (LCP (NP (n 容器)) (f 内))))))
+      (wd ，)
+      (VP
+        (VP (p 用) (NP-OBJ (n 超音波) (vi 探头)))
+        (VP (v 沾) (NP-OBJ (ADJP (v 稀释)) (NP (n 乳胶))))
+        (VP (n 检查)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ns 节省)
+      (NP-OBJ
+        (QP (m 不少))
+        (CP-APP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 挤压) (wn 、) (v 涂抹)))
+          (ude 的))
+        (NP (n 时间)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 配合) (NP-OBJ (DNP (NP (n 学童)) (ude 的)) (NP (n 身高)))))
+    (wd ，)
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (VP
+        (ADVP (d 就))
+        (VP
+          (v 坐)
+          (PP
+            (p 在)
+            (LCP (NP (DNP (NP (n 小学生)) (ude 的)) (NP (n 椅子))) (f 上)))))
+      (wd ，)
+      (VP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (QP-TPC (m 一个)) (VRD (v 看) (vi 完))))
+        (VP (v 紧接) (DP-OBJ (f 下) (QP (m 一个)))))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (QP-ADV (m 一) (CLP (q 天)))
+        (VP
+          (v 看)
+          (NP-OBJ
+            (QP
+              (QP (m 二) (CLP (-NONE- *RNR*-1)))
+              (wn 、)
+              (QP (m 三千) (CLP-1 (q 个))))
+            (NP (n 学童))))))
+    (VP (ADVP (d 不)) (VP (vl 成问题))))
+  (wd ，)
+  (IP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VRD (a 平均) (v 下来))))
+    (wd ，)
+    (NP-SBJ
+      (NP (QP (m 一个)) (NP (n 学童)))
+      (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (n 受检)))
+      (NP (n 时间)))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (QP-PRD
+          (IP (VP (ADVP (d 不)) (VP (v 到))))
+          (QP (m 十) (CLP (q 秒钟)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 超音波))
+    (VP
+      (VRD (v 照) (v 出))
+      (NP-OBJ (DNP (NP (n 肾脏)) (ude 的)) (NP (n 形状)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (PP-PRD (v 像) (NP (QP (CLP (q 个))) (NP (n 盘子))))))))
+  (wd ，)
+  (IP
+    (PP-MNR
+      (p 根据)
+      (NP
+        (LCP (NP (n 影像)) (f 中))
+        (NP
+          (NP
+            (DNP (NP (n 肾脏)) (ude 的))
+            (NP (n 大小) (wn 、) (n 形状) (wn 、) (n 位置) (wn 、) (n 轮廓)))
+          (wn 、)
+          (NP (DNP (NP (n 肾盂)) (ude 的)) (NP (n 变化)))
+          (wn 、)
+          (NP
+            (DNP (PP (c 和) (NP (n 邻近) (n 器官))) (ude 的))
+            (NP (n 关系))))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-1))
+            (NP-SBJ (n 专业) (n 经验))
+            (VP (a 丰富)))
+          (ude 的)))
+      (NP-PN (nr 谢从宾)))
+    (VP
+      (v 可以)
+      (VP
+        (DVP (VP (ADVP (d 很)) (VP (a 快))) (ude 的))
+        (VP
+          (n 评估)
+          (IP-Q-OBJ
+            (NP-SBJ (n 孩子) (n 肾脏))
+            (VP (ADVP-WH (v 是否)) (VP (a 正常))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP
+    (NP-TMP (t 现在))
+    (NP-TPC (n 仪器))
+    (NP-SBJ (n 显像) (n 清晰度))
+    (VP (a 不错)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (c 只要))
+          (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (d 很快)))
+          (VP
+            (v 看)
+            (ADVP (m 一下))
+            (IP-Q-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP-WH (v 是否)) (VP (a 正常)))))))
+      (ADVP (d 就))
+      (VP (v 可以) (y 了))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (wyz 「)
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 黏黏))) (ude 的))))
+    (wt ！)
+    (wyy 」)
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (n 受检))))
+          (NP (n 学童)))
+        (DNP
+          (PP
+            (p 对)
+            (NP
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *T*-3))
+                  (VP (v 沾) (PP (p 在) (LCP (s 身上))))))
+              (NP (n 乳胶))))
+          (ude 的))
+        (ADJP (a 一般))
+        (NP (n 反应)))))
+  (wd ，)
+  (IP
+    (PP-ADV (dl 除此之外))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 没有)
+      (NP-OBJ
+        (DP (r 任何))
+        (CP-APP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 不)) (VP (a 舒服))))
+          (ude 的))
+        (NP (n 感觉)))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN
+  (CP
+    (WHNP-1 (-NONE- *OP*))
+    (CP
+      (IP
+        (NP-TPC (-NONE- *T*-1))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (VPT (v 说) (d 不) (vi 尽))))
+      (ude 的)))
+  (NP (n 感谢))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (LCP-TMP (QP (m 十三) (CLP (q 年))) (f 来))
+      (wd ，)
+      (PP-MNR
+        (p 经由)
+        (NP (DNP (NP-PN (nr 谢从宾)) (ude 的)) (ADJP (n 义务)) (NP (n 筛检))))
+      (wd ，)
+      (ADVP (d 总共))
+      (VP
+        (v 发现)
+        (NP-OBJ
+          (QP (m 数千) (CLP (q 位)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 肾脏))
+                (VP (a 异常)))
+              (ude 的)))
+          (NP (n 学童))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP-PN (nr 杨美华)) (ude 的)) (ADJP (a 大)) (NP (n 女儿)))
+    (VP (ADVP (d 就)) (VP (vshi 是) (QP-PRD (NP (r 其中)) (QP (m 一个))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 杨美华))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (LCP-TMP (QP (m 七) (CLP (q 年))) (f 前))
+      (wd ，)
+      (PP-PRP
+        (c 由于)
+        (IP
+          (NP-PN-SBJ (nr 谢从宾))
+          (VP
+            (IP-TMP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VP (v 到) (NP-OBJ (n 女儿) (n 学校)))
+                (VP (v 做) (NP-OBJ (n 筛检)))))
+            (wd ，)
+            (VP
+              (v 发现)
+              (IP-OBJ
+                (NP-TPC
+                  (DNP
+                    (NP (NP (r 她)) (ADJP (a 大)) (NP (n 女儿)))
+                    (ude 的))
+                  (NP (n 肾脏)))
+                (IP
+                  (IP (QP-SBJ (m 一)) (VP (a 大)))
+                  (IP (QP-SBJ (m 一)) (VP (a 小)))))))))
+      (wd ，)
+      (NP-SBJ (n 学校))
+      (VP
+        (v 通知)
+        (NP-OBJ (r 她))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 带)
+            (NP-OBJ (n 孩子))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (VP (v 去) (NP-OBJ (n 医院))) (VP (v 覆) (NP (n 检))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (LCP-TMP (PP (ADVP (m 几)) (PP (p 经) (NP (v 检查)))) (LCP (f 后)))
+    (VP
+      (v 发现)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (DNP (NP (n 孩子)) (ude 的)) (NP (n 膀胱) (n 输尿管)))
+          (VP (v 回流)))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 造成) (IP-OBJ (NP-SBJ (n 肾脏)) (VP (vi 萎缩))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-1
+      (wyz 「)
+      (LCP-TMP (QP (m 六) (CLP (q 年))) (f 来))
+      (NP-SBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-2))
+              (NP-SBJ (r 我))
+              (VP (v 放) (PP (p 在) (LCP (s 心里)))))
+            (ude 的)))
+        (NP (n 感谢)))
+      (wd ，)
+      (VP
+        (ADVP (d 一直))
+        (VP (VP (v 没有) (NP-OBJ (n 机会))) (VP (VRD (v 说) (v 出来))))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nr 杨美华))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-1))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-PN (nr 谢从宾))
+      (CP-APP
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 济) (NP (n 世))))
+        (ude 的))
+      (ADJP (a 大))
+      (NP (n 爱)))
+    (wd ，)
+    (VP
+      (v 让)
+      (NP-OBJ (r 她))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (DVP (ADVP (b 非常)) (ude 的)) (VP (n 敬佩) (c 与) (n 感动))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN
+  (CP
+    (WHNP-1 (-NONE- *OP*))
+    (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 客气))) (ude 的)))
+  (NP (n 医师))))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (v 到) (NP-OBJ (DP (r 各)) (NP (n 小学))))
+        (VP (v 作) (NP-OBJ (n 筛检)))))
+    (wd ，)
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (d 须)
+        (VP
+          (ADVP (d 事先))
+          (PP (p 与) (NP (NP (n 学校) (an 健康) (n 中心)) (NP (n 护士))))
+          (VP (VP (v 接洽)) (wd ，) (VP (v 安排) (NP-OBJ (n 时间))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 因此))
+    (NP-SBJ (NP (r 各校)) (NP (an 健康) (n 中心)) (NP (n 护士)))
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP
+          (DP (r 这) (CLP (q 位)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (wyz 「) (a 客气) (wyy 」)))
+              (ude 的)))
+          (NP (n 医生))))
+      (ADVP (d 都))
+      (NP (n 印象))
+      (VP (a 深刻))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-2
+      (wyz 「)
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (d 已经)) (VP (vshi 是) (QP-PRD (m 第三) (CLP (q 次)))))
+      (y 了))
+    (wt ！)
+    (wyy 」)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-LOC
+                (p 在)
+                (NP
+                  (NP-PN (ns 敦化) (IP (NP (n 国)) (VP (a 小))))
+                  (NP (an 健康) (n 中心))))
+              (VP (v 担任) (NP-OBJ (n 护士)) (QP-EXT (m 十七) (CLP (q 年))))))
+          (ude 的)))
+      (NP-PN (nr 王淑芬)))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-2))))
+  (wd ，)
+  (IP
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 放) (NP-OBJ (t 寒假))))
+      (f 前))
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (ADVP (d 刚))
+      (PP-BNF
+        (p 为)
+        (NP (NP-PN (ns 敦化) (IP (NP (n 国)) (VP (a 小)))) (NP (n 学童))))
+      (VP (VRD (v 做) (vi 完)) (NP-OBJ (n 超音波) (n 检查)))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (LCP-TMP (QP (m 十几) (CLP (q 年))) (f 来))
+        (NP-PN-SBJ (nr1 谢医师))
+        (VP
+          (QP-ADV (n 第三) (CLP (m 次)))
+          (VP
+            (VP (q 来) (NP-PN-OBJ (v 敦化)))
+            (VP (ns 做) (NP-OBJ (v 检查))))))))
+  (n ，)
+  (IP
+    (NP-PN-SBJ (wd 王淑芬))
+    (VP
+      (nr 说)
+      (v ，)
+      (IP-OBJ
+        (NP-PN-SBJ (wd 谢) (nr 医师))
+        (VP
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (DP-ADV (r 每次)) (VP (v 来))))
+          (PP-ADV
+            (p 除了)
+            (LCP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-BNF (p 为) (NP (n 学生)))
+                  (VP (v 做) (NP-OBJ (n 肾脏) (n 筛检)))))
+              (f 外)))
+          (wd ，)
+          (ADVP (d 还))
+          (VP
+            (v 会)
+            (VP
+              (ADVP (d 顺便))
+              (VP
+                (v 帮)
+                (n 老师)
+                (k 们)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 做) (NP-OBJ (n 腹腔) (n 超音波) (n 检查)))))))))))
+  (wd ，)
+  (IP
+    (wyz 「)
+    (ADVP (c 但是))
+    (NP-SBJ (r 他))
+    (VP
+      (VP (ADVP (d 很)) (VP (a 客气)))
+      (wd ，)
+      (VP
+        (ADVP (d 总))
+        (VP
+          (v 说)
+          (CP-OBJ
+            (IP
+              (NP-SBJ (r 自己))
+              (VP (ADVP (d 不)) (VP (vshi 是) (NP-PRD (n 专家)))))
+            (wd ，)
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (ADVP (d 只是))
+                  (ADVP (d 顺便))
+                  (VP
+                    (VP (v 帮) (NP-OBJ (r 我们)))
+                    (VP (v 看) (ADVP (m 一下))))))
+              (y 而已)))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (wd ，)
+  (IP-SBJ
+    (DP (r 这))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (ADVP (wyz 「) (d 顺便) (wyy 」)) (ADVP (d 一)) (VP (v 看)))))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (v 使)
+      (NP-OBJ (QP (m 不少)) (NP (n 老师)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (PP-PRP (c 因此)) (VP (vi 受惠))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (nz 华江国小)) (NP (an 健康) (n 中心)) (NP (n 护士)))
+    (NP-PN (nr 谢秀丽)))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 曾))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ
+                (QP (m 一) (CLP (q 位)))
+                (DNP (QP (m 三十) (CLP (q 岁))) (ude 的))
+                (ADJP (b 男))
+                (NP (n 老师)))
+              (VP
+                (pbei 被)
+                (IP-OBJ
+                  (NP-PN-SBJ (nr1 谢) (n 医师))
+                  (VP
+                    (v 发现)
+                    (IP-OBJ
+                      (NP-SBJ (n 肝脏))
+                      (VP (vyou 有) (NP-OBJ (n 肿瘤)))))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (t 后来))
+          (PP-MNR (p 经) (NP (v 检查)))
+          (VP (VCP (v 证实) (vshi 是)) (NP-OBJ (nl 恶性肿瘤)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 已经)) (VP (VSB (vi 开刀) (v 切除)) (y 了))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (wyz 「)
+    (IP (NP-SBJ (n 老师) (k 们) (n 岁数)) (VP (ADVP (d 较)) (VP (a 大))))
+    (wd ，)
+    (IP
+      (ADVP (c 因此))
+      (NP-SBJ (DNP (NP (n 肿瘤) (wn 、) (vi 病变)) (ude 的)) (NP (n 机率)))
+      (VP (PP (p 比) (NP (n 学生))) (VP (a 高)))))
+  (wd ，)
+  (wyy 」)
+  (NP-PN-SBJ (nr 谢从宾))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (NP (n 肾脏) (n 病)) (PP (p 在) (NP-PN (ns 台湾)))))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (VP (ADVP (r 如此)) (VP (v 付出) (NP-OBJ (n 心力))))
+      (wn 、)
+      (VP
+        (LCP-TMP (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 年))) (f 来))
+        (d 从不)
+        (ADVP (d 曾))
+        (VP (vi 停歇)))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-PN-SBJ (nr 谢从宾)) (VP (v 累积) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP (wyz 「) (n 收获) (wyy 」)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (v 无) (IP (NP (n 人)) (VP (v 能) (VP (v 及))))))
+            (ude 的))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 根据)
+      (NP
+        (NP-PN (nr 谢从宾))
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (LCP-TMP (QP (m 十三) (CLP (q 年))) (f 来))
+              (VP
+                (IP (VP (v 筛) (NP (v 检))))
+                (NP-OBJ (QP (m 上百万) (CLP (q 名))) (NP (n 学童))))))
+          (ude 的))
+        (NP (n 发现))))
+    (wd ，)
+    (NP-SBJ
+      (NP (NP-PN (ns 台湾)) (NP (n 学童)))
+      (CP-APP (IP (NP-SBJ (n 肾脏)) (VP (a 异常))) (ude 的))
+      (NP (n 比例)))
+    (VP (ADVP (d 约)) (VP (PP-PRD (p 在) (LCP (QP (m 千分之五)) (m 左右))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 情况))
+    (VP
+      (v 包括)
+      (wm ：)
+      (UCP-OBJ
+        (NP (QP (b 单)) (NP (n 肾)))
+        (wn 、)
+        (NP (n 水) (n 肾))
+        (wn 、)
+        (IP
+          (NP-SBJ (QP (f 一侧)) (NP (n 肾脏)))
+          (VP (ADVP (d 较)) (VP (a 小))))
+        (wn 、)
+        (NP (n 肾囊肿))
+        (wn 、)
+        (NP (n 肾结石))
+        (wn 、)
+        (NP (n 异位) (n 肾))
+        (w ……)
+        (udeng 等等))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (IP
+    (NP-SBJ (QP (m 一个)) (NP (n 医生)))
+    (wd ，)
+    (VP
+      (QP-ADV (m 一辈子))
+      (ADVP (d 顶多))
+      (VP
+        (v 看到)
+        (NP-OBJ
+          (QP
+            (QP (d 一) (CLP (-NONE- *RNR*-1)))
+            (wn 、)
+            (QP (m 二十) (CLP-1 (q 个))))
+          (NP (QP (b 单)) (NP (n 肾)))
+          (NP (n 病人))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我))
+    (VP (ADVP (d 却)) (VP (v 看) (y 了) (NP-OBJ (vl 不计其数)))))
+  (wd ，)
+  (wyy 」)
+  (IP
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (VP
+        (LCP-TMP (QP (a 多) (CLP (q 年))) (f 来))
+        (PP-DIR (p 对) (NP (n 学童)))
+        (VP (v 进行) (NP-OBJ (n 筛检))))
+      (VP
+        (v 发现)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ
+            (NP
+              (QP
+                (ADVP (d 大约))
+                (QP
+                  (QP (m 一千) (CLP (-NONE- *RNR*-2)))
+                  (p 到)
+                  (QP (m 一千五百) (CLP-2 (q 个)))))
+              (NP (n 人)))
+            (NP (f 当中)))
+          (wd ，)
+          (VP
+            (ADVP (d 就))
+            (VP
+              (vyou 有)
+              (IP-OBJ
+                (NP-SBJ (QP (m 一)) (NP (n 人)))
+                (VP (vshi 是) (NP-PRD (QP (b 单)) (NP (n 肾)))))))
+          (PRN
+            (IP
+              (wkz （)
+              (NP-SBJ (QP (n 单) (CLP (f 侧))) (NP (n 肾脏)))
+              (VP (ADVP (d 不)) (VP (vi 发育)))
+              (wky ）)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这项)) (NP (n 结果)))
+    (VP (PP (p 与) (NP (s 国外) (n 报告))) (VP (a 相近))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除了)
+    (LCP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 得到)
+          (NP-OBJ
+            (CP-APP
+              (IP (NP-TPC (n 国人)) (NP-SBJ (n 肾脏)) (VP (a 异常)))
+              (ude 的))
+            (NP (n 发生率)))))
+      (f 外)))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP-PN (nr 谢从宾)) (ude 的))
+    (NP (n 超音波) (n 筛检))
+    (NP (n 结果)))
+  (wd ，)
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 发现)
+      (CP-OBJ
+        (IP
+          (IP-SBJ
+            (NP-SBJ (NP (n 小儿)) (NP (n 肾囊肿)))
+            (VP
+              (NP-TMP (t 从前))
+              (VP
+                (pbei 被)
+                (VP
+                  (v 认为)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (d 很)) (VP (a 少))))))))
+          (wd ，)
+          (VP
+            (vshi 是)
+            (PP-PRD
+              (p 因为)
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (VP
+                    (ADVP (d 很))
+                    (ADVP (a 少))
+                    (VP (vyou 有) (NP-OBJ (n 症状))))
+                  (c 而)
+                  (VP (ADVP (d 未)) (VP (pbei 被) (VP (v 发现)))))))))
+        (y 而已))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (NP-SBJ (QP (m 许多)) (NP (n 肾) (a 疾)))
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (PP-TMP (p 在) (NP (f 早期))) (VP (v 发现)))
+        (wn 、)
+        (VP (NP-TMP (f 早期)) (VP (v 治疗)))))
+    (wd ，)
+    (ADVP (d 就))
+    (VP
+      (v 能)
+      (VP
+        (VP (v 避免) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 恶化))))
+        (c 或)
+        (VP
+          (v 减少)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 发生) (NP-OBJ (n 并发症))))
+              (ude 的))
+            (NP (n 机会)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (v 像))
+    (NP-TPC (DNP (ADJP (n 阻塞性)) (ude 的)) (NP (n 尿路) (n 病变)))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (NP-ADV (f 早期)) (VP (v 加以) (NP-OBJ (n 治疗)))))
+      (wd ，)
+      (ADVP (d 就))
+      (VP
+        (v 可以)
+        (VP (v 避免) (IP-OBJ (NP-SBJ (n 肾) (n 功能)) (VP (vi 恶化)))))))
+  (wf ；)
+  (IP
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-1))
+                  (NP-SBJ (QP (f 一侧)) (NP (n 肾脏)))
+                  (VP (ADVP (d 较)) (VP (a 小))))
+                (ude 的)))
+            (NP (n 人)))
+          (VP (v 发生) (NP-OBJ (n 高血压))))
+        (ude 的))
+      (NP (n 机会)))
+    (VP (ADVP (d 较)) (VP (a 大))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-CND
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (ADVP (c 如果)) (NP-ADV (f 早期)) (VP (v 发现))))
+      (wd ，)
+      (ADVP (d 便))
+      (VP
+        (v 能)
+        (VP
+          (v 提醒)
+          (NP-OBJ (n 当事人))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 注意)
+              (NP-OBJ (DNP (NP (n 血压)) (ude 的)) (NP (n 变化)))))))))
+  (wf ；)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (DNP (NP (QP (b 单)) (NP (n 肾))) (ude 的)) (NP (n 人)))
+    (wd ，)
+    (VP
+      (PP-PRP
+        (c 由于)
+        (IP (NP-SBJ (n 肾脏) (n 负担)) (VP (ADVP (d 较)) (VP (a 大)))))
+      (wd ，)
+      (ADVP (d 也))
+      (VP
+        (v 要)
+        (VP
+          (VP
+            (v 注意)
+            (NP-OBJ
+              (DNP
+                (NP (LCP (NP (n 饮食)) (f 中)) (NP (n 蛋白质) (c 和) (n 盐)))
+                (ude 的))
+              (NP (n 含量))))
+          (wd ，)
+          (VP
+            (v 避免)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 发生) (NP-OBJ (ADJP (b 慢性)) (NP (n 肾衰竭))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-SBJ (n 生殖) (p 与) (n 泌尿) (n 系统))
+      (VP
+        (PP-TMP (p 在) (LCP (IP (NP-SBJ (n 胚胎)) (VP (vi 发育))) (n 时)))
+        (wd ，)
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 极)) (VP (a 密切))))
+                (ude 的)))
+            (NP (n 关系)))))))
+  (wd ，)
+  (NP-PN-SBJ (nr 谢从宾))
+  (VP
+    (ADVP (d 也))
+    (ADVP (c 因而))
+    (PP-DIR (p 由) (NP (n 肾脏) (n 问题)))
+    (VP
+      (VRD (v 追溯) (v 出))
+      (NP-OBJ (QP (m 许多)) (NP (n 生殖) (n 系统)) (NP (n 问题)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 例如))
+  (wd ，)
+  (NP-SBJ (QP (b 单)) (NP (n 肾)))
+  (VP
+    (VP
+      (ADVP (d 常))
+      (VP
+        (v 合并)
+        (NP-OBJ
+          (NP (QP (m 双)) (NP (n 子宫)))
+          (wn 、)
+          (NP (QP (m 双)) (NP (n 阴道))))))
+    (wd ，)
+    (c 且)
+    (VP
+      (ADVP (d 常))
+      (VP
+        (v 会)
+        (VP
+          (PP-LOC
+            (p 在)
+            (DP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 缺) (NP-OBJ (n 肾)))))
+              (DP (r 那) (QP (f 一侧)))))
+          (VP (v 造成) (NP-OBJ (n 阴道) (v 阻塞)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC (DP (r 这种)) (NP (n 病例)))
+    (wd ，)
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP (ADVP (d 已)) (VP (v 发现) (y 了) (QP-OBJ (m 五十几) (CLP (q 例))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-TMP (t 目前))
+                (NP-LOC (n 全世界))
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (QP-PRD (ADVP (d 共)) (QP (m 两百) (CLP (q 个)))))))
+            (NP (n 病例)))
+          (f 中)))
+      (wd ，)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (ADVP (d 最)) (VP (a 大))))
+              (ude 的)))
+          (NP (n 系列))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (DNP (NP-PN (nz 希波拉底)) (ude 的)) (NP (n 誓言))))
+</S>
+<S>
+( (IP
+  (LCP-TMP (QP (a 多) (CLP (q 年))) (f 来))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP-PN (nr 谢从宾)) (ude 的))
+    (NP (n 门诊) (c 和) (n 工作))
+    (NP (n 时间)))
+  (VP
+    (ADVP (d 都))
+    (VP (v 配合) (NP-OBJ (DNP (NP (n 小学生)) (ude 的)) (NP (n 作息)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-TPC-1
+      (wyz 「)
+      (IP
+        (NP-SBJ (r 别人))
+        (VP
+          (ADVP (d 不))
+          (VP
+            (vi 喜欢)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (NP-TMP (t 星期六)) (VP (vi 工作)))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 我))
+        (VP
+          (VP (ADVP (d 刚好)) (VP (vi 相反)))
+          (wd ，)
+          (VP
+            (ADVP (d 尽量))
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-SBJ (DNP (NP (n 医院)) (ude 的)) (NP (n 工作)))
+                (VP (v 安排) (PP (p 在) (NP (t 星期六))))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP (v 说) (IP-OBJ (-NONE- *T*-1))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-TMP (NP (t 星期三) (wn 、) (m 六)) (NP (t 下午)))
+      (NP-SBJ (r 他))
+      (VP
+        (PP-LOC (p 在) (NP (n 医院)))
+        (VP (v 做) (NP-OBJ (ADJP (a 特别)) (NP (n 门诊))))))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (PP-PRD
+          (p 因为)
+          (IP
+            (NP-SBJ (n 小学生))
+            (VP
+              (NP-TMP (DP (r 这) (QP (m 两) (CLP (q 天)))) (NP (t 下午)))
+              (VP
+                (VP (ADVP (d 不)) (VP (vi 上课)))
+                (wd ，)
+                (VP
+                  (v 可)
+                  (VP
+                    (VP (v 到) (NP-OBJ (n 医院)))
+                    (VP (v 做) (NP-OBJ (v 复检))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 然而))
+  (wd ，)
+  (IP-SBJ
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (QP-ADV (m 一) (CLP (q 天)))
+        (PP-BNF
+          (v 为)
+          (NP
+            (QP
+              (QP (m 二) (CLP (-NONE- *RNR*-1)))
+              (wn 、)
+              (QP (m 三千) (CLP-1 (q 位))))
+            (NP (n 学童))))
+        (VP (v 做) (NP-OBJ (NP (n 肾脏) (n 超音波)) (VP (v 筛) (NP (v 检)))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (QP-ADV (ADVP (vi 持续)) (QP (m 十几) (CLP (q 年))))
+        (ADVP (d 不))
+        (VP (vi 间断)))))
+  (wd ，)
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (PP-DIR (p 对) (NP-PN (nr 谢从宾))) (VP (u 而言))))
+    (wd ，)
+    (ADVP (d 其实))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (ADVP (d 相当)) (VP (v 耗费) (NP-OBJ (n 体力)))))
+            (ude 的)))
+        (NP (n 工作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 问)
+      (NP-IO (r 他))
+      (IP-Q-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP-WH (r 为什么))
+          (VP
+            (v 愿意)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 付出)
+                (NP-OBJ
+                  (ADJP (ADVP (r 这么)) (ADJP (a 多)))
+                  (NP (n 时间) (c 和) (n 体力))))))))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (NP-SBJ (n 满头))
+          (VP (NP-PRD (n 白发))))
+        (ude 的)))
+    (NP-PN (nr1 谢) (n 医师)))
+  (VP
+    (ADVP (d 只是))
+    (DVP (VP (a 腼腆)) (ude 地))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz 「)
+        (NP-SBJ (DP (r 每个)) (NP (n 医生)))
+        (VP
+          (LCP-TMP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 受) (NP-OBJ (n 医学) (n 教育))))
+            (n 时))
+          (wd ，)
+          (ADVP (d 都))
+          (VP
+            (v 读)
+            (uguo 过)
+            (IP-OBJ
+              (NP-APP (DNP (NP-PN (nrf 希波拉底)) (ude 的)) (NP (n 格言)))
+              (wm ：)
+              (IP
+                (wyz 『)
+                (NP-SBJ (DNP (NP (n 病人)) (ude 的)) (NP (n 病情)))
+                (VP
+                  (vshi 是)
+                  (NP-PRD
+                    (CP
+                      (WHNP-2 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (r 你))
+                          (VP
+                            (usuo 所)
+                            (VP
+                              (v 要)
+                              (VP (v 顾虑) (NP-OBJ (-NONE- *T*-2))))))
+                        (ude 的))))))))))))
+  (wj 。)
+  (wyy 』)
+  (wyy 」)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-TMP (t 如今))
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (r 他))
+            (VP (usuo 所) (VP (v 做) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的))))
+    (wd ，)
+    (VP
+      (ADVP (d 不过))
+      (VP
+        (vshi 是)
+        (VP
+          (vi 尽)
+          (NP-OBJ
+            (QP (m 一个))
+            (CP-APP
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 做) (NP-OBJ (n 医生))))
+              (ude 的))
+            (NP (n 本分)))))))
+  (y 而已)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (LCP-SBJ (NP (n 身体)) (f 上)) (VP (a 劳累)))
+    (VP (ADVP (d 不)) (VP (a 打紧))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (ADVP (d 更)) (VP (v 烦) (NP-OBJ (n 人)))))
+          (ude 的))))
+    (VP (vshi 是) (NP-PRD (n 行政) (n 手续))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 虽然))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP (ADJP (vi 免费)) (ude 的))
+          (ADJP (n 义务))
+          (VP (v 筛) (NP (v 检)))))))
+  (wd ，)
+  (NP-PN-SBJ (nr 谢从宾))
+  (VP
+    (ADVP (v 还是))
+    (VP
+      (ude 得)
+      (VP
+        (v 获得)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP-PN (n 卫生局) (wn 、) (n 教育局))
+              (wn 、)
+              (NP (n 学校) (wn 、) (n 学生) (n 家长)))
+            (ude 的))
+          (NP (n 同意))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 早期))
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 曾))
+      (VP
+        (v 聘请)
+        (NP-OBJ (n 助理) (n 护士))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 帮忙))))))
+  (wd ，)
+  (IP
+    (PP-PRP
+      (p 为了)
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 节省) (NP-OBJ (v 开销)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (f 之后))
+      (ADVP (d 便))
+      (NP-ADV (QP (m 一个)) (NP (n 人)))
+      (VP
+        (VP (v 利用) (NP-OBJ (n 时间)))
+        (VP (v 包办) (NP-OBJ (DP (b 所有)) (NP (n 工作)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN (NP-SBJ (r 大家)) (VP (ADVP (d 一起)) (VP (v 来))) (wt ！)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (dl 无论如何)))
+    (wd ，)
+    (LCP-TMP (QP (m 十三) (CLP (q 年))) (f 来))
+    (NP-SBJ
+      (DNP (NP-PN (nr 谢从宾)) (ude 的))
+      (NP (NP (n 肾脏) (n 超音波)) (NP (n 筛检)))
+      (NP (n 模式) (c 与) (n 结果)))
+    (wd ，)
+    (VP
+      (VP
+        (ADVP (c 不仅))
+        (ADVP (d 已))
+        (VP
+          (v 建立)
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 可贵))) (ude 的)))
+            (NP (n 医学) (n 资料)))))
+      (wd ，)
+      (VP
+        (ADVP (c 同时))
+        (ADVP (d 也))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (QP (m 一) (CLP (q 种)))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP
+                    (v 可)
+                    (VP
+                      (vi 供)
+                      (NP-OBJ (-NONE- *pro*))
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (v 参考) (wn 、) (v 遵循))))))
+                (ude 的)))
+            (NP (n 筛检) (n 模式)))))))
+  (wd ，)
+  (IP
+    (IP-CND
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (c 只要))
+        (VP
+          (vyou 有)
+          (IP-OBJ
+            (NP-SBJ (n 肾脏) (n 医生))
+            (VP (v 愿意) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 接替))))))))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 更))
+      (VP
+        (v 欢迎)
+        (wyz 「)
+        (NP-OBJ (r 大家))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 一起)) (VP (v 来))))
+        (wyy 」))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 110)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 肾脏) (n 疾病))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP
+          (DNP (NP (n 国人)) (ude 的))
+          (NP (QP (m 十)) (ADJP (a 大)) (NP (n 死因))))
+        (NP (r 之一)))))
+  (wd ，)
+  (IP
+    (ADVP (c 然而))
+    (wd ，)
+    (NP-SBJ (QP (m 百分之二十)) (NP (n 肾脏) (vi 衰竭)))
+    (VP (v 源自) (NP-OBJ (n 幼童) (n 时期))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 及早)) (VP (v 治疗))))
+    (VP
+      (PP-DIR (p 对) (NP (DP (r 某些)) (NP (n 病人))))
+      (ADVP (d 很))
+      (VP (vyou 有) (NP (n 帮助)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 112)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC (DP (r 每次)) (ADJP (d 义务)) (VP (v 筛) (NP (v 检))))
+    (wd ，)
+    (NP-PN-SBJ (nr 谢从宾))
+    (VP
+      (VP
+        (ADVP (d 都))
+        (VP
+          (v 坐)
+          (PP
+            (p 在)
+            (LCP (NP (DNP (NP (n 小学生)) (ude 的)) (NP (n 椅子))) (f 上)))))
+      (wd ，)
+      (VP
+        (v 让)
+        (NP-OBJ (n 学童))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VP (n 采站姿)) (VP (v 接受) (NP-OBJ (n 超音波) (v 检查))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV (NP-SBJ (QP (m 一个)) (NP (t 早上))) (VP (v 下来)))
+      (wd ，)
+      (VP
+        (v 可以)
+        (VP
+          (VP (v 筛) (NP (v 检)))
+          (NP-OBJ
+            (QP (QP (QP (m 二千)) (ADVP (m 多))) (CLP (q 个)))
+            (NP (n 学童)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 谢从宾)) (VP (v 提供)) (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 113)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (LCP-TMP (QP (a 多) (CLP (q 年))) (f 来))
+            (VP
+              (VP (vi 巡回) (NP-OBJ (DP (r 各)) (NP (n 小学))))
+              (VP (v 筛) (NP (v 检))))))
+        (ude 的))
+      (NP (n 结果)))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 让)
+        (NP-PN-OBJ (nr 谢从宾))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 累积)
+            (NP-OBJ
+              (QP (m 许多))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 相关)))
+                  (ude 的)))
+              (NP (n 资料) (wn 、) (n 报告))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR
+        (p 对于)
+        (NP
+          (NP-PN (ns 台湾))
+          (DNP (NP (n 肾脏) (n 病)) (ude 的))
+          (NP (n 基础) (n 研究))))
+      (IP (NP (n 贡献)) (VP (z 良多)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (nx p114)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ
+      (DNP (NP (t 现代) (NP (n 孩子) (k 们))) (ude 的))
+      (NP (n 身高) (wn 、) (n 体重)))
+    (VP
+      (ADVP (c 虽))
+      (PP (p 较) (NP (t 以往)))
+      (VP (vyou 有) (NP-OBJ (DNP (ADJP (a 长足)) (ude 的)) (NP (n 增长))))))
+  (wd ，)
+  (ADVP (c 但))
+  (IP-CND
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (c 若)) (VP (v 无) (NP-OBJ (ADJP (a 固定)) (NP (n 健检))))))
+  (wd ，)
+  (IP-CND
+    (LCP-SBJ (NP (n 身体)) (f 上))
+    (VP
+      (ADVP (v 若))
+      (VP (vyou 有) (NP-OBJ (ADJP (a 异常)) (NP (n 状况))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 并))
+    (ADVP (d 不))
+    (VP (a 容易) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 得知)))))
+  (wj 。)))
+</S>

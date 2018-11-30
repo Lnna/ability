@@ -1,0 +1,151 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (t 十月) (t 一日))
+  (VP (v 为) (NP-PRD (ADJP (b 法定)) (NP (n 假日))))))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 根据) (NP-TTL (wkz 《) (NP (n 雇佣) (n 条例)) (wky 》)))
+  (wd ，)
+  (NP-SBJ (n 雇主))
+  (VP
+    (d 必须)
+    (VP
+      (PP-TMP (p 在) (NP (ADJP (b 法定)) (NP (n 假日))))
+      (VP
+        (v 给予)
+        (NP-IO (n 雇员))
+        (NP-OBJ (QP (m 一) (CLP (q 天))) (NP (t 假期))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (n 劳工处)) (NP (n 发言人)))
+  (VP
+    (NP-TMP (t 今日) (PRN (wkz （) (NP (t 星期一)) (wky ）)))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz 「)
+        (PP-MNR (p 根据) (NP-TTL (wkz 《) (n 雇佣) (n 条例) (wky 》)))
+        (wd ，)
+        (NP-SBJ (DP (b 所有)) (NP (n 雇员)))
+        (wd ，)
+        (VP
+          (IP-CND
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (ADVP (c 不论))
+              (VP (VP (v 入) (NP (n 息))) (QP-OBJ (r 多少)))))
+          (wd ，)
+          (VP
+            (ADVP (d 均))
+            (VP
+              (VP (vyou 有) (NP-OBJ (n 权)))
+              (VP (v 享有) (NP-OBJ (ADJP (b 法定)) (NP (n 假日))))))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (wyz 「)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-MNR (p 按) (NP (n 连续性) (n 雇佣) (n 合约)))
+            (VP (v 受) (NP (v 雇)))))
+        (ude 的)))
+    (NP (n 雇员)))
+  (wd ，)
+  (VP
+    (IP-CND
+      (PP-TMP
+        (p 在)
+        (LCP (NP (DP (r 任何)) (ADJP (b 法定)) (NP (n 假日))) (f 之前)))
+      (wd ，)
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (c 如))
+        (ADVP (d 已))
+        (ADVP (ad 连续))
+        (PP-BNF (p 为) (NP (n 雇主)))
+        (VP
+          (vi 工作)
+          (UCP-EXT
+            (NP-2 (QP (m 三) (CLP (q 个))) (NP (n 月)))
+            (c 或)
+            (LCP (NP (-NONE- *T*-2)) (f 以上))))))
+    (wd ，)
+    (ADVP (d 便))
+    (VP
+      (v 可)
+      (VP
+        (v 享有)
+        (NP-OBJ
+          (DNP (NP (DP (r 该)) (NP (n 假日))) (ude 的))
+          (NP (n 工资))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 假日) (n 工资))
+  (VP
+    (VP
+      (v 应)
+      (VP
+        (IP (VP (ADVP (d 相)) (VP (v 等於))))
+        (NP-OBJ
+          (NP (n 雇员))
+          (DNP
+            (PP (p 在) (NP (QP (m 一个)) (ADJP (a 完整)) (NP (n 工作日))))
+            (ude 的))
+          (NP (n 收入)))))
+    (wd ，)
+    (c 并)
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (NP (n 底薪))
+        (c 及)
+        (NP
+          (NP-APP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-MNR (p 以) (NP (n 现金)))
+                    (VP (v 支付) (NP-OBJ (-NONE- *T*-1)))))
+                (ude 的)))
+            (NP (n 津贴)))
+          (wd ，)
+          (NP
+            (ADVP (v 如))
+            (NP
+              (NP (n 生活))
+              (wn 、)
+              (NP (n 膳食))
+              (wn 、)
+              (NP (NP (n 交通) (c 及) (n 勤工)) (NP (n 津贴)))
+              (wn 、)
+              (NP (n 勤工奖))
+              (wn 、)
+              (NP (n 佣金))
+              (c 以及)
+              (NP
+                (IP-APP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (ADVP (n 超时)) (VP (n 工作))))
+                (NP (n 工资)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (vi 完)))
+</S>

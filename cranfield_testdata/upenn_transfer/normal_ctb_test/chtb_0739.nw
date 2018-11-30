@@ -1,0 +1,123 @@
+<S>
+( (NP-HLN
+  (NP (NP-PN (NP (n 全国)) (NP (nt 人大))) (NP (n 常委会)))
+  (DNP
+    (PP
+      (p 关于)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 批准)
+          (NP-TTL-OBJ
+            (wkz 《)
+            (NP
+              (IP-APP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 准予) (NP-OBJ (n 就业))))
+              (ADJP (a 最低))
+              (NP (n 年龄)))
+            (NP (n 公约))
+            (wky 》)))))
+    (ude 的))
+  (NP (n 决定))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 十二月) (t 二十九日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-PN
+        (QP (m 第九) (CLP (q 届)))
+        (NP (n 全国))
+        (NP (n 人民) (n 代表大会)))
+      (ADJP (b 常务))
+      (NP (n 委员会)))
+    (QP (m 第六) (CLP (q 次)))
+    (NP (n 会议)))
+  (VP
+    (VP
+      (v 通过)
+      (NP-TTL-OBJ
+        (wkz 《)
+        (NP
+          (IP-APP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 准予) (NP-OBJ (n 就业))))
+          (ADJP (a 最低))
+          (NP (n 年龄)))
+        (NP (n 公约))
+        (wky 》)))
+    (wd ，)
+    (VP (ADVP (c 同时)) (wd ，) (VP (v 声明) (ADVP (vi 如下)))))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (LST (m 一))
+  (wn 、)
+  (NP-SBJ
+    (CP
+      (WHPP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-TMP (-NONE- *T*-2))
+            (PP-LOC
+              (p 在)
+              (LCP
+                (LCP (NP (NP-PN (ns 中华人民共和国)) (NP (n 领土))) (f 内))
+                (c 及)
+                (LCP
+                  (NP
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (NP-PN-LOC (ns 中华人民共和国)) (VP (vi 注册))))
+                        (ude 的)))
+                    (NP (n 运输) (n 工具)))
+                  (f 上))))
+            (VP (vi 就业) (c 或者) (vi 工作))))
+        (ude 的)))
+    (ADJP (a 最低))
+    (NP (n 年龄)))
+  (VP (v 为) (QP-PRD (m 十六) (CLP (t 周岁))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (LST (m 二))
+  (wn 、)
+  (PP-TMP
+    (p 在)
+    (LCP
+      (IP
+        (NP-SBJ (NP-PN (ns 中华人民共和国)) (NP (n 政府)))
+        (VP (ADVP (d 另行)) (VP (v 通知))))
+      (f 前)))
+  (wd ，)
+  (NP-TTL-SBJ
+    (wkz 《)
+    (NP
+      (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (v 准予) (NP-OBJ (n 就业))))
+      (ADJP (a 最低))
+      (NP (n 年龄)))
+    (NP (n 公约))
+    (wky 》))
+  (VP
+    (ADVP (d 暂))
+    (ADVP (d 不))
+    (VP
+      (IP (VP (vi 适用) (p 于)))
+      (NP-OBJ
+        (NP-PN (ns 中华人民共和国))
+        (NP-PN (NP-PN (ns 香港)) (ADJP (a 特别)) (NP (n 行政区))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

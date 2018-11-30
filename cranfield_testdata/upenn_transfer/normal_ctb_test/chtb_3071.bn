@@ -1,0 +1,80 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP-PN (ns 长春市)) (ADJP (b 中级)) (NP (n 法院)))
+  (VP
+    (PP-MNR (p 以) (NP (an 腐败) (n 罪)))
+    (VP
+      (v 判处)
+      (NP-IO
+        (NP-APP
+          (NP
+            (NP-PN (ns 吉林省))
+            (QP (m 一) (CLP (q 家)))
+            (ADJP (b 国营))
+            (NP (n 公司)))
+          (ADJP (b 副))
+          (NP (n 总经理)))
+        (NP-PN (nr 乔本平)))
+      (NP-OBJ (n 死刑))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 官方)) (NP-PN (nt 新华社)))
+  (VP
+    (v 报道)
+    (wm ：)
+    (IP-OBJ
+      (NP-PN-SBJ (nr 乔本平))
+      (VP
+        (PP-PRP
+          (c 因为)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (VP
+                (v 收受)
+                (NP-OBJ
+                  (NP (n 外商))
+                  (DNP
+                    (QP (ADVP (a 近)) (QP (m ２００万) (CLP (q 美元))))
+                    (ude 的))
+                  (NP (n 贿赂))))
+              (c 并且)
+              (VP (v 挪用) (NP-OBJ (n 公款))))))
+        (VP (c 而) (VP (pbei 被) (VP (vi 定罪)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 政府)))
+  (VP
+    (VP
+      (PP-LOC (p 在) (NP (NP (n 全国)) (NP (n 范围))))
+      (VP (v 打击) (NP-OBJ (an 腐败))))
+    (c 并且)
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (an 腐败) (n 现象))
+        (VP
+          (PP-DIR (p 对) (NP (NP-PN (n 共产党)) (NP (v 统治))))
+          (VP (v 构成) (NP-OBJ (n 威胁)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-VOC (DP (r 各位)) (NP (n 听众)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (f 以上)) (VP (n 报告) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP (vshi 是) (NP-PRD (n 国际) (n 新闻)))
+  (wj 。)))
+</S>

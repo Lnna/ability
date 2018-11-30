@@ -1,0 +1,365 @@
+<S>
+( (IP
+  (IP-LOC
+    (PP
+      (p 在)
+      (LCP (NP (DNP (NP (n 电视) (n 转播)) (ude 的)) (NP (n 画面))) (f 上)))
+    (wd ，)
+    (NP-PN-TPC (nr 高行健))
+    (NP-SBJ (n 态度))
+    (VP (VCD (ad 从容) (vl 面带微笑))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (IP
+          (PP-TMP (p 从) (LCP (QP (m ８) (CLP (q 岁))) (f 起)))
+          (NP-SBJ (r 他))
+          (VP
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP (DNP (NP (n 母亲)) (ude 的)) (NP (n 鼓励)))
+                  (f 下)))
+              (VP
+                (v 开始)
+                (VP (DP-ADV (r 每天)) (VP (v 写) (NP-OBJ (n 日记))))))
+            (wd ，)
+            (VP
+              (PP-DIR (p 由) (NP (n 日记)))
+              (VP
+                (VRD (v 写) (v 到))
+                (NP-OBJ
+                  (n 童话)
+                  (wn 、)
+                  (n 诗歌)
+                  (wn 、)
+                  (n 散文)
+                  (wn 、)
+                  (n 小说)
+                  (wn 、)
+                  (n 剧本))))
+            (VP
+              (ADVP (d 甚至))
+              (VP (v 写) (NP-OBJ (n 文学) (n 艺术) (n 评论))))))
+        (wd ，)
+        (IP
+          (ADVP (v 可惜))
+          (IP-ADV
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 遭逢) (NP-OBJ (a 不幸))))
+          (NP-SBJ (QP (m 一) (CLP (q 场))) (nz 文化大革命))
+          (VP
+            (VRD (v 毁) (v 掉))
+            (y 了)
+            (NP-OBJ
+              (DNP
+                (NP (NP (r 他)) (NP (t 早期)) (QP (m 大部分)) (NP (n 心血)))
+                (ude 的))
+              (NP (n 作品))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 瑞典) (n 皇家) (n 学术) (n 院)) (NP (n 院士)))
+    (NP-PN (nrf 马悦然) (n 教授)))
+  (VP
+    (NP-TMP
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-TMP (-NONE- *T*-1))
+              (PP-LOC (p 在) (LCP (NP (n 颁奖) (n 典礼)) (f 上)))
+              (PP-MNR (p 以) (NP (nz 中文)))
+              (VP (v 介绍) (NP-PN-OBJ (nr 高行健)))))
+          (ude 的)))
+      (NP (n 时候)))
+    (VP
+      (v 指出)
+      (wm ：)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (DNP (NP-PN (nr 高行健)) (ude 的)) (NP (n 文学) (n 创作)))
+          (VP
+            (v 包括)
+            (y 了)
+            (NP-OBJ
+              (NP (QP (m ２) (CLP (q 部))) (NP (n 小说)))
+              (wn 、)
+              (NP (QP (m １８) (CLP (q 本))) (NP (n 剧本)))
+              (c 以及)
+              (NP (QP (m １) (CLP (q 部))) (ADJP (b 短篇)) (NP (n 小说集))))))
+        (wd ，)
+        (IP
+          (NP-LOC (r 其中))
+          (NP-SBJ
+            (NP (NP (n 小说)) (NP-PN (wkz 《) (ns 灵山) (wky 》)))
+            (QP (m 一))
+            (NP (n 书)))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (NP (QP (m ２０)) (NP (n 世纪)))
+                      (VP (ADVP (d 最)) (VP (a 杰出)))))
+                  (ude 的)))
+              (NP (nz 中文) (n 著作)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (c 不仅))
+            (VP
+              (VP
+                (v 反映)
+                (NP-OBJ
+                  (CP
+                    (WHNP-3 (-NONE- *OP*))
+                    (IP
+                      (NP-PN-SBJ (nr 高行健))
+                      (VP
+                        (VP (v 遭逢) (NP-OBJ (n 时代) (a 不幸)))
+                        (VP
+                          (c 而)
+                          (VP (v 产生) (NP-OBJ (-NONE- *T*-3)))))))
+                  (DNP (NP (ADJP (b 潜在)) (NP (n 内心))) (ude 的))
+                  (NP (an 苦涩))))
+              (wd ，)
+              (VP
+                (PP-LOC (p 在) (NP (nl 字里行间)))
+                (VP
+                  (v 表现)
+                  (y 了)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-4 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-4)) (VP (z 无比)))
+                        (ude 的)))
+                    (NP (n 语文) (n 才华))))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 更))
+            (PP-LOC (p 在) (NP (n 文化) (n 层面)))
+            (PP-BNF
+              (v 为)
+              (NP
+                (CP
+                  (WHPP-5 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (n 个人))
+                      (VP (PP-MNR (-NONE- *T*-5)) (VP (v 写作))))
+                    (ude 的)))
+                (NP (a 自由))))
+            (VP (n 奋斗) (ADVP (z 不懈))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 当局)))
+  (VP
+    (VP
+      (PP-DIR (p 对) (NP (DNP (NP-PN (nr 高行健)) (ude 的)) (NP (n 得奖))))
+      (VP (ADVP (d 相当)) (VP (vl 不以为然))))
+    (wd ，)
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (nz 诺贝尔) (n 基金会))
+                  (VP
+                    (NP-PRP (DNP (NP (n 政治性)) (ude 的)) (NP (n 考量)))
+                    (VP (usuo 所) (VP (v 做) (NP-OBJ (-NONE- *T*-1))))))
+                (ude 的)))
+            (NP (n 选择))))))
+    (wd ，)
+    (VP
+      (ADVP (d 甚至))
+      (VP
+        (v 声称)
+        (IP-OBJ
+          (NP-SBJ
+            (NP (NP-PN (ns 中国)) (NP (n 大陆)))
+            (QP (m 很多))
+            (DP (r 其他))
+            (NP (n 作家)))
+          (VP
+            (ADVP (d 更))
+            (VP (VP (vyou 有) (NP-OBJ (n 资格))) (VP (vi 获奖))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 高行健))
+  (VP
+    (VSB (v 反驳) (v 说))
+    (wm ：)
+    (IP-OBJ
+      (NP-PN-SBJ (nt 中共))
+      (VP
+        (ADVP (d 只))
+        (VP
+          (v 会)
+          (VP
+            (VP
+              (VP (v 搞) (NP-OBJ (n 政治) (n 运动)))
+              (VP (v 迫害) (NP-OBJ (n 作家))))
+            (wd ，)
+            (VP
+              (vi 迫使)
+              (NP-OBJ (n 作家))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 流亡) (NP-OBJ (s 海外))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 高行健))
+    (VP
+      (VP (NP-TMP (t 今年)) (QP-PRD (m ６０) (CLP (q 岁))))
+      (wd ，)
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (LCP-TMP
+            (IP
+              (wyz “)
+              (NP-SBJ (NP-PN (nrf 诺贝尔)) (NP (n 文学奖)))
+              (wyy ”)
+              (VP
+                (PP-TMP
+                  (p 于)
+                  (NP (t １９０１年) (t １２月) (QP (m １０) (CLP (q 号)))))
+                (QP-ADV (m 首) (CLP (q 次)))
+                (VP (v 颁发))))
+            (f 以来))
+          (wd ，)
+          (NP-SBJ (QP (m 第一) (CLP (q 位))) (NP (nz 华文) (n 作家)))
+          (VP (v 获得) (NP-OBJ (DP (r 这项)) (NP (n 殊荣))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (n 作品)))
+    (VP
+      (QP-ADV (m 大部分))
+      (ADVP (d 都))
+      (VP
+        (VP
+          (PP-MNR (p 以) (NP (nz 中文)))
+          (ADVP (d 首先))
+          (PP-LOC (p 在) (NP-PN (ns 台湾)))
+          (VP (v 出版)))
+        (wd ，)
+        (VP
+          (ADVP (c 然后))
+          (ADVP (d 才))
+          (VP
+            (pbei 被)
+            (VP (VCP (v 翻译) (v 为)) (NP-OBJ (DP (r 其它)) (NP (n 语文)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (NP-SBJ
+      (NP-APP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (PP-PRP
+                  (c 因为)
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (v 致力)
+                      (IP-OBJ (NP-PN-SBJ (f 南北) (ns 韩)) (VP (vi 和解))))))
+                (VP
+                  (c 而)
+                  (VP
+                    (VRD (v 获) (v 颁))
+                    (NP-OBJ
+                      (wyz “)
+                      (NP-PN (nrf 诺贝尔))
+                      (NP (n 和平) (n 奖))
+                      (wyy ”))))))
+            (ude 的)))
+        (NP (NP (f 南北)) (NP (ns 韩)))
+        (NP (n 总统)))
+      (NP-PN (nr 金大中)))
+    (VP
+      (VP
+        (NP (QP (m １０)) (NP (q 号)))
+        (PP-DIR
+          (p 对)
+          (IP
+            (NP-SBJ (r 自己))
+            (VP (v 能够) (VP (v 获得) (NP-OBJ (DP (r 这项)) (NP (n 殊荣)))))))
+        (ADVP (d 非常))
+        (VP (v 感激)))
+      (wd ，)
+      (c 并且)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (DP (r 这项)) (NP (an 荣耀)))
+          (VP
+            (v 归于)
+            (NP-OBJ
+              (DNP (NP-PN (ns 韩国)) (ude 的))
+              (DP (n 全体))
+              (NP (n 国民))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 金大中))
+    (VP
+      (PP-LOC (p 在) (LCP (NP (n 授奖) (n 演说)) (f 中)))
+      (VP
+        (v 承诺)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 将))
+            (PP-MNR (p 以) (NP (n 余生)))
+            (VP
+              (VP
+                (IP (VP (v 致力) (p 于)))
+                (NP-OBJ
+                  (DNP
+                    (NP (NP-PN (ns 韩国)) (c 和) (NP (n 全球)))
+                    (ude 的))
+                  (NP (n 人权) (c 与) (n 和平))))
+              (VP
+                (v 推动)
+                (IP-OBJ
+                  (NP-PN-SBJ (f 南) (ns 韩))
+                  (VP (n 和解) (c 与) (n 合作))))))))))
+  (wj 。)))
+</S>

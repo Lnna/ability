@@ -1,0 +1,146 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 南斯拉夫)) (NP (n 总统)))
+      (NP-PN (nrf 科什图尼察)))
+    (VP
+      (VP
+        (v 到达)
+        (NP-OBJ
+          (NP-APP (NP-PN (ns 波黑)) (NP (n 首都)))
+          (NP-PN (ns 萨拉热窝))))
+      (VP (v 访问))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (LCP-TMP (NP (NP-PN (ns 波黑)) (NP (n 内战))) (f 以来))
+        (NP-SBJ (NP-PN (ns 南斯拉夫)) (NP (n 国家) (n 元首)))
+        (VP
+          (QP (m 首) (CLP (q 次)))
+          (ADVP (ad 正式))
+          (VP (v 访问) (NP-OBJ (DP (r 这个)) (NP (n 国家))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 科什图尼察))
+  (VP
+    (v 说)
+    (wm ：)
+    (wyz “)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (DP (r 这) (CLP (q 次))) (NP (n 访问)))
+          (VP
+            (v 能够)
+            (VP
+              (v 恢复)
+              (NP-OBJ
+                (DNP
+                  (LCP (NP-PN (ns 贝尔格莱德) (c 和) (ns 萨拉热窝)) (f 之间))
+                  (ude 的))
+                (NP (n 信任)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 波斯尼亚)) (NP (n 官员)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-PN-SBJ (nrf 科什图尼察))
+          (VP
+            (v 能够)
+            (VP
+              (v 明确)
+              (IP-OBJ
+                (NP-PN-SBJ (ns 南斯拉夫))
+                (VP
+                  (ADVP (ad 完全))
+                  (VP
+                    (v 实施)
+                    (NP-OBJ
+                      (DNP
+                        (NP
+                          (NP (t １９９５年))
+                          (wyz “)
+                          (NP-PN (nr 戴顿))
+                          (NP (n 和平) (n 协定))
+                          (wyy ”))
+                        (ude 的))
+                      (NP (n 义务))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这个)) (NP (n 协定)))
+    (VP
+      (v 结束)
+      (y 了)
+      (NP-OBJ
+        (NP-PN (ns 波斯尼亚))
+        (DNP (QP (m ３) (CLP (q 年))) (ude 的))
+        (NP (n 战争)))))
+  (wd ，)
+  (wyz “)
+  (CP
+    (IP
+      (NP-SBJ-1 (NP-PN (nz 戴顿)) (NP (n 和平) (n 协定)))
+      (wyy ”)
+      (VP
+        (vshi 是)
+        (VP
+          (PP-LGS
+            (p 由)
+            (NP
+              (NP-APP
+                (DNP (NP (t 当时)) (ude 的))
+                (NP-PN (ns 南斯拉夫))
+                (NP (n 总统)))
+              (NP-PN (nrf 米洛舍维奇))))
+          (VP (v 签署) (NP-OBJ (-NONE- *-1))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 科什图尼察))
+  (VP
+    (v 说)
+    (wm ：)
+    (wyz “)
+    (IP-OBJ
+      (CP-ADV
+        (ADVP (c 尽管))
+        (IP
+          (NP-SBJ (NP-PN (ns 南斯拉夫)) (NP (n 议会)))
+          (VP
+            (ADVP (d 从来))
+            (ADVP (d 没有))
+            (VP (v 批准) (NP-OBJ (DP (r 这项)) (NP (n 协定)))))))
+      (wd ，)
+      (ADVP (c 但是))
+      (NP-SBJ (r 他))
+      (VP
+        (VP (v 支持) (NP-OBJ (-NONE- *RNR*-1)))
+        (c 并且)
+        (VP
+          (ADVP (d 将))
+          (VP (v 遵守) (NP-OBJ-1 (DP (r 这个)) (NP (n 协定))))))))
+  (wj 。)
+  (wyy ”)))
+</S>

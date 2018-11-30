@@ -1,0 +1,134 @@
+<S>
+( (IP
+  (NP-SBJ (QP (m 一) (CLP (q 名))) (NP (n 男子)))
+  (VP
+    (QP (m ６) (CLP (q 号)))
+    (VP
+      (VP
+        (VRD (v 爬) (v 上))
+        (NP-OBJ (DNP (NP (a 自由) (n 女神)) (ude 的)) (NP (f 顶部))))
+      (VP
+        (v 抗议)
+        (IP-OBJ
+          (NP-SBJ (n 美军))
+          (VP
+            (PP-LOC
+              (p 在)
+              (NP (NP-PN (ns 波多黎各)) (NP (f 附近)) (NP (n 岛屿))))
+            (VP (v 举行) (NP-OBJ (n 导弹) (n 演习))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (DP (r 这) (CLP (q 位)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 身份)) (VP (v 不明)))
+          (ude 的)))
+      (NP (n 男子)))
+    (c 和)
+    (NP
+      (DP (r 其他) (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 名))))
+      (NP (n 示威者))))
+  (VP
+    (v 抗议)
+    (IP-OBJ
+      (NP-SBJ (NP-PN (ns 美国)) (NP (n 海军)))
+      (wd ，)
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (NP-PN (ns 波多黎各))
+              (DNP (NP (f 附近)) (ude 的))
+              (NP (n 岛屿)))
+            (f 上)))
+        (VP (v 进行) (NP-OBJ (n 导弹) (n 轰炸) (n 演习))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (DP (r 这) (CLP (q 名))) (NP (n 男子)))
+            (VP
+              (PP-TMP (-NONE- *T*-1))
+              (PP-DIR (p 从) (LCP (NP (n 窗户)) (f 里)))
+              (VP (VRD (v 走) (v 出来)))))
+          (ude 的)))
+      (NP (n 时候)))
+    (wd ，)
+    (NP-SBJ (QP (m ６) (CLP (q 名))) (NP (n 示威者)))
+    (VP (v 护卫) (uzhe 着) (NP-OBJ (n 冠冕))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 另外) (QP (m 一) (CLP (q 名)))) (NP (n 示威者)))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (VRD (v 爬) (v 上))
+        (y 了)
+        (LCP-OBJ
+          (NP (DNP (NP (a 自由) (n 女神)) (ude 的)) (NP (n 火炬)))
+          (f 旁)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-SBJ (NP-PN (ns 美国)) (NP (n 军队)))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-TMP (p 从) (NP (QP (m ４０)) (NP (n 年代))))
+          (VP
+            (v 开始)
+            (VP (v 使用) (NP-OBJ (QP (m 部分)) (NP-PN (ns 威科斯岛))))))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (LCP-TMP
+      (IP
+        (IP
+          (NP-TMP (t 去年) (t ４月))
+          (NP-SBJ
+            (NP-PN (ns 美国))
+            (QP (m 一) (CLP (q 架)))
+            (NP (n 海军) (n 飞机)))
+          (VP
+            (VP (v 投) (NP (v 弹)))
+            (VP (ADVP (d 不)) (VP (v 中) (NP-OBJ (n 目标))))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (QP (m 一) (CLP (q 名)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 正在)) (VP (vi 工作))))
+                (ude 的)))
+            (NP (n 民兵)))
+          (VRD (v 炸) (v 死))))
+      (f 之后))
+    (wd ，)
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 抗议) (NP-OBJ (n 军事) (n 占领))))
+        (ude 的))
+      (NP (n 示威) (n 活动)))
+    (VP (ADVP (d 就)) (VP (VRD (vi 蔓延) (IP (VP (VRD (v 开) (v 来))))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,170 @@
+<S>
+( (IP
+  (NP-PN-SBJ
+    (ADVP (NP (nrf 亚西尔·阿拉法)) (ADVP (d 特)))
+    (PRN (wkz （) (NP-PN (nx YasserArafat)) (wky ）)))
+  (VP
+    (VP
+      (NP-TMP (t １９２９年) (t ８月))
+      (VP (vi 出生) (PP-LOC (p 于) (NP-PN (ns 耶路撒冷)))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (NP-PRD (QP (m 一) (CLP (q 位))) (NP-PN (n 逊尼派)) (NP (nz 穆斯林)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (IP
+      (NP-TMP (t １９４８年))
+      (NP-SBJ (QP (m 第一) (CLP (q 次))) (NP-PN (ns 中东)) (NP (n 战争)))
+      (VP (v 爆发)))
+    (f 后))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-TPC (-NONE- *T*-1))
+          (NP-SBJ (n 年))
+          (VP (QP-PRD (ADVP (d 仅)) (QP (m １９) (CLP (q 岁))))))
+        (ude 的)))
+    (NP-PN (nrf 阿拉法特)))
+  (VP
+    (v 开始)
+    (VP
+      (IP (VP (v 投身) (p 于)))
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 抗击) (NP-PN-OBJ (ns 以色列))))
+          (ude 的))
+        (NP (n 斗争)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (QP (m 第三) (CLP (q 次))) (NP-PN (ns 中东) (n 战争))) (f 后))
+  (wd ，)
+  (NP-PN-SBJ (nrf 阿拉法特))
+  (VP (ADVP (d 一直)) (VP (v 流亡) (NP-OBJ (s 海外))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t １９６９年) (t ２月))
+  (wd ，)
+  (NP-PN-SBJ (nrf 阿拉法特))
+  (VP
+    (v 开始)
+    (VP
+      (VP (v 担任) (NP-OBJ (NP-PN (nt 巴解组织)) (NP (n 执委会) (n 主席))))
+      (wd ，)
+      (VP
+        (ADVP (c 并))
+        (PP-TMP (p 从) (LCP (NP (t １９７１年)) (f 起)))
+        (VP
+          (v 兼任)
+          (NP-OBJ
+            (NP-PN (ns 巴勒斯坦))
+            (NP (n 革命) (nl 武装力量))
+            (NP (n 总司令)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t １９８８年) (t １１月))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN (NP-PN (ns 巴勒斯坦)) (NP (n 全国)) (NP (n 委员会)))
+      (QP (m 第１９) (CLP (q 次)))
+      (ADJP (a 特别))
+      (NP (n 会议)))
+    (VP
+      (VP (v 通过) (wkz 《))
+      (NP-OBJ (n 独立) (n 宣言))
+      (wky 》)
+      (wd ，)
+      (VP
+        (v 宣布)
+        (IP-OBJ
+          (NP (-NONE- *pro*))
+          (VP (v 建立) (NP-PN-OBJ (NP-PN (ns 巴勒斯坦国))))))))
+  (wd ，)
+  (IP
+    (NP-TMP (QP (t 次年)) (NP (t ４月) (t ２日)))
+    (NP-PN-SBJ (nrf 阿拉法特))
+    (VP
+      (VCP (v 当选) (v 为))
+      (NP-OBJ (NP-PN (NP-PN (ns 巴勒斯坦国))) (NP (n 总统)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 从此))
+  (wd ，)
+  (NP-PN-SBJ (nrf 阿拉法特))
+  (VP
+    (PP-MNR
+      (p 作为)
+      (NP
+        (DNP (NP (NP-PN (ns 巴勒斯坦)) (NP (n 民族))) (ude 的))
+        (NP (n 象征))))
+    (VP (v 出现) (PP-LOC (p 在) (NP (n 世界) (n 政治) (n 舞台)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-TMP (t １９９１年))
+    (NP-SBJ (NP-PN (ns 中东)) (NP (n 和平) (n 进程)))
+    (v 开始))
+  (wd ，)
+  (NP-PN-SBJ (nrf 阿拉法特))
+  (VP
+    (v 领导)
+    (NP-PN-OBJ (ns 巴勒斯坦) (n 解放) (n 组织))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-ADV (p 同) (NP-PN (ns 以色列)))
+        (VP
+          (v 进行)
+          (y 了)
+          (NP-OBJ (DNP (ADJP (a 艰难)) (ude 的)) (NP (n 谈判)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t １９９３年) (t ９月))
+  (wd ，)
+  (NP-PN-SBJ (ns 巴) (ns 以))
+  (VP
+    (VP
+      (PP-LOC (p 在) (NP-PN (ns 华盛顿)))
+      (VP
+        (v 签署)
+        (y 了)
+        (NP-OBJ (NP-PN (ns 巴勒斯坦)) (NP (n 自治)) (wkz 《))
+        (NP (n 原则) (n 宣言))
+        (wky 》)))
+    (wd ，)
+    (VP
+      (ADVP (c 从而))
+      (VP
+        (v 拉开)
+        (y 了)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (n 政治))
+                (VP (v 解决) (NP-OBJ (NP-PN (ns 巴勒斯坦)) (NP (n 问题))))))
+            (ude 的))
+          (NP (n 帷幕))))))))
+</S>

@@ -1,0 +1,100 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (NP-APP (NP-PN (ns 菲律宾)) (NP (n 总统))) (NP-PN (nrf 埃斯特拉达)))
+      (NP (v 弹劾) (n 案)))
+    (VP (ADVP (d 又)) (VP (r 有的) (NP-OBJ (ADJP (a 新)) (NP (n 进展))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m ５) (CLP (q 名))) (NP (n 银行) (n 职员)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (NP-TMP (t 当天)) (VP (v 举行))))
+                (ude 的)))
+            (NP (n 听证会)))
+          (f 上)))
+      (VP
+        (v 证明)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ
+            (QP (m １) (CLP (q 位)))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (v 名叫) (NP-PN-OBJ (nrf 里卡图剧))))
+                (ude 的)))
+            (NP (n 妇女)))
+          (VP
+            (PP-LOC
+              (p 在)
+              (NP
+                (DNP (NP-PN (ns 马尼拉)) (ude 的))
+                (QP (a 多) (CLP (q 家)))
+                (NP (n 银行))))
+            (VP
+              (VP (v 开立) (NP-OBJ (n 户头)))
+              (wd ，)
+              (VP
+                (QP-ADV (m 多次))
+                (VP
+                  (p 将)
+                  (IP-OBJ
+                    (NP-SBJ
+                      (QP (m 几万) (p 到) (m 几十万))
+                      (CP
+                        (WHNP-3 (-NONE- *OP*))
+                        (CP
+                          (IP (NP-SBJ (-NONE- *T*-3)) (VP (vi 不等)))
+                          (ude 的)))
+                      (NP (n 美元) (n 现钞)))
+                    (VP (v 存入) (NP-OBJ (n 银行) (n 帐户))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 检查官))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (DP (r 这) (CLP (q 位))) (NP (n 妇女)))
+          (VP
+            (vshi 是)
+            (NP-PRD (DNP (NP-PN (nrf 埃斯特拉达)) (ude 的)) (NP (n 审计员)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (DP (r 这些)) (NP (n 钱)))
+          (VP
+            (ADVP (f 最后))
+            (ADVP (d 都))
+            (VP
+              (v 落入)
+              (y 了)
+              (NP-OBJ (DNP (NP-PN (nrf 埃斯特拉达)) (ude 的)) (NP (n 腰包)))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-PN-SBJ (nrf 埃斯特拉达))
+    (VP
+      (v 否认)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-ADV (p 同) (NP (DP (r 这) (CLP (q 名))) (NP (n 妇女))))
+          (VP (vyou 有) (NP-OBJ (DP (r 任何)) (NP (n 关系))))))))
+  (wj 。)))
+</S>

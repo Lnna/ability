@@ -1,0 +1,172 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (v 看来))
+    (VP
+      (d 听听)
+      (IP-OBJ
+        (NP-SBJ (DNP (VP (v 立) (NP (n 法院))) (ude 的)) (NP (n 气氛)))
+        (VP
+          (PP-ADV (p 跟) (NP (t 过去)))
+          (VP (vshi 是) (VP (ADVP (d 大)) (ADVP (d 不)) (VP (a 相同))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (nrf 诺贝尔)) (NP (n 颁奖) (n 典礼)))
+    (wd ，)
+    (VP (ADVP (d 将)) (PP-TMP (p 在) (NP (t 后天))) (VP (v 举行))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-TMP (p 在) (LCP (NP (vi 颁奖)) (f 前夕)))
+      (wd ，)
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP (QP (m 好几) (CLP (q 场))) (ude 的))
+            (NP-PN (nrf 诺贝尔))
+            (NP (n 讲座)))
+          (VP (PP-BNF (p 为) (NP (n 典礼))) (IP (VP (v 暖) (NP (n 身)))))))))
+  (wd ，)
+  (IP
+    (NP-LOC (r 其中))
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 获得) (y 了) (NP-OBJ (n 文学奖))))
+          (ude 的)))
+      (NP-APP (n 大陆) (n 作家))
+      (NP-PN (nr 高行健)))
+    (wd ，)
+    (NP-SBJ (r 他))
+    (VP
+      (PP-TMP
+        (p 在)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (NP-TMP (-NONE- *T*-2)) (VP (vi 演讲))))
+              (ude 的)))
+          (NP (n 时候))))
+      (DVP (VP (n 感性)) (ude 的))
+      (VP
+        (v 露出)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP (v 逃离) (NP-OBJ (n 大陆)))
+                (VP
+                  (ADVP (d 却))
+                  (VP (NP (n 心) (v 系)) (NP-PN-OBJ (ns 中国))))))
+            (ude 的))
+          (NP (n 情怀))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 强调)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (n 政治) (c 和) (n 商业))
+          (VP
+            (ADVP (d 都))
+            (VP
+              (vshi 是)
+              (NP-PRD (DNP (DNP (n 文学)) (ude 的)) (NP (n 主人))))))
+        (wd ，)
+        (IP
+          (CP-CND
+            (ADVP (c 如果))
+            (IP
+              (NP-SBJ (n 作家))
+              (VP
+                (v 要)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (v 赢得)
+                    (NP-OBJ (DNP (NP (n 思想)) (ude 的)) (NP (an 自由))))))))
+          (wd ，)
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (ADVP (d 不))
+              (VP (vshi 是) (VP (v 选择) (NP-OBJ (a 沉默)))))
+            (wd ，)
+            (VP
+              (ADVP (d 就))
+              (VP (vshi 是) (VP (v 选择) (NP-OBJ (vi 逃亡))))))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP (NP-SBJ (r 你)) (VP (v 想念) (NP-PN-OBJ (ns 中国))))
+  (y 吗)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 总的说来))
+      (wd ，)
+      (VP
+        (v 说)
+        (IP-OBJ
+          (NP-TPC (DP (r 每) (QP (m 一个))) (NP-PN (ns 中国)))
+          (wd ，)
+          (NP-SBJ (DNP (NP (r 我)) (ude 的)) (NP-PN (ns 中国)))
+          (VP (ADVP (d 就)) (VP (p 在) (NP-OBJ (r 我) (r 自己) (s 身上))))))))
+  (wd ，)
+  (IP
+    (PP-PRP
+      (c 因为)
+      (CP
+        (IP
+          (NP-SBJ (r 我))
+          (VP
+            (vshi 是)
+            (VP (PP-LOC (p 从) (NP-PN (ns 中国))) (VP (vi 长大)))))
+        (ude 的)))
+    (wd ，)
+    (NP-SBJ (DNP (NP (DP (r 这种)) (NP (n 文化))) (ude 的)) (NP (n 中国化)))
+    (VP (ADVP (d 就)) (VP (p 在) (NP-OBJ (r 我) (r 自己) (s 身上)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (IP (NP (c 纵)) (VP (vshi 是)))
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (v 考虑) (y 了) (NP-PN-OBJ (ns 中国)))))
+  (wd ，)
+  (NP-PN-SBJ (nr 高行健))
+  (VP
+    (ADVP (d 仍))
+    (ADVP (d 一心))
+    (VP (v 记) (uzhe 着) (NP-OBJ (NP-PN (ns 中国)) (NP (n 情)))))
+  (wj 。)))
+</S>

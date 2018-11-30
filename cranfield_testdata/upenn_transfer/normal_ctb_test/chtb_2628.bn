@@ -1,0 +1,151 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 美国))
+      (QP (m 一) (CLP (q 位)))
+      (QP (m １０２) (CLP (q 岁)))
+      (NP (n 老翁)))
+    (VP
+      (NP-TMP (t 目前))
+      (VP
+        (v 创下)
+        (NP-OBJ
+          (NP (n 在职) (n 工作) (n 年龄))
+          (DNP (NP (n 世界)) (uzhi 之))
+          (NP (n 最))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP (NP (ns 美国)) (NP (n 人))) (ude 的))
+      (NP (n 退休) (n 年龄)))
+    (VP (vshi 是) (LCP-PRD (QP (m ６５) (CLP (q 岁))) (m 左右))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ
+      (QP (m 一) (CLP (q 位)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 名叫) (IP (NP (nrf 罗伯特·埃森)) (VP (n 勃格)))))
+          (ude 的)))
+      (NP-PN (ns 加州))
+      (NP (n 老年人)))
+    (VP
+      (ADVP (d 却))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (DP (r 此)) (NP (n 年龄)))
+          (VP
+            (VRD (v 提高) (v 到))
+            (NP-OBJ
+              (QP (m 一个))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新))) (ude 的)))
+              (NP (n 高度))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t １０月) (NP (QP (m ４)) (NP (q 号))))
+  (wd ，)
+  (NP-PN-SBJ (nrf 埃森勃格))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (NP-PN-LOC (ns 华盛顿)) (VP (v 举行))))
+              (ude 的)))
+          (QP (m 一个))
+          (NP (n 庆祝) (n 仪式)))
+        (f 上)))
+    (VP
+      (pbei 被)
+      (VP
+        (VRD (v 命名) (v 为))
+        (wyz “)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (NP-PN-LOC (ns 美国)) (ADVP (d 最)) (VP (a 年老))))
+              (ude 的)))
+          (NP (n 工人))))))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (PP-ADV
+      (c 和)
+      (NP
+        (DP (r 另外))
+        (QP (m ５２) (CLP (q 名)))
+        (ADJP (t 老年))
+        (NP (n 工人))))
+    (ADVP (s 一起))
+    (wd ，)
+    (VP
+      (v 庆祝)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (v 度过)
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (IP (VP (v 长) (p 于))) (NP-OBJ (n 常人))))
+                (ude 的)))
+            (NP (n 工作) (n 生涯)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (NP-PN-SBJ (nrf 埃森勃格))
+  (VP
+    (VP
+      (DP-ADV (r 每周))
+      (VP (vi 工作) (NP-EXT (QP (m ２０) (CLP (q 个))) (NP (n 小时)))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP
+          (QP (m 一) (CLP (q 家)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-BNF (p 为) (NP (v 制衣) (n 工业)))
+                  (VP
+                    (n 生产)
+                    (NP-OBJ
+                      (NP-APP (n 拉链) (udeng 等))
+                      (VP (n 装饰) (NP (n 物)))))))
+              (ude 的)))
+          (NP (n 企业)))
+        (NP (n 顾问)))))
+  (wj 。)))
+</S>

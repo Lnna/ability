@@ -1,0 +1,92 @@
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (NP (DNP (NP-PN (ns 西班牙)) (ude 的)) (NP-PN (ns 巴塞罗那))))
+  (wd ，)
+  (NP-SBJ-1 (QP (m 一) (CLP (q 名))) (NP (n 警察)))
+  (VP
+    (pbei 被)
+    (IP-OBJ
+      (NP-SBJ (n 人))
+      (VP
+        (VSB (vi 开枪) (IP (VP (VRD (v 打) (v 死)))))
+        (NP-OBJ (-NONE- *-1)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 官员) (k 们))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (QP (m 两) (CLP (q 名))) (NP (n 男子)))
+        (VP
+          (VP
+            (v 推)
+            (uzhe 着)
+            (NP-OBJ (QP (m 一) (CLP (q 辆))) (NP (n 汽车))))
+          (VP
+            (PP-LOC
+              (p 沿着)
+              (NP
+                (NP-PN (ns 巴塞罗那))
+                (QP (m 一) (CLP (q 条)))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 热闹)))
+                    (ude 的)))
+                (NP (n 街道))))
+            (VP (vi 前进)))))
+      (wd ，)
+      (IP
+        (NP-TMP
+          (CP
+            (WHPP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (DP (r 这) (CLP (q 名))) (NP (n 警察)))
+                (VP
+                  (PP-TMP (-NONE- *T*-2))
+                  (VP (v 走向) (NP-OBJ (r 他们)))))
+              (ude 的)))
+          (NP (n 时候)))
+        (NP-SBJ (QP (m 两)) (NP (n 人)))
+        (VP (PP-DIR (p 向) (NP (r 他))) (VP (vi 开枪))))
+      (wd ，)
+      (IP
+        (ADVP (d 随后))
+        (NP-SBJ (DP (r 这) (QP (m 两) (CLP (q 个)))) (NP (n 人)))
+        (VP (ADVP (d 徒步)) (VP (v 逃走))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 政府) (n 发言人))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (n 警察))
+      (VP
+        (VP
+          (v 封锁)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP (DP (r 那) (CLP (q 辆))) (NP (n 汽车)))
+                (NP (f 周围)))
+              (ude 的))
+            (NP (n 地带))))
+        (wd ，)
+        (VP
+          (v 以防)
+          (IP-OBJ
+            (LCP-SBJ (NP (n 汽车)) (f 里))
+            (VP (VSB (v 藏) (vyou 有)) (NP-OBJ (n 炸弹))))))))
+  (wj 。)))
+</S>

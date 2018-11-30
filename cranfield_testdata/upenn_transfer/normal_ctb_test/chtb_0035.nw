@@ -1,0 +1,284 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 天津) (p 与) (ns 俄罗斯)) (NP (n 经贸) (n 关系)))
+  (VP (ADVP (d 稳步)) (VP (v 发展)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 天津)
+  (t 四月)
+  (t 六日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 李道佳)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP
+          (NP-APP
+            (NP-PN (ns 中国))
+            (NP (s 北方))
+            (ADJP (a 重要))
+            (NP (n 经济) (n 城市)))
+          (NP-PN (ns 天津)))
+        (p 与)
+        (NP-PN (ns 俄罗斯) (n 联邦)))
+      (ude 的))
+    (NP (n 经贸) (n 交往)))
+  (VP
+    (VP (NP-TMP (t 目前)) (ADVP (d 正)) (ADVP (d 稳步)) (VP (v 发展)))
+    (wd ，)
+    (c 并)
+    (VP
+      (VRD (v 呈现) (v 出))
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+        (NP (n 特色)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (VRD (v 了解) (v 到))
+    (wd ，)
+    (IP-OBJ
+      (NP-TMP (t 去年))
+      (IP
+        (IP
+          (NP-SBJ
+            (NP-PN (ns 天津))
+            (PP (p 对) (NP-PN (ns 俄罗斯)))
+            (NP (n 出口) (n 贸易额)))
+          (VP (v 为) (QP-PRD (m 两千五百万) (CLP (q 美元)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (v 进口))
+          (VP
+            (QP-PRD
+              (QP (QP (QP (m 两千)) (ADVP (m 多))) (QP (m 万)))
+              (CLP (q 美元)))))
+        (wd ，)
+        (IP
+          (NP-ADV (r 其中))
+          (NP-SBJ (n 出口额))
+          (VP
+            (VP-FOC (PP (p 比) (NP (t 九四年))) (VP (v 增长)))
+            (VP (v 超过) (QP-OBJ (m 百分之八十))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 此外))
+    (wd ，)
+    (NP-PN-SBJ (ns 天津))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 家)))
+            (NP (n 企业)))
+          (VP
+            (PP-LOC (p 在) (NP-PN (ns 俄)))
+            (VP (v 开设) (y 了) (NP-OBJ (n 公司) (c 或) (n 代表处))))))))
+  (wf ；)
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 俄罗斯))
+      (DNP (PP (p 在) (NP-PN (ns 天津))) (ude 的))
+      (NP (n 投资) (n 企业)))
+    (VP
+      (ADVP (d 也))
+      (VP (v 达) (QP-OBJ (QP (m 二十)) (ADJP (m 余)) (CLP (q 家))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 外方) (n 投资额))
+    (VP (QP-PRD (ADVP (d 约)) (QP (m 一千万) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 双方)) (NP (n 经贸) (n 关系)))
+  (VP (ADVP (d 正)) (ADVP (d 稳步)) (VP (v 发展)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 了解)))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 天津) (p 与) (ns 俄罗斯))
+    (VP
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP (NP-SBJ (-NONE- *T*-2)) (VP (VCD (a 方便) (z 快捷))))
+                (ude 的)))
+            (NP (n 空) (wn 、) (n 海) (wn 、) (n 陆) (n 港)))
+          (VP (vi 相通))))
+      (wd ，)
+      (VP
+        (ADVP (d 历来))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (DNP (QP (m 大量)) (ude 的))
+            (NP
+              (NP (NP (ADVP (v 易)) (NP (n 货))) (NP (n 贸易)))
+              (c 及)
+              (NP (n 经贸) (n 合作))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (QP-ADV (ADVP (a 近)) (QP (m 两) (CLP (q 年))))
+  (PP
+    (p 随着)
+    (NP
+      (DNP (NP (NP-PN (ns 俄罗斯) (n 联邦)) (NP (s 国内) (n 经济))) (ude 的))
+      (NP (n 发展) (n 变化))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ
+        (DNP (NP (n 双方)) (ude 的))
+        (ADJP (a 普通))
+        (NP (n 贸易) (n 方式)))
+      (VP
+        (ADVP (d 已))
+        (ADVP (d 逐步))
+        (VP
+          (v 取代)
+          (y 了)
+          (NP-OBJ (NP (ADVP (v 易)) (NP (n 货))) (NP (n 贸易))))))
+    (wd ，)
+    (IP (NP-SBJ (n 成交额)) (VP (ADVP (d 稳步)) (VP (vi 上升)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 天津) (nt 外经贸委)) (NP (n 官员)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-PN-TPC (ns 天津) (p 与) (ns 俄罗斯))
+        (NP-SBJ (n 地缘))
+        (VP (v 接近)))
+      (wd ，)
+      (IP
+        (NP-SBJ (DNP (NP (n 贸易)) (ude 的)) (NP (n 互补性)))
+        (VP (ADVP (d 很)) (VP (a 强))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 随着)
+    (UCP
+      (IP
+        (NP-SBJ
+          (NP-PN (ns 俄罗斯))
+          (NP (s 国内))
+          (PP (p 对) (NP (n 工业品)))
+          (NP (n 需求)))
+        (VP (PP-DIR (p 向) (NP (b 中高档) (n 方向))) (VP (v 发展))))
+      (c 和)
+      (NP
+        (DNP (NP (s 国内) (n 经济) (n 形势)) (ude 的))
+        (ADJP (d 逐步))
+        (NP (a 稳定)))))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 天津市))
+    (CP
+      (WHNP-5 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-5)) (VP (m 众多))) (ude 的)))
+    (NP (wyz “) (n 三资企业) (wyy ”))
+    (NP (n 产品)))
+  (VP
+    (ADVP (d 正在))
+    (ADVP (ad 积极))
+    (VP
+      (v 寻求)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 进入) (NP-OBJ (n 俄方) (n 市场))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一些)) (ADJP (b 大型)) (NP (n 专业性) (n 外贸) (n 公司)))
+  (VP
+    (VP (ADVP (d 亦)) (PP-TMP (p 从) (LCP (t 去年底))) (VP (v 开始)))
+    (wd ，)
+    (VP
+      (VSB (v 抓紧) (v 派遣))
+      (NP-OBJ (n 推销) (n 小组) (wn 、) (n 展销团) (udeng 等))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (v 进入) (NP-PN-OBJ (ns 俄罗斯)))
+          (wd ，)
+          (VP
+            (v 寻求)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 扩大) (NP-OBJ (n 业务)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (n 有关)) (NP (n 人士)))
+  (VP
+    (VSB (v 分析) (v 认为))
+    (wd ，)
+    (IP-OBJ
+      (PP
+        (p 随着)
+        (NP
+          (DNP
+            (NP
+              (NP
+                (NP (NP-PN (ns 中) (ns 俄)) (NP (QP (m 两)) (NP (n 国))))
+                (NP (n 政府)))
+              (NP (n 经贸) (n 关系)))
+            (ude 的))
+          (NP (n 推进))))
+      (wd ，)
+      (NP-SBJ
+        (DNP
+          (NP (NP-PN (ns 天津)) (p 与) (NP-PN (ns 俄罗斯) (n 联邦)))
+          (ude 的))
+        (NP-APP
+          (n 贸易)
+          (wn 、)
+          (n 投资)
+          (wn 、)
+          (n 劳务)
+          (n 交往)
+          (n 活动)
+          (udeng 等))
+        (NP (n 前景)))
+      (VP (v 看好))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

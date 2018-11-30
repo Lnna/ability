@@ -1,0 +1,154 @@
+<S>
+( (IP
+  (NP-SBJ
+    (QP (m 一) (CLP (q 名)))
+    (NP-PN (ns 俄罗斯))
+    (NP (n 海军))
+    (ADJP (a 高级))
+    (NP (n 官员)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (n 潜水) (n 人员))
+      (VP
+        (ADVP (d 也许))
+        (ADVP (d 不))
+        (VP
+          (v 能)
+          (VP
+            (PP-DIR
+              (p 从)
+              (LCP
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP
+                          (NP-TMP (t 今年) (t ８月))
+                          (VP
+                            (VRD (v 沉) (v 入))
+                            (NP
+                              (DNP (NP (n 巴伦)) (uzhi 之))
+                              (NP (n 海))))))
+                      (ude 的)))
+                  (NP-PN (t 库尔克斯号) (n 核潜艇)))
+                (f 里)))
+            (VP
+              (VRD (v 打捞) (v 出))
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP
+                        (VP
+                          (PP-TMP
+                            (p 在)
+                            (LCP
+                              (IP
+                                (NP-SBJ (-NONE- *pro*))
+                                (VP (v 发生) (NP-OBJ (v 爆炸))))
+                              (f 后)))
+                          (ADVP (m 不久))
+                          (ADVP (d 仍然))
+                          (VP (v 活) (uzhe 着)))
+                        (wd ，)
+                        (VP (ADVP (c 但)) (ADVP (t 后来)) (VP (vi 遇难)))))
+                    (ude 的)))
+                (DP (b 所有) (QP (m ２３) (CLP (q 名))))
+                (NP (n 船员)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 名))) (NP (n 海军) (n 官员)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (DP (r 这些)) (NP (n 船员)))
+                (VP
+                  (PP-TMP
+                    (p 在)
+                    (LCP (IP (NP-SBJ (n 事故)) (VP (v 发生))) (f 后)))
+                  (ADVP (m 不久))
+                  (wd ，)
+                  (VP (v 栖身) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (DP (r 那个))
+          (NP (n 舱室)))
+        (VP (ADVP (ad 严重)) (VP (vi 受损))))
+      (wd ，)
+      (IP
+        (IP-CND
+          (NP-SBJ (n 潜水员))
+          (VP (v 要) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 进去)))))
+        (NP-SBJ (n 难度))
+        (VP (ADVP (d 太)) (VP (a 大))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 批评) (n 人士))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (n 政府)))
+        (VP
+          (ADVP (d 本来))
+          (VP
+            (v 可以)
+            (VP
+              (VP
+                (v 采取)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (ADVP (d 更)) (VP (a 有力))))
+                      (ude 的)))
+                  (NP (n 措施))))
+              (VP (v 营救) (NP-OBJ (ADJP (n 遇难)) (NP (n 船员))))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (n 海军) (n 官员)))
+        (VP
+          (v 说)
+          (wm ：)
+          (IP-OBJ
+            (NP-SBJ (DP (r 这些)) (NP (n 船员)))
+            (VP
+              (ADVP (d 不))
+              (VP
+                (v 可能)
+                (VP
+                  (PP-TMP
+                    (p 在)
+                    (LCP
+                      (IP
+                        (NP-SBJ (n 事故))
+                        (VP (v 发生) (QP-EXT (m 一) (CLP (q 天)))))
+                      (f 以后)))
+                  (ADVP (d 仍然))
+                  (VP (v 活) (uzhe 着))))))))))
+  (wj 。)))
+</S>

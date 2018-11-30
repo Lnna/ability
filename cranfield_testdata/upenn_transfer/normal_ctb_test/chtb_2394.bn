@@ -1,0 +1,24 @@
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 宜兰))
+    (VP
+      (NP-TMP (t 今天) (t 一大早))
+      (VP (v 出现) (y 了) (NP-OBJ (QP (m 一) (CLP (q 次))) (NP (n 爆裂物))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 地点))
+    (VP
+      (vshi 是)
+      (VP
+        (p 在)
+        (NP-OBJ
+          (DNP
+            (NP
+              (NP (NP-PN (nz 宜兰) (n 技术) (n 学院)) (NP (f 对面)))
+              (QP (m 一) (CLP (q 家)))
+              (NP (nx ｐｕｂ)))
+            (ude 的))
+          (NP (s 楼下))))))
+  (wj 。)))
+</S>

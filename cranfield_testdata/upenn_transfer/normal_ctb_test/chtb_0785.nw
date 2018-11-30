@@ -1,0 +1,345 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (ADVP (d 已))
+    (PP-LOC (p 在) (NP (NP-PN (ns 太湖)) (NP (n 流域))))
+    (VP
+      (v 关闭)
+      (NP-OBJ
+        (QP (NP (QP (m 一百四十)) (NP (m 余))) (CLP (q 家)))
+        (NP (n 污染) (n 企业)))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 十二月)
+  (t 三十日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 陈吉)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 据)
+    (NP
+      (NP-PN (n 国家) (n 环境) (n 保护) (n 总局))
+      (ADJP (a 最新))
+      (NP (n 统计))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 太湖)) (NP (n 流域)))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ-1 (QP (m 一百四十三) (CLP (q 家))) (NP (n 污染) (n 大户)))
+        (VP
+          (PP-PRP
+            (p 由于)
+            (IP
+              (IP (NP-SBJ (v 治理)) (VP (vi 无望)))
+              (c 或)
+              (IP (NP-SBJ (n 治理) (n 进度)) (VP (ad 缓慢)))))
+          (VP
+            (pbei 被)
+            (VP
+              (v 强制)
+              (NP-OBJ (-NONE- *-1))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 关闭)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (t 今天))
+    (VP
+      (PP
+        (v 离)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (nt 国务院))
+                (VP (v 确定) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP
+            (NP (NP-PN (ns 太湖)) (NP (n 流域)))
+            (NP (n 污染源) (vd 达标) (v 排放)))
+          (ADJP (f 最后))
+          (NP (n 限期))))
+      (ADVP (d 还))
+      (VP (v 剩) (QP-OBJ (m 两) (CLP (q 天))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP
+                    (ADVP (n 日))
+                    (VP
+                      (v 排放)
+                      (NP-OBJ (n 废水))
+                      (LCP-EXT (QP (m 一百) (CLP (q 吨))) (f 以上)))))
+                (ude 的)))
+            (QP (m 一千零三十五) (CLP (q 家)))
+            (NP (n 重点) (n 污染) (n 企业)))
+          (f 中)))
+      (ADVP (d 已))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (QP-SBJ (m 八百七十八) (CLP (q 家)))
+          (VP (v 完成) (y 了) (NP-OBJ (n 治理)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 占)
+      (QP-OBJ (DNP (NP (n 总数)) (ude 的)) (ADVP (a 近)) (QP (m 百分之八十五)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP (NP (DP (r 这) (CLP (q 批))) (NP (n 重点) (n 企业))) (f 中)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 目前))
+    (ADVP (d 只))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (QP-SBJ (m 十四) (CLP (q 家)))
+        (VP (ADVP (d 还)) (ADVP (d 在)) (ADVP (vd 加紧)) (VP (vi 施工))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (n 国家) (n 环境) (n 保护) (n 总局)) (NP (n 负责人)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (LCP-TMP (NP (t 一九九九年) (t 一月) (t 一日) (t 零点)) (f 以前))
+        (NP-SBJ
+          (NP (NP-PN (ns 太湖)) (NP (n 流域)))
+          (DP (b 所有))
+          (NP (n 排污) (n 单位)))
+        (VP (d 必须) (VP (v 做到) (NP-OBJ (vd 达标) (v 排放)))))
+      (wd ，)
+      (IP
+        (ADVP (c 否则))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (ad 坚决)) (VP (v 予以) (NP-OBJ (v 关停)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 没有) (NP-OBJ (DP (r 任何)) (NP (v 商讨) (n 余地)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (n 国家) (n 环境) (n 保护) (n 总局))
+    (ADJP (b 主要))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 负责))))
+    (NP (n 官员)))
+  (VP
+    (NP-TMP (t 目前))
+    (ADVP (d 已))
+    (VP
+      (VP (v 奔赴) (NP-OBJ (NP-PN (ns 太湖)) (NP (n 流域))))
+      (wd ，)
+      (VP
+        (PP-LOC (p 在) (QP (n 一线)))
+        (VP (v 指挥) (NP-OBJ (v 污染) (v 治理))))
+      (wd ，)
+      (c 并)
+      (VP
+        (VP (v 组织) (NP-OBJ (n 人力)))
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP (LCP (NP (n 流域)) (f 内)) (NP (n 污染) (n 企业))))
+          (VP (v 进行) (NP-OBJ (ADJP (b 全天候)) (NP (n 突击) (n 检查))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一些)) (NP (n 达标) (n 企业)))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP (QP (NP (t 过去)) (QP (m 几) (CLP (q 天)))) (f 里)))
+    (PP-PRP
+      (c 由于)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (ADVP (d 擅自)) (VP (v 停运) (NP-OBJ (n 污水) (n 处理) (n 设施))))))
+    (VP (v 遭到) (y 了) (NP-OBJ (ADJP (a 严厉)) (NP (n 惩处)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 国家) (n 环境) (n 保护) (n 总局))
+  (VP
+    (v 要求)
+    (NP-OBJ
+      (NP (NP-PN (ns 太湖)) (NP (f 沿岸)))
+      (DP (r 各级))
+      (NP (n 环境) (n 监理) (n 部门)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP (v 加大) (NP-OBJ (n 执法) (n 力度)))
+        (wd ，)
+        (VP
+          (VP
+            (ADVP (ad 积极))
+            (VP (v 配合) (NP-OBJ (ADJP (n 有关)) (NP (n 部门)))))
+          (VP
+            (PP-DIR (p 对) (NP (NP (v 关闭) (wn 、) (n 停产)) (NP (n 企业))))
+            (VP
+              (VP (v 断) (NP-OBJ (n 水)))
+              (VP (vi 断电))
+              (wd ，)
+              (VP (v 吊销) (NP-OBJ (n 工商) (n 执照))))))
+        (wd ，)
+        (c 并)
+        (VP
+          (ADVP (v 加强))
+          (VP
+            (v 治理)
+            (NP-OBJ
+              (DNP (NP (n 达标) (n 企业)) (ude 的))
+              (NP (n 污水) (n 处理) (n 设施) (n 管理)))))
+        (wd ，)
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 擅自)) (VP (v 停运)))))
+              (NP (k 者))))
+          (ADVP (d 从重))
+          (ADVP (d 从严))
+          (VP (v 处罚))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (NP (t 本月)) (NP (t 三十一日))) (NP (t 深夜)))
+  (wd ，)
+  (NP-PN-SBJ (n 国家) (n 环境) (n 保护) (n 总局))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (VP
+        (v 联合)
+        (NP-PN-OBJ
+          (n 国家)
+          (nt 计委)
+          (wn 、)
+          (n 国家)
+          (nt 经贸委)
+          (wn 、)
+          (nt 监察部)
+          (wn 、)
+          (nt 财政部)
+          (wn 、)
+          (nt 建设部)
+          (wn 、)
+          (nt 交通部)
+          (wn 、)
+          (nt 水利部)
+          (wn 、)
+          (nt 农业部)))
+      (VP
+        (PP-DIR
+          (p 对)
+          (NP
+            (NP (NP-PN (ns 太湖)) (NP (n 流域)))
+            (NP (n 污染) (n 治理) (n 达标) (n 状况))))
+        (VP (v 开展) (NP-OBJ (NP (b 大规模)) (NP (n 检查)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这次)) (NP (n 行动)))
+    (VP
+      (ADVP (d 将))
+      (PP-DIR (p 从) (NP-PN (ns 江苏) (ns 无锡市)))
+      (VP (v 开始))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP
+        (NP (NP-PN-APP (ns 江苏) (wn 、) (ns 浙江) (c 和) (ns 上海)) (r 各地))
+        (NP (n 党政) (c 及) (n 环保) (n 部门)))
+      (NP (n 人员)))
+    (VP
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP (v 赴) (NP-OBJ (s 现场)))
+          (VP
+            (n 督查)
+            (NP-OBJ
+              (n 企业)
+              (n 达标)
+              (n 排放)
+              (n 情况)
+              (c 和)
+              (f 沿湖)
+              (n 水质)
+              (n 状况)))))
+      (wd ，)
+      (c 并)
+      (VP
+        (PP-DIR
+          (p 对)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (VP (vd 超标)) (VP (v 排放)))))
+            (NP (n 企业))))
+        (VP (v 实行) (NP-OBJ (ADJP (v 强制)) (NP (v 关闭)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 检查) (n 结果))
+  (VP
+    (ADVP (d 将))
+    (PP-MNR (p 通过) (NP (DP (r 各)) (ADJP (a 大)) (NP (n 媒体))))
+    (PP-DIR (p 向) (NP (n 全国)))
+    (VP (v 公布)))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

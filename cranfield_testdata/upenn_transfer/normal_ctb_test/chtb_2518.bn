@@ -1,0 +1,192 @@
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 高雄市))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ (QP (m 一) (CLP (q 间))) (NP (n 音乐) (nx ｐｕｂ)))
+        (VP (v 发生) (y 了) (NP (n 枪击) (n 案))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m ５) (CLP (q 名))) (NP (n 男子)))
+    (VP
+      (VP (PP-ADV (c 和) (NP (n 被害人))) (VP (vyou 有) (NP-OBJ (n 恩怨))))
+      (wd ，)
+      (VP
+        (LCP-TMP
+          (IP
+            (NP-TMP (t 今天) (t 凌晨))
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 进入) (NP-OBJ (DP (r 这) (CLP (q 间))) (NP (nx ｐｕｂ)))))
+          (f 之后))
+        (VP (VSB (vi 开枪) (v 示警))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 嫌犯))
+    (VP
+      (LCP-TMP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 还))
+            (VP
+              (VP
+                (VRD (v 拿) (v 起))
+                (y 了)
+                (NP-OBJ (n 酒罐) (c 和) (n 椅子)))
+              (VP (v 殴打) (y 了) (NP-OBJ (n 被害人))))))
+        (f 之后))
+      (VP (vi 离去))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (DNP (DP (b 整个)) (ude 的)) (NP (n 过程)))
+  (VP
+    (pbei 被)
+    (IP-OBJ
+      (NP-SBJ (ADJP (v 监视)) (NP (n 录影机)))
+      (VP (VRD (v 拍) (v 下来)) (y 了) (NP-OBJ (-NONE- *-1)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (LCP (NP (n 画面)) (f 上)) (ude 的))
+    (QP (m ５) (CLP (q 名)))
+    (NP (n 男子)))
+  (VP
+    (NP-TMP (t 凌晨) (INC (NP (t ３点)) (NP (ADVP (m 多)) (NP (n 钟)))))
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (vi 结伙))
+          (VP (v 进入) (y 了) (NP-OBJ (DP (r 这家)) (NP (nx ｐｕｂ))))))
+      (f 后))
+    (wd ，)
+    (ADVP (ad 直接))
+    (ADVP (d 就))
+    (VP
+      (VRD (v 走) (v 到))
+      (NP-OBJ
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 被害人))
+              (VP (PP-LOC (-NONE- *T*-1)) (VP (v 消费))))
+            (ude 的)))
+        (NP (s 桌边)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (VRD (v 拿) (v 起))
+      (NP-OBJ
+        (NP
+          (DNP (NP (QP (m 两) (CLP (q 公升))) (NP (v 装))) (ude 的))
+          (n 啤酒)
+          (n 罐))
+        (c 和)
+        (NP (n 椅子))))
+    (wd ，)
+    (VP
+      (PP-DIR (p 朝着) (NP (n 被害人)))
+      (ADVP (d 就))
+      (VP (vshi 是) (VP (QP-ADV (m 一) (CLP (q 顿))) (VP (v 猛打))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ
+    (NP (s 现场))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 消费))) (ude 的)))
+    (NP (n 客人)))
+  (VP
+    (ADVP (d 则))
+    (VP (vshi 是) (VP (DVP (ADVP (ad 仓皇)) (ude 的)) (VP (v 离开)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP (IP (NP-SBJ (-NONE- *pro*)) (VP (a 混乱))) (f 之后)))
+  (wd ，)
+  (NP-SBJ (n 警方))
+  (VP
+    (VP (PP (p 据) (NP (n 报))) (VP (v 赶到) (y 了) (NP-OBJ (s 现场))))
+    (wd ，)
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ-2
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 头部))
+                (VP
+                  (pbei 被)
+                  (VP (VRD (v 殴打) (IP (VP (v 成) (NP (n 伤))))))))
+              (ude 的)))
+          (NP (NP-PN (nr1 林)) (NP (n 姓)))
+          (NP (n 男子)))
+        (VP (VSB (VP (v 送) (NP (n 医))) (v 急救)) (NP-OBJ (-NONE- *-2))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 经过) (IP (NP-SBJ (-NONE- *pro*)) (VP (v 包扎))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (d 已经)) (VP (v 没有) (NP-OBJ (n 大碍))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 警方))
+  (VP
+    (v 指出)
+    (IP-OBJ
+      (IP
+        (LCP-SBJ (NP (n 双方)) (f 之间))
+        (VP (v 可能) (VP (vshi 是) (VP (vyou 有) (NP-OBJ (n 恩怨))))))
+      (wd ，)
+      (IP
+        (ADVP (d 结果))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP (VP-FOC (v 谈判)) (VP (ADVP (d 不)) (VP (v 成))))
+          (VP (c 而) (VP (vl 大打出手)))))
+      (wd ，)
+      (IP
+        (NP-TMP (t 目前))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (ADVP (d 已经))
+            (PP-MNR
+              (v 透过)
+              (NP (DNP (NP (n 电脑)) (ude 的)) (NP (n 画面))))
+            (VP
+              (v 来)
+              (VP
+                (v 锁定)
+                (NP-OBJ (DNP (NP (n 嫌犯)) (ude 的)) (NP (n 身份))))))
+          (wd ，)
+          (VP
+            (ADVP (d 正))
+            (VP
+              (IP (VP (v 寻) (NP (n 线))))
+              (VP (p 在) (LCP-OBJ (NP (v 侦察)) (f 当中)))))))))
+  (wj 。)))
+</S>

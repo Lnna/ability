@@ -1,0 +1,93 @@
+<S>
+( (IP
+  (CP
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 终于)) (VP (VP (vi 回家)))))
+    (y 了))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 校方))
+    (VP
+      (VP
+        (ADVP (d 特别))
+        (VP
+          (v 准备)
+          (y 了)
+          (NP-OBJ
+            (QP (m 一) (CLP (ADJP (a 大)) (CLP (q 锅))))
+            (NP (n 汤园)))))
+      (wd ，)
+      (VP
+        (v 欢迎)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-LOC (p 在) (NP (f 外面)))
+                  (VP
+                    (IP (NP (v 系)) (VP (v 读)))
+                    (NP-EXT
+                      (QP (QP (m 三) (CLP (q 个))) (ADVP (m 多)))
+                      (NP (n 星期))))))
+              (ude 的)))
+          (NP (n 老师) (c 和) (n 学生)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VP (v 回到) (NP-OBJ (n 学校))) (VP (v 来)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (CP-CND
+    (ADVP (c 如果))
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (v 能) (VP (v 鉴定)))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 赶快))
+    (VP (VP (v 做) (NP-OBJ (QP (m 一个)) (NP (n 结果)))) (VP (v 出来))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 校方))
+    (VP
+      (ADVP (d 还))
+      (ADVP (d 特别))
+      (VP
+        (VP
+          (v 举办)
+          (y 了)
+          (NP-OBJ
+            (QP (m 一) (CLP (q 场)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 简单))) (ude 的)))
+            (NP (n 祝贺) (n 典礼))))
+        (wd ，)
+        (VP (DVP (VP (a 热闹)) (ude 的)) (VP (VCD (n 舞龙) (vi 舞狮))))
+        (VP
+          (v 希望)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 能够) (VP (v 趋) (NP (n 吉避凶)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 大家))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 期盼)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP (LCP (VP (d 重) (IP (VP (v 生)))) (f 之后)) (ude 的))
+            (NP (n 校园)))
+          (VP
+            (ADVP (d 将))
+            (VP (v 会) (VP (v 充满) (NP-OBJ (n 生机) (n 活力)))))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,251 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 台东县) (ns 东园市)) (ude 的))
+      (QP (m 一) (CLP (q 处)))
+      (ADJP (b 农用))
+      (NP (n 沟渠)))
+    (VP (v 发现) (y 了) (NP-OBJ (QP (m 一) (CLP (q 具))) (NP (n 女尸)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (PP-ADV (v 会同) (NP (n 法医)))
+      (VP
+        (VSB (ADVP (d 相)) (VP (v 验)) (v 发现))
+        (IP-OBJ
+          (IP
+            (NP-SBJ (n 死者))
+            (VP (vshi 是) (VP (ADVP (t 生前)) (VP (vi 落水)))))
+          (wd ，)
+          (IP
+            (ADVP (c 而且))
+            (NP-SBJ (n 头部))
+            (VP
+              (VRD (v 遭受) (v 到))
+              (NP-OBJ (DNP (NP (n 钝器)) (ude 的)) (NP (n 重击)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (vyou 有) (NP-OBJ (n 他杀) (NP (n 嫌疑)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-SBJ (DNP (NP (t 目前)) (ude 的)) (NP (n 死者) (n 身份)))
+      (VP (v 不明))))
+  (wd ，)
+  (NP-SBJ (n 员警))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 呼吁)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP (n 家) (f 里头))
+              (VP
+                (vyou 有)
+                (NP-OBJ
+                  (LCP (NP (QP (m ２５)) (NP (q 岁))) (m 左右))
+                  (ADJP (n 失踪))
+                  (NP (n 女子)))))
+            (ude 的)))
+        (NP (n 民众)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 要) (VP (VSB (vi 出面) (IP (VP (v 认) (NP (n 尸))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 检查官))
+  (VP
+    (v 透露)
+    (IP-OBJ
+      (NP-SBJ-2
+        (DP (r 这) (CLP (q 名)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (n 年))
+              (VP (QP-PRD (ADVP (d 约)) (QP (m ２５) (CLP (q 岁))))))
+            (ude 的)))
+        (NP (n 女子)))
+      (VP
+        (VP
+          (ADVP (d 已经))
+          (ADVP (d 整整))
+          (VP (vi 死亡) (QP-EXT (m ５) (p 到) (m ７) (CLP (q 天)))))
+        (wd ，)
+        (VP
+          (ADVP (c 但))
+          (NP-TMP (t 昨天))
+          (ADVP (d 才))
+          (VP
+            (pbei 被)
+            (VP
+              (v 发现)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *-2))
+                (VP
+                  (n 沉尸)
+                  (PP-LOC
+                    (p 在)
+                    (LCP
+                      (NP
+                        (NP-PN (ns 东园市) (ns 东州路))
+                        (QP (m 一) (CLP (q 处)))
+                        (DNP (ADJP (b 农用)) (ude 的))
+                        (NP (n 沟渠)))
+                      (f 当中)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (PP-PRP
+    (c 因为)
+    (IP
+      (IP
+        (NP-SBJ (r 她) (n 头部))
+        (VP
+          (vyou 有)
+          (NP-OBJ (DNP (ADJP (r 这样)) (ude 的)) (NP (n 伤)))
+          (wd ，)))
+      (IP (NP-SBJ (n 身体)) (VP (v 没有) (NP-OBJ (n 积水))))))
+  (wd ，)
+  (DP-SBJ (r 这) (QP (m 一) (CLP (q 点))))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP (r 我们))
+      (VP
+        (v 要)
+        (VP
+          (v 了解)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 就))
+              (VP
+                (vshi 是)
+                (IP-PRD
+                  (NP-SBJ (r 她))
+                  (VP
+                    (vshi 是)
+                    (NP-PRD
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (DP (r 什么)) (NP (n 原因)))
+                            (VP (v 造成) (NP-OBJ (-NONE- *T*-1))))
+                          (ude 的)))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这) (CLP (q 名))) (ADJP (a 年轻)) (NP (n 女子)))
+    (VP
+      (ADVP (t 生前))
+      (VP
+        (v 穿)
+        (uzhe 着)
+        (NP-OBJ
+          (DNP (NP (n 粉红色)) (ude 的))
+          (IP (NP (n 休闲)) (VP (n 服)))))))
+  (wd ，)
+  (IP (NP-SBJ (n 身高)) (VP (QP-PRD (m １６３) (CLP (q 公分)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 体重))
+    (VP (QP-PRD (QP (QP (m ５０)) (ADVP (m 多))) (CLP (q 公斤)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 曾经)) (VP (VCD (vi 怀孕) (vi 堕胎)))))
+  (wd ，)
+  (IP
+    (PP-TPC
+      (p 至于)
+      (IP
+        (NP-SBJ (r 她))
+        (VP (ADVP (t 生前)) (VP (v 是否) (VP (v 遭到) (NP (k 性) (n 侵害)))))))
+    (wd ，)
+    (NP-SBJ (n 法医))
+    (VP
+      (LCP-TMP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 相)) (VP (v 验))))
+        (f 之后))
+      (ADVP (d 暂时))
+      (ADVP (d 没有))
+      (VP (v 发现) (NP-OBJ (DNP (ADJP (a 直接)) (ude 的)) (NP (n 证据))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (n 员警))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 呼吁)
+        (IP-OBJ
+          (CP-CND
+            (ADVP (c 如果))
+            (IP
+              (NP-SBJ (s 家中))
+              (VP
+                (vyou 有)
+                (IP-OBJ
+                  (NP-SBJ
+                    (DNP
+                      (LCP (QP (m ２５) (CLP (q 岁))) (m 左右))
+                      (ude 的))
+                    (ADJP (a 年轻))
+                    (NP (n 女子)))
+                  (VP (vi 失踪))))))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 请)
+            (VP
+              (VP (v 联络) (NP (NP (ns 台) (ns 中县)) (NP (n 刑警队))))
+              (VP (v 认) (NP (n 尸))))))))
+    (wd ，)
+    (PP-PRP
+      (c 因为)
+      (IP
+        (CP-CND
+          (ADVP (v 惟有))
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (d 及早))
+              (VP
+                (v 查明)
+                (NP-OBJ (DNP (NP (n 死者)) (ude 的)) (NP (n 身份)))))))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 才))
+          (VP
+            (v 能够)
+            (VP
+              (PP-MNR
+                (v 透过)
+                (NP (DNP (NP (r 她)) (ude 的)) (NP (n 交往) (n 背景))))
+              (VP
+                (VRD (v 揪) (v 出))
+                (NP-OBJ (DNP (ADJP (s 幕后)) (ude 的)) (NP (n 真凶))))))))))
+  (wj 。)))
+</S>

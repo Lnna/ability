@@ -1,0 +1,69 @@
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP-PN (ns 韩国))
+        (QP (m 两) (CLP (q 家)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 最)) (VP (a 大))))
+            (ude 的)))
+        (NP (n 银行)))
+      (ude 的))
+    (NP (n 职工)))
+  (VP
+    (VP (v 举行) (NP-OBJ (vi 静坐) (vi 罢工)))
+    (wd ，)
+    (VP
+      (v 抗议)
+      (IP-OBJ
+        (NP-SBJ (DP (r 这) (QP (m 两) (CLP (q 家)))) (NP (n 银行)))
+        (VP (v 合并)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 警察)) (VP (v 包围) (y 了) (NP-OBJ (vi 静坐) (s 现场))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (n 有关)) (NP (n 当局)))
+    (VP
+      (v 包围)
+      (y 了)
+      (NP-OBJ
+        (NP (NP-PN (ns 韩国)) (NP-PN (n 国民) (n 银行)))
+        (DNP (PP (p 在) (NP-PN (ns 汉城))) (ude 的))
+        (NP (n 培训) (n 中心)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP-PN (ns 韩国))
+        (NP (NP-PN (n 国民) (n 银行)) (c 和) (NP-PN (n 住宅) (n 银行))))
+      (ude 的))
+    (QP (m １５０００) (CLP (q 名)))
+    (NP (n 职工)))
+  (VP (PP-LOC (p 在) (NP (r 那里))) (VP (vi 静坐)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 工人) (k 们))
+  (VP
+    (v 担心)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这次)) (NP (n 合并)))
+      (VP
+        (v 可能)
+        (VP
+          (v 导致)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (m 大量)) (VP (vi 裁员))))))))
+  (wj 。)))
+</S>

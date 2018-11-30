@@ -1,0 +1,39 @@
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 自)
+      (LCP
+        (IP
+          (NP-TMP (t １９８８年))
+          (NP-SBJ (NP-PN (ns 赣南)) (NP (n 老区)))
+          (VP (v 创办) (NP-OBJ (n 经济) (n 体制) (n 改革) (n 试验区))))
+        (f 以来)))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN (ns 江西) (ns 赣州市))
+      (NP
+        (NP-APP (n 交通) (wn 、) (n 能源) (wn 、) (n 通讯) (udeng 等))
+        (NP (n 基础) (n 设施))))
+    (VP (v 得到) (NP-OBJ (ADJP (ADVP (d 很)) (ADJP (a 大))) (NP (n 改善)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-BNF
+        (p 为)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 发展) (NP-OBJ (ADJP (b 外向型)) (NP (n 经济))))))
+      (VP (v 创造) (y 了) (NP-OBJ (n 条件)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 图))
+  (VP (v 为) (NP-PRD (NP-PN (ns 赣州市)) (NP (n 新区) (n 面貌))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (nt 新华社) (n 记者) (nr 刘继伍) (v 摄)))
+</S>

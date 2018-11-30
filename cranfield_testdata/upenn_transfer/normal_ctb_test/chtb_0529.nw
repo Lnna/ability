@@ -1,0 +1,37 @@
+<S>
+( (NP-HLN (ns 水塘) (nz 存水) (n 数字)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (v 截至)
+    (NP (t 今日) (PRN (wkz （) (NP (t 星期四)) (wky ）)) (t 上午) (t 九时)))
+  (wd ，)
+  (NP-SBJ
+    (NP (r 本港))
+    (DNP (NP (DP (r 各)) (NP (n 水塘))) (uzhi 之))
+    (ADJP (b 总))
+    (NP (n 存水量)))
+  (VP
+    (VP (ADVP (d 共)) (VP (v 为) (QP-PRD (m 五亿四千五百八十万) (CLP (q 立方米)))))
+    (wd ，)
+    (VP (v 占) (NP (ADJP (b 总)) (NP (n 容量))) (QP-EXT (m 百分之九十三点一))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (NP (t 去年)) (f 同期))
+  (NP-SBJ (DNP (NP (DP (r 各)) (NP (n 水塘))) (uzhi 之)) (n 总存水))
+  (VP
+    (v 为)
+    (QP-PRD
+      (QP (m 五亿四千八百零四万二千) (CLP (q 立方米)))
+      (wd ，)
+      (QP
+        (ADVP (v 即))
+        (QP (NP (ADJP (b 总)) (NP (n 容量))) (QP (m 百分之九十二点七))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (vi 完)))
+</S>

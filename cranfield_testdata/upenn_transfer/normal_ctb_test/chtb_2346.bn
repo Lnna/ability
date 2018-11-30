@@ -1,0 +1,193 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 高雄县) (ns 龙发塘))
+      (QP (m 一) (CLP (q 名)))
+      (NP (n 精神病) (v 患)))
+    (VP (NP-TMP (t 昨天) (t 深夜)) (DVP (VP (a 突然)) (ude 的)) (VP (n 自杀))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 龙发塘))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (DP (r 这) (CLP (q 名))) (NP (n 死者)))
+          (VP
+            (vshi 是)
+            (VP
+              (NP-TMP (t 去年) (t ４月))
+              (PP-PRP
+                (p 因为)
+                (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 自焚))))
+              (VP
+                (VP
+                  (PP-LGS (p 由) (NP (n 家人)))
+                  (VP (VRD (v 送) (v 到)) (NP-PN-OBJ (ns 龙发塘))))
+                (VP (v 接受) (NP-OBJ (n 治疗)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 没))
+            (VP
+              (v 想到)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (ADVP (d 确))
+                  (DVP (VP (a 突然)) (ude 的))
+                  (VP (n 自杀)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 家属))
+          (VP (ADVP (d 也)) (ADVP (d 很)) (VP (a 无奈)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (DNP (NP-PN (nr 李松明)) (ude 的)) (NP (n 家属)))
+    (VP
+      (VP (v 接到) (NP-OBJ (n 消息)))
+      (VP (v 赶到) (NP-PN-OBJ (ns 龙发塘)))
+      (VP (v 了解) (NP-OBJ (n 状况)))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 没有))
+          (VP
+            (v 见到)
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP-TPC-1 (n 死者))
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 急救) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的))
+              (NP (n 过程)))))))
+    (wd ，)
+    (ADVP (c 但))
+    (PP-DIR
+      (p 对于)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 会) (VP (v 发生) (NP-OBJ (a 意外))))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 只))
+      (VP (v 感到) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (d 无奈))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-SBJ (n 精神病))
+    (VP
+      (ADVP (d 本来))
+      (ADVP (d 就))
+      (ADVP (d 不))
+      (VP
+        (vshi 是)
+        (FLR (v 说))
+        (IP-PRD
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (LCP-LOC (NP (n 情绪)) (f 上))
+            (VP (ADVP (d 很)) (VP (a 稳定))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 所以))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 要)
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (DP (r 这种))
+            (CP-APP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 接受))) (ude 的))
+            (NP (n 心理)))))))
+  (wd ，)
+  (IP-IO (ADVP (c 不然)) (NP-SBJ (-NONE- *pro*)) (VP (r 怎么办)))
+  (ww ？)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-SBJ (NP (r 我们) (n 家)) (n 二老))
+    (VP
+      (VP
+        (IP (VP (vyou 有) (QP (m 一些))))
+        (IP (NP (n 行动)) (VP (a 不便)))
+        (FLR (y 啊)))
+      (wd ，)
+      (VP (ADVP (c 而且)) (ADVP (d 比较)) (VP (b 弱智)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 需要) (NP-OBJ (ADJP (d 特别)) (NP (v 照顾)))))
+            (ude 的)))
+        (NP (n 人)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 预防)
+        (IP-OBJ
+          (NP-SBJ (DP (r 其他)) (NP (n 病人)))
+          (VP (v 受到) (NP-OBJ (n 刺激)))))))
+  (wd ，)
+  (NP-PN-SBJ (ns 龙发塘))
+  (VP
+    (NP-TMP (t 目前))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ-1 (DP (b 所有) (ude 的)) (ADJP (s 户外)) (NP (n 活动)))
+        (VP (ADVP (d 暂时)) (VP (v 停止) (NP-OBJ (-NONE- *-1)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (n 检察官))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 将))
+    (VP
+      (VP (VSB (v 前往) (vi 验尸)))
+      (wd ，)
+      (VP
+        (v 勘验)
+        (NP-OBJ
+          (NP-PN (nr 李松明))
+          (DNP (ADJP (b 真正)) (ude 的))
+          (NP (n 死因))))))
+  (wj 。)))
+</S>

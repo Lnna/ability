@@ -1,0 +1,231 @@
+<S>
+( (IP
+  (NP-PN-SBJ (n 信息) (n 中心))
+  (VP
+    (v 呼吁)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 美国) (n 移民局))
+      (VP
+        (VP
+          (v 应该)
+          (VP
+            (VP (v 要) (VP (v 执行) (NP-OBJ (n 法院) (n 判决))))
+            (VP (ADVP (d 立即)) (VP (v 释放) (NP-PN-OBJ (nr 张宏宝))))))
+        (VP
+          (p 以)
+          (VP (v 保障) (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 人权))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nt 中共))
+    (VP
+      (PP-TMP
+        (p 于)
+        (NP
+          (DNP (NP (t １２月) (QP (m １０) (CLP (q 号)))) (ude 的))
+          (NP (n 世界) (n 人权) (n 日))))
+      (PP-DIR (p 向) (NP (n 媒体)))
+      (VP
+        (v 披露)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (PP-TMP (p 从) (LCP (NP (t 今年) (t １月)) (f 以来)))
+                (NP-PN-SBJ (nr 张宏宝))
+                (VP
+                  (PP-LOC
+                    (p 在)
+                    (NP-PN (IP (VP (v 关) (NP (n 岛)))) (n 监狱)))
+                  (VP (usuo 所) (VP (v 受到) (NP-OBJ (-NONE- *T*-1))))))
+              (ude 的)))
+          (ADJP (a 不人道))
+          (NP (n 待遇))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 包括)
+      (y 了)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (pbei 被)
+            (IP-OBJ (NP-SBJ (n 狱警)) (VP (v 打伤) (NP-OBJ (n 眼睛))))))
+        (wd ，)
+        (IP (NP-SBJ (n 居住) (n 条件)) (VP (ADVP (d 很)) (VP (a 差))))
+        (c 以及)
+        (IP
+          (NP-ADV (QP (m ２４)) (NP (n 小时)))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 都))
+            (VP (vyou 有) (IP (NP-SBJ (n 闭路电视)) (VP (n 监视))))))
+        (udeng 等))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 信息) (n 中心))
+  (VP
+    (v 指出)
+    (IP-OBJ
+      (IP
+        (NP-TMP
+          (DNP (LCP (IP (NP-SBJ (n 媒体)) (VP (v 报道))) (f 以后)) (ude 的))
+          (NP (t 今天) (t 早上)))
+        (NP-PN-SBJ (IP (VP (v 关) (NP (n 岛)))) (n 监狱))
+        (VP
+          (ADVP (ad 突然))
+          (VP
+            (v 表示)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 要)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (p 将)
+                    (IP-OBJ
+                      (NP-PN-SBJ (nr 张宏宝))
+                      (VP
+                        (IP (VP (v 送)) (p 往))
+                        (NP-OBJ
+                          (CP
+                            (WHNP-1 (-NONE- *OP*))
+                            (CP
+                              (IP
+                                (NP-SBJ (-NONE- *T*-1))
+                                (VP (v 关押) (NP-OBJ (n 重刑犯))))
+                              (ude 的)))
+                          (QP (m 第６))
+                          (NP (n 监区))))))))))))
+      (wd ，)
+      (IP
+        (ADVP (c 而))
+        (NP-SBJ
+          (DNP (NP (DP (r 这个)) (NP (n 监区))) (ude 的))
+          (NP (n 条件)))
+        (VP (ADVP (d 更为)) (VP (a 恶劣))))
+      (wd ，)
+      (c 并且)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 经常))
+          (VP
+            (vyou 有)
+            (IP
+              (NP-SBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (v 虐待) (NP-OBJ (n 犯人))))
+                  (ude 的))
+                (NP (n 事件)))
+              (VP (v 发生))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 张宏宝))
+    (VP
+      (VP
+        (PP-DIR
+          (p 对于)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (IP (VP (v 转) (NP (v 押)))) (NP-OBJ (n 重刑犯) (n 监狱)))))
+        (VP (v 表示) (NP-OBJ (v 抗议))))
+      (wd ，)
+      (VP
+        (v 宣布)
+        (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (v 开始) (VP (vi 绝食)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-TMP (t 目前))
+    (NP-SBJ (n 事态))
+    (VP
+      (ADVP (d 仍然))
+      (VP
+        (p 在)
+        (LCP-OBJ (IP (NP-SBJ (-NONE- *pro*)) (VP (v 发展))) (f 当中)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (n 信息) (n 中心))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (ns 美国))
+        (VP
+          (p 将)
+          (IP-OBJ
+            (NP-SBJ (n 人权) (n 问题))
+            (VP
+              (v 作为)
+              (NP-OBJ
+                (DNP (LCP (NP (n 外交) (n 政策)) (f 中)) (ude 的))
+                (NP (n 核心) (n 策略)))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (CP-CND
+          (ADVP (c 如果))
+          (IP
+            (NP-SBJ (NP-PN (ns 美国)) (NP (r 本身)))
+            (VP
+              (ADVP (d 不))
+              (VP
+                (v 能够)
+                (VP
+                  (PP-MNR
+                    (p 依照)
+                    (NP
+                      (NP
+                        (DNP (NP-PN (nt 联合国)) (ude 的))
+                        (NP (n 人权) (n 公约)))
+                      (NP (n 内容))))
+                  (VP
+                    (v 来)
+                    (VP
+                      (v 保障)
+                      (NP-OBJ
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-1))
+                              (VP
+                                (v 遭到)
+                                (NP-OBJ (NP-PN (nt 中共)) (NP (v 迫害)))))
+                            (ude 的)))
+                        (NP (n 人士))))))))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (v 会)
+            (VP
+              (v 令)
+              (NP-OBJ (n 人))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 感到)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (DVP (ADVP (b 非常)) (ude 的)) (VP (an 失望))))))))))))
+  (wj 。)))
+</S>

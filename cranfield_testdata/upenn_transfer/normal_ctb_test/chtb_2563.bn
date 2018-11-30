@@ -1,0 +1,207 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 台北市)) (IP (VP (vi 行) (NP (a 大)))))
+    (VP
+      (NP-TMP (t 今天))
+      (VP
+        (v 逮捕)
+        (NP-OBJ
+          (QP (m 两) (CLP (q 名)))
+          (NP (n 智频) (n 对象))
+          (NP (n 流氓))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 其中)) (QP (m 一) (CLP (q 名))))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP-APP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-LOC (p 在) (NP (f 南部) (n 地区)))
+                  (ADVP (d 颇))
+                  (VP (vyou 有) (NP-OBJ (n 名气)))))
+              (ude 的)))
+          (IP (NP (ADJP (a 奇)) (NP (n 贤))) (VP (v 帮)))
+          (NP (n 老大)))
+        (NP-PN (nr 刘文天)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (VP
+        (ADVP (c 不但))
+        (VP
+          (n 誓言)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP (NP-PN (ns 台北) (wn 、) (ns 新竹)) (n 一带)))
+              (ADVP (n 暴力))
+              (VP (v 讨债))))))
+      (wd ，)
+      (VP
+        (ADVP (d 还))
+        (VP
+          (v 涉嫌)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-MNR
+                (v 打)
+                (uzhe 着)
+                (NP (DNP (NP (n 黑道) (n 大哥)) (ude 的)) (NP (n 招牌))))
+              (wd ，)
+              (ADVP (d 硬))
+              (VP
+                (v 要)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (PP-LOC
+                      (p 在)
+                      (NP
+                        (NP
+                          (CP
+                            (WHNP-2 (-NONE- *OP*))
+                            (CP
+                              (IP
+                                (NP-SBJ
+                                  (NP-APP (n 议员))
+                                  (NP-PN (nr 于台英)))
+                                (VP (v 开设) (NP-OBJ (-NONE- *T*-2))))
+                              (ude 的)))
+                          (NP (nx ｐｕｂ)))
+                        (NP (f 里面))))
+                    (VP (v 插入) (VP (a 干) (NP (n 股)))))))))))
+      (wd ，)
+      (VP
+        (ADVP (d 还))
+        (VP
+          (v 引发)
+          (y 了)
+          (NP-OBJ (NP (QP (m 两)) (NP (q 派))) (NP (n 人马)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-LOC (p 在) (NP (NP (n 店)) (NP (f 里面))))
+              (ADVP (d 大大))
+              (VP (vi 出手))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (VP
+      (v 指使)
+      (NP-OBJ (s 手下))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (PP-LOC (p 在) (NP-PN (ns 台北) (n 古城))))
+        (VP (v 吸收) (NP-OBJ (n 青少年)))))
+    (wd ，)
+    (VP
+      (v 打算)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (vi 成立)
+          (NP-OBJ
+            (NP-APP (NP-PN (n 奇贤帮)) (NP (n 分部)))
+            (wp —)
+            (VP (v 关) (NP (n 公堂)))))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (PP-LOC (p 在) (NP-PN (ns 台北)))
+      (PP-LOC (p 于) (NP (NP-PN (ns 新竹)) (NP (n 地区))))
+      (PP-DIR (p 向) (NP (n 商家)))
+      (VP
+        (VP (ADVP (n 暴力)) (VP (v 讨债)))
+        (VP (VSB (v 恐吓) (VP (v 取) (NP (n 台)))))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (VP
+        (v 试图)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR (p 以) (NP (n 暴力)))
+            (VP
+              (v 要求)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (n 承包) (NP-OBJ (n 工程))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (NP-TMP (ADJP (f 前)) (NP (m 一阵子)))
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (NP-APP (n 议员)) (NP-PN (nr 于台英)))
+            (VP (usuo 所) (VP (v 经营) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP-PN (nx ｔｚ) (n 太极) (nx ｐｕｂ)))
+    (VP
+      (v 传出)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (vyou 有) (IP (NP-SBJ (n 黑道)) (VP (v 介入)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (r 他))
+          (VP
+            (VP
+              (PP-MNR
+                (p 以)
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (ADVP (d 不)) (VP (v 报) (NP-OBJ (n 装璜) (n 款式))))))
+              (VP (n 插干股)))
+            (wd ，)
+            (VP
+              (ADVP (d 还))
+              (ADVP (d 一度))
+              (PP-TMP
+                (p 在)
+                (LCP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (d 非法)) (VP (v 经营) (NP-OBJ (nx ｐｕｂ)))))
+                  (n 时)))
+              (VP
+                (v 引发)
+                (NP-OBJ
+                  (CP-APP
+                    (IP
+                      (NP-SBJ-2 (LCP (NP (n 店)) (f 外)) (NP (n 计程车)))
+                      (VP
+                        (pbei 被)
+                        (VP
+                          (VCD (vi 冲突) (v 围殴))
+                          (NP-OBJ (-NONE- *-2)))))
+                    (ude 的))
+                  (NP (n 事件))))))))))
+  (wj 。)))
+</S>

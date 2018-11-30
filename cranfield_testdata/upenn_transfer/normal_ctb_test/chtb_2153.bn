@@ -1,0 +1,293 @@
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-MNR (p 随着) (NP (DNP (NP (n 大陆) (n 经济)) (ude 的)) (NP (n 发展))))
+  (wd ，)
+  (NP-SBJ (s 西方) (t 圣诞节))
+  (VP
+    (VP
+      (ADVP (d 已经))
+      (ADVP (d 逐渐))
+      (VP (v 进入) (y 了) (NP-OBJ (NP-PN (ns 中国)) (NP (n 大陆)))))
+    (wd ，)
+    (VP
+      (v 成为)
+      (NP-OBJ
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 大陆) (n 城市) (n 居民))
+              (VP
+                (PP-MNR (-NONE- *T*-1))
+                (VP (v 表现) (NP-OBJ (a 时髦)))))
+            (ude 的)))
+        (NP (n 方式))))
+    (wd ，)
+    (VP
+      (ADVP (d 当然))
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHPP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (n 大陆) (n 商家))
+                (VP
+                  (PP-TMP (-NONE- *T*-2))
+                  (VP
+                    (v 加强)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (v 力促) (VP (v 买) (NP (n 气))))))))
+              (ude 的)))
+          (QP (m 一个))
+          (ADJP (n 重点))
+          (NP (n 节日))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 随着)
+    (NP (NP (n 大陆)) (DNP (ADJP (vi 对外)) (ude 的)) (NP (v 开放))))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (d 本来))
+            (VP
+              (vshi 是)
+              (NP-PRD (NP (nz 天主教) (c 和) (nz 基督教)) (NP (n 节日))))))
+        (ude 的)))
+    (NP (t 圣诞节)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 现在))
+    (ADVP (d 已经))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (NP (n 大陆)) (QP (m 许多)) (NP (n 年青人)))
+              (VP (ADVP (d 最)) (VP (v 重视) (NP-OBJ (-NONE- *T*-2)))))
+            (ude 的)))
+        (NP (n 节日)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC
+      (p 在)
+      (NP
+        (NP-PN-APP
+          (ns 北京)
+          (wn 、)
+          (ns 上海)
+          (wn 、)
+          (ns 广州)
+          (wn 、)
+          (ns 福州)
+          (udeng 等))
+        (NP (n 大陆) (f 沿海) (n 城市))))
+    (wd ，)
+    (NP-SBJ (DNP (QP (m 许多)) (ude 的)) (NP (n 宾馆) (n 饭店)))
+    (VP
+      (d 早就)
+      (ADVP (d 已经))
+      (VP
+        (v 做)
+        (y 了)
+        (NP-OBJ (DP (r 各种)) (DNP (NP (t 圣诞节)) (ude 的)) (NP (n 布置))))))
+  (wd ，)
+  (IP
+    (LCP-LOC (NP (n 大街)) (f 上))
+    (NP-SBJ (DNP (NP (QP (m 许多)) (NP (n 商家))) (ude 的)) (NP (s 门口)))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (VRD (vi 站) (uzhe 着) (vyou 有))
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (VP (v 戴) (uzhe 着) (NP-OBJ (n 红帽)))
+                  (VP
+                    (v 装)
+                    (uzhe 着)
+                    (NP-OBJ (ADJP (a 红)) (NP (n 衣服))))))
+              (ude 的)))
+          (NP (n 圣诞老人))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR
+        (v 象)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 光临))) (ude 的)))
+          (NP (n 客人))))
+      (VP (v 恭贺) (NP-OBJ (t 圣诞)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (t 圣诞)) (ude 的)) (NP (n 气氛)))
+    (VP
+      (vshi 是)
+      (VP (ADVP (d 已经)) (VP (v 充满) (y 了) (NP-OBJ (n 城市))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-ADV
+    (ADVP (c 即使))
+    (IP (NP-SBJ (-NONE- *pro*)) (VP (vshi 是) (NP-PRD (n 大陆) (n 儿童)))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 开始)
+      (VP
+        (VRD (v 感受) (v 到))
+        (NP-OBJ (DNP (NP (t 圣诞)) (ude 的)) (NP (an 重要))))))
+  (wd ，)
+  (PP-PRP
+    (c 因为)
+    (IP
+      (NP-SBJ
+        (NP-PN-APP (nz 肯德基) (wn 、) (nz 麦当劳) (udeng 等))
+        (NP (n 速食店)))
+      (VP
+        (VP
+          (NP-LOC (DP (d 全)) (NP (n 大陆)))
+          (ADVP (d 都))
+          (VP
+            (v 推出)
+            (y 了)
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (v 买) (NP-OBJ (n 套餐))))
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (v 赠送)
+                      (NP-OBJ
+                        (ADJP (n 布质) (c 或) (n 棉质))
+                        (NP (n 圣诞老人))
+                        (NP (n 玩具))))))
+                (ude 的))
+              (NP (n 促销)))))
+        (wd ，)
+        (VP
+          (v 吸引)
+          (VP
+            (y 了)
+            (NP-OBJ (DNP (QP (m 不少)) (ude 的)) (NP (n 儿童)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VP (VCD (v 前往) (vi 用餐)))
+                (wd ，)
+                (VP (ADVP (d 也)) (VP (v 获得) (NP-OBJ (n 玩具)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (PP-DIR
+      (p 对)
+      (LCP (NP (DNP (QP (m 大部分)) (ude 的)) (NP (n 大陆) (n 学生))) (u 来说)))
+    (wd ，)
+    (NP-SBJ (t 圣诞节))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-TMP (-NONE- *T*-1))
+                  (VP (v 表达) (NP-OBJ (n 友谊) (wn 、) (n 爱情)))))
+              (ude 的)))
+          (ADJP (a 好))
+          (NP (n 时机))))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 目前))
+    (IP-ADV
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (r 每))
+        (VP
+          (v 到)
+          (LCP-OBJ
+            (UCP
+              (IP (NP-SBJ (-NONE- *pro*)) (VP (n 放学)))
+              (c 和)
+              (NP (n 假日)))
+            (f 期间)))))
+    (LCP-SBJ
+      (NP
+        (NP (n 大陆))
+        (DP (r 各))
+        (NP
+          (ADJP (a 大))
+          (NP (NP (n 书店)) (c 和) (NP (n 文化) (n 用品) (n 商店)))))
+      (f 里))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 充斥)
+        (uzhe 着)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (v 要)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (VP (v 购买) (NP-OBJ (t 圣诞) (n 贺卡)))
+                      (VP (VRD (v 寄) (v 给)) (NP-IO (n 亲友)))))))
+              (ude 的)))
+          (NP (n 年青人))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (-NONE- *pro*)) (VP (v 过) (NP-OBJ (t 圣诞节))))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (NP (n 大陆) (n 城市) (n 居民) (n 生活))
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 重要))) (ude 的)))
+          (QP (m 一))
+          (NP (n 部分))))))
+  (wj 。)))
+</S>

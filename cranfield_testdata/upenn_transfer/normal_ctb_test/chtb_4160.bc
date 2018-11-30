@@ -1,0 +1,340 @@
+<S>
+( (IP
+  (IP
+    (ADVP (t 刚才))
+    (NP-SBJ (NP-PN (nr1 李)) (NP (n 局长)))
+    (VP (v 讲) (y 了) (FLR (y 哈))))
+  (wd ，)
+  (IP
+    (IP (VP (ADVP (d 就)) (VP (vshi 是))))
+    (ADVP (d 凡是))
+    (NP-SBJ
+      (NP
+        (DNP (LCP (QP (m 十) (CLP (q 吨))) (f 以上)) (ude 的))
+        (ADJP (b 大型))
+        (NP (n 货车))))
+    (VP
+      (LCP-LOC
+        (NP (ADJP (ADVP (d 很)) (ADJP (a 大))) (NP (n 程度)))
+        (f 上))
+      (ADVP (v 可能))
+      (VP (vshi 是) (NP-PRD (DNP (ADJP (v 假冒)) (ude 的)) (NP (n 军车))))))
+  (wj 。)))
+</S>
+<S>
+( (CP-Q
+  (IP
+    (CP-ADV
+      (ADVP (c 既然))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (NP-PRD
+            (ADVP (r 这么))
+            (DNP (ADJP (a 明显)) (ude 的))
+            (NP (n 标志))))))
+    (wd ，)
+    (ADVP (r 那))
+    (PP-LOC (p 在) (NP (QP (m 一些)) (NP (n 收费站))))
+    (FLR (y 呐))
+    (wd ，)
+    (PP-LOC (p 在) (NP (QP (m 一些)) (NP (n 关卡))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (r 为什么))
+      (ADVP (d 不))
+      (VP
+        (v 能够)
+        (VP
+          (VP (VRD (v 拦) (v 下来)))
+          (VP (ADVP (ad 直接)) (ADVP (d 就)) (VP (v 查) (NP-OBJ (r 他们))))))))
+  (y 呢)
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这个)) (NP (n 问题)))
+  (PP-ADV
+    (p 从)
+    (LCP
+      (NP
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (r 我们))
+              (VP (PP-TMP (-NONE- *T*-1)) (VP (vi 办案))))
+            (ude 的)))
+        (NP (n 时间)))
+      (VP (v 来) (VP (v 看)))))
+  (wd ，)
+  (INTJ (n 呃))
+  (wd ，)
+  (VP
+    (ADVP (d 主要))
+    (VP
+      (vshi 是)
+      (PP-PRD
+        (p 因为)
+        (IP
+          (NP-SBJ (r 他们))
+          (VP
+            (v 悬挂)
+            (y 了)
+            (NP-OBJ (DNP (ADJP (v 假冒)) (ude 的)) (NP (n 军车) (n 号牌))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (y 嗯) (wj 。)))
+</S>
+<S>
+( (UCP (NP (y 嗯)) (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (IP
+    (ADVP (c 同时))
+    (NP-TPC-2
+      (DP (r 这个))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 假冒) (NP-OBJ (n 军车))))
+          (ude 的)))
+      (NP (n 车队)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (r 为什么)
+      (ADVP (d 不))
+      (wkz （（)
+      (VP
+        (v 能)
+        (wky ））)
+        (VP
+          (DVP (ADVP (a 及时)) (ude 的))
+          (VP (v 查获) (NP-OBJ (-NONE- *T*-2)))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (LCP-ADV
+    (PP
+      (p 从)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (NP-TMP
+                  (QP (ADJP (f 前)) (QP (m 一) (CLP (q 段))))
+                  (NP (n 时间)))
+                (VP
+                  (VP (v 侦查) (NP-OBJ (-NONE- *RNR*-2)))
+                  (wd ，)
+                  (VP (v 调查) (NP-OBJ (-NONE- *RNR*-2)))
+                  (wd ，)
+                  (VP (v 了解) (NP-OBJ-2 (-NONE- *T*-1))))))
+            (ude 的)))
+        (NP (n 情况))))
+    (VP (v 来) (VP (v 看))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 应该)
+    (CP-OBJ
+      (IP
+        (NP-SBJ (r 他们))
+        (w ＋)
+        (VP
+          (PP-LOC (p 在) (LCP (NP (n 运行) (n 过程)) (f 当中)))
+          (ADVP (d 也))
+          (VP (vshi 是) (VP (vyou 有) (NP-OBJ (n 伪装))))))
+      (ude 的)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP
+    (WHPP-1 (-NONE- *OP*))
+    (CP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-TMP (-NONE- *T*-1))
+          (PP-DIR
+            (p 从)
+            (NP
+              (NP (DP (r 这个)) (NP (n 矿区)))
+              (c 和)
+              (NP (DP (r 这个)) (n 呃) (NP (n 铁路) (n 车站)))))
+          (VP (v 出来))))
+      (ude 的))
+    (NP (n 时候)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (r 他们)) (VP (v 悬挂) (NP-OBJ (-NONE- *T*-2))))
+        (ude 的))))
+  (VP
+    (ADVP (d 大多))
+    (VP (vshi 是) (NP-PRD (DNP (NP (n 地方)) (ude 的)) (NP (n 号牌)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 过) (y 了) (NP-OBJ (n 收费站) (wd ，) (n 检查站))))
+      (f 以后))
+    (wd ，)
+    (VP
+      (ADVP (d 又))
+      (VP
+        (VRD (v 换) (v 回))
+        (NP-OBJ (DNP (NP (n 地方)) (ude 的)) (NP (n 号牌))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (y 嗯) (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 所以))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 他们))
+          (VP
+            (PP-MNR (-NONE- *T*-1))
+            (VP
+              (VP
+                (v 使用)
+                (NP-OBJ
+                  (NP (n 军车) (n 号))
+                  (wd ，)
+                  (ADJP (a 假))
+                  (wd ，)
+                  (ADJP (v 假冒))
+                  (NP (n 军车) (n 号牌))))
+              (VP (vi 运行)))))
+        (ude 的)))
+    (NP (n 路程)))
+  (VP (ADVP (d 比较)) (VP (a 短)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (c 所以))
+    (wd ，)
+    (ADVP (ad 一般))
+    (ADVP (d 比较))
+    (VP (ADVP (d 难以)) (VP (v 发现))))
+  (wj 。)))
+</S>
+<S>
+( (PP
+  (c 因为)
+  (IP
+    (NP-TPC
+      (NP (r 咱们))
+      (NP-APP
+        (DP (r 那个))
+        (wkz （（)
+        (ADJP (b 公共))
+        (wky ））)
+        (NP (n 检查站)))
+      (DP (r 这些))
+      (NP (n 部门)))
+    (FLR (y 啊))
+    (wd ，)
+    (NP-SBJ (r 它))
+    (VP (ADVP (d 只)) (VP (vshi 是) (NP-PRD (QP (m 一个)) (NP (n 管理权))))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (ADVP (vl 比如说))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (v 来) (y 了))
+      (VP (ADVP (c 然后)) (VP (v 登记)))
+      (wd ，)
+      (VP (vi 收费))))
+  (wd ，)
+  (y 啊)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ (r 它))
+  (VP
+    (v 没有)
+    (NP-OBJ
+      (QP (m 一个))
+      (n 呃)
+      (NP (n 行政) (n 处罚))
+      (wd ，)
+      (n 呃)
+      (NP (DP (r 这个)) (NP (n 执法权) (c 和) (n 处罚权)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (y 嗯) (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 呃))
+  (wd ，)
+  (ADVP (c 所以))
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 遇到)
+      (NP-OBJ (DP (r 这个)) (wkz （（) (ADJP (n 假冒)) (NP (n 军车)))))
+  (wky ））)
+  (NP-SBJ (r 他们))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 感到)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (ADVP (d 很)) (wd ，) (ADVP (d 非常)) (VP (a 为难))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 他))
+    (VP (ADVP (d 不)) (VP (v 像) (NP-OBJ (n 公安) (n 机关)))))
+  (wd ，)
+  (IP
+    (NP-TPC (n 公安) (n 机关))
+    (NP-SBJ (r 它))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (DNP (ADJP (b 一定)) (ude 的))
+        (wd ，)
+        (INTJ (n 呃))
+        (wd ，)
+        (NP (r 这))
+        (NP (n 执法权)))))
+  (wj 。)))
+</S>

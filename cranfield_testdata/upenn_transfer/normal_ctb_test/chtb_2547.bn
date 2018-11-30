@@ -1,0 +1,161 @@
+<S>
+( (IP
+  (NP-PN-SBJ (ns 台北县))
+  (VP
+    (NP-TMP (t 凌晨))
+    (VP
+      (v 爆发)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP (NP-SBJ (n 计程车) (n 司机)) (VP (v 包围) (NP-OBJ (n 警局))))
+          (ude 的))
+        (NP (n 事件)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (QP (m 二) (CLP (q 重))) (NP (n 疏洪道))) (ude 的))
+            (NP (n 堤防)))
+          (f 上)))
+      (wd ，)
+      (VP (v 可以) (VP (v 看到) (NP-OBJ (QP (m 许多)) (NP (n 计程车)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 数量))
+    (VP
+      (VRD (a 多) (v 到))
+      (QP-OBJ (ADVP (d 将近)) (QP (m ２００) (CLP (q 部))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 场面))
+    (VP (ADVP (d 相当)) (VP (VP (a 壮观)) (c 并) (VP (a 吓人)))))
+  (wj 。)))
+</S>
+<S>
+( (CP
+  (IP
+    (NP-SBJ (DP (r 这些)) (NP (n 计程车) (n 司机)))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (VP
+          (VP (v 听到) (NP-OBJ (n 无线电)))
+          (VP (v 赶到) (NP-OBJ (n 警局)))
+          (VP (vi 助阵))))))
+  (ude 的)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方))
+  (VP
+    (VP (n 理论))
+    (VP (VCD (NP (NP (QP (m 一)) (NP (n 言))) (NP (a 不和))) (vl 大打出手)))
+    (wd ，)
+    (VP (ADVP (d 分别)) (VP (v 呼) (NP (n 朋引伴))))
+    (VP
+      (VRD (v 找) (v 来))
+      (NP-OBJ (QP (m 一) (CLP (q 堆))) (NP (n 车子)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 助阵)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 无线电) (n 计程车)) (NP (n 司机)))
+  (VP
+    (LCP-TMP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 听到) (NP-OBJ (n 消息))))
+      (f 后))
+    (VP
+      (VP
+        (VP (ADVP (d 越)) (VP (VP (v 聚))))
+        (VP (ADVP (d 越)) (VP (a 多))))
+      (wd ，)
+      (VP
+        (ADVP (d 几乎))
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-SBJ (DP (b 整个)) (NP (n 派出所)))
+            (VP (ADVP (d 都)) (VP (VRD (v 包围) (v 起来)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (s 现场))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 可以)
+        (VP
+          (v 看到)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ-2 (-NONE- *T*-1))
+                  (VP (pbei 被) (VP (v 砸毁) (NP-OBJ (-NONE- *-2)))))
+                (ude 的)))
+            (NP (n 轿车)))))))
+  (wd ，)
+  (CP
+    (CP
+      (IP
+        (NP-SBJ (n 场面))
+        (VP
+          (CP-ADV
+            (ADVP (c 虽然))
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 不至于)) (VP (a 混乱)))))
+          (wd ，)
+          (ADVP (c 但是))
+          (ADVP (d 也))
+          (VP (v 够) (IP-OBJ (NP-SBJ (n 警方)) (VP (vi 伤脑筋))))))
+      (ude 的))
+    (y 了))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 经过)
+      (LCP
+        (NP
+          (NP (n 警方))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (ADVP (a 长))
+                  (VP
+                    (v 达)
+                    (NP-OBJ (QP (m ３) (CLP (q 个))) (NP (n 小时))))))
+              (ude 的)))
+          (NP (n 协调)))
+        (f 后)))
+    (wd ，)
+    (NP-SBJ (DP (r 这) (CLP (q 场))) (NP (n 纷争)))
+    (VP (ADVP (d 终于)) (VP (v 结束))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (n 计程车))
+    (VP (ADVP (d 也)) (ADVP (d 陆续)) (VP (v 离开))))
+  (wj 。)))
+</S>

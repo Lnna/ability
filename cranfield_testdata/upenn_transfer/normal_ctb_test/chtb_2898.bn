@@ -1,0 +1,97 @@
+<S>
+( (IP
+  (NP-SBJ (n 巴勒斯坦人) (c 和) (NP (NP-PN (ns 以色列)) (NP (n 军队))))
+  (VP
+    (VP-FOC
+      (PP-TMP
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHPP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-TMP (-NONE- *T*-1))
+                    (VP
+                      (v 结束)
+                      (NP-OBJ
+                        (NP (QP (m 三) (CLP (q 个))) (NP (n 星期)))
+                        (NP (n 暴力) (n 冲突))))))
+                (ude 的)))
+            (ADJP (f 最后))
+            (NP (n 期限)))
+          (f 以后)))
+      (wd ，)
+      (VP (v 发生) (NP-OBJ (n 武装) (n 冲突))))
+    (VP
+      (vi 使得)
+      (NP-OBJ
+        (NP (DP (r 这) (QP (m 一))) (NP (n 地区)))
+        (LCP (NP (n 冲突)) (f 中))
+        (NP (n 伤亡) (n 人数)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 上升)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 来自) (NP-OBJ (n 医院))))
+        (ude 的)))
+    (NP (n 资料)))
+  (VP
+    (v 表明)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (LCP-LOC
+          (NP
+            (CP-APP
+              (IP
+                (PP-LOC (p 在) (NP (NP-PN (ns 约旦河)) (NP (s 西岸))))
+                (wd ，)
+                (NP-SBJ (n 巴勒斯坦人))
+                (VP
+                  (PP-DIR (p 向) (NP (NP-PN (ns 以色列)) (NP (n 军人))))
+                  (VP (v 投掷) (NP (n 石块) (y 儿)))))
+              (ude 的))
+            (NP (n 冲突)))
+          (f 中))
+        (NP-SBJ (NP-PN (ns 以色列)) (NP (n 军人)))
+        (VP (v 还击)))
+      (wd ，)
+      (IP
+        (NP-SBJ-2
+          (ADVP (d 至少))
+          (NP (QP (m ９) (CLP (q 名))) (NP (n 巴勒斯坦人))))
+        (VP (pbei 被) (VP (v 枪杀) (NP-OBJ (-NONE- *-2)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 以色列)) (NP (n 总理))) (NP-PN (nrf 巴拉克)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (CP-CND
+        (ADVP (c 如果))
+        (IP
+          (NP-SBJ (n 巴勒斯坦人))
+          (VP (v 继续) (VP (v 进行) (NP-OBJ (n 暴力) (n 活动))))))
+      (wd ，)
+      (NP-SBJ (NP-PN (ns 以色列)) (NP (n 方面)))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP
+            (ADVP (d 被迫))
+            (ADVP (n 无限期))
+            (VP (v 暂停) (NP-OBJ (n 和平) (n 进程))))
+          (VP (p 以) (VP (ADVP (d 重新)) (VP (v 评估) (NP-OBJ (n 局势)))))))))
+  (wj 。)))
+</S>

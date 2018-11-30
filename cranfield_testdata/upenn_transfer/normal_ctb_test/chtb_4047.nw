@@ -1,0 +1,179 @@
+<S>
+( (IP
+  (NP-TPC
+    (NP
+      (NP-PN (nt 新华社))
+      (NP-PN (ns 北京))
+      (NP (t １２月) (t １９日))
+      (NP (n 电)))
+    (PRN (wkz （) (NP (NP-APP (n 记者)) (NP-PN (nr 王思海))) (wky ）)))
+  (NP-PN-SBJ (ns 北京市))
+  (VP
+    (PP-LOC (p 在) (NP (n 中学)))
+    (VP
+      (v 推出)
+      (wyz “)
+      (NP-OBJ
+        (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (v 预防) (NP-OBJ (n 艾滋病))))
+        (NP (n 专题) (n 教育) (n 读本)))
+      (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这) (CLP (q 套)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-2 (-NONE- *T*-1))
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (NP-PN (ns 北京市))
+                (NP (n 中学) (n 地方) (n 教材) (n 审定) (n 委员会))))
+            (VP (v 审定) (NP-OBJ (-NONE- *-2)))))
+        (ude 的)))
+    (NP (n 读本)))
+  (VP
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP-PN (ns 中国))
+        (QP (m 首) (CLP (q 份)))
+        (wyz “)
+        (CP
+          (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (n 防艾)))
+          (wyy ”)
+          (ude 的))
+        (NP (n 地方) (n 教材))))
+    (wd ，)
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 已))
+      (VP
+        (v 进入)
+        (NP-OBJ
+          (NP-PN (ns 北京市))
+          (DNP (QP (m ８０％)) (ude 的))
+          (NP (n 中学))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (NP-TMP (t １９日))
+    (PP-DIR (p 从) (NP (NP-PN (ns 北京市)) (NP (nt 教委))))
+    (VP
+      (VRD (v 了解) (v 到))
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (PP-MNR
+            (p 按照)
+            (NP
+              (NP (NP-PN (ns 北京市)) (NP (nt 教委)))
+              (DNP
+                (PP (p 关于) (NP (ADJP (a 新)) (NP (n 课程) (n 计划))))
+                (ude 的))
+              (NP (n 部署))))
+          (wd ，)
+          (NP-PN (ns 北京市))
+          (VP
+            (v 计划)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-TMP (p 从) (LCP (NP (t 今年) (t 秋季)) (f 起)))
+                (wd ，)
+                (PP-TMP (p 在) (NP (n 初中) (c 和) (n 高中)))
+                (VP
+                  (v 开设)
+                  (NP-OBJ
+                    (IP-SBJ
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (v 预防) (NP-OBJ (n 艾滋病))))
+                    (NP (n 专题) (n 教育))))))))
+        (wd ，)
+        (IP
+          (NP-LOC (r 其中))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (NP-TMP (n 初中) (n 阶段))
+              (VP (v 安排) (NP-OBJ (QP (m ６)) (NP (n 课时)))))
+            (wd ，)
+            (VP
+              (NP-TMP (n 高中) (n 阶段))
+              (NP-PRD (QP (m ４)) (NP (n 课时)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 该)) (NP (n 读本)))
+  (VP
+    (PP-MNR (p 通过) (NP (DNP (ADJP (a 生动)) (ude 的)) (NP (n 案例))))
+    (VP
+      (v 告诉)
+      (NP-IO (n 中学生))
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 避免)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 感染) (NP-OBJ (n 艾滋病) (n 病毒))))))
+          (ude 的))
+        (NP (n 细节)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP (NP (DP (r 该)) (NP (n 读本))) (NP (n 高中) (n 分册))))
+    (VP
+      (v 看到)
+      (wd ，)
+      (IP-OBJ
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (wyz “)
+              (IP-APP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 认识) (NP-OBJ (ADJP (b 高危)) (NP (n 行为)))))
+              (wyy ”)
+              (QP (m 一))
+              (NP (n 课)))
+            (f 中)))
+        (wd ，)
+        (wyz “)
+        (NP-SBJ-2
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 无) (NP-OBJ (v 保护))))
+              (ude 的)))
+          (NP (n 性) (n 行为)))
+        (wyy ”)
+        (VP
+          (PP-MNR
+            (v 作为)
+            (NP
+              (DNP (NP (n 艾滋病) (n 传播)) (ude 的))
+              (ADJP (a 重要))
+              (NP (n 途径))))
+          (VP
+            (pbei 被)
+            (VP (VRD (v 列举) (v 出来)) (NP-OBJ (-NONE- *-2))))))))
+  (wj 。)))
+</S>

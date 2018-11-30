@@ -1,0 +1,353 @@
+<S>
+( (PP-HLN
+  (PP-DIR (p 从) (NP (b 赤贫)))
+  (PP-DIR (p 到) (NP (v 暴富)))
+  (PRN (wp ——) (QP (NP (n 经济)) (QP (m 五十) (CLP (q 年)))))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 李光真)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (NP-PN (n 民国)) (QP (m 七十)) (NP (n 年代)))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (PP-MNR (p 以) (NP (v 加工))) (VP (vi 起家))))
+          (ude 的)))
+      (NP-PN (ns 台湾))
+      (NP (n 产业)))
+    (VP (v 开始) (VP (ADVP (r 自)) (VP (v 创) (NP-OBJ (n 品牌))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP (NP-PN-APP (nz 肯尼士)) (NP-PN (nx kennex)))
+      (NP (n 网球拍)))
+    (VP
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (QP (NP (n 我国)) (QP (m 第一) (CLP (q 个))))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (ADVP (d 真正))
+                  (VP
+                    (VP (v 打入) (NP-OBJ (nl 世界市场)))
+                    (wn 、)
+                    (VP (v 建立) (NP-OBJ (n 国际) (n 品牌))))))
+              (ude 的)))
+          (NP (n 产品))))
+      (wd ，)
+      (VP
+        (ADVP (d 曾))
+        (ADVP (d 一度))
+        (VP
+          (v 拥有)
+          (NP-OBJ
+            (NP (n 全球))
+            (DNP (QP (m 五) (wn 、) (m 六) (CLP (q 成))) (ude 的))
+            (NP (n 网球) (n 市场)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 杨文卿)) (VP (v 摄)) (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 能) (VP (v 赚钱))))
+        (ude 的))))
+  (wd ，)
+  (VP (ADVP (d 就)) (VP (vshi 是) (NP-PRD (ADJP (a 好)) (NP (n 市场)))))))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 江丙坤))
+  (VP
+    (v 回忆)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-TMP
+              (p 自)
+              (IP
+                (NP-TMP
+                  (NP (NP-PN (n 民国)) (QP (m 七十)) (NP (n 年代)))
+                  (NP (f 初期)))
+                (NP-SBJ (r 他))
+                (VP
+                  (v 担任)
+                  (NP-OBJ (NP-PN (n 外贸) (n 协会)) (NP (n 秘书长))))))
+            (VP (v 开始))))
+        (wd ，)
+        (LCP-LOC (QP (ADVP (a 近)) (QP (m 二十) (CLP (q 年)))) (f 间))
+        (wd ，)
+        (NP-SBJ (r 他))
+        (VP
+          (VP (v 带) (uzhe 着) (NP-OBJ (n 厂商)))
+          (VP (v 走遍) (NP-OBJ (n 天下)))))
+      (wd ，)
+      (IP
+        (IP-CND
+          (NP-SBJ (-NONE- *pro*))
+          (VP (vyou 有) (NP-OBJ (v 展览))))
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 就)) (VP (vi 参展))))
+      (wn 、)
+      (IP
+        (IP-CND (NP-SBJ (-NONE- *pro*)) (VP (d 没) (NP-OBJ (v 展览))))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 就))
+          (VP
+            (VP
+              (VP (v 找) (NP-OBJ (QP (CLP (q 个))) (NP (n 地方))))
+              (VP (v 打开) (NP-OBJ (n 提包))))
+            (wd ，)
+            (VP
+              (ADVP (d 就地))
+              (VP
+                (vi 供)
+                (NP-OBJ (n 买家))
+                (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 选购))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (d 尚未) (VP (v 开放)))))
+      (wn 、)
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (NP-LOC (-NONE- *T*-2))
+              (VP
+                (VP
+                  (NP-FOC
+                    (ADVP (ulian 连))
+                    (NP (QP (CLP (n 家))) (NP (n 旅馆))))
+                  (ADVP (d 都))
+                  (VP (VPT (v 找) (d 不) (v 到))))
+                (VP
+                  (c 而)
+                  (VP
+                    (v 得)
+                    (VP (PP-LOC (p 在) (LCP (s 船上))) (VP (vi 过夜))))))))
+          (ude 的)))
+      (NP-PN (ns 越南)))
+    (wd ，)
+    (NP
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 遥远))) (ude 的)))
+      (NP-PN (ns 土耳其) (wn 、) (ns 巴基斯坦)))
+    (wd ，)
+    (NP
+      (CP
+        (WHNP-4 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-4))
+            (VP (a 热) (ude 得) (VP-EXT (ADVP (v 近乎)) (VP (vi 窒息)))))
+          (ude 的)))
+      (NP-PN (ns 埃及)))
+    (wd ，)
+    (NP
+      (CP
+        (WHNP-5 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-5))
+            (VP
+              (ADVP (d 刚))
+              (VP (v 露出) (NP-OBJ (QP (n 一线)) (NP (n 缝隙))))))
+          (ude 的)))
+      (NP-PN (ns 苏俄)))
+    (w ……))
+  (wd ，)
+  (VP
+    (ADVP (d 都))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-6 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 台商))
+              (VP (NP-PRP (-NONE- *T*-6)) (ADVP (d 奋力)) (VP (vi 冲刺))))
+            (ude 的)))
+        (NP (n 目标)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (wyz 「)
+    (IP
+      (NP-SBJ (n 市场))
+      (VP
+        (v 没有)
+        (NP-OBJ (DNP (NP (n 大小) (n 远近)) (uzhi 之)) (NP (n 分)))))
+    (wd ，)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 能) (VP (VRD (v 赚) (v 到)) (NP-OBJ (n 钱)))))
+            (ude 的))))
+      (wd ，)
+      (VP
+        (ADVP (d 就))
+        (VP (vshi 是) (NP-PRD (ADJP (a 好)) (NP (n 市场)))))))
+  (wd ，)
+  (wyy 」)
+  (IP
+    (NP-PN-SBJ (nr 江丙坤))
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP
+          (DNP (NP (n 台商)) (ude 的))
+          (NP (an 灵活) (c 及) (n 拚斗) (n 特质))))
+      (wd ，)
+      (NP (n 印象))
+      (VP (a 深刻))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (ADVP (d 全力)) (VP (v 拓展) (NP-OBJ (vi 出口)))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-ADV (c 一方面))
+      (NP-SBJ (n 国家) (n 财富))
+      (VP (ADVP (d 快速)) (VP (v 累积))))
+    (wd ，)
+    (IP
+      (NP-ADV (c 另一方面))
+      (wd ，)
+      (NP-SBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (DVP (ADVP (d 长期) (wn 、) (d 刻意)) (ude 地))
+              (PP-MNR
+                (v 藉)
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 压低) (NP-OBJ (n 台币) (n 汇率)))))
+              (VP (v 来) (VP (v 扶持) (NP-OBJ (vi 出口))))))
+          (ude 的))
+        (NP (n 政策)))
+      (wd ，)
+      (VP
+        (ADVP (d 却))
+        (ADVP (d 也))
+        (VP
+          (v 引起)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP
+                (n 贸易)
+                (n 对手)
+                (n 国)
+                (PRN
+                  (wp ——)
+                  (NP
+                    (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+                    (NP-PN (ns 美国)))
+                  (wp ——)))
+              (ude 的))
+            (ADJP (a 严重))
+            (NP (n 抗议)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-6
+    (wyz 「)
+    (IP
+      (NP-TMP (DP (r 那个)) (NP (n 时候)))
+      (wd ，)
+      (NP-PN-SBJ (ns 台湾))
+      (VP
+        (VP (ADVP (d 刚刚)) (VP (v 摆脱) (NP-OBJ (an 贫穷))))
+        (wd ，)
+        (VP
+          (ADVP (d 只))
+          (VP
+            (v 担心)
+            (IP-OBJ
+              (IP
+                (NP-TPC (n 钱))
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (v 存)
+                  (ude 得)
+                  (VP-EXT (ADVP (d 不)) (ADVP (v 够)) (VP (a 多)))))
+              (wn 、)
+              (IP
+                (NP-SBJ (n 经济) (VCD (n 成长) (k 率)))
+                (VP
+                  (v 冲)
+                  (ude 得)
+                  (VP-EXT (ADVP (d 不)) (ADVP (v 够)) (VP (a 高))))))))
+        (wd ，)
+        (VP
+          (ADVP (d 却))
+          (VP
+            (VP
+              (PP-DIR
+                (p 对)
+                (NP
+                  (CP-APP
+                    (IP (NP-SBJ (a 景气)) (VP (ADVP (d 过)) (VP (a 热))))
+                    (ude 的))
+                  (NP (n 危机))))
+              (VP (v 缺乏) (VP (n 警觉) (NP (n 心)))))
+            (wd ，)
+            (VP (d 没有) (VP (ADVP (ad 适时)) (VP (vi 降温))))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PRN
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 不能不)) (VP (v 说)))))
+        (vshi 是)
+        (NP-PRD (QP (m 一个)) (NP (an 遗憾))))))
+  (wd ，)
+  (wyy 」)
+  (NP-PN-SBJ (nr 于宗先))
+  (VP (v 表示) (IP-OBJ (-NONE- *T*-6)))
+  (wj 。)))
+</S>

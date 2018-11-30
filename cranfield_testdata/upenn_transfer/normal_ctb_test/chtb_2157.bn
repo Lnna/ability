@@ -1,0 +1,153 @@
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-MNR
+    (p 根据)
+    (IP
+      (NP-SBJ (DNP (NP-PN (nrf 古新斯基)) (ude 的)) (NP (n 律师)))
+      (VP (v 表示))))
+  (wd ，)
+  (NP-PN-SBJ (nrf 古新斯基))
+  (VP
+    (vshi 是)
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 交付)
+              (y 了)
+              (NP-OBJ
+                (DNP (QP (m ５５０万) (CLP (q 美元))) (ude 的))
+                (NP (n 保证金)))))
+          (f 以后)))
+      (ADVP (d 才))
+      (VP (v 获得) (NP-OBJ (vi 保释)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (DNP (NP-PN (ns 西班牙)) (ude 的)) (NP (n 城镇) (n 法官)))
+    (NP-PN (nr 贾丰)))
+  (VP
+    (v 表示)
+    (IP-OBJ
+      (NP-SBJ (DNP (NP-PN (nrf 古新斯基)) (ude 的)) (NP (n 保释) (n 条件)))
+      (VP
+        (VP (ADVP (d 非常)) (VP (a 严格)))
+        (wd ，)
+        (VP
+          (v 包括)
+          (y 了)
+          (UCP-OBJ
+            (NP (DNP (ADJP (b 高额)) (ude 的)) (NP (n 保释金)))
+            (wd ，)
+            (IP
+              (NP-SBJ-1 (n 护照))
+              (VP
+                (ADVP (d 暂时))
+                (VP (pbei 被) (VP (v 扣押) (NP-OBJ (-NONE- *-1))))))
+            (c 以及)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (d 必须)
+                (VP
+                  (PP-MNR
+                    (p 在)
+                    (LCP
+                      (NP
+                        (DNP
+                          (NP (NP-PN (ns 西班牙)) (NP (n 警方)))
+                          (ude 的))
+                        (NP (n 陪同)))
+                      (f 下)))
+                  (ADVP (d 才))
+                  (VP (v 能) (VP (vi 行动))))))
+            (udeng 等))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (n 检察官)))
+    (VP
+      (VP
+        (vshi 是)
+        (VP
+          (VP
+            (PP-MNR
+              (p 以)
+              (NP
+                (IP-APP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 侵占) (NP-OBJ (n 财产))))
+                (NP (n 罪名))))
+            (VP (v 起诉) (NP-PN-OBJ (nrf 古新斯基))))
+          (wd ，)
+          (PP
+            (c 因为)
+            (IP
+              (NP-SBJ (r 他))
+              (VP
+                (VP (ADVP (d 屡)) (VP (v 传)))
+                (VP (ADVP (d 不)) (VP (v 到))))))))
+      (wd ，)
+      (VP
+        (ADVP (c 而且))
+        (VP
+          (PP-TMP (p 在) (NP (t ７月) (QP (m １３) (CLP (q 号)))))
+          (VP (v 发布) (NP-OBJ (n 通缉令)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 国际) (n 刑警) (n 组织))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 已经))
+      (VP (v 发布) (y 了) (NP-OBJ (n 国际) (n 逮捕令)))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (NP-PN (nrf 古新斯基)) (NP (r 本人)))
+    (VP
+      (VP (vshi 是) (VP (v 否认) (NP-OBJ (DP (r 一切)) (NP (v 指控)))))
+      (wd ，)
+      (VP
+        (v 认为)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (vshi 是)
+            (VP
+              (PP-PRP
+                (p 因为)
+                (NP
+                  (DNP (NP (n 旗下) (n 媒体)) (ude 的))
+                  (NP (n 批判) (n 态度))))
+              (VP
+                (v 引发)
+                (NP-OBJ
+                  (DNP (NP (NP-PN (ns 俄国)) (NP (n 政府))) (ude 的))
+                  (NP (n 反弹))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (ADVP (f 以上)) (NP (DP (r 这) (CLP (q 节))) (NP (n 新闻))))
+  (VP
+    (vshi 是)
+    (VP
+      (VP
+        (PP-LGS (p 由) (NP-PN (nr 徐仁月)))
+        (VP (v 编辑) (NP-OBJ (-NONE- *-1))))
+      (wd ，)
+      (VP
+        (ADVP (d 单))
+        (ADVP (v 重))
+        (ADVP (n 光))
+        (VP (v 播报) (NP-OBJ (-NONE- *-1))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,671 @@
+<S>
+( (IP
+  (NP-VOC (DP (r 各位)) (NP (n 听众)))
+  (wm ：)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 您))
+          (VP (NP-TMP (t 现在)) (VP (v 收听) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP (NP-PN (n 美国之音)) (ude 的))
+      (NP (NP (NP-PN (ns 中国)) (NP (n 新闻))) (c 和) (NP (n 世界) (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (wyz “) (v 大赦) (n 国际) (wyy ”))
+  (VP
+    (PP-PRP
+      (p 为了)
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 禁止) (NP-OBJ (n 酷刑)))))
+    (wd ，)
+    (VP
+      (v 发起)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (vi 历时)
+                (NP-EXT
+                  (QP (m 一) (CLP (q 年)))
+                  (QP (m 零))
+                  (QP (m 两) (CLP (q 个)))
+                  (NP (n 月)))))
+            (ude 的)))
+        (NP (n 全球) (n 行动)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这个)) (NP (n 国际) (n 人权) (n 组织)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (NP-TMP (t 星期三))
+                  (VP (v 发表) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (n 报告))))
+      (VP
+        (v 历数)
+        (y 了)
+        (NP-OBJ
+          (NP
+            (QP (QP (QP (m １５０)) (ADVP (m 多))) (CLP (q 个)))
+            (NP (n 国家)))
+          (CP-APP
+            (IP (NP-SBJ (-NONE- *pro*)) (VP (v 使用) (NP-OBJ (n 酷刑))))
+            (ude 的))
+          (NP (n 事例))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ (QP (m １００) (m 多) (CLP (q 个))) (NP (n 国家)))
+        (VP
+          (ADVP (d 曾经))
+          (VP
+            (v 批准)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (v 禁止) (NP-OBJ (n 酷刑))))
+                  (ude 的)))
+              (NP (n 国际) (n 条约))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC (ADJP (a 详细)) (NP (n 内容)))
+  (wd ，)
+  (NP-SBJ (f 下面))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (NP-APP (NP-PN (n 美国之音)) (NP (n 记者)))
+              (NP-PN (nrf 卡斯曼)))
+            (VP
+              (PP-DIR (p 从) (NP-PN (ns 伦敦)))
+              (VP (VRD (v 发) (v 回来)) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (n 报道))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-PN-SBJ (v 大赦) (n 国际))
+          (VP (v 列举) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP (n 酷刑)))
+  (VP
+    (v 包括)
+    (wm ：)
+    (UCP-OBJ
+      (NP (n 毒打))
+      (wn 、)
+      (NP (n 种族) (vi 仇杀))
+      (wn 、)
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 切除) (NP-OBJ (n 肢体))))
+      (wn 、)
+      (NP (n 性) (n 虐待))
+      (wn 、)
+      (NP (n 警察) (n 暴行))
+      (wn 、)
+      (NP (vi 窒息))
+      (wn 、)
+      (NP (ADJP (v 模仿)) (NP (n 死刑)))
+      (wn 、)
+      (NP (n 心理) (n 虐待))
+      (udeng 等等)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-PN-SBJ (v 大赦) (n 国际))
+  (wyy ”)
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (LCP-LOC (NP (n 世界)) (f 上))
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 没有)
+        (IP
+          (NP-SBJ (QP (m 几) (CLP (q 个))) (NP (n 国家)))
+          (VP
+            (v 能够)
+            (VP
+              (IP (VP (vi 幸免) (p 于)))
+              (NP-OBJ
+                (DP (r 这种))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ-2 (-NONE- *T*-1))
+                      (VP
+                        (pbei 被)
+                        (IP
+                          (NP-PN-SBJ (wyz “) (v 大赦) (n 国际) (wyy ”))
+                          (VP
+                            (usuo 所)
+                            (VP (v 称) (NP-OBJ (-NONE- *-2)))))))
+                    (ude 的)))
+                (ADJP (t 现代))
+                (NP (n 瘟疫)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (wyz “) (v 大赦) (n 国际) (wyy ”)) (NP (n 秘书长)))
+    (NP-PN (nrf 萨内)))
+  (VP
+    (VSB (v 警告) (v 说))
+    (IP-OBJ
+      (IP
+        (NP-SBJ (QP (m 许多)) (NP (n 国家)))
+        (VP (v 结束) (y 了) (NP-OBJ (n 政治) (n 专制))))
+      (wd ，)
+      (IP
+        (ADVP (c 但))
+        (NP-SBJ (r 那))
+        (VP
+          (ADVP (d 并))
+          (ADVP (d 不))
+          (VP (v 意味着) (NP-OBJ (DNP (NP (n 酷刑)) (ude 的)) (NP (n 结束))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 南非)) (ude 的))
+      (NP (n 种族) (n 隔离))
+      (NP (n 时代)))
+    (VP (ADVP (d 已经)) (VP (v 结束))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (n 酷刑))
+    (VP (ADVP (d 却)) (ADVP (d 没有)) (VP (vi 消失))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 当)
+    (NP
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (r 我们))
+            (VP (PP-TMP (-NONE- *T*-1)) (VP (v 想到) (NP-OBJ (n 酷刑)))))
+          (ude 的)))
+      (NP (n 时候))))
+  (wd ，)
+  (NP-SBJ (r 我们))
+  (VP
+    (v 会)
+    (VP
+      (v 想起)
+      (IP-OBJ
+        (IP
+          (LCP-TMP (IP (NP-PN-SBJ (nrf 皮诺切特)) (VP (vi 当政))) (n 时))
+          (wd ，)
+          (NP-SBJ (NP-PN (ns 智利)) (NP (n 妇女)))
+          (VP (v 遭受) (NP-OBJ (n 酷刑))))
+        (udeng 等))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 皮诺切特))
+    (VP
+      (ADVP (d 也许))
+      (ADVP (d 已经))
+      (VP
+        (v 退出)
+        (y 了)
+        (NP-OBJ (DNP (NP-PN (ns 智利)) (ude 的)) (NP (n 历史) (n 舞台))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (DNP (NP (r 那里)) (ude 的)) (NP (n 酷刑)))
+    (VP (ADVP (d 却)) (ADVP (d 没有)) (VP (vi 消失))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (wyz “) (v 大赦) (n 国际) (wyy ”))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP (NP (n 全球)) (QP (m １５３) (CLP (q 个))) (NP (n 国家))))
+    (VP
+      (v 发现)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 施) (NP-OBJ (n 酷刑))))
+          (ude 的))
+        (NP (n 事例)))))
+  (wd ，)
+  (PP
+    (IP (VP (ADVP (d 特别)) (VP (vshi 是))))
+    (PP-LOC (p 在) (NP (n 冲突) (n 热点) (n 地区))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (PP-LOC (p 在) (LCP (NP (n 武装) (n 冲突) (n 局势)) (f 下)))
+        (wd ，)
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 作战))) (ude 的)))
+          (NP (n 人)))
+        (VP
+          (v 认为)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ-3 (r 一切))
+            (VP
+              (ADVP (d 都))
+              (VP
+                (v 要)
+                (VP
+                  (pbei 被)
+                  (VP (VRD (v 毁) (v 掉)) (NP-OBJ (-NONE- *-3)))))))))
+      (wd ，)
+      (IP
+        (ADVP (ad 确实))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 会)
+          (VP
+            (vyou 有)
+            (IP
+              (NP-SBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (v 施) (NP-OBJ (n 酷刑))))
+                  (ude 的))
+                (NP (n 情况)))
+              (VP (v 发生))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (NP-SBJ (r 这))
+        (VP
+          (d 绝不)
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHPP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-LOC (-NONE- *T*-2))
+                      (VP (v 施) (NP-OBJ (n 酷刑)))))
+                  (ude 的)))
+              (ADJP (b 唯一))
+              (NP (n 局势))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 酷刑))
+  (VP
+    (ADVP (d 也))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 相当)) (VP (v 民主化))))
+              (ude 的)))
+          (NP (n 国家)))
+        (f 里)))
+    (wd ，)
+    (PP-MNR
+      (p 以)
+      (NP (DNP (ADJP (b 日常)) (ude 的)) (ADJP (n 例行)) (NP (n 形式))))
+    (VP (v 出现)))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP (NP (nz 萨)) (f 内))
+    (VP
+      (v 列举)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP-PN (ns 美国)) (ude 的))
+        (NP (n 警察) (n 暴行) (c 和) (n 监狱) (n 虐待)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (VP
+          (v 举出)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (ns 德国) (wn 、) (ns 西班牙) (c 和) (ns 英国))
+                  (VP (v 发生) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (QP (m 几) (CLP (q 起)))
+            (DNP (PP (p 针对) (NP (n 黑人) (c 和) (n 移民))) (ude 的))
+            (NP (n 暴力))))
+        (VP (v 作为) (NP-OBJ (n 例子))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (wyz “) (v 大赦) (n 国际) (wyy ”))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 批评)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-PN (ns 欧洲))
+                  (c 和)
+                  (NP
+                    (NP-PN-APP (ns 沙特阿拉伯) (udeng 等))
+                    (NP-PN (ns 阿拉伯))
+                    (NP (n 国家))))
+                (VP (v 制订) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (QP (m 一些))
+          (NP (n 法律))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (wyz “) (v 大赦) (n 国际) (NP (wyy ”)))
+    (VP
+      (v 称)
+      (IP-OBJ
+        (NP-SBJ (DP (r 这些)) (NP (n 法律)))
+        (VP (v 歧视) (NP-OBJ (n 外国) (n 工人) (c 和) (n 少数民族))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (wyz “) (v 大赦) (n 国际) (wyy ”))
+      (DNP (PP (p 在) (NP-PN (ns 英国))) (ude 的))
+      (NP (n 代表)))
+    (NP-PN (nrf 艾伦) (n 女士)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (IP
+        (NP-SBJ (DP (r 这个)) (NP (n 组织)))
+        (VP
+          (PP-LOC (p 在) (NP (n 全球)))
+          (VP
+            (v 发起)
+            (NP-OBJ
+              (CP-APP
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 反对) (NP-OBJ (n 酷刑))))
+                (ude 的))
+              (NP (n 行动))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (n 目的))
+        (VP
+          (v 在于)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (VP
+                (v 提高)
+                (NP-OBJ (DNP (NP (n 民众)) (ude 的)) (NP (n 意识))))
+              (wd ，)
+              (VP
+                (v 鼓励)
+                (NP-OBJ (NP (r 各国)) (NP (n 政府)))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (pba 把)
+                    (IP-OBJ
+                      (NP-SBJ (DNP (NP (r 自己)) (ude 的)) (NP (n 国家)))
+                      (VP
+                        (VCP (v 治理) (v 为))
+                        (NP-OBJ
+                          (CP
+                            (WHNP-1 (-NONE- *OP*))
+                            (CP
+                              (IP
+                                (NP-SBJ (-NONE- *T*-1))
+                                (VP (v 没有) (NP-OBJ (n 酷刑))))
+                              (ude 的)))
+                          (NP (n 国度))))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 她))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (DNP (NP (r 我们)) (ude 的)) (NP (n 行动)))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (NP (QP (m 三) (CLP (q 项))) (NP (n 目标)))
+          (wd ，)
+          (PRN
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP (v 防止) (NP-OBJ (n 酷刑)))
+                (wd ，)
+                (VP
+                  (v 反对)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP
+                            (PP-ADV
+                              (p 跟)
+                              (IP
+                                (NP-SBJ (-NONE- *pro*))
+                                (VP (v 施) (NP-OBJ (n 酷刑)))))
+                            (VP (vl 一脉相承))))
+                        (ude 的)))
+                    (NP (n 歧视))))
+                (wd ，)
+                (VP
+                  (ADVP (c 并且))
+                  (VP
+                    (VP
+                      (v 确保)
+                      (IP-OBJ
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP
+                          (p 将)
+                          (IP-OBJ
+                            (NP-SBJ
+                              (CP
+                                (WHNP-2 (-NONE- *OP*))
+                                (CP
+                                  (IP
+                                    (NP-SBJ (-NONE- *T*-2))
+                                    (VP (v 施) (NP-OBJ (n 酷刑))))
+                                  (ude 的)))
+                              (NP (n 人)))
+                            (VP (vl 绳之以法))))))
+                    (wd ，)
+                    (VP
+                      (ADVP (d 不))
+                      (VP
+                        (v 让)
+                        (NP-OBJ
+                          (DP (r 任何))
+                          (CP
+                            (WHNP-3 (-NONE- *OP*))
+                            (CP
+                              (IP
+                                (NP-SBJ (-NONE- *T*-3))
+                                (VP
+                                  (ADVP (ADVP (r 如此)) (ADVP (a 残暴)))
+                                  (VP (v 践踏) (NP-OBJ (n 人权)))))
+                              (ude 的)))
+                          (NP (n 人)))
+                        (IP
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP (v 逃脱) (NP-OBJ (n 法网)))))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP-PN (wyz “) (v 大赦) (n 国际) (wyy ”)) (ude 的))
+    (NP (n 行动)))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 包括)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (PP-DIR (p 向) (NP (NP (r 各国)) (NP (n 政府))))
+            (VP (v 施加) (NP-OBJ (n 压力))))
+          (wd ，)
+          (VP
+            (v 让)
+            (NP-OBJ (r 他们))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 保护) (NP-OBJ (n 酷刑) (n 受害者)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (m 一) (CLP (q 位)))
+      (DNP (NP-PN (ns 斯里兰卡)) (ude 的))
+      (NP (n 酷刑) (n 受害者)))
+    (VP
+      (ADVP (d 本来))
+      (VP
+        (v 计划)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP (NP (NP-PN (ns 伦敦)) (NP (n 记者会))) (f 上)))
+            (VP (vi 露面)))))))
+  (wd ，)
+  (IP (ADVP (c 但是)) (NP-SBJ (r 他)) (VP (ADVP (d 没有)) (VP (v 出现))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (QP (m 一) (CLP (q 位)))
+      (DNP (NP-PN (wyz “) (n 大赦) (n 国际) (wyy ”)) (ude 的))
+      (NP (n 官员)))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (DP (r 这) (CLP (q 位))) (NP (n 受害者)))
+        (VP
+          (NP-TMP (QP (t 前一天)) (NP (t 晚上)))
+          (VP (VP (v 躲) (y 了)) (VP (v 起来))))
+        (wd ，)
+        (PP-PRP
+          (c 因为)
+          (IP
+            (NP-SBJ (r 他))
+            (VP
+              (v 害怕)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (LCP-TMP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP (ADVP (ad 公开)) (VP (vi 作证))))
+                    (f 之后))
+                  (VP (v 会) (VP (v 遭到) (NP-OBJ (n 报复))))))))))))
+  (wj 。)))
+</S>

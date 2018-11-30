@@ -1,0 +1,156 @@
+<S>
+( (IP
+  (NP-PN-SBJ (ns 越南) (nl 红十字会))
+  (VP
+    (v 呼吁)
+    (NP-OBJ (NP-APP (NP-PN (ns 美国)) (NP (n 总统))) (NP-PN (nrf 克林顿)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP
+          (v 协助)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 清除)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-TMP (n 越战) (f 期间))
+                      (wd ，)
+                      (NP-SBJ (n 美军))
+                      (VP
+                        (VP (v 使用) (NP-OBJ (nr 成剂)))
+                        (VP
+                          (usuo 所)
+                          (VP (v 造成) (NP-OBJ (-NONE- *T*-1))))))
+                    (ude 的)))
+                (NP (n 区域) (n 污染))))))
+        (wd ，)
+        (VP
+          (ADVP (c 并))
+          (PP-BNF (p 对) (NP (DNP (NP (nr 成剂)) (ude 的)) (NP (n 受害者))))
+          (VP
+            (v 给予)
+            (NP-OBJ
+              (DNP (LCP (NP (n 物质) (c 和) (n 精神)) (f 上)) (ude 的))
+              (NP (n 援助))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (NP
+      (NP-PN (nt 路透社))
+      (DNP (QP (m ２２) (CLP (q 号))) (ude 的))
+      (NP (n 报道))))
+  (wm ：)
+  (NP-PN-SBJ (ns 越南) (nl 红十字会))
+  (VP
+    (NP-TMP (t 最近))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-PN-SBJ (nrf 克林顿) (n 总统))
+          (VP
+            (DVP (ADVP (n 历史性)) (ude 的))
+            (VP (n 访问) (NP-PN-OBJ (ns 越南)))))
+        (f 之际)))
+    (wd ，)
+    (VP
+      (v 交给)
+      (y 了)
+      (NP-PN-IO (nrf 克林顿))
+      (NP-OBJ (QP (m 一) (CLP (q 封))) (NP (n 陈情信)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-SBJ (NP (n 信函)) (f 当中))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (NP-TPC
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (n 美军))
+              (VP
+                (VP
+                  (PP-TMP (p 在) (NP (NP-PN (n 越战)) (NP (f 期间))))
+                  (DVP (ADVP (m 大量)) (ude 的))
+                  (VP
+                    (n 使用)
+                    (NP-OBJ
+                      (NP (n 成剂))
+                      (PRN
+                        (VP
+                          (ADVP (d 也))
+                          (ADVP (d 就))
+                          (VP
+                            (vshi 是)
+                            (NP-PRD
+                              (CP
+                                (WHNP-1 (-NONE- *OP*))
+                                (CP
+                                  (IP
+                                    (NP (-NONE- *PRO*))
+                                    (VP
+                                      (v 俗称)
+                                      (NP-OBJ (-NONE- *T*-1))))
+                                  (ude 的)))
+                              (NP (n 落叶剂)))))))))
+                (VP (usuo 所) (VP (v 造成) (NP-OBJ (-NONE- *T*-2))))))
+            (ude 的)))
+        (NP (n 污染) (n 伤害)))
+      (wd ，)
+      (NP-SBJ (NP-PN (ns 越南)) (NP (n 政府)))
+      (VP
+        (ADVP (d 并))
+        (VP
+          (VP (v 没有) (NP-OBJ (n 能力)))
+          (VP (ADVP (d 独自)) (VP (v 来) (VP (VCD (v 处理) (n 善后)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-TPC
+    (DNP (NP (IP (VP (v 成) (QP (CLP (n 剂))))) (n 污染)) (ude 的))
+    (NP (n 影响)))
+  (NP-PN-SBJ (ns 越南))
+  (VP
+    (DP-ADV (r 每天))
+    (ADVP (d 都))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-TPC (DNP (ADJP (a 无辜)) (ude 的)) (NP (n 新生儿)))
+        (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 出生))) (n 时))
+        (ADVP (p 就))
+        (NP-SBJ (n 身体))
+        (VP (n 畸形)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 成剂))
+    (VP
+      (VRD (v 包含) (vyou 有))
+      (NP-OBJ (NP-APP (ADJP (n 剧毒)) (NP (n 化学) (n 物质))) (NP (n 代奥星)))))
+  (wd ，)
+  (IP
+    (PP-MNR (p 根据) (NP (v 估计)))
+    (NP-SBJ (DNP (NP-PN (ns 越南)) (ude 的)) (NP (n 成剂) (n 受害者) (n 人数)))
+    (VP
+      (ADVP (d 大约))
+      (VP (vshi 是) (NP-PRD (QP (m １００万)) (NP (n 人))))))
+  (wj 。)))
+</S>

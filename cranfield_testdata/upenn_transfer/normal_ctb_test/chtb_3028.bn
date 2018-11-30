@@ -1,0 +1,420 @@
+<S>
+( (IP
+  (PP (ADVP (d 另)) (PP-MNR (p 据) (NP (v 报道))))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ-2 (-NONE- *T*-1))
+            (VP (pbei 被) (VP (v 罢免) (NP-OBJ (-NONE- *-2)))))
+          (ude 的)))
+      (NP-PN (ns 巴基斯坦))
+      (NP (n 总理)))
+    (NP-PN (nrf 谢里夫)))
+  (wd ，)
+  (VP
+    (ADVP (d 已经))
+    (PP-ADV (p 和) (NP (n 军人) (n 政府)))
+    (VP (v 做成) (y 了) (NP-OBJ (QP (m 一) (CLP (q 项))) (NP (n 交易)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (VP (v 接受) (NP-OBJ (n 特赦)))
+      (VP
+        (v 来)
+        (VP
+          (v 换取)
+          (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (VSB (vi 外出) (v 流亡))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (DP (r 这) (CLP (q 位))) (ADJP (f 前)) (NP (n 总理)))
+  (VP
+    (VP
+      (PP-PRP
+        (p 因为)
+        (NP (NP (v 贪污)) (c 和) (NP (DP (r 其他)) (NP (n 罪名)))))
+      (VP
+        (pbei 被)
+        (IP-OBJ
+          (NP-SBJ (n 法庭))
+          (VP (v 判处) (y 了) (NP-IO (-NONE- *-1)) (NP-OBJ (nl 无期徒刑))))))
+    (wd ，)
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 正))
+      (PP-LOC (p 在) (NP (n 监狱)))
+      (VP (vi 服刑))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-TMP (f 下面))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 请)
+    (VP
+      (v 听)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (NP-APP (NP-PN (n 美国之音)) (NP (n 记者)))
+                (NP-PN (nrf 古尔)))
+              (VP
+                (PP-DIR
+                  (p 从)
+                  (NP
+                    (NP-APP (NP-PN (ns 巴基斯坦)) (NP (n 首都)))
+                    (NP-PN (ns 伊斯兰堡))))
+                (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 巴基斯坦))
+      (QP (m 一) (CLP (q 份)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 重要))) (ude 的)))
+      (NP (nz 英文) (n 报纸)))
+    (VP
+      (v 刊载)
+      (y 了)
+      (NP-OBJ (DNP (NP (DP (r 这项)) (NP (n 交易))) (ude 的)) (NP (n 细节)))))
+  (wd ，)
+  (IP
+    (ADVP (c 可是))
+    (NP-SBJ
+      (NP (n 政府))
+      (c 和)
+      (NP
+        (NP
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ-4 (-NONE- *T*-2))
+                        (VP
+                          (pbei 被)
+                          (VP
+                            (IP (VP (v 罢) (NP (n 黜))))
+                            (NP-OBJ (-NONE- *-4)))))
+                      (ude 的)))
+                  (NP-PN (nrf 谢里夫) (n 总理)))
+                (VP (usuo 所) (VP (v 在) (NP-OBJ (-NONE- *T*-3)))))
+              (ude 的)))
+          (NP (n 政党)))
+        (NP (n 成员))))
+    (VP
+      (ADVP (d 都))
+      (ADVP (d 不))
+      (VP
+        (v 愿意)
+        (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 加以) (NP-OBJ (n 证实)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (DNP (NP (n 政府) (n 新闻) (n 部门)) (ude 的)) (NP (n 主管)))
+    (NP-PN (nrf 梅赫穆德)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (r 他))
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 知道)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP (vyou 有) (NP-OBJ (DP (r 这项)) (NP (n 交易)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP (NP (ns 阿里)) (NP (n 沙)))
+      (VP
+        (VP
+          (v 援引)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP-APP
+                  (DNP
+                    (NP
+                      (DP (r 这) (CLP (q 位)))
+                      (ADJP (f 前))
+                      (NP-PN (ns 巴基斯坦))
+                      (NP (n 领导人)))
+                    (ude 的))
+                  (NP (n 妻子)))
+                (NP-PN (nrf 古苏姆)))
+              (ude 的))
+            (NP (n 话))))
+        (VP
+          (v 说)
+          (wm ：)
+          (IP-OBJ
+            (wyz “)
+            (NP-SBJ (r 他们))
+            (VP
+              (ADVP (d 并))
+              (ADVP (d 没有))
+              (PP-DIR (p 向) (NP (n 政府)))
+              (VP (v 请求) (NP-OBJ (n 特赦))))
+            (wyy ”))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 古苏姆))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (CP-CND (ADVP (c 如果)) (IP (NP-SBJ (n 政府)) (VP (v 允许))))
+      (wd ，)
+      (NP-SBJ (r 她))
+      (VP
+        (ADVP (d 随时))
+        (VP
+          (v 愿意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (v 伴随)
+                (NP-OBJ (DNP (NP (r 她)) (ude 的)) (NP (n 丈夫))))
+              (VP (v 前往) (NP-OBJ (n 外国)))
+              (VP (vi 治病))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 她))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DNP (NP (r 她)) (ude 的)) (NP (n 丈夫)))
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 监禁)) (f 中)))
+        (VP
+          (IP (NP (v 患)) (VP (vyou 有)))
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 严重))) (ude 的)))
+            (NP (n 心脏病)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ (n 报道))
+        (VP
+          (v 说)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (NP-PN (nrf 谢里夫)) (NP (n 家族)))
+            (VP
+              (v 同意)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP (v 停止) (NP-OBJ (n 政治) (n 活动)))
+                  (wd ，)
+                  (VP
+                    (c 以)
+                    (VP
+                      (v 换取)
+                      (IP-OBJ
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (VSB (vi 出外) (v 流亡))))))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 可是))
+    (NP-SBJ (DNP (NP-PN (nrf 谢里夫)) (ude 的)) (NP (n 夫人)))
+    (VP (v 否认) (y 了) (NP-OBJ (DP (r 这) (QP (m 一))) (NP (n 说法)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 据说))
+  (wd ，)
+  (NP-SBJ (DNP (NP (DP (r 这项)) (NP (n 交易))) (ude 的)) (NP (n 细节)))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ
+        (NP-PN (nrf 谢里夫))
+        (wn 、)
+        (NP (DNP (NP (r 他)) (ude 的)) (NP (n 夫人)))
+        (wn 、)
+        (NP (DNP (NP (r 他)) (ude 的)) (NP (n 父亲)))
+        (c 和)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (NP-TMP (t 现在))
+                  (ADVP (d 也))
+                  (PP-LOC (p 在) (LCP (NP (n 监狱)) (f 中)))
+                  (VP (vi 服刑))))
+              (ude 的)))
+          (QP (m 一) (CLP (q 名)))
+          (NP (n 兄弟))))
+      (wd ，)
+      (VP
+        (ADVP (d 一起))
+        (VP
+          (VP
+            (v 前往)
+            (NP-OBJ
+              (QP (m 一个))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (d 没有)) (VP (v 指定) (NP-OBJ (n 名字)))))
+                  (ude 的)))
+              (NP (n 国家))))
+          (VP (v 去) (VP (v 流亡)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (QP (m 一) (CLP (q 家)))) (NP (n 人)))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP (QP (NP (t 未来)) (QP (m １０) (CLP (q 年)))) (f 内)))
+    (wd ，)
+    (ADVP (d 将))
+    (ADVP (d 不))
+    (VP (v 会) (VP (v 回到) (NP-PN-OBJ (ns 巴基斯坦)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t １９９９年) (t １０月))
+  (wd ，)
+  (LCP-TMP
+    (IP
+      (NP-PN-SBJ (nrf 谢里夫))
+      (VP
+        (v 准备)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ
+                (NP-APP
+                  (NP (DNP (NP (t 当时)) (ude 的)) (NP (n 陆军) (n 首领)))
+                  (NP
+                    (DNP (NP (t 目前)) (ude 的))
+                    (NP-PN (ns 巴基斯坦))
+                    (NP (n 统治者))))
+                (NP-PN (nrf 穆沙拉夫) (n 将军)))
+              (VP (vi 解职)))))))
+    (n 时))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 发生)
+    (y 了)
+    (NP-OBJ
+      (QP (m 一) (CLP (q 场)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (d 没有) (NP-OBJ (vi 流血))))
+          (ude 的)))
+      (NP (n 军事) (n 政变))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 谢里夫))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP (NP (DP (r 这) (CLP (q 场))) (NP (n 政变))) (f 中)))
+      (VP (v 失去) (y 了) (NP-OBJ (n 政权)))))
+  (wd ，)
+  (IP
+    (ADVP (c 然后))
+    (NP-PN-SBJ-1 (nrf 谢里夫))
+    (VP
+      (PP-MNR (p 以) (NP (DNP (NP (v 绑架)) (ude 的)) (NP (n 罪名))))
+      (VP
+        (pbei 被)
+        (VP (v 判处) (NP-IO (-NONE- *-1)) (NP-OBJ (nl 无期徒刑))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (dl 除此以外))
+  (wd ，)
+  (NP-SBJ (QP (m 一个)) (VP (vi 反) (NP (v 贪污))) (NP (n 法庭)))
+  (VP
+    (PP-TMP (p 在) (NP (t 今年) (VP (a 早) (NP (QP (q 些)) (NP (n 时候))))))
+    (wd ，)
+    (VP
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-PN-SBJ-1 (nrf 谢里夫))
+          (VP
+            (v 判处)
+            (y 了)
+            (NP-IO (-NONE- *-1))
+            (NP-OBJ (QP (m １４) (CLP (q 年))) (NP (n 徒刑))))))
+      (wd ，)
+      (VP
+        (ADVP (c 并且))
+        (VP
+          (v 剥夺)
+          (y 了)
+          (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (nl 政治权利)))))))
+  (wj 。)))
+</S>

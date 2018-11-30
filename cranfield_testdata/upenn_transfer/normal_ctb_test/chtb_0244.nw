@@ -1,0 +1,320 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (v 加强)
+      (NP-OBJ (DNP (NP (n 艾滋病) (n 防治)) (ude 的)) (NP (n 公众) (n 教育)))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 八月)
+  (t 三十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 于长洪)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (NP
+      (IP-APP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 防治)
+          (NP-OBJ
+            (NP-APP
+              (NP (n 人类))
+              (DNP (ADJP (b 共同)) (ude 的))
+              (NP (wyz “) (ADJP (b 超级)) (NP (n 杀手)) (wyy ”)))
+            (NP (n 艾滋病)))))
+      (NP (n 方面))))
+  (wd ，)
+  (NP-PN-SBJ (ns 中国))
+  (VP
+    (ADVP (d 正))
+    (VP (v 做出) (NP-OBJ (DNP (ADJP (z 不懈)) (ude 的)) (NP (an 努力)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 卫生部))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (v 确定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-TMP
+            (p 在)
+            (LCP (QP (NP (t 未来)) (QP (m 几) (CLP (q 年)))) (f 内)))
+          (VP
+            (VP
+              (v 实施)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 项)))
+                (DNP (NP (n 艾滋病) (n 防治)) (ude 的))
+                (NP (n 公众) (n 教育) (n 计划))))
+            (wd ，)
+            (VP
+              (c 以)
+              (VP
+                (ADVP (d 进一步))
+                (VP
+                  (VP (VP (v 提高) (NP-OBJ (n 人们) (v 认识))))
+                  (wd ，)
+                  (VP
+                    (v 增强)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (IP
+                          (NP-SBJ (n 公众))
+                          (VP
+                            (NP-ADV (-NONE- *T*-1))
+                            (ADVP (r 自我))
+                            (VP (n 保护)))))
+                      (NP (n 能力))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (n 世界) (n 范围)) (f 内)))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (n 艾滋病))
+          (VP
+            (NP-ADV (-NONE- *T*-1))
+            (IP (VP (ADVP (v 漫)) (VP (v 延))))))
+        (ude 的)))
+    (NP (n 形势)))
+  (VP (ADVP (m 十分)) (VP (a 严峻)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 尽管))
+    (IP
+      (NP-PN-SBJ (ns 中国))
+      (VP
+        (NP-TMP (t 目前))
+        (VP
+          (v 属于)
+          (NP-OBJ (NP (ADJP (a 低)) (NP (n 感染))) (NP (n 地区)))))))
+  (wd ，)
+  (ADVP (c 但))
+  (NP-SBJ (ad 危险))
+  (VP (ADVP (ad 确实)) (VP (v 存在)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 去年))
+  (wd ，)
+  (NP-SBJ (NP-PN (nt 卫生部)) (c 和) (NP (ADJP (n 有关)) (NP (n 部门))))
+  (VP
+    (VP
+      (v 提出)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (wyz “)
+            (IP (NP-SBJ (v 预防)) (VP (vi 为主)))
+            (wd ，)
+            (IP (NP-SBJ (v 宣传) (v 教育)) (VP (vi 为主)))
+            (wd ，)
+            (IP (NP-SBJ (n 经常性) (n 工作)) (VP (vi 为主)))
+            (wyy ”))
+          (ude 的))
+        (NP (n 艾滋病) (n 防治) (n 策略))))
+    (wd ，)
+    (c 并)
+    (VP (v 得到) (NP-OBJ (DNP (NP-PN (nt 国务院)) (ude 的)) (NP (n 确认)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 即将)) (VP (v 实施))))
+        (ude 的)))
+    (NP (n 公众) (n 教育) (n 计划)))
+  (VP
+    (c 既)
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (DNP (PP (p 对) (NP (an 卫生) (n 技术) (n 人员))) (ude 的))
+        (NP (n 提高) (n 教育))))
+    (wd ，)
+    (d 也)
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (NP
+          (DNP (PP (p 对) (NP (n 门诊) (n 性病) (n 病人))) (ude 的))
+          (ADJP (p 针对))
+          (NP (n 教育)))
+        (c 和)
+        (NP
+          (DNP (NP (ADJP (a 一般)) (NP (n 公众))) (ude 的))
+          (NP (n 常识) (n 教育))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 计划)))
+  (VP
+    (v 得到)
+    (y 了)
+    (NP-OBJ
+      (DNP (NP-PN (ns 英国) (nz 威康) (n 公司)) (ude 的))
+      (ADJP (d 大力))
+      (VCD (vi 支) (v 助))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 日前))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (NP-PN (nt 卫生部)) (p 与) (NP-PN (nz 威康) (n 公司)))
+      (VP (v 签定) (NP-OBJ (n 协议))))
+    (wd ，)
+    (IP
+      (QP-TMP (NP (t 未来)) (QP (m 三) (CLP (q 年))))
+      (NP-PN-SBJ (nz 威康) (n 公司))
+      (VP
+        (PP-DIR (p 向) (NP-PN (nt 卫生部)))
+        (VP
+          (v 提供)
+          (NP-OBJ (QP (m 一百五十万) (CLP (q 元))) (NP (n 人民币)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 用于)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 实施)
+                  (NP-OBJ (DP (r 这) (QP (m 一))) (NP (n 计划)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nz 威康) (n 公司))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (NP-LOC (n 世界)) (ADVP (d 最)) (VP (a 大))))
+            (ude 的)))
+        (NP (n 药剂) (n 企业)))
+      (NP (r 之一))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 总公司)) (ude 的)) (NP (n 科研) (n 工作)))
+    (VP
+      (v 集中)
+      (PP-LOC
+        (p 于)
+        (NP
+          (NP
+            (DNP
+              (NP
+                (n 微生物)
+                (v 感染)
+                (wn 、)
+                (n 心)
+                (n 肺)
+                (n 疾病)
+                (wn 、)
+                (n 癌症)
+                (wn 、)
+                (nl 中枢神经)
+                (n 系统)
+                (n 疾病)
+                (udeng 等))
+              (ude 的))
+            (NP (n 治疗) (n 药物)))
+          (NP (n 方面))))))
+  (wd ，)
+  (IP (NP-SBJ (n 分公司)) (VP (v 遍布) (NP-OBJ (NP (n 世界)) (r 各地))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (QP-TMP (ADVP (a 近)) (QP (m 几) (CLP (q 年))))
+  (wd ，)
+  (NP-PN-SBJ (nz 威康) (n 公司))
+  (VP
+    (VP
+      (v 加强)
+      (NP-OBJ
+        (DNP (PP (p 与) (NP-PN (ns 中国))) (ude 的))
+        (NP (n 经济) (n 合作))))
+    (wd ，)
+    (VP
+      (ADVP (t 现))
+      (ADVP (d 已))
+      (PP-LOC
+        (p 在)
+        (NP-PN (ns 北京) (wn 、) (ns 上海) (wn 、) (ns 广州) (wn 、) (ns 武汉)))
+      (VP (v 开设) (y 了) (NP-OBJ (n 办事处)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 日前))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (NP-APP
+        (NP (NP-PN (NP (n 全国)) (NP (nt 人大))) (NP (n 常委会)))
+        (ADJP (b 副))
+        (NP (n 委员长)))
+      (NP-PN (nr 田纪云) (wn 、) (nr 吴阶平)))
+    (wd ，)
+    (NP (NP-APP (NP-PN (nt 卫生部)) (NP (n 部长))) (NP-PN (nr 陈敏章))))
+  (VP
+    (ADVP (d 分别))
+    (VP
+      (v 会见)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vi 来华))) (ude 的)))
+        (NP-APP
+          (NP-PN (nz 威康) (n 公司))
+          (NP (n 主席) (v 兼) (n 行政) (n 总裁)))
+        (NP-PN (nrf 罗约翰) (n 先生)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

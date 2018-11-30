@@ -1,0 +1,483 @@
+<S>
+( (IP-HLN
+  (IP-SBJ
+    (NP-PN-SBJ (ns 中国))
+    (VP
+      (v 利用)
+      (NP-OBJ (n 草药))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 治疗) (NP-OBJ (n 糖尿病))))))
+  (VP (v 获) (NP-OBJ (ADJP (a 重大)) (NP (n 进展))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t 十二月) (t 十八日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国) (n 中医) (n 研究院)) (NP (n 研究) (n 人员)))
+  (VP
+    (NP-TMP (t 今天))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 已))
+          (DVP (VP (a 成功)) (ude 地))
+          (PP-DIR (p 从) (LCP (NP (n 草药)) (f 中)))
+          (VP
+            (VRD (v 提取) (v 出))
+            (NP-OBJ
+              (NP-APP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (PP-DIR (p 对) (NP (n 糖尿病)))
+                        (VP
+                          (vyou 有)
+                          (NP-OBJ (ADJP (a 特殊)) (NP (n 疗效))))))
+                    (ude 的)))
+                (n 新药))
+              (NP-PN (wyz “) (nz 糖脉康) (wyy ”))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (n 有关)) (NP (n 专家)))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP (NP (DP (r 这) (QP (m 一))) (n 新药)) (ude 的))
+        (NP (n 研制) (an 成功) (c 和) (n 推广)))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 有助于)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 抑制)
+              (NP-OBJ
+                (NP (n 糖尿病) (NP (nx II)) (NP (k 型)))
+                (DNP
+                  (PP
+                    (p 在)
+                    (NP
+                      (NP-PN-APP
+                        (ns 中国)
+                        (wn 、)
+                        (ns 印度)
+                        (c 和)
+                        (ns 非洲)
+                        (udeng 等))
+                      (nl 发展中国家)))
+                  (ude 的))
+                (NP (n 流行)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-LOC
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 中国) (n 中医) (n 研究院)))
+              (VP (v 召开))))
+          (ude 的)))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (PP-LGS
+                (p 由)
+                (NP
+                  (DNP
+                    (NP
+                      (NP-PN-APP
+                        (NP-PN (ns 中国) (n 科学院))
+                        (wn 、)
+                        (NP-PN (ns 中国) (n 医学) (n 科学院))
+                        (udeng 等))
+                      (NP (n 单位)))
+                    (ude 的))
+                  (NP (n 院士) (wn 、) (n 医学) (n 专家) (c 和) (n 生物学家))))
+              (VP (v 参加))))
+          (ude 的)))
+      (NP-TTL-PN (wyz “) (n 糖尿病) (n 防治) (n 对策) (n 讨论会) (wyy ”)))
+    (f 上))
+  (wd ，)
+  (NP-SBJ (n 记者))
+  (VP
+    (VRD (v 了解) (v 到))
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 目前))
+        (NP-SBJ (n 全世界))
+        (VP
+          (vyou 有)
+          (NP-OBJ (n 糖尿病) (n 患者))
+          (NP-EXT (QP (QP (m 一点三亿)) (ADVP (m 多))) (NP (n 人)))))
+      (wd ，)
+      (IP
+        (NP-ADV (r 其中))
+        (LCP-SBJ (QP (m 百分之九十)) (f 以上))
+        (VP (v 为) (NP-PRD (n 糖尿病) (NP (nx II)) (NP (k 型)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 专家))
+  (VP
+    (v 预测)
+    (wd ，)
+    (IP-OBJ
+      (PP
+        (p 随着)
+        (NP
+          (NP (n 经济) (n 发展))
+          (wn 、)
+          (NP (DNP (NP (n 生活) (n 水平)) (ude 的)) (NP (n 提高)))
+          (c 和)
+          (NP (DNP (NP (n 饮食) (n 习惯)) (ude 的)) (NP (n 改善)))))
+      (wd ，)
+      (PP-TMP (p 到) (NP (QP (m 二十一)) (NP (n 世纪))))
+      (wd ，)
+      (NP-SBJ (n 糖尿病) (NP (nx II) (k 型)))
+      (VP
+        (ADVP (d 将))
+        (PP-LOC
+          (p 在)
+          (NP
+            (NP-PN-APP
+              (ns 中国)
+              (wn 、)
+              (ns 印度)
+              (c 和)
+              (ns 非洲)
+              (udeng 等))
+            (nl 发展中国家)))
+        (VP (v 流行)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (dl 近年来))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 美国)) (DP (r 每年)) (NP (n 糖尿病) (n 医疗费)))
+    (VP (QP-PRD (ADVP (d 约)) (QP (m 一百亿) (CLP (q 美元))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 印度)) (NP (t 去年) (n 糖尿病) (n 医疗费)))
+    (VP (v 为) (QP-PRD (m 六点一亿) (CLP (q 美元)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (ns 中国))
+    (VP (ADVP (d 尚)) (VP (v 无) (NP-OBJ (ADJP (a 具体)) (NP (n 统计))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (NP-PN (ns 中国)) (NP (n 糖尿病) (n 人数)))
+    (VP
+      (ADVP (d 正))
+      (PP-MNR
+        (p 以)
+        (NP
+          (DNP
+            (NP (DP (r 每年)) (QP (m 七十五万)) (ADJP (a 新)) (NP (n 患者)))
+            (ude 的))
+          (NP (n 速度))))
+      (VP (vi 递增))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 研究) (n 人员))
+  (VP
+    (VP (v 介绍))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (NP-LOC (s 国外))
+                  (NP-TMP (t 目前))
+                  (ADVP (ad 普遍))
+                  (VP (v 使用) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (DP (r 各种))
+          (ADJP (NP (n 化学)) (ADJP (n 合成)))
+          (n 降糖药))
+        (VP
+          (PP-DIR (p 对) (NP (n 糖尿病) (n 并发症)))
+          (ADVP (d 均))
+          (VP
+            (v 无)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (ADVP (d 多)) (VP (a 大)))))
+              (NP (n 防治) (n 作用))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (wyz “) (nz 糖脉康) (wyy ”)) (NP (n 颗粒)))
+    (VP
+      (VP
+        (c 不仅)
+        (VP (v 降低) (NP-OBJ (n 血糖)))
+        (wd ，)
+        (c 而且)
+        (VP
+          (ADVP (d 还))
+          (VP
+            (v 能)
+            (VP
+              (ADVP (ad 显著))
+              (VP
+                (v 降低)
+                (NP-OBJ
+                  (n 胆固醇)
+                  (c 和)
+                  (NP (NP (n 甘油)) (QP (m 三)) (NP (n 脂)))))))))
+      (wd ，)
+      (VP
+        (PP-DIR (p 对) (NP (n 糖尿病) (n 并发症)))
+        (VP (vyou 有) (NP-OBJ (ADJP (a 特殊)) (NP (n 疗效)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (nt 卫生部))
+    (VP
+      (VP (ADVP (d 已)) (VP (v 颁发) (NP-OBJ (n 文件))))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (r 其))
+          (VP
+            (v 定为)
+            (NP-OBJ (ADJP (b 国家级)) (NP (n 新药)) (NP (n 保密) (n 品种))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (NP-APP
+          (NP (NP-PN (nt 中科院)) (NP (n 院士)) (wn 、))
+          (NP
+            (NP-PN (n 世界) (an 卫生) (n 组织))
+            (NP (n 传统) (n 医学) (n 顾问))))
+        (NP-PN (nr 陈可冀)))
+      (udeng 等))
+    (ADJP (n 与会))
+    (NP (n 专家) (n 教授)))
+  (VP
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP-PN (wyz “) (nz 糖脉康) (wyy ”)) (ude 的))
+          (NP (n 问世)))
+        (VP (vshi 是) (NP-PRD (CLP (q 件)) (n 好事)))))
+    (wd ，)
+    (VP
+      (ADVP (c 同时))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (n 研究) (n 人员))
+          (VP
+            (VP
+              (PP-DIR
+                (p 对)
+                (NP (n 胰岛素) (c 和) (IP (NP (n 血流)) (VP (v 变)))))
+              (VP (v 做) (NP-OBJ (ADJP (d 进一步)) (NP (v 观察)))))
+            (wd ，)
+            (VP
+              (PP-DIR
+                (p 对)
+                (NP
+                  (DNP (NP-PN (wyz “) (nz 糖脉康) (wyy ”)) (ude 的))
+                  (NP
+                    (NP (ADJP (a 有效)) (NP (n 成分)))
+                    (c 和)
+                    (NP (n 机理)))))
+              (VP (v 做) (NP-OBJ (NP (ad 深入)) (NP (v 研究)))))
+            (wd ，)
+            (VP
+              (v 使)
+              (NP-OBJ (r 其))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-LOC (p 在) (LCP (NP (n 国际)) (f 上)))
+                  (wd ，)
+                  (PP-LOC
+                    (ADVP (v 包括))
+                    (PP
+                      (p 在)
+                      (LCP
+                        (NP
+                          (DNP (PP (p 与) (NP (nl 发达国家))) (ude 的))
+                          (NP (n 竞争)))
+                        (f 中))))
+                  (VP (vl 立于不败之地))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 增强)
+        (IP-OBJ
+          (NP-SBJ
+            (NP-PN-APP (wyz “) (nz 糖脉康) (wyy ”))
+            (DP (r 这) (CLP (q 类)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 面向) (NP-OBJ (QP (m 二十一)) (NP (n 世纪)))))
+                (ude 的)))
+            (NP (n 中药))
+            (n 新药))
+          (VP
+            (PP-LOC (p 在) (LCP (NP (n 国际) (n 市场)) (f 上)))
+            (VP (vyou 有) (NP-OBJ (n 竞争力))))))))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 中国) (n 中医) (n 研究院))
+    (NP-PN (nz 中汇) (n 制药) (n 公司)))
+  (VP
+    (VP (v 投资) (QP-OBJ (m 两亿) (CLP (q 元))))
+    (VP-PRP
+      (PP-LOC (p 在) (NP-PN (ns 四川) (ns 成都)))
+      (VP
+        (v 建成)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-2))
+                (NP-SBJ (ADJP (q 年)) (NP (nl 生产能力)))
+                (VP (v 为) (QP-PRD (m 五十亿) (CLP (q 元)))))
+              (ude 的)))
+          (NP (n 生产) (n 基地))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 预计)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 明年))
+        (NP-SBJ
+          (DNP (NP-PN (wyz “) (nz 糖脉康) (wyy ”)) (ude 的))
+          (NP (n 产值)))
+        (VP (ADVP (d 将)) (VP (v 达到) (QP-OBJ (m 六亿) (CLP (q 元))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (NP (NP (m 二０００)) (NP (q 年)))
+          (ADVP (d 将))
+          (VP (v 达到) (QP-OBJ (m 十五亿) (CLP (q 元))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 了解)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-LOC (n 全世界))
+      (DP-ADV (r 每年))
+      (NP-SBJ (DNP (NP (n 草药)) (ude 的)) (NP (n 销售额)))
+      (VP (QP-PRD (ADVP (d 约)) (QP (m 一百五十亿) (CLP (q 美元))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (NP-PN (ns 中国)) (NP (n 中药) (n 出口)))
+      (VP (ADVP (d 只)) (VP (vyou 有) (QP-OBJ (m 六亿) (CLP (q 美元))))))
+    (wd ，)
+    (c 而且)
+    (IP
+      (LCP-SBJ (QP (m 百分之七十)) (f 以上))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 未)) (VP (v 加) (NP-OBJ (n 附加值)))))
+              (ude 的)))
+          (NP (n 药材))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 医药界) (n 专家))
+  (VP
+    (v 预测)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (NP
+          (DNP (NP-PN (wyz “) (nz 糖脉康) (wyy ”)) (ude 的))
+          (NP (n 推广)))
+        (c 和)
+        (NP (DNP (NP (n 生产) (n 基地)) (ude 的)) (NP (n 建成))))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (vl 有利于)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 改变)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (ADJP (b 国产)) (NP (n 中药)))
+                    (VP
+                      (PP-LOC (p 在) (NP (n 国际) (n 中药) (n 市场)))
+                      (VP (a 不景气))))
+                  (ude 的))
+                (NP (n 局面)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

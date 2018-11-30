@@ -1,0 +1,39 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 辽宁省) (ns 绥中县) (NP (n 地毯) (n 厂))) (NP (n 产品)))
+  (VP
+    (VP
+      (v 畅销)
+      (NP-OBJ
+        (NP-PN-APP (ns 美国) (wn 、) (ns 日本) (wn 、) (ns 比利时) (udeng 等))
+        (NP (n 国家) (c 和) (n 地区))))
+    (wd ，)
+    (VP (vl 供不应求)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 该厂))
+          (VP (VRD (v 织) (v 出)) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP (NP (ADJP (b 天然)) (NP (n 色))) (n 地毯)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 去年))
+    (VP
+      (v 获)
+      (NP-OBJ
+        (NP-PN (ns 辽宁省))
+        (NP-PN (wyz “) (nz 天马) (wyy ”))
+        (ADJP (b 优质))
+        (NP (n 奖)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (r 本报) (n 记者) (nr 张雅心) (v 摄)))
+</S>

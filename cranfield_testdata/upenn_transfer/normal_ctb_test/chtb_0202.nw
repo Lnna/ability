@@ -1,0 +1,63 @@
+<S>
+( (IP
+  (NP-SBJ (r 该剧))
+  (VP
+    (p 将)
+    (IP-OBJ
+      (NP-SBJ
+        (QP (m 一个))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 较为)) (VP (a 常见))))
+            (ude 的)))
+        (CP-APP (IP (NP-SBJ (-NONE- *PRO*)) (VP (nl 悲欢离合))) (ude 的))
+        (NP (n 题材)))
+      (wd ，)
+      (VP
+        (VP
+          (VRD (v 开创) (v 出))
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (b 全新))) (ude 的)))
+            (NP (n 艺术) (n 情境))))
+        (wd ，)
+        (VP
+          (v 显示)
+          (y 了)
+          (NP-OBJ (DNP (NP (n 悲剧)) (ude 的)) (NP (n 艺术) (n 魅力)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (IP
+    (NP-SBJ (n 上图))
+    (VP
+      (v 为)
+      (NP-PRD
+        (CP-APP
+          (IP
+            (NP-SBJ (NP (ADJP (b 女)) (NP (n 奴))) (n 妹妹))
+            (VP (v 找) (NP-OBJ (n 皇帝) (n 哥哥))))
+          (ude 的))
+        (QP (m 一个))
+        (NP (n 镜头)))))
+  (wf ；)
+  (IP
+    (NP (DP (f 下)) (NP (n 图)))
+    (VP
+      (v 为)
+      (NP-PRD
+        (CP
+          (IP (NP-SBJ (n 母子)) (VP (ADVP (d 相)) (VP (v 认))))
+          (ude 的))
+        (QP (m 一个))
+        (NP (n 镜头)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (nr 罗明扬) (v 摄)))
+</S>

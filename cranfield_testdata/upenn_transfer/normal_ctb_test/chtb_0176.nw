@@ -1,0 +1,200 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nt 安理会))
+  (VP
+    (v 决定)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 召开) (NP-OBJ (ADJP (a 秘密)) (NP (n 会议))))))))
+</S>
+<S>
+( (FRAG (p 据) (nt 新华社) (nt 联合国) (t ２月) (t １３日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 联合国) (nt 安理会))
+  (VP
+    (NP-TMP (t １３日))
+    (VP
+      (v 决定)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (PP-TMP (p 在) (NP (t １４日)))
+            (VP
+              (v 举行)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 次)))
+                (ADJP (a 秘密))
+                (NP (n 会议)))))
+          (wd ，)
+          (VP
+            (PP-DIR (p 对) (NP (n 海湾) (n 冲突)))
+            (VP (v 进行) (NP-OBJ (n 磋商))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (QP (m 几) (CLP (q 个))) (NP (n 星期))) (f 以来))
+  (wd ，)
+  (NP-PN-SBJ (NP-PN (ns 古巴) (c 和) (ns 也门) (udeng 等)) (NP (n 国)))
+  (VP
+    (v 要求)
+    (NP-PN-OBJ (nt 安理会))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 举行) (NP-OBJ (ADJP (a 正式)) (NP (n 会议))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它们))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-PN-SBJ (ns 美国))
+                (VP (vi 为首)))
+              (ude 的)))
+          (NP (QP (a 多)) (NP (n 国)))
+          (NP (n 部队)))
+        (DNP (PP (p 对) (NP-PN (ns 伊拉克))) (ude 的))
+        (NP (n 空袭)))
+      (VP
+        (v 超越)
+        (y 了)
+        (NP-OBJ (DNP (NP-PN (nt 安理会)) (ude 的)) (NP (n 授权) (n 范围))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ (NP-PN-APP (ns 美国) (c 和) (ns 英国) (udeng 等)) (NP (n 国)))
+  (VP
+    (v 反对)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 召开) (NP-OBJ (ADJP (a 正式)) (NP (n 会议))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 举行) (NP-OBJ (ADJP (a 秘密)) (NP (n 会议)))))
+      (ude 的))
+    (NP (n 提案)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (PP-LGS (p 由) (NP-PN (ns 英国))) (VP (v 提出))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP (QP (m １５) (CLP (q 个))) (NP-PN (nt 安理会)) (NP (n 成员国)))
+      (ude 的))
+    (ADJP (n 投票))
+    (NP (n 结果)))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-PRD
+      (IP (NP-SBJ (QP (m ９)) (NP (q 票))) (VP (v 赞成)))
+      (wd ，)
+      (IP (NP-SBJ (QP (m ２)) (NP (q 票))) (VP (v 反对)))
+      (wd ，)
+      (IP (NP-SBJ (QP (m ４)) (NP (q 票))) (VP (vi 弃权)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 美) (wn 、) (ns 英) (wn 、) (ns 法) (wn 、) (ns 苏))
+    (VP (v 投) (y 了) (NP-OBJ (n 赞成票))))
+  (wd ，)
+  (IP (NP-PN-SBJ (ns 中国)) (VP (vi 弃权)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ
+    (NP-APP
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (IP
+          (NP-PN-TPC (ns 英国))
+          (NP-SBJ (-NONE- *T*-2))
+          (VP (v 驻) (NP-PN-OBJ (nt 联合国)))))
+      (NP (n 大使)))
+    (NP-PN (nrf 汉内)))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 提出) (NP-OBJ (DP (r 这) (QP (m 一))) (NP (n 议案)))))
+        (n 时)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (PP-ADV
+            (c 由于)
+            (IP
+              (NP-TMP (t 当前))
+              (NP-SBJ (n 情况))
+              (VP (wyz “) (a 特殊) (wyy ”))))
+          (wd ，)
+          (NP-PN-SBJ (nt 安理会))
+          (VP (v 应该) (VP (ADVP (ad 秘密)) (VP (v 举行)))))
+        (wd ，)
+        (IP
+          (NP-PN-SBJ (nt 安理会))
+          (VP
+            (d 必须)
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (CP-APP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (v 没有)
+                          (IP
+                            (NP-SBJ
+                              (NP (n 记者))
+                              (c 和)
+                              (NP (DP (r 其他)) (NP (n 公众))))
+                            (VP (v 参加)))))
+                      (ude 的))
+                    (NP (n 情况)))
+                  (f 下)))
+              (ADVP (ad 仔细))
+              (VP
+                (v 考虑)
+                (NP-OBJ (DNP (DP (b 所有)) (ude 的)) (NP (n 事态) (n 发展))))))))))
+  (wj 。)))
+</S>

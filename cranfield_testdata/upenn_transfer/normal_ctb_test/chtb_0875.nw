@@ -1,0 +1,349 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 经贸) (n 代表团)))
+  (VP (VP (v 访) (NP-OBJ-PN (ns 美))) (VP (v 取得) (NP-OBJ (n 成果))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 华盛顿)
+  (t １０月)
+  (t ２７日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 翟景升)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (NP-APP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (ADVP (d 正))
+                  (PP-LOC (p 在) (NP-PN (ns 美国)))
+                  (VP (v 访问))))
+              (ude 的)))
+          (NP-PN (ns 中国))
+          (NP (n 经贸) (n 代表团)))
+        (NP (n 团长)))
+      (wn 、)
+      (NP-APP (NP-PN (n 国家) (nt 计委)) (ADJP (b 副)) (NP (n 主任)))
+      (NP-PN (nr 曾培炎)))
+    (c 和)
+    (NP
+      (NP-APP (n 代表团) (NP (ADJP (b 副)) (NP (n 团长))))
+      (wn 、)
+      (NP-APP (NP-PN (nt 外经贸部)) (ADJP (b 副)) (NP (n 部长)))
+      (NP-PN (nr 孙振宇))))
+  (VP
+    (NP-TMP (t ２７日))
+    (VP
+      (VP
+        (PP-LOC (p 在) (NP (r 这里)))
+        (VP (v 举行) (NP-OBJ (n 新闻) (n 发布会))))
+      (wd ，)
+      (VP
+        (v 表示)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-DIR
+              (p 对)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (NP-TMP (t 今后))
+                  (VP
+                    (v 发展)
+                    (NP-OBJ (NP-PN (ns 中) (ns 美)) (NP (n 经贸) (n 关系)))))))
+            (VP (v 充满) (NP-OBJ (n 信心))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 曾培炎))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 这))
+      (VP
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (NP-PN (ns 中国)) (NP (n 经贸) (n 代表团)))
+            (VP
+              (QP-ADV (m 第六) (CLP (q 次)))
+              (VP (v 访问) (NP-PN-OBJ (ns 美国))))))
+        (wd ，)
+        (VP
+          (ADVP (d 也))
+          (VP
+            (vshi 是)
+            (QP-PRD
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (n 规模))
+                    (VP (ADVP (d 最)) (VP (a 大))))
+                  (ude 的)))
+              (QP (m 一) (CLP (q 次)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (NP-PN-APP (ns 中) (ns 美)) (NP (n 双方))) (NP (n 企业)))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (v 签订)
+        (y 了)
+        (NP-OBJ (QP (m 一) (CLP (q 系列))) (NP (n 合同) (c 和) (n 协议))))))
+  (wd ，)
+  (IP (NP-SBJ (n 总额)) (VP (v 达) (QP-OBJ (m ４２．６亿) (CLP (q 美元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (c 不仅)
+    (VP
+      (v 显示)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (NP-PN (ns 中国)) (NP (n 政府)))
+              (VP
+                (PP-PRP
+                  (p 为)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (v 解决)
+                      (NP-OBJ
+                        (CP
+                          (WHNP-1 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ
+                                (NP (QP (m 两)) (NP (n 国)))
+                                (NP (n 贸易)))
+                              (VP (v 存在) (NP-OBJ (-NONE- *T*-1))))
+                            (ude 的)))
+                        (NP (n 问题))))))
+                (VP (v 采取) (NP-OBJ (-NONE- *T*-2)))))
+            (ude 的)))
+        (ADJP (a 积极))
+        (NP (n 措施))))
+    (wd ，)
+    (d 也)
+    (VP
+      (v 带来)
+      (y 了)
+      (NP-OBJ
+        (IP-APP
+          (NP-PN-SBJ (ns 中国))
+          (VP
+            (v 鼓励)
+            (NP-OBJ (-NONE- *pro*))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 发展) (NP-OBJ (NP-PN (ns 中) (ns 美)) (NP (n 贸易)))))))
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 新))) (ude 的)))
+        (NP (n 信息)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (DP (r 此次)) (NP (n 代表团)))
+          (VP
+            (PP-DIR
+              (p 对)
+              (LCP
+                (NP
+                  (DNP
+                    (NP
+                      (NP-PN (ns 洛杉矶) (wn 、) (ns 纽约) (c 和) (ns 华盛顿))
+                      (NP (n 地区)))
+                    (ude 的))
+                  (NP (n 访问)))
+                (f 中)))
+            (ADVP (d 已))
+            (VP (v 达成) (NP-OBJ (-NONE- *T*-1))))))
+      (NP (n 商品) (n 采购) (n 合同) (c 与) (n 协议) (n 总额)))
+    (VP (v 为) (QP-PRD (m ２６．６亿) (CLP (q 美元)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (v 包括)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 购买)
+          (NP-OBJ
+            (NP
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (n 价值))
+                    (VP (QP-PRD (m １９亿) (CLP (q 美元)))))
+                  (ude 的)))
+              (NP-PN (b 波音))
+              (NP (n 客机)))
+            (wd ，)
+            (c 以及)
+            (NP
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-3))
+                    (NP-SBJ (n 价值))
+                    (VP (QP-PRD (m ７．６亿) (CLP (q 美元)))))
+                  (ude 的)))
+              (NP
+                (n 化肥)
+                (wn 、)
+                (n 石油)
+                (wn 、)
+                (n 汽车)
+                (n 配件)
+                (c 和)
+                (n 发电机组))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 此外))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 中国)) (NP (n 方面)))
+    (VP
+      (ADVP (d 还))
+      (PP (p 同) (NP (n 美方)))
+      (VP
+        (v 达成)
+        (y 了)
+        (NP-OBJ
+          (DNP
+            (NP (QP (m 一些)) (NP (n 商品) (v 采购) (c 和) (v 合作)))
+            (ude 的))
+          (NP (n 意向) (n 协议))))))
+  (wd ，)
+  (IP (NP-SBJ (n 总价值)) (VP (QP-PRD (m １６亿) (CLP (q 美元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (NP-TMP (t 今年))
+      (NP-SBJ
+        (NP (NP-PN (ns 美国)) (PP (p 对) (NP-PN (n 华))) (NP (n 贸易)))
+        (NP (n 逆差)))
+      (VP (ADVP (d 还)) (VP (v 会) (VP (ADVP (d 进一步)) (VP (v 扩大)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (ADVP (d 主要))
+    (VP
+      (vshi 是)
+      (PP-PRD
+        (c 由于)
+        (NP
+          (IP-APP
+            (IP
+              (NP-SBJ (ADJP (a 新)) (NP (n 税收) (n 制度)))
+              (VP
+                (v 影响)
+                (y 了)
+                (NP-OBJ (QP (m 部分)) (NP (n 机械) (n 进口)))))
+            (wd ，)
+            (IP
+              (IP-SBJ
+                (NP-SBJ (NP-PN (ns 中国)) (NP (n 粮食)))
+                (VP (n 丰收)))
+              (VP
+                (v 减少)
+                (y 了)
+                (NP-OBJ
+                  (DNP (PP (p 从) (NP-PN (ns 美国))) (ude 的))
+                  (NP (n 进口)))))
+            (udeng 等))
+          (NP (n 因素))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 方面)))
+  (VP
+    (VP
+      (ADVP (d 将))
+      (VP
+        (VP (PP (p 同) (NP (n 美方))) (VP (v 合作)))
+        (wd ，)
+        (VP
+          (v 推动)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 扩大)
+              (NP-OBJ
+                (NP-PN (ns 美国))
+                (PP (p 对) (NP-PN (n 华)))
+                (NP (vi 出口))))))))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (ns 美国)) (NP (n 银行)))
+          (VP
+            (DFL (v 给) (p 于))
+            (NP-IO (PP (p 对) (NP-PN (n 华))) (NP (vi 出口)))
+            (PP
+              (p 以)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 积极)))
+                    (ude 的)))
+                (NP (n 支持)))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

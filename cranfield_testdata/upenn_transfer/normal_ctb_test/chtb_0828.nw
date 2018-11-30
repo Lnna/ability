@@ -1,0 +1,673 @@
+<S>
+( (NP-HLN (n 国际) (n 资料) (wm ：)))
+</S>
+<S>
+( (NP-HLN
+  (DNP (NP (NP (n 国际) (n 货币)) (n 大家庭)) (ude 的))
+  (ADJP (a 新))
+  (NP (n 成员))
+  (PRN (wp —) (NP (n 欧元)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t １２月)
+  (t ３１日)
+  (n 电)
+  (n 国际)
+  (n 资料)
+  (wm ：)
+  (n 国际)
+  (n 货币)
+  (n 大家庭)
+  (ude 的)
+  (a 新)
+  (n 成员)
+  (wp —)
+  (n 欧元)))
+</S>
+<S>
+( (FRAG (nt 新华社) (n 记者) (nr 姜憬莉)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t １９９９年) (t １月) (t １日))
+  (wd ，)
+  (NP-SBJ (n 欧元))
+  (VP
+    (v 开始)
+    (VP
+      (PP-LOC (p 在) (NP (NP-PN (nt 欧盟)) (QP (m １１)) (NP (n 国))))
+      (ADVP (ad 正式))
+      (VP (v 使用))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 欧元))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP-APP
+        (IP
+          (NP-SBJ (NP-PN (nt 欧盟)) (NP (n 国家)))
+          (VP
+            (PP-PRP
+              (p 为)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 建立)
+                  (NP-OBJ
+                    (QP (m 一个))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP (VRD (v 联合) (v 起来))))
+                        (ude 的)))
+                    (ADJP (a 强大))
+                    (NP-PN (ns 欧洲))))))
+            (VP
+              (c 而)
+              (VP
+                (v 采取)
+                (NP-OBJ
+                  (DNP (ADJP (b 共同)) (ude 的))
+                  (NP (n 经济) (n 政策) (c 和) (n 货币) (n 政策)))))))
+        (ude 的))
+      (NP (n 产物))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 它))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (QP (m 一) (CLP (q 种)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (v 具有)
+              (NP-OBJ (NP (ADJP (b 法定)) (NP (n 货币))) (NP (n 地位)))))
+          (ude 的)))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (NP-OBJ
+                (CP-APP (IP (NP-SBJ (-NONE- *PRO*)) (VP (b 超国家))))
+                (NP (n 性质)))))
+          (ude 的)))
+      (NP (n 货币))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 欧元)) (ude 的)) (NP (n 前身)))
+    (VP (vi 叫) (NP-OBJ (wyz “) (n 埃居) (wyy ”))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (nt 欧共体))
+                (VP
+                  (PP-TMP
+                    (p 于)
+                    (LCP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (NP-TMP (t １９７９年))
+                          (VP
+                            (v 实施)
+                            (NP-OBJ
+                              (NP (NP-PN (ns 欧洲)) (NP (n 货币)))
+                              (NP (n 体系))))))
+                      (n 时)))
+                  (VP (v 创立) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))))
+      (wd ，)
+      (VP
+        (d 用以)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP
+              (VP
+                (n 清算)
+                (NP-OBJ
+                  (DNP (LCP (NP (n 成员国)) (f 之间)) (ude 的))
+                  (NP (n 国际) (n 收支))))
+              (VP (p 以) (VP (v 充当) (NP-OBJ (n 外汇) (n 储备)))))
+            (c 以及)
+            (VP
+              (v 作为)
+              (NP-OBJ
+                (CP
+                  (WHPP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (PP-MNR (-NONE- *T*-3))
+                        (VP (n 计算) (NP-OBJ (n 中心) (n 汇率) (n 标准)))))
+                    (ude 的)))
+                (NP (n 货币) (n 单位)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 发行) (NP-OBJ (n 欧元))))
+    (f 以后))
+  (wd ，)
+  (NP-SBJ (wyz “) (n 埃居) (wyy ”))
+  (VP (ADVP (d 将)) (VP (v 退出) (NP-OBJ (n 历史) (n 舞台))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (QP (m ６０)) (NP (n 年代))) (f 末))
+  (wd ，)
+  (PP-PRP
+    (p 为)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 适应)
+        (NP-OBJ (DNP (NP (n 国际) (n 金融) (n 形势)) (ude 的)) (NP (n 变化))))))
+  (wd ，)
+  (NP-PN-SBJ (nt 欧共体) (ns 海牙) (n 首脑) (n 会议))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 提出)
+      (NP-OBJ (DNP (NP-PN (ns 欧洲) (nt 经货联盟)) (ude 的)) (NP (n 设想)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 随着)
+    (NP
+      (DNP
+        (NP (NP (NP-PN (ns 欧洲)) (NP (n 经济))) (NP (vi 一体化)))
+        (ude 的))
+      (ADJP (d 不断))
+      (NP (v 深入))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (LCP-TMP (QP (m １０) (CLP (q 年))) (f 后))
+    (ADVP (d 终于))
+    (VP
+      (v 建立)
+      (y 了)
+      (NP-OBJ (NP (NP-PN (ns 欧洲)) (NP (n 货币))) (NP (n 体系)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t １９９１年) (t １２月))
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP
+                  (NP-PN (nt 欧共体))
+                  (QP (m 第４６) (CLP (q 届)))
+                  (NP (n 首脑) (n 会议)))
+                (f 上)))
+            (VP (v 通过))))
+        (ude 的)))
+    (NP-PN-TTL (wkz 《) (ns 马斯特里赫特) (n 条约) (wky 》)))
+  (VP
+    (ADVP (d 又))
+    (PP-PRP
+      (p 为)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 实现) (NP-OBJ (ADJP (a 单一)) (NP (n 货币))))))
+    (VP
+      (v 规定)
+      (y 了)
+      (NP-OBJ (NP (ADJP (a 具体)) (NP (n 条件))) (c 和) (NP (n 时间表)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 今年) (t ５月) (t ２日))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (PP-LOC (p 在) (NP-PN (ns 布鲁塞尔))) (VP (v 举行))))
+          (ude 的)))
+      (NP (NP-PN (nt 欧盟)) (QP (m １５)) (NP (n 国)))
+      (ADJP (a 特别))
+      (NP (n 首脑) (n 会议)))
+    (VP
+      (v 确定)
+      (y 了)
+      (NP-OBJ
+        (NP
+          (QP (m 首) (CLP (q 批)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (v 使用) (NP-OBJ (n 欧元))))
+              (ude 的)))
+          (QP (m １１) (CLP (q 个)))
+          (NP (n 国家)))
+        (NP (n 名单)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它们))
+    (VP
+      (vshi 是)
+      (wm ：)
+      (NP-PN-PRD
+        (ns 法国)
+        (wn 、)
+        (ns 德国)
+        (wn 、)
+        (ns 意大利)
+        (wn 、)
+        (ns 西班牙)
+        (wn 、)
+        (ns 比利时)
+        (wn 、)
+        (ns 荷兰)
+        (wn 、)
+        (ns 卢森堡)
+        (wn 、)
+        (ns 葡萄牙)
+        (wn 、)
+        (ns 奥地利)
+        (wn 、)
+        (ns 芬兰)
+        (c 和)
+        (ns 爱尔兰))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (ADVP (d 将))
+            (PP-TMP (p 在) (NP (t ２００２年)))
+            (VP (VCD (vi 上市) (vi 流通)))))
+        (ude 的)))
+    (NP (n 欧元)))
+  (VP
+    (v 分)
+    (QP-OBJ (NP-APP (n 纸币) (c 和) (n 硬币)) (QP (m 两) (CLP (q 种)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 欧元) (n 纸币))
+    (VP (QP-PRD (ADVP (d 共)) (QP (m ７) (CLP (q 张))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 面值))
+    (VP
+      (ADVP (d 分别))
+      (VP
+        (v 为)
+        (QP-PRD
+          (QP (m ５) (CLP (-NONE- *RNR*-1)))
+          (wn 、)
+          (QP (m １０) (CLP (-NONE- *RNR*-1)))
+          (wn 、)
+          (QP (t ２０) (CLP (-NONE- *RNR*-1)))
+          (wn 、)
+          (QP (m ５０) (CLP (-NONE- *RNR*-1)))
+          (wn 、)
+          (QP (m １００) (CLP (-NONE- *RNR*-1)))
+          (wn 、)
+          (QP (m ２００) (CLP (-NONE- *RNR*-1)))
+          (c 和)
+          (QP (m ５００) (CLP-1 (q 欧元)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 底色))
+    (VP
+      (v 为)
+      (ADJP-PRD
+        (a 灰)
+        (wn 、)
+        (a 红)
+        (wn 、)
+        (a 蓝)
+        (wn 、)
+        (b 橘红)
+        (wn 、)
+        (a 绿)
+        (wn 、)
+        (a 黄)
+        (c 和)
+        (NP (ADJP (a 淡)) (NP (n 紫色))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (b 正面)) (ude 的)) (NP (n 图案)))
+    (VP
+      (VP
+        (vshi 是)
+        (NP-PRD (DNP (NP (n 窗户) (c 和) (n 建筑物)) (ude 的)) (NP (n 大门))))
+      (wd ，)
+      (VP
+        (v 象征)
+        (uzhe 着)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 欧洲))
+          (VP (PP-DIR (p 向) (NP (n 世界))) (VP (v 开放)))))))
+  (wf ；)
+  (IP
+    (NP-SBJ (f 背面))
+    (VP
+      (VP (vshi 是) (NP-PRD (QP (m 一) (CLP (q 座))) (NP (n 桥))))
+      (wd ，)
+      (VP (v 象征) (uzhe 着) (NP-OBJ (n 交流) (c 与) (n 沟通)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (n 钞票)) (ude 的))
+    (DP (r 每种))
+    (NP (n 色彩) (c 和) (n 建筑) (n 图案)))
+  (VP
+    (n 代表)
+    (NP-OBJ
+      (NP-APP
+        (DNP (LCP (NP (NP-PN (ns 欧洲)) (NP (n 发展史))) (f 上)) (ude 的))
+        (QP (m 一个))
+        (NP (n 时代)))
+      (wm ：)
+      (NP
+        (NP (ADJP (a 古)) (NP-PN (ns 罗马)))
+        (wn 、)
+        (NP (NP-PN (ns 哥特)) (NP (n 文化)))
+        (wd ，)
+        (NP-PN (bl 文艺复兴))
+        (wn 、)
+        (NP (NP-PN (nz 巴洛克)) (NP (n 文化)))
+        (wn 、)
+        (NP-PN (NP (NP (n 洛)) (NP (v 可可))) (NP (n 文化)))
+        (wn 、)
+        (NP (t 近代))
+        (c 和)
+        (NP (t 现代)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 纸币)) (ude 的)) (NP (n 正面)))
+  (VP
+    (IP (NP (v 印)) (VP (vyou 有)))
+    (NP-OBJ
+      (NP
+        (DNP
+          (NP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (v 发行) (NP-OBJ (n 欧元))))
+                  (ude 的)))
+              (NP-PN (ns 欧洲) (n 中央) (n 银行)))
+            (NP (n 名称)))
+          (ude 的))
+        (DNP (NP (QP (m 5) (CLP (q 种))) (NP (n 语言))) (ude 的))
+        (NP (n 缩写)))
+      (c 以及)
+      (NP
+        (DNP (NP (NP-PN (n 中央) (n 银行)) (NP (n 行长))) (ude 的))
+        (NP (n 签名)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (n 货币) (n 名称)) (NP (n 欧元)))
+  (VP
+    (PP-MNR
+      (c 既)
+      (PP (v 用) (NP (NP-PN (nz 拉丁)) (NP (n 字母))))
+      (d 也)
+      (PP (p 用) (NP (NP-PN (ns 希腊)) (NP (n 字母)))))
+    (VP (n 标识)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-SBJ (NP (f 背面)) (f 右侧))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 留下)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (IP (VP (ADVP (vi 相当)) (VP (p 于))))
+                  (NP-OBJ
+                    (QP (NP (n 钞票)) (QP (m 五分之一)))
+                    (ADJP (ADVP (a 大)) (ADJP (a 小))))))
+              (ude 的)))
+          (NP (n 空白))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 让)
+      (NP-OBJ (DP (r 各)) (NP (n 欧元国)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VRD (v 加印) (v 上))
+          (NP-OBJ
+            (NP (NP (r 各自)) (NP (n 国家)))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 独特))) (ude 的)))
+            (NP (n 标记)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 红币))
+  (VP
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (n 面值))
+              (VP (ADVP (d 最)) (VP (a 小))))
+            (ude 的)))
+        (QP (m 三) (CLP (q 种)))
+        (NP (n 硬币))))
+    (wd ，)
+    (VP
+      (QP-PRD
+        (ADVP (v 即))
+        (QP
+          (QP (m １) (CLP (nrf 欧分)))
+          (wn 、)
+          (QP (m ２) (CLP (nrf 欧分)))
+          (c 和)
+          (QP (m ５) (CLP (nrf 欧分)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 黄币)) (NP (n 币值)))
+  (VP
+    (v 为)
+    (QP-PRD
+      (QP (m １０) (CLP (t 欧分)))
+      (wn 、)
+      (QP (t ２０) (CLP (nrf 欧分)))
+      (c 和)
+      (QP (m ５０) (CLP (n 欧分)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (QP (QP (m １) (CLP (q 欧元))) (c 和) (QP (m ２) (CLP (q 欧元))))
+      (ude 的))
+    (NP (n 硬币)))
+  (VP
+    (VP (v 为) (NP-PRD (ADJP (n 双色)) (NP (n 币))))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (LCP-LOC (NP (n 欧元)) (f 中))
+                (NP-SBJ (n 币值))
+                (VP (ADVP (d 最)) (VP (a 大))))
+              (ude 的)))
+          (NP (n 硬币))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 硬币)) (ude 的)) (NP (b 正面) (n 图案)))
+    (VP (vyou 有) (QP-OBJ (m 两) (CLP (q 种)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (n 红币)) (NP (n 图案)))
+    (VP
+      (v 标明)
+      (NP-OBJ
+        (NP (DP (r 各)) (NP (n 成员国)))
+        (DNP (PP (p 在) (LCP (NP (n 地球仪)) (f 上))) (ude 的))
+        (NP (n 位置)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP (DP (r 其他) (QP (m 两) (CLP (q 种)))) (NP (n 硬币)))
+        (ude 的))
+      (NP (b 正面) (n 图案)))
+    (VP
+      (ADVP (d 均))
+      (VP
+        (v 为)
+        (NP-PRD
+          (NP (NP-PN (nt 欧盟)) (QP (m １５)) (NP (n 国)))
+          (NP (n 地图))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (f 背面) (n 图案))
+    (VP (ADVP (r 各)) (ADVP (d 不)) (VP (a 相同))))
+  (wd ，)
+  (PP
+    (c 因为)
+    (IP
+      (NP-SBJ (DNP (NP (r 它们)) (ude 的)) (ADJP (a 主)) (NP (n 图案)))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (QP (m １１) (CLP (q 个))) (NP (n 欧元国)))
+                (VP
+                  (NP-ADV (r 各自))
+                  (VP (v 设计) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1 (DNP (NP (n 欧元)) (ude 的)) (NP (n 符号)))
+  (VP
+    (vshi 是)
+    (VP
+      (PP-LGS
+        (p 由)
+        (IP
+          (NP-SBJ
+            (NP
+              (NP (nz 英文) (n 字母))
+              (PRN
+                (wkz （)
+                (VP
+                  (ADVP (d 也))
+                  (VP
+                    (vshi 是)
+                    (NP-PRD
+                      (DNP (NP (nz 希腊文)) (ude 的))
+                      (QP (m 第５) (CLP (q 个)))
+                      (NP (n 字母)))))
+                (wky ）))
+              (NP (nx C)))
+            (NP (f 中间)))
+          (VP (v 加) (QP-OBJ (m 两) (CLP (n 横))))))
+      (VP (v 组成) (NP-OBJ (-NONE- *-1)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

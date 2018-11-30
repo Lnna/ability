@@ -1,0 +1,173 @@
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 高雄市))
+    (VP
+      (VP (NP-TMP (t 今天) (t 清晨)) (VP (v 听到) (NP-OBJ (n 枪声))))
+      (wd ，)
+      (VP
+        (vyou 有)
+        (IP
+          (NP-SBJ
+            (QP (m 一) (CLP (q 名)))
+            (DNP (NP (n 体育) (n 用品) (n 社)) (ude 的))
+            (NP (n 老板)))
+          (VP
+            (PP-LOC (p 在) (NP (DNP (NP (s 家里)) (ude 的)) (NP (s 门口))))
+            (VP (v 遭) (IP-OBJ (NP-SBJ (n 人)) (VP (v 追杀)))))))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (ad 侥幸)) (VP (v 逃) (v 过) (y 了) (NP-OBJ (n 枪击))))))
+    (wd ，)
+    (ADVP (c 但是))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 遭到)
+      (y 了)
+      (IP-OBJ
+        (NP-SBJ (n 枪手))
+        (VP
+          (PP-MNR (p 以) (NP (n 钝器)))
+          (VP (VRD (v 追杀) (v 成)) (NP-OBJ (n 重伤)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (ns 高雄市)) (ude 的)) (NP-PN (ns 查哈尔街)))
+    (VP (NP-TMP (t 今天) (t 清晨)) (VP (v 传来) (NP-OBJ (n 枪声)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (QP (QP (QP (m ４０)) (ADVP (m 多))) (CLP (q 岁)))
+      (NP (NP-PN (nr1 胡)) (NP (n 姓)))
+      (NP (n 体育) (n 用品) (n 社))
+      (NP (n 老板)))
+    (VP
+      (PP-TMP
+        (p 在)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 刚刚))
+            (VP
+              (pba 把)
+              (IP-OBJ
+                (NP-SBJ (n 车))
+                (VP
+                  (v 开进)
+                  (NP-OBJ (DNP (NP (n 家门口)) (ude 的)) (NP (n 车库)))))))))
+      (wd ，)
+      (ADVP (d 却))
+      (VP
+        (v 遭到)
+        (NP-OBJ
+          (DNP (NP (ADJP (n 不明)) (NP (n 人士))) (ude 的))
+          (NP (n 枪击))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 惊动) (y 了) (NP-OBJ (DNP (NP (f 附近)) (ude 的)) (NP (n 民众)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 被害人))
+    (VP (ADVP (d 立即)) (VP (IP (VP (v 送)) (p 往)) (NP-OBJ (n 医院)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (VP
+        (VP (v 接到) (NP-OBJ (vi 报案)))
+        (VP (ADVP (d 也)) (ADVP (d 马上)) (VP (v 封闭) (NP-OBJ (s 现场)))))
+      (wd ，)
+      (VP
+        (ADVP (c 不过))
+        (ADVP (d 只))
+        (VP
+          (v 找到)
+          (y 了)
+          (NP-OBJ (QP (m 一) (CLP (q 颗))) (NP (nrf 弹壳)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (r 这样)) (ude 的)) (NP (n 言判)))
+    (VP (ADVP (d 也)) (VP (v 得到) (y 了) (NP-OBJ (n 证实)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (n 被害人)) (ude 的)) (NP (n 脑部)))
+    (VP (vyou 有) (NP-OBJ (QP (m 两) (CLP (q 处))) (NP (n 重击)))))
+  (wd ，)
+  (IP (NP-SBJ (n 脑浆)) (VP (v 外溢)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 医生))
+  (VP
+    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 手术))) (t 过后))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP (vshi 是) (NP-PRD (n 钝器)))
+          (VP (ADVP (c 而)) (VP (v 非) (NP-PRD (vi 枪击))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP-FOC
+      (ADVP (d 到底))
+      (VP (vshi 是) (NP-PRD (DNP (NP (r 什么样)) (ude 的)) (NP (n 恩怨)))))
+    (VP
+      (IP (VP (ADVP (d 非)) (VP (v 要))))
+      (VP (v 致) (NP (n 人)) (PP (p 于) (NP (v 死))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 从) (NP (n 家属) (s 口中)))
+  (NP-SBJ (n 警方))
+  (VP
+    (ADVP (d 初步))
+    (PP-DIR
+      (p 朝)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (n 调停) (NP-OBJ (ADJP (n 私人)) (NP (n 恩怨))))))
+    (VP (vi 入手)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 目前))
+    (ADVP (d 正在))
+    (VP
+      (v 追查)
+      (IP-OBJ
+        (NP-SBJ (NP (NP-PN (nr1 胡)) (NP (n 姓))) (NP (n 被害人)))
+        (VP
+          (ADVP (d 到底))
+          (VP
+            (v 赴)
+            (y 了)
+            (NP-OBJ
+              (DNP (NP (r 谁)) (ude 的))
+              (DNP (NP (vi 死亡)) (uzhi 之))
+              (NP (n 约))))))))
+  (ww ？)))
+</S>

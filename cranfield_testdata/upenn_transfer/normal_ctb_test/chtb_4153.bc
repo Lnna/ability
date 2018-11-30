@@ -1,0 +1,226 @@
+<S>
+( (IP
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (ADVP (t 刚才))
+          (NP-SBJ (r 您))
+          (VP (v 讲) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的))))
+  (y 哎)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (QP-ADV (m 第二)) (VP (v 看) (NP-OBJ (ADJP (a 新)) (NP (n 产品)))))
+    (wd ，)
+    (VP
+      (QP-ADV (m 第三))
+      (VP
+        (v 看)
+        (NP
+          (NP-OBJ (ADJP (a 新)) (NP (n 技术)))
+          (wj 。)
+          (n ｛)
+          (NP (nx ｂｒｅａｔｈ) (n ｝))))))))
+</S>
+<S>
+( (IP-Q
+  (IP
+    (INTJ (y 嗯))
+    (wd ，)
+    (NP-SBJ (r 我))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 听)
+        (uguo 过)
+        (NP-OBJ
+          (LCP (NP (n 专业)) (f 上))
+          (NP (ADJP (r 这样)) (QP (m 一) (CLP (q 种))) (NP (n 声音)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-TPC
+          (DP (r 这) (CLP (q 次)))
+          (NP (r 我们))
+          (NP-PN (ns 北京))
+          (wkz （（)
+          (NP (NP (n 车)) (wky ））) (NP (v 展))))
+        (IP (VP (VCD (a 好) (n 象))))
+        (NP-SBJ (ADJP (a 新)) (NP (n 技术)))
+        (VP (ADVP (d 并)) (ADVP (d 不)) (VP (vshi 是) (VP (m 很多)))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (v 觉得)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这个)) (NP (n 事情)))
+      (VP (ADVP (d 辩证)) (VP (v 看)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (y 嗯) (wj 。)))
+</S>
+<S>
+( (IP
+  (INTJ (y 啊))
+  (wd ，)
+  (n ｛)
+  (NP (nx ｂｒｅａｔｈ))
+  (n ｝呃)
+  (wd ，)
+  (IP-ADV
+    (NP-SBJ (DP (r 任何) (QP (m 一个))) (NP (n 企业)))
+    (VP (v 参加) (NP-OBJ (QP (m 一个)) (NP (n 展览)))))
+  (wd ，)
+  (NP-SBJ (r 它))
+  (VP
+    (ADVP (d 首先))
+    (VP
+      (vshi 是)
+      (VP
+        (PP-PRP
+          (p 为了)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 打入) (NP-OBJ (DP (r 这个)) (NP (n 市场))))))
+        (VP (v 来) (VP (v 参加) (NP-OBJ (DP (r 这个)) (NP (n 展览))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV (p 作为) (NP (NP-PN (ns 中国)) (DP (r 这个)) (NP (n 市场))))
+  (NP-TMP (NP (t 未来)) (QP (m 一) (CLP (q 段))) (NP (n 时间)))
+  (wd ，)
+  (y 啊)
+  (NP-SBJ
+    (NP (DNP (NP (r 它)) (ude 的)) (NP (n 消费) (n 趋势)))
+    (wd ，)
+    (NP (DNP (NP (n 政府)) (ude 的)) (NP (n 政策) (n 导向)))
+    (wd ，)
+    (PRN (n ｛) (nx ｂｒｅａｔｈ) (n ｝))
+    (c 以及)
+    (NP
+      (DNP (NP (DNP (NP (n 国民)) (ude 的)) (NP (n 经济) (n 收入))) (ude 的))
+      (NP (n 实力) (n 水平))))
+  (wd ，)
+  (VP
+    (v 决定)
+    (y 了)
+    (IP-OBJ
+      (NP-SBJ (r 它))
+      (VP
+        (v 拿)
+        (NP-OBJ
+          (NP (DNP (NP (r 什么样)) (ude 的)) (NP (n 技术)))
+          (wd ，)
+          (NP (DNP (NP (r 什么样)) (ude 的)) (NP (n 产品)))))
+      (VP (v 来) (VP (v 参与) (NP-OBJ (DP (r 这个)) (NP (n 车展)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (r 那么))
+      (VP
+        (v 衡量)
+        (NP-OBJ
+          (NP-PN (ns 北京))
+          (NP (n 车展))
+          (c 和)
+          (DNP (LCP (NP (n 国际)) (f 上)) (ude 的))
+          (DP (r 其它) (QP (FRAG (w ~) (NP (nx Ａ))) (CLP (n 级))))
+          (NP (n 展))))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (ad 确实))
+    (PP-LOC (p 在) (LCP (NP (ADJP (a 新)) (NP (n 技术))) (f 上)))
+    (VP
+      (VP (vyou 有) (NP-OBJ (n 差别)))
+      (wd ，)
+      (VP
+        (vyou 有)
+        (NP (NP-OBJ (n 差异)) (wj 。) (n ｛) (NP (nx ｂｒｅａｔｈ) (n ｝))))))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (NP (ADJP (a 客观)) (NP (n 事实)))
+      (wj 。)
+      (n ｛)
+      (NP (nx ｂｒｅａｔｈ) (n ｝))))))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (ADVP (c 换句话说))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR
+        (p 从)
+        (NP
+          (NP-PN (ns 中国))
+          (DNP (NP (t 未来)) (ude 的))
+          (NP (n 消费) (n 市场))))
+      (VP (v 看))))
+  (wd ，)
+  (NP-SBJ (r 我))
+  (VP
+    (v 觉得)
+    (CP-OBJ
+      (IP
+        (NP-SBJ
+          (DP (r 这次))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP (n 车展))
+                (VP
+                  (usuo 所)
+                  (VP (VRD (v 拿) (v 来)) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (ADJP (a 新))
+          (NP (n 技术)))
+        (VP
+          (d 足以)
+          (VP
+            (v 够)
+            (NP-OBJ
+              (NP
+                (NP (r 我们))
+                (DP (r 这些))
+                (NP (NP (ns 中国)) (NP (n 人))))
+              (wd ，)
+              (n ｛)
+              (NP (nx ｂｒｅａｔｈ))
+              (n ｝)
+              (NP (NP-PN (ns 中国)) (NP (n 汽车) (n 人))))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VP (usuo 所) (VP (v 学习)))
+                (wd ，)
+                (VP (usuo 所) (VP (v 借鉴)))
+                (wd ，)
+                (y 啊)
+                (wd ，)
+                (VP (usuo 所) (VP (v 赶超))))))))
+      (ude 的)))
+  (wj 。)))
+</S>

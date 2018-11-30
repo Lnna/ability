@@ -1,0 +1,127 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 美国)) (ADJP (v 当选)) (NP (n 总统)))
+    (NP-PN (nrf 布什)))
+  (VP
+    (v 提名)
+    (NP-PN-OBJ (nrf 阿什·克罗夫))
+    (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 担任) (NP-OBJ (n 司法部长)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 提名)))
+  (VP
+    (VP
+      (v 得到)
+      (NP-OBJ (DNP (NP (n 保守派) (n 人士)) (ude 的)) (NP (n 欢迎))))
+    (wd ，)
+    (VP
+      (ADVP (c 但是))
+      (VP
+        (v 遭到)
+        (NP-OBJ (DNP (NP (a 自由) (n 人士)) (ude 的)) (NP (n 批评))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 布什))
+  (VP
+    (NP-TMP (t 星期五))
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 让)
+          (NP-OBJ
+            (NP-APP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (n 现年) (QP-EXT (m ５８) (CLP (q 岁)))))
+                  (ude 的)))
+              (ADJP (f 前))
+              (NP (n 参议员)))
+            (NP-PN (nrf 阿什·克罗夫)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 担任) (NP-OBJ (n 司法部长))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 阿什·克罗夫))
+    (VP
+      (v 承诺)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (DVP (VP (a 公正)) (ude 的)) (VP (n 管理) (NP-OBJ (n 司法部)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (QP (m 一些)) (NP (NP (ADJP (a 自由)) (NP (n 派))) (n 团体)))
+    (VP
+      (ADVP (ad 坚决))
+      (VP
+        (v 表示)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 要)
+            (VP
+              (PP-LOC (p 在) (NP (n 参议院)))
+              (VP (v 反对) (NP-OBJ (DP (r 这项)) (NP (n 提名))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-PN-SBJ (nrf 布什))
+    (VP
+      (v 提名)
+      (NP-PN-OBJ (nrf 阿什克罗夫))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (p 为) (NP-PRD (n 司法部长))))))
+  (VP (d 必须) (VP (v 得到) (IP-OBJ (NP-SBJ (n 参议院)) (VP (vi 认可)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (NP (n 共和党)) (NP (n 人))) (NP-PN (nrf 阿什·克罗夫)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 即将)) (VP (vi 卸任))))
+            (ude 的)))
+        (NP-PN (ns 密苏里州))
+        (NP (n 参议员)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (NP-TMP (t 今年) (t １１月))
+      (VP
+        (VP-FOC (v 竞选) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 连任))))
+        (VP (vi 失利)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 阿什·克罗夫))
+  (VP
+    (VP
+      (ADVP (d 一直))
+      (ADVP (ad 坚决))
+      (VP (v 反对) (NP-OBJ (n 堕胎) (n 权利))))
+    (c 并且)
+    (VP (ADVP (ad 坚决)) (VP (v 支持) (NP-OBJ (n 死刑)))))
+  (wj 。)))
+</S>

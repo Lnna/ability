@@ -1,0 +1,279 @@
+<S>
+( (IP
+  (NP-VOC (DP (r 各位)) (NP (n 听众)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 欢迎)
+    (NP-OBJ (r 您))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 继续)
+        (VP
+          (v 收听)
+          (NP-OBJ
+            (DNP (NP-PN (n 美国之音)) (ude 的))
+            (NP
+              (NP (NP-PN (ns 中国)) (NP (n 新闻)))
+              (c 和)
+              (NP (n 世界) (n 报道))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (ns 俄罗斯)) (ude 的)) (NP-PN (t 库尔斯克号) (n 核潜艇)))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (NP-TMP (t 今年) (t 八月))
+          (PP-LOC
+            (p 在)
+            (NP
+              (CP (IP (NP (ns 巴)) (VP (ns 伦))) (uzhi 之))
+              (NP (n 海))))
+          (VP (VSB (v 爆炸) (vi 沉没)))))
+      (f 以后))
+    (wd ，)
+    (NP-TMP (t 目前))
+    (ADVP (d 已经))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ-1 (QP (m 四) (CLP (q 具))) (NP (n 尸体)))
+        (VP (pbei 被) (VP (VRD (v 打捞) (v 起来)) (NP-OBJ (-NONE- *-1)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (v 打捞) (n 人员))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (DNP (NP-PN (nrf 克利斯尼科夫) (n 中校)) (ude 的)) (NP (n 口袋)))
+        (f 里)))
+    (VP (v 发现) (y 了) (NP-OBJ (DP (r 这) (CLP (q 张))) (NP (n 字条)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (DP (r 这) (CLP (q 张))) (NP (n 纸条))) (f 上)))
+    (VP
+      (VRD (v 写) (v 到))
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ-1
+          (NP (r 他))
+          (c 和)
+          (NP (DP (r 其他)) (QP (m ２２) (CLP (q 名))) (NP (n 船员))))
+        (VP
+          (NP-TMP (t 当时))
+          (VP
+            (VP
+              (ADVP (d 没有))
+              (VP
+                (pbei 被)
+                (VP (VRD (v 炸) (v 死)) (NP-OBJ (-NONE- *-1)))))
+            (wd ，)
+            (VP
+              (ADVP (c 并且))
+              (VP
+                (ADVP (d 都))
+                (VP
+                  (VRD (v 集中) (v 到))
+                  (y 了)
+                  (NP-OBJ
+                    (DNP
+                      (NP (ADJP (a 紧急)) (NP (n 逃难) (n 舱门)))
+                      (ude 的))
+                    (NP (f 旁边)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (NP-LOC (n 纸条)) (VP (v 写) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的))))
+  (VP
+    (ADVP (m 多半))
+    (VP (vshi 是) (NP-PRD (DNP (NP (n 个人)) (ude 的)) (NP (n 私事)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 俄罗斯)) (NP (n 海军)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 将))
+          (PP-BNF (p 给) (NP (DP (r 这) (CLP (q 位))) (NP (n 中校))))
+          (VP (v 进行) (NP-OBJ (n 保密)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 可是))
+    (NP-SBJ (n 海军))
+    (VP
+      (v 发表)
+      (y 了)
+      (NP-OBJ (LCP (NP (n 字条)) (f 中)) (QP (m 一部分)) (NP (n 内容)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 诉说)
+      (NP-OBJ
+        (NP (r 他们))
+        (DNP
+          (PP
+            (p 在)
+            (LCP
+              (NP
+                (DP (r 这) (CLP (q 艘)))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 沉默)))
+                    (ude 的)))
+                (NP (n 潜艇)))
+              (f 中)))
+          (ude 的))
+        (NP (n 情况)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP (VP (VRD (v 听) (v 来))))
+      (VP
+        (v 令)
+        (NP-OBJ (n 人))
+        (IP (NP-SBJ (-NONE- *PRO*)) (IP (NP (n 毛骨)) (VP (n 悚然)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-LOC (NP (DP (r 这) (CLP (q 张))) (NP (n 纸条))) (f 上))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 说)
+        (wd ，)
+        (CP-OBJ
+          (IP
+            (NP-SBJ (r 我))
+            (VP
+              (vshi 是)
+              (VP (VP (v 瞎) (uzhe 着) (NP-OBJ (n 眼睛))) (VP (v 写)))))
+          (ude 的)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 意思))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (n 船员))
+        (VP
+          (ADVP (d 都))
+          (VP
+            (v 处于)
+            (LCP-OBJ
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (ad 完全)) (VP (a 黑暗))))
+                  (ude 的))
+                (NP (n 情况)))
+              (f 下)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (t 后来))
+    (NP-PN-SBJ (ns 俄罗斯))
+    (VP
+      (VP
+        (v 设法)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 打开) (NP-OBJ (QP (m 一个)) (NP (n 舱门))))))
+      (VP (ADVP (d 可是)) (ADVP (d 没有)) (VP (a 成功)))))
+  (wd ，)
+  (IP
+    (LCP-TMP (NP (ADVP (d 整整)) (NP (QP (m 一个)) (NP (n 星期)))) (f 以后))
+    (wd ，)
+    (NP-SBJ (DNP (NP-PN (ns 挪威)) (ude 的)) (NP (n 潜水) (n 人员)))
+    (VP (ADVP (d 才)) (VP (v 取得) (y 了) (NP-OBJ (an 成功)))))
+  (wd ，)
+  (IP
+    (ADVP (c 可是))
+    (NP-SBJ (r 他们))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ-2 (n 潜艇) (f 内部))
+        (VP
+          (VP
+            (ADVP (d 已经))
+            (ADVP (ad 完全))
+            (VP
+              (pbei 被)
+              (IP-OBJ
+                (NP-SBJ (n 海水))
+                (VP (v 淹没) (y 了) (NP-OBJ (-NONE- *-2))))))
+          (wd ，)
+          (VP
+            (v 没有)
+            (IP
+              (NP-SBJ (r 任何人))
+              (VP (ADVP (d 还)) (VP (v 活) (uzhe 着)))))))))
+  (wd ，)
+  (IP
+    (LCP-SBJ
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (PP-LOC (p 在) (LCP (NP-PN (t 库尔斯克号) (n 核潜艇)) (f 上)))
+                (VP (vi 死亡))))
+            (ude 的)))
+        (QP (m １１８) (CLP (q 名)))
+        (NP (n 船员)))
+      (f 中))
+    (wd ，)
+    (VP
+      (ADVP (d 至今))
+      (ADVP (d 只))
+      (VP
+        (vyou 有)
+        (IP
+          (NP-SBJ (QP (m ４) (CLP (q 具))) (NP (n 尸体)))
+          (VP (pbei 被) (VP (VP (v 打捞) (y 了)) (VP (v 起来))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (ADJP (d 进一步)) (ude 的)) (NP (v 打捞) (n 行动)))
+    (VP
+      (PP-PRP (p 因为) (IP (NP-SBJ (s 当地) (n 气候)) (VP (a 恶劣))))
+      (VP (c 而) (VP (VSB (vi 奉命) (v 停止))))))
+  (wj 。)))
+</S>

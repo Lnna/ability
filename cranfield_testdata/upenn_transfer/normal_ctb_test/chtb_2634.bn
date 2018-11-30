@@ -1,0 +1,125 @@
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (NP-PN (nt 新华社)) (NP (n 消息))))
+    (wd ，)
+    (PP-MNR (p 经) (IP (NP-SBJ (nt 中共中央)) (VP (v 批准))))
+    (wn 、)
+    (NP-SBJ (n 中央) (n 纪律) (n 检查) (n 委员会))
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP
+          (DNP
+            (NP
+              (NP-APP
+                (NP (NP (n 中央)) (nl 候补委员))
+                (wn 、)
+                (NP
+                  (NP-PN (n 国防) (n 科学技术) (n 工业) (n 委员会))
+                  (ADJP (b 副))
+                  (NP (n 主任))))
+              (NP-PN (nr 徐鹏航)))
+            (ude 的))
+          (NP (n 违纪) (n 问题))))
+      (VP (v 进行) (y 了) (NP-OBJ (n 审查)))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 徐鹏航) (n 同志))
+    (VP
+      (PP-MNR (v 做为) (NP (n 党员) (wn 、) (n 领导) (n 干部)))
+      (VP
+        (VP (v 利用) (NP-OBJ (DNP (NP (n 职务)) (ude 的)) (NP (n 影响))))
+        (VP
+          (VP
+            (v 帮助)
+            (NP-OBJ (NP-PN (ns 湖北) (nz 康塞) (n 公司)) (NP (n 股票)))
+            (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 上市))))
+          (wd ，)
+          (VP
+            (VCD (v 支持) (v 参与))
+            (IP-OBJ
+              (NP-SBJ (n 亲属))
+              (VP (v 购买) (NP-OBJ (ADJP (f 内部)) (NP (n 职工股))))))
+          (wd ，)
+          (VP
+            (ADVP (c 并))
+            (ADVP (d 从中))
+            (VP (v 获利) (QP-EXT (m １１３万) (CLP (q 元)))))))))
+  (wd ，)
+  (IP (NP-SBJ (n 数额)) (VP (a 巨大)))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其) (n 行为))
+    (VP
+      (VP
+        (ADVP (ad 严重))
+        (VP
+          (v 侵害)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP (NP (n 国家)) (ADJP (n 公职)) (NP (n 人员)))
+                (NP (n 职务) (n 行为)))
+              (ude 的))
+            (NP (n 廉洁性)))))
+      (wd ，)
+      (VP
+        (v 造成)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 恶劣))) (ude 的)))
+          (NP (n 政治) (n 影响))))
+      (wd ，)
+      (VP
+        (ADVP (d 已经))
+        (VP (v 构成) (NP-OBJ (ADJP (ad 严重)) (NP (vi 违纪)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (n 中央) (nt 纪委)) (NP (n 常委) (n 会议)))
+    (VP
+      (v 建议)
+      (NP-OBJ (n 中央))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (v 撤消)
+            (NP-OBJ
+              (NP-PN (nr 徐鹏航) (n 同志))
+              (NP
+                (NP (QP (m 第十五) (CLP (q 届))) (NP (n 中央) (n 委员会)))
+                (nl 候补委员))
+              (NP (n 职务))))
+          (wd ，)
+          (VP
+            (v 给予)
+            (NP-IO (r 其))
+            (NP-OBJ
+              (IP-APP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (vl 留党察看) (QP-EXT (m 二) (CLP (q 年)))))
+              (NP (n 处分))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nt 监察部))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (VP
+          (NP (v 报) (p 经))
+          (IP-OBJ (NP-PN-SBJ (nt 国务院)) (VP (v 批准))))
+        (VP
+          (v 撤消)
+          (NP-OBJ
+            (NP-PN (nr 徐鹏航) (n 同志))
+            (NP
+              (NP-PN (n 国防) (n 科学技术) (n 工业) (n 委员会))
+              (ADJP (b 副))
+              (NP (n 主任)))
+            (NP (n 职务)))))))
+  (wj 。)))
+</S>

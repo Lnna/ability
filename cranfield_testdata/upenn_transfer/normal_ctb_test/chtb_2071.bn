@@ -1,0 +1,166 @@
+<S>
+( (IP
+  (NP-TPC (DNP (NP-PN (ns 印尼)) (ude 的)) (NP-PN (ns 雅奇省)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (QP (m １１))
+    (NP (q 号))
+    (VP
+      (v 估计)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vyou 有)
+          (IP
+            (NP-SBJ
+              (DNP (QP (ADVP (d 大约)) (QP (m ４０万))) (ude 的))
+              (NP (n 民众)))
+            (VP
+              (VP
+                (QP-ADV
+                  (ADVP (a 连续))
+                  (QP (FRAG (NP (m 第)) (QP (m 两))) (CLP (q 天))))
+                (VP (VCD (vi 集会) (vi 示威))))
+              (wd ，)
+              (VP
+                (v 支持)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-ADV
+                      (p 就)
+                      (NP
+                        (IP-APP (NP-PN-SBJ (nrf 雅奇)) (VP (a 独立)))
+                        (NP (n 问题))))
+                    (VP (v 举行) (NP-OBJ (n 公民) (vi 投票))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 雅奇省))
+    (VP
+      (VP
+        (IP (VP (n 位) (FLR (PP (p 在)))))
+        (NP-OBJ (DNP (NP-PN (ns 苏门达腊岛)) (ude 的)) (NP (f 北端))))
+      (wd ，)
+      (VP
+        (v 蕴藏)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 丰富))) (ude 的)))
+          (NP (n 石油))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (DP (r 这项)) (NP (n 集会)))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-PRP
+            (p 为了)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 要求)
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (PP-ADV (p 就) (NP (n 自治) (n 问题)))
+                    (VP (v 举行) (NP-OBJ (vi 投票))))))))
+          (VP (c 而) (VP (v 发起))))))
+    (ude 的))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (IP (NP-SBJ (n 集会) (r 本身)) (VP (v 开始))) (f 之后))
+    (NP-SBJ (n 气氛))
+    (VP (ADVP (d 相当)) (VP (a 平和))))
+  (wd ，)
+  (IP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (DNP (NP (n 示威) (n 群众)) (ude 的)) (NP (n 车队)))
+        (VP
+          (VSB (vi 喧嚣) (v 绕行))
+          (NP-OBJ
+            (NP (NP-APP (n 首府)) (NP-PN (ns 班达雅奇市)))
+            (NP (n 街道)))))
+      (n 时))
+    (NP-SBJ (n 警方))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 没有))
+      (VP
+        (v 采取)
+        (NP-OBJ (DNP (DP (r 任何)) (ude 的)) (NP (n 阻止) (n 行动))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (PP-MNR
+      (p 根据)
+      (NP (DNP (NP (n 警方) (c 和) (n 居民)) (ude 的)) (NP (n 报告))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-LOC (p 在) (NP (NP (n 全省)) (r 各地)))
+      (ADVP (d 又))
+      (VP
+        (vyou 有)
+        (IP (NP-SBJ (QP (m ５) (CLP (q 个))) (NP (n 人))) (VP (vi 丧生)))))
+    (wd ，))
+  (IP
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 死))) (ude 的)))
+      (NP (n 示威) (n 民众)))
+    (NP-SBJ
+      (DNP
+        (PP
+          (p 从)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (QP (m ８) (CLP (q 号)))
+                (VP (v 开始) (NP (NP-PN (nrf 班达雅奇)) (NP (vi 集会))))))
+            (f 以来)))
+        (ude 的))
+      (NP (n 死亡) (n 人数)))
+    (VP (VRD (v 增加) (v 到)) (y 了) (NP-EXT (QP (m ３１)) (NP (n 人)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (LCP (s 车上)) (ude 的)) (NP (n 民众)))
+  (VP (v 高喊) (uzhe 着) (NP-OBJ (wyz “) (a 自由) (wyy ”)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (QP (m １１) (CLP (q 号)))
+    (NP-SBJ (DNP (NP (n 游行) (n 车队)) (ude 的)) (NP (n 行列)))
+    (VP (vi 绵延) (QP-EXT (ADVP (d 将近)) (QP (m ５) (CLP (q 公里))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 估计)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 大约))
+          (VP
+            (vyou 有)
+            (IP (NP-SBJ (QP (m ４０万)) (NP (n 人))) (VP (v 参加))))))))
+  (wj 。)))
+</S>

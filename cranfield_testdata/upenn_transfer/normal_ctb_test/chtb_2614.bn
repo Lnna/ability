@@ -1,0 +1,119 @@
+<S>
+( (IP
+  (IP-IMP (NP-SBJ (-NONE- *pro*)) (VP (nz 午安)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 欢迎)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 收看)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP (t １月) (QP (m ２７) (CLP (q 号))))
+                (NP (n 农历) (ADJP (n 大年)) (NP (t 初四))))
+              (ude 的))
+            (NP (wkz 《) (NP-PN (n 华视)) (NP (t 午间) (n 新闻)) (wky 》)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-LOC (NP-PN (ns 桃园)) (NP (n 地区)))
+    (PP-TMP (p 在) (NP (t 春节) (f 期间)))
+    (VP (v 抢) (NP (n 案)))
+    (VP (v 频传)))
+  (wd ，)
+  (IP
+    (NP-TMP (ADVP (v 即)) (NP (t 年初二)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 发生)
+      (NP-OBJ (QP (m 两) (CLP (q 件))) (VP (n 抢) (NP (wd 案))))))
+  (t ，)
+  (IP
+    (NP-TMP (t 今天) (NT 凌晨))
+    (NP-SBJ (d *pro*))
+    (VP
+      (ADVP (vyou 又))
+      (VP
+        (m 有)
+        (IP
+          (NP-SBJ
+            (QP (q ３) (CLP (n 名)))
+            (DNP (ADJP (ude 蒙面)) (n 的))
+            (NP (NN 歹徒)))
+          (VP
+            (LCP-TMP
+              (IP
+                (NP-SBJ (v *pro*))
+                (VP
+                  (VP
+                    (ns 破坏)
+                    (NP-OBJ (NP-PN (n 富新乡) (n 农会)) (NP (wd 铁窗))))
+                  (v ，)
+                  (VP
+                    (y 捆绑)
+                    (AS 了)
+                    (NP-OBJ
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP (NP-SBJ (v *T*-1)) (VP (ude 留守)))
+                          (n 的)))
+                      (NP (f 行员))))))
+              (wd 之后))
+            (v ，)
+            (VP
+              (VP (m 抢走) (QP-OBJ (q ３２８万) (CLP (vi 元))))
+              (VP (wd 逃逸))))))))
+  (c ，)
+  (IP
+    (ADVP (p 而))
+    (PP-MNR
+      (n 根据)
+      (IP (NP-SBJ (d 警方)) (VP (ADVP (v 初步)) (VSB (v 研) (wd 判)))))
+    (r ，)
+    (NP-TPC (DP (m 这) (QP (q 三) (CLP (v 次)))) (NP (n 抢案)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 不))
+      (VP
+        (v 排除)
+        (CP-OBJ
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (vshi 是)
+              (IP-PRD
+                (NP-SBJ (DP (v 同) (QP (m 一) (CLP (q 伙)))) (NP (n 人)))
+                (VP (usuo 所) (VP (v 做))))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (DNP (PP (p 有关) (IP (VP (v 抢) (NP (n 案))))) (ude 的))
+    (NP (n 后续)))
+  (wd ，)
+  (PP-LOC (p 在) (LCP (NP (wkz 《) (t 晚间) (n 新闻) (wky 》)) (f 当中)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 会)
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 更)) (VP (a 详尽))))
+            (ude 的)))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>

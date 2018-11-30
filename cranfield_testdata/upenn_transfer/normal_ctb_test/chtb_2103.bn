@@ -1,0 +1,404 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 继续)
+    (VP
+      (PP-BNF (p 为) (NP (r 您)))
+      (VP
+        (v 播报)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 详细))) (ude 的)))
+          (NP (n 新闻) (n 内容))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (wkz 《))
+  (NP-SBJ
+    (n 金融)
+    (n 机构)
+    (VP (n 合并) (NP (n 法)))
+    (wky 》)
+    (VP
+      (NP-TMP (t 今天))
+      (PP-LOC (p 在) (VP (v 立) (NP (n 法院))))
+      (VP (v 完成) (NP-OBJ (NP (QP (m 三)) (NP (v 读))) (NP (vi 立法))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (nt 财政部))
+    (VP (PP-TMP (p 在) (NP (t 傍晚))) (VP (v 召开) (NP-OBJ (n 记者会)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (n 部长)) (NP-PN (nr 严庆章)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 相信)
+        (IP-OBJ
+          (IP
+            (NP-SBJ (QP (a 多) (CLP (q 家))) (NP (n 金融) (n 机构)))
+            (VP (v 会) (VP (v 寻求) (NP-OBJ (v 合并)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (nt 财政部))
+            (VP
+              (ADVP (d 也))
+              (VP
+                (v 会)
+                (VP
+                  (PP-MNR (v 透过) (NP (n 行政) (n 指导)))
+                  (VP (v 加以) (NP (n 推动)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-IMP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 请)
+    (VP
+      (v 听)
+      (NP-OBJ
+        (DNP (NP (NP-APP (n 记者)) (NP-PN (nr 何友琳))) (ude 的))
+        (NP (n 报导)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (wkz 《))
+  (NP-SBJ (n 金融) (n 机构) (VP (n 合并) (NP (n 法))) (wky 》) (VP (vi 过关)))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (r 各界))
+            (VP (ADVP (d 最)) (VP (v 关心) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的))))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (ADJP (a 具体)) (NP (n 合并案)))
+        (VP (ADVP (r 何时)) (VP (v 可以) (VP (v 出炉)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (nt 财政部))
+    (VP
+      (PP-TMP (p 在) (LCP (t 去年底)))
+      (VP
+        (v 宣布)
+        (IP-OBJ
+          (NP-SBJ
+            (NP-APP
+              (ns 台湾)
+              (n 银行)
+              (wn 、)
+              (n 土地)
+              (n 银行)
+              (c 以及)
+              (n 中央)
+              (b 信托)
+              (n 局))
+            (QP (m 三) (CLP (q 家)))
+            (ADJP (n 公))
+            (NP (n 银行局)))
+          (VP (v 进行) (NP-OBJ (n 合并)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 至今)) (VP (d 没有) (NP-OBJ (v 下文)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 强调)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 相信)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (NP-TMP (DNP (NP (m 不久)) (ude 的)) (NP (t 将来)))
+              (ADVP (d 就))
+              (VP
+                (v 会)
+                (VP
+                  (v 看到)
+                  (IP-OBJ
+                    (NP-SBJ (QP (m 许多)) (NP (n 银行)))
+                    (VP
+                      (v 探寻)
+                      (NP-OBJ (DNP (NP (v 合并)) (ude 的)) (NP (n 可能性)))))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (nt 财政部))
+        (VP
+          (ADVP (d 也))
+          (VP
+            (v 会)
+            (VP
+              (PP-MNR
+                (p 以)
+                (NP (DNP (NP (n 行政) (n 指导)) (ude 的)) (NP (n 方式))))
+              (VP (v 推动) (NP-OBJ (n 金融) (n 机构) (n 合并案)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (wyz “)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 不))
+      (ADVP (d 一定))
+      (VP
+        (v 要)
+        (VP
+          (PP-MNR (p 用) (NP (t 年底)))
+          (VP
+            (v 来)
+            (VP
+              (v 做)
+              (NP-OBJ
+                (QP (m 一个))
+                (DNP (v 观察) (ude 的))
+                (NP (n 时间) (v 点)))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (r 我))
+    (VP
+      (v 想)
+      (IP-OBJ
+        (NP-SBJ (r 各位))
+        (VP
+          (ADVP (d 大概))
+          (VP
+            (v 会)
+            (VP
+              (ADVP (d 很快))
+              (PP-TMP
+                (p 在)
+                (NP (DNP (NP (m 不久)) (ude 的)) (NP (t 将来))))
+              (ADVP (d 就))
+              (VP
+                (v 会)
+                (VP
+                  (v 看到)
+                  (IP-OBJ
+                    (NP-SBJ
+                      (DNP (QP (m 很多)) (ude 的))
+                      (NP (n 金融) (n 机构)))
+                    (VP
+                      (ADVP (d 相互))
+                      (ADVP (d 在))
+                      (VP
+                        (v 探寻)
+                        (NP-OBJ
+                          (DNP (NP (r 彼此)) (ude 的))
+                          (NP (n 意思))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR
+    (p 从)
+    (LCP (NP (DNP (NP (nt 财政部)) (ude 的)) (NP (n 立场))) (u 来讲)))
+  (wd ，)
+  (IP-SBJ
+    (NP-SBJ (r 我们))
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ-3
+          (QP (m 一个))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 客观))) (ude 的)))
+          (NP (n 机制)))
+        (VP (VRD (v 建立) (v 起来)) (NP-OBJ (-NONE- *-3))))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (ADVP (d 最为)) (VP (a 重要))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (r 那))
+    (NP-TPC (DNP (r 其它) (ude 的)) (QP (n 部分)))
+    (NP-SBJ (r 我们))
+    (VP
+      (ADVP (d 一定))
+      (VP
+        (v 会)
+        (VP
+          (PP-MNR
+            (v 透过)
+            (NP
+              (DNP (ADJP (vi 相关)) (ude 的))
+              (DNP (NP (n 行政)) (ude 的))
+              (NP (n 指导))))
+          (VP
+            (v 来)
+            (VP
+              (v 促使)
+              (NP-OBJ (DNP (NP (n 金融) (n 机构)) (ude 的)) (NP (n 合并案)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 能够)
+                  (VP (DVP (VP (vi 加速)) (ude 的)) (VP (n 进行)))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而且))
+    (NP-SBJ (DNP (NP (v 合并)) (ude 的)) (NP (n 规模)))
+    (VP (v 能够) (VP (ADVP (d 越来越)) (VP (a 大)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (nt 财政部))
+  (VP
+    (v 指出)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-ADV
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-ADV
+              (c 和)
+              (NP
+                (NP-PN (ns 亚洲))
+                (ADJP (n 邻近))
+                (NP (n 国家) (c 和) (n 地区))))
+            (VP (vi 相比))))
+        (wd ，)
+        (NP-SBJ
+          (DNP
+            (NP
+              (NP-PN (ns 香港) (c 以及) (ns 新加坡))
+              (DP (f 前) (QP (m 三)))
+              (ADJP (a 大))
+              (NP (n 银行)))
+            (ude 的))
+          (NP (n 市场占有率)))
+        (VP (p 在) (QP-OBJ (m ８０％) (CLP (m 左右)))))
+      (wd ，)
+      (IP
+        (ADVP (c 而))
+        (NP-SBJ
+          (DNP
+            (NP
+              (NP-PN (ns 台湾))
+              (DP (f 前) (QP (m 三)))
+              (ADJP (a 大))
+              (NP (n 银行)))
+            (ude 的))
+          (NP (n 市占率)))
+        (VP (ADVP (d 只)) (VP (vyou 有) (QP-OBJ (m ２５％)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (nt 财政部))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (PP-MNR
+          (p 根据)
+          (NP (DNP (NP-PN (ns 美国)) (ude 的)) (NP (n 经验))))
+        (wd ，)
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-MNR (p 以) (NP (NP (n 网际) (n 网路))))
+            (VP (v 进行) (NP-OBJ (n 交易)))))
+        (NP-SBJ (DP (r 每) (CLP (q 笔))) (NP (n 成本)))
+        (VP (ADVP (d 只)) (VP (v 需要) (QP-OBJ (m ０．０２) (CLP (q 美元))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (c 而))
+          (PP-LOC (p 在) (NP (NP (QP (m 三)) (NP (q 行))) (NP (n 柜台))))
+          (ADVP (d 则))
+          (ADVP (a 高))
+          (VP (v 达) (QP-OBJ (m １．０７) (CLP (q 美元))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (IP-SBJ
+          (NP-SBJ (n 金融业))
+          (VP (d 必须) (VP (v 走向) (NP-OBJ (v 大型化)))))
+        (VP
+          (ADVP (d 才))
+          (VP
+            (vl 有利于)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 引进)
+                (NP-OBJ (ADJP (a 新)) (NP (n 资讯) (n 科技) (n 人才))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 这))
+        (VP
+          (ADVP (d 也))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (n 政府))
+                    (VP
+                      (PP-PRP (-NONE- *T*-1))
+                      (ADVP (d 大力))
+                      (VP (v 推动) (NP-OBJ (n 金融) (n 合并)))))
+                  (ude 的)))
+              (ADJP (b 主要))
+              (NP (n 原因))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN
+        (wkz 《)
+        (NP-PN (ns 台北))
+        (DNP (NP (n 国际)) (uzhi 之))
+        (NP (n 声))
+        (wky 》))
+      (NP (n 记者)))
+    (NP-PN (nr 何友琳)))
+  (VP (NP-LOC (nt 财政部)) (VP (v 报导)))
+  (wj 。)))
+</S>

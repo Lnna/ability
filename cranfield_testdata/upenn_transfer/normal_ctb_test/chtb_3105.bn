@@ -1,0 +1,250 @@
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 据) (NP (v 报道)))
+    (wd ，)
+    (NP-SBJ (NP-APP (NP-PN (n 北韩)) (NP (n 领导人))) (NP-PN (nr 金正日)))
+    (VP
+      (ADVP (d 正在))
+      (PP (p 对) (NP-PN (ns 中国)))
+      (VP
+        (v 进行)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (v 没有)
+                  (IP-OBJ
+                    (QP-SBJ (m 一) (CLP (q 次)))
+                    (VP (PP-DIR (p 对) (NP (n 外界))) (VP (v 公开))))))
+              (ude 的)))
+          (NP (n 访问))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 他))
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (v 完成)
+        (y 了)
+        (NP-OBJ
+          (PP (p 和) (NP (NP-PN (ns 中国)) (NP (n 官员))))
+          (DNP (PP (p 在) (NP-PN (ns 北京))) (ude 的))
+          (NP (n 会谈))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 中国)) (NP (n 政府))) (ude 的))
+    (NP (n 消息) (n 来源)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (nr 金正日))
+      (VP
+        (VP
+          (PP-LOC (p 在) (NP (ns 北京)))
+          (PP (c 和) (NP (NP-PN (ns 中国)) (NP (n 官员))))
+          (VP
+            (v 举行)
+            (y 了)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 短暂))) (ude 的)))
+              (NP (n 会谈)))))
+        (wd ，)
+        (VP
+          (NP-TMP (t 现在))
+          (ADVP (d 正在))
+          (VP
+            (VP (v 乘) (NP-OBJ (n 火车)))
+            (VP (v 前往) (NP-OBJ (DP (r 其它)) (NP (n 城市)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 新闻) (n 报道))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (nr 金正日))
+        (VP
+          (v 计划)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (v 会见)
+                (NP-OBJ
+                  (NP-APP (NP-PN (ns 中国)) (NP (n 国家) (n 主席)))
+                  (NP-PN (nr 江泽民))))
+              (wd ，)
+              (VP (ADVP (c 然后)) (VP (v 参观) (NP-OBJ (n 工业))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (v 参观) (n 地点))
+        (VP (v 可能) (VP (p 在) (NP-PN-OBJ (ns 上海)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 外交部)))
+  (VP
+    (VP
+      (v 拒绝)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 提供)
+          (NP-OBJ
+            (DNP (NP (DP (r 这) (CLP (q 次))) (NP (n 访问))) (ude 的))
+            (NP (n 情况))))))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 不))
+      (VP
+        (v 愿)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 证实) (NP-OBJ (DP (r 这) (CLP (q 次))) (NP (n 访问))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-PN-SBJ (nr 金正日))
+        (VP
+          (PP-TMP
+            (p 在)
+            (LCP
+              (QP
+                (IP (VP (ADVP (d 不)) (VP (v 到))))
+                (QP (m 一) (CLP (q 年))))
+              (f 内)))
+          (QP-ADV (m 第二) (CLP (q 次)))
+          (VP (v 访问) (NP-PN-OBJ (ns 中国)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 金正日))
+    (VP
+      (NP-TMP (t 去年) (t 五月))
+      (PP (p 对) (NP-PN (ns 北京)))
+      (VP
+        (v 进行)
+        (y 了)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 次)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (vi 为期) (QP-OBJ (m 三) (CLP (q 天)))))
+              (ude 的)))
+          (NP (n 访问))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 北韩))
+    (VP
+      (v 宣布)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 已经))
+          (PP (p 与) (NP-PN (ns 荷兰)))
+          (VP (v 建立) (NP-OBJ (n 外交) (n 关系)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 这))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nz 北韩))
+              (VP
+                (NP-MNR (-NONE- *T*-1))
+                (VP
+                  (v 结束)
+                  (NP-OBJ
+                    (QP (m 数十) (CLP (q 年)))
+                    (ADJP (a 孤立))
+                    (NP (n 处境))))))
+            (ude 的)))
+        (ADJP (a 最新))
+        (NP (an 努力)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (nz 北韩))
+      (DNP (NP (n 官方)) (ude 的))
+      (NP (n 新闻) (n 机构)))
+    (NP-PN (ns 朝鲜) (n 中央) (n 通讯社)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (n 双方))
+      (VP
+        (LCP-TMP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 海牙)))
+              (VP (v 举行) (NP-OBJ (n 会谈)))))
+          (f 后))
+        (wd ，)
+        (VP
+          (v 同意)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 建立) (NP-OBJ (n 外交) (n 关系))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 北韩))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (NP (t 去年))
+          (DNP (QP (nl 一连串)) (ude 的))
+          (NP (n 外交) (an 努力)))
+        (f 中)))
+    (wd ，)
+    (PP-ADV
+      (p 和)
+      (NP-PN
+        (ns 英国)
+        (wn 、)
+        (ns 加拿大)
+        (wn 、)
+        (ns 意大利)
+        (c 以及)
+        (ns 澳大利亚)))
+    (VP (v 建立) (y 了) (NP-OBJ (n 外交) (n 关系))))
+  (wj 。)))
+</S>

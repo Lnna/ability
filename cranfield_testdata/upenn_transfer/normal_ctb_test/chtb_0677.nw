@@ -1,0 +1,112 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 云南)) (NP (n 少数民族)))
+  (VP
+    (VP (v 赴) (NP-PN-OBJ (n 港)))
+    (VP
+      (v 演出)
+      (NP-OBJ
+        (wyz “)
+        (NP (NP (n 秘境)) (NP (n 乐舞)))
+        (NP (v 祭))
+        (wyy ”))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 香港)
+  (t 十二月)
+  (t 二十八日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 杨丽萍)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (QP (m 一) (CLP (q 批)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 来自) (NP-OBJ-PN (ns 云南))))
+        (ude 的)))
+    (NP (n 少数民族) (n 群众)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 今天))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (r 他们))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 独特))) (ude 的)))
+          (NP (n 音乐) (wn 、) (n 舞蹈) (c 和) (n 祭礼) (n 仪式)))
+        (wd ，)
+        (VP
+          (DVP (NP (al 原汁原味)) (ude 地))
+          (VP
+            (v 呈现)
+            (PP-LOC
+              (p 在)
+              (LCP (NP (NP-PN (ns 香港)) (NP (n 舞台))) (f 上))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ-1
+    (NP-PN (ns 云南))
+    (NP (wyz “) (NP (NP (n 秘境)) (NP (n 乐舞))) (NP (v 祭)) (wyy ”)))
+  (VP
+    (VP
+      (PP-LGS (p 由) (NP (NP-APP (n 舞蹈家)) (NP-PN (nr 许淑英))))
+      (VP (v 担任) (NP-OBJ (n 统筹))))
+    (wd ，)
+    (VP
+      (PP-LGS
+        (p 由)
+        (NP
+          (DNP
+            (NP
+              (NP
+                (NP-PN (ns 云南))
+                (QP (m 六) (CLP (q 个)))
+                (NP (n 少数民族)))
+              (QP (ADVP (d 一共)) (QP (m 十五) (CLP (q 个))))
+              (NP (n 部落)))
+            (ude 的))
+          (NP (n 民间))
+          (NP (n 音乐家) (wn 、) (n 舞蹈家))))
+      (VP (v 演出) (NP-OBJ (-NONE- *-1))))
+    (wd ，)
+    (VP
+      (v 表现)
+      (NP-OBJ
+        (DNP (NP (DNP (NP (n 少数民族)) (ude 的)) (NP (n 生命))) (uzhi 之))
+        (NP (n 旅)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 舞蹈团))
+  (VP
+    (VP
+      (v 应)
+      (NP-OBJ
+        (DNP
+          (NP-PN (ns 香港) (n 音乐) (n 舞蹈) (n 文化) (n 人类学) (n 研究会))
+          (uzhi 之))
+        (NP (n 邀))))
+    (wd ，)
+    (VP
+      (ADVP (d 将))
+      (PP-LOC (p 在) (NP-PN (ns 香港)))
+      (VP (v 进行) (NP-OBJ (QP (m 两) (CLP (q 场))) (NP (n 演出))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

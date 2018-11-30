@@ -1,0 +1,387 @@
+<S>
+( (IP-HLN (NP-PN-SBJ (ns 中国)) (VP (v 发现) (NP-OBJ (n 始祖) (n 鸟) (n 化石)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 北京)
+  (t 九月)
+  (t 一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 秦春)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 发现)))
+  (VP
+    (VP (v 引起) (IP-OBJ (NP-SBJ (s 国内外)) (VP (n 关注))))
+    (wd ，)
+    (VP
+      (pbei 被)
+      (VP
+        (VP (v 称作) (vshi 是))
+        (NP-OBJ
+          (wyz “)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (PP-TMP
+                      (v 继)
+                      (LCP-TMP
+                        (IP
+                          (NP-TMP (t 一八六二年))
+                          (NP-SBJ
+                            (NP-PN (ns 德国))
+                            (NP (n 始祖) (n 鸟) (n 化石)))
+                          (VP (v 发现)))
+                        (f 以来)))
+                    (ADVP (d 最))
+                    (VP (a 重要))))
+                (ude 的)))
+            (NP (n 发现)))
+          (NP (r 之一))
+          (wyy ”)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP
+    (IP
+      (NP-TMP (t 一八六二年))
+      (NP-PN-SBJ (ns 德国) (ns 巴伐利亚州))
+      (VP
+        (ADVP (ADVP (d 最)) (ADVP (a 早)))
+        (VP (v 发现) (NP (n 始祖) (n 鸟)))))
+    (n 时))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (d 曾)) (VP (v 轰动) (NP-OBJ (n 全球))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (QP (QP (QP (m 一百)) (ADVP (m 多))) (CLP (q 年))) (f 来))
+    (wd ，)
+    (NP-TPC (NP (n 世界)) (DNP (NP (n 同时代)) (ude 的)) (n 始祖) (n 鸟))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 总共)) (VP (v 发现) (QP-OBJ (m ８) (CLP (q 块))))))
+  (wd ，)
+  (c 且)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 仅))
+      (VP
+        (IP (VP (vi 局限) (p 于)))
+        (NP-OBJ (DP (r 这) (QP (m 一))) (NP (n 地区))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (wd ，)
+  (NP-SBJ (DNP (PP (p 关于) (NP (n 始祖) (n 鸟))) (ude 的)) (NP (n 研究)))
+  (wd ，)
+  (VP (ADVP (d 却)) (ADVP (d 一直)) (VP (vl 源源不断)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (s 国内外) (n 专家) (n 学者))
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP (DP (r 这) (QP (m 一))) (ADJP (a 重要)) (NP (n 发现))))
+    (ADVP (d 极为))
+    (VP (v 关注)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP (n 世界) (n 鸟类) (n 起源) (n 问题) (n 研究))
+      (ADJP (a 权威))
+      (NP (n 人士)))
+    (wn 、)
+    (NP (NP-PN (ns 美国) (ns 耶鲁) (n 大学)) (NP-PN (nrf 奥斯特姆) (n 教授))))
+  (VP
+    (NP-TMP (t 日前))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (p 给)
+                  (NP-PN-IO
+                    (ns 中国)
+                    (n 科学院)
+                    (IP (NP (ADJP (a 古)) (NP (n 脊椎))) (VP (usuo 所))))
+                  (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 贺信)))
+        (f 中)))
+    (VP
+      (VRD (v 表示) (v 出))
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 强烈))) (ude 的)))
+        (NP (n 兴趣)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 地学界)) (ADJP (n 有关)) (NP (n 人士)))
+  (VP
+    (v 称)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 发现)))
+      (VP
+        (PP-DIR
+          (p 对)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (ADVP (r 如何)) (VP (v 确定) (NP-OBJ (n 地质) (n 年代))))))
+        (VP
+          (v 增加)
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+            (NP (n 依据)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 鸟类学家)))
+  (VP
+    (ADVP (c 则))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (DP (r 这) (QP (m 一))) (ADJP (a 重要)) (NP (n 发现)))
+          (VP
+            (PP-DIR
+              (p 对)
+              (NP
+                (NP (n 鸟类) (n 起源))
+                (c 以及)
+                (NP (NP (n 古生物)) (NP (n 研究)))))
+            (VP
+              (v 具有)
+              (NP-OBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (ADVP (d 非常)) (VP (a 重要))))
+                    (ude 的)))
+                (NP (n 意义))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 它))
+          (VP
+            (c 不仅)
+            (VP
+              (PP-BNF (p 为) (NP (ADJP (a 原始)) (NP (n 鸟类))))
+              (VP
+                (v 增加)
+                (y 了)
+                (NP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新)))
+                      (ude 的)))
+                  (NP (n 成员)))))
+            (wd ，)
+            (c 而且)
+            (VP
+              (v 扩大)
+              (y 了)
+              (NP-OBJ
+                (DNP
+                  (NP (ADJP (ADVP (d 最)) (ADJP (f 早期))) (NP (n 鸟类)))
+                  (ude 的))
+                (NP (n 地理) (vi 分布))))
+            (wd ，)
+            (VP
+              (ADVP (d 尤其))
+              (PP-DIR
+                (p 对)
+                (NP
+                  (NP (t 当今))
+                  (CP
+                    (WHNP-3 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-TPC (-NONE- *T*-3))
+                        (NP-SBJ (v 争论))
+                        (VP (a 持久)))
+                      (ude 的)))
+                  (DNP (NP (n 鸟类) (n 起源)) (ude 的))
+                  (DP (r 各种))
+                  (ADJP (n 假))
+                  (v 说)))
+              (VP
+                (v 提出)
+                (y 了)
+                (NP-OBJ
+                  (CP
+                    (WHNP-4 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-4)) (VP (a 新)))
+                      (ude 的)))
+                  (NP (n 挑战))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 了解)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-PN-SBJ (ns 中国))
+      (VP
+        (QP-TMP (ADVP (a 近)) (QP (m 几) (CLP (q 年))))
+        (ADVP (d 先后))
+        (PP-LOC
+          (p 在)
+          (NP
+            (NP-PN-APP
+              (ns 甘肃)
+              (wn 、)
+              (ns 河北)
+              (wn 、)
+              (ns 内蒙古)
+              (wn 、)
+              (ns 辽宁)
+              (udeng 等))
+            (NP (n 省区))))
+        (ADVP (d 相继))
+        (VP
+          (v 发现)
+          (y 了)
+          (NP-OBJ
+            (NP (NP-PN (t 中生代)) (NP (f 早期)))
+            (NP (n 鸟类) (n 化石))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (NP (r 其)) (NP (n 时代)))
+      (VP (ADVP (d 大都)) (VP (p 在) (ADVP (a 早)) (VP (n 白垩世))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP (p 鉴于) (NP (r 此)))
+  (wd ，)
+  (IP
+    (IP
+      (LCP-SBJ (NP (n 国际)) (f 上))
+      (VP
+        (PP-DIR
+          (p 对)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 中国)))
+              (VP
+                (VRD (v 寻找) (v 出))
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP
+                          (VP (ADVP (d 更)) (VP (a 原始)))
+                          (wn 、)
+                          (VP (ADVP (d 更)) (VP (a 古老)))))
+                      (ude 的)))
+                  (DNP (NP (n 鸟类)) (ude 的))
+                  (ADJP (b 真正))
+                  (NP (n 祖先)))))))
+        (VP (v 寄予) (NP-OBJ (n 希望)))))
+    (wd ，)
+    (c 而)
+    (IP
+      (NP-SBJ (NP-PN (ns 中国)) (NP (n 科学家)))
+      (VP
+        (ADVP (d 也))
+        (VP
+          (v 表示)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC (p 在) (NP-PN (ns 中国)))
+              (VP
+                (VP (vyou 有) (NP-OBJ (n 可能)))
+                (VP
+                  (v 发现)
+                  (NP-OBJ
+                    (DNP
+                      (NP
+                        (CP
+                          (WHNP-2 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-2))
+                              (VP
+                                (PP (p 比) (NP (n 始祖) (n 鸟)))
+                                (ADVP (d 更))
+                                (VP (a 早))))
+                            (ude 的)))
+                        (NP (n 鸟)))
+                      (ude 的))
+                    (NP (n 化石)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 另))
+  (ADVP (v 据悉))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 中国)) (NP (n 科学家)))
+  (VP
+    (p 将)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这) (CLP (q 类))) (NP (NP (n 始祖) (n 鸟)) (n 化石)))
+      (VP
+        (ADVP (d 暂))
+        (VP
+          (VRD (vi 定名) (v 为))
+          (NP-OBJ (wyz “) (ns 神州) (NP (n 始祖) (n 鸟)) (wyy ”))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (wd ，)
+  (NP-SBJ (r 他们))
+  (VP
+    (ADVP (d 正在))
+    (PP-DIR (p 对) (NP (DP (r 这) (CLP (q 批))) (NP (n 化石))))
+    (VP (v 作) (NP-OBJ (ADJP (d 进一步)) (NP (v 研究)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

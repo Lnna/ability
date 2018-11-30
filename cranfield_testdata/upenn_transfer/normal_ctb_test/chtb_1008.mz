@@ -1,0 +1,1016 @@
+<S>
+( (IP-HLN
+  (IP
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (VSB (IP (VP (v 挑) (NP (n 灯)))) (v 审议))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (n 财经) (wn 、) (n 国防) (wn 、) (n 人权)) (NP (n 法案)))
+    (VP (v 迈向) (NP-OBJ (n 新纪元))))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (IP (VP (v 立) (NP (n 法院))))
+      (QP (m 第四) (CLP (q 届)))
+      (QP (m 第二))
+      (NP (n 会期)))
+    (VP (ADVP (d 已)) (PP-TMP (p 于) (NP (t 一月) (t 十五日))) (VP (v 结束))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-MNR
+        (p 经过)
+        (IP
+          (NP (n 朝野) (nt 立委))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (ADVP (a 长))
+                  (VP (v 达) (QP-OBJ (m 一) (CLP (q 周))))))
+              (ude 的)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (VSB (VP (v 挑) (NP (n 灯))) (v 审议))))))
+      (wd ，)
+      (ADVP (d 共))
+      (VP (p 通过) (NP-OBJ (QP (m 一百一十三) (CLP (q 件))) (NP (n 审议案))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 创下)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (LCP (QP (NP-PN (n 民国)) (QP (m 三十七) (CLP (q 年)))) (f 以来))
+            (IP (VP (v 立) (NP (n 法院))))
+            (VP
+              (VP-FOC (n 审议) (NP-OBJ (n 案件)))
+              (VP (ADVP (d 最)) (VP (a 多)))))
+          (ude 的))
+        (NP (n 纪录)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-TMP (NP (QP (m 第二)) (NP (n 会期))) (NP (f 期间)))
+  (wd ，)
+  (NP-SBJ
+    (CP-APP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (vyou 有)
+          (IP-OBJ
+            (NP-SBJ (nt 立委))
+            (VP
+              (v 涉嫌)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP
+                    (VSB (v 关) (v 说))
+                    (NP-OBJ (-NONE- *RNR*-1))
+                    (IP (-NONE- *RNR*-2)))
+                  (wn 、)
+                  (VP
+                    (v 施压)
+                    (NP-OBJ-1 (ADJP (b 公营)) (NP (n 行库)))
+                    (IP-2
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (n 投资) (NP-OBJ (n 创投) (n 公司)))))))))))
+      (ude 的))
+    (NP (n 弊案)))
+  (wd ，)
+  (VP
+    (ADVP (d 更))
+    (VP
+      (v 让)
+      (NP-OBJ (DNP (NP (nt 立委)) (ude 的)) (NP (n 形象)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (ADJP (a 大)) (NP (n 伤)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (NP-TMP (DP (r 此次)) (NP (n 会期)))
+                      (VP (p 通过) (NP-OBJ (-NONE- *T*-1)))))
+                  (ude 的)))
+              (ADJP (a 重要))
+              (NP (n 法案)))
+            (VP (v 造成) (NP-OBJ (-NONE- *T*-2))))
+          (ude 的)))
+      (NP (n 影响)))
+    (c 及)
+    (NP
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 引起) (NP-OBJ (-NONE- *T*-3))))
+          (ude 的)))
+      (NP (n 争议))))
+  (VP (v 包括))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 此法))
+    (VP
+      (v 引起)
+      (NP-OBJ
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 可能) (VP (pbei 被) (IP (VP (v 减) (NP (n 薪)))))))
+              (ude 的)))
+          (NP (ns 北高两市))
+          (NP (n 议员)))
+        (NP (vi 反弹)))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (NP-APP (n 内政部长)) (NP-PN (nr 黄主文)))
+    (VP
+      (v 说明)
+      (IP-OBJ
+        (IP
+          (NP-TPC (r 此案))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-TMP (p 在) (LCP (NP (VRD (v 研) (v 拟)) (n 过程)) (n 时)))
+            (wd ，)
+            (ADVP (d 曾))
+            (ADVP (ad 充分))
+            (PP
+              (p 与)
+              (NP
+                (NP (NP-PN (f 北) (wn 、) (a 高)) (NP (n 议会)))
+                (NP (n 人士))))
+            (VP (v 沟通))))
+        (wd ，)
+        (IP
+          (NP-TMP (t 当时))
+          (NP-SBJ (NP (NP (ns 北高两市)) (NP (n 议会))) (NP (n 议长)))
+          (VP
+            (PP-DIR
+              (p 对)
+              (NP (DNP (NP-PN (n 行政院)) (ude 的)) (NP (n 版本))))
+            (ADVP (d 并))
+            (ADVP (d 未))
+            (VP (v 反对)))))))
+  (wd ，)
+  (IP
+    (IP-Q-SBJ (NP-TPC (r 此法)) (NP-SBJ (v 后续)) (VP-WH (r 如何)))
+    (wd ，)
+    (VP (ADVP (d 仍)) (VP (vi 待) (NP-OBJ (v 观察)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ (n 学者))
+        (VP
+          (v 痛批)
+          (IP-OBJ
+            (IP
+              (NP-SBJ
+                (DNP (NP-TTL (wyz 「) (n 促参法) (wyy 」)) (ude 的))
+                (NP (n 立法)))
+              (VP (ADVP (d 过于)) (VP (a 粗糙))))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 将))
+                (PP-BNF (p 为) (NP (ADJP (b 特定)) (NP (n 土地) (n 开发者))))
+                (VP (vi 牟利)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (n 中央) (n 研究院)) (NP (n 经济) (n 研究所)) (NP (n 研究员)))
+    (NP-PN (nr 杨重信)))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 认为)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (IP-SBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 让)
+              (NP-OBJ (n 财团) (c 及) (n 业主))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 取得)
+                  (NP-OBJ
+                    (DNP (NP (n 区段) (v 征收)) (ude 的))
+                    (ADJP (b 公))
+                    (NP (n 权力)))))))
+          (wd ，)
+          (VP (vi 必需) (VP (v 兼顾) (NP-OBJ (a 公平) (c 与) (n 效率)))))
+        (wd ，)
+        (IP
+          (ADVP (c 否则))
+          (NP-SBJ-1 (n 私权))
+          (VP (pbei 被) (VP (v 影响) (NP-OBJ (-NONE- *-1)))))
+        (wd ，)
+        (IP
+          (NP-TMP (t 未来))
+          (NP-SBJ (n 地主) (n 利益))
+          (VP (VPT (v 摆) (a 不平))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 纠纷))
+          (VP (ADVP (d 必然)) (ADVP (d 不)) (VP (v 断)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LST (m 三))
+    (wn 、)
+    (NP-TTL-TPC
+      (wyz 「)
+      (IP-APP
+        (NP-SBJ (NP (n 国家) (n 金融) (an 安定)) (NP (n 基金)))
+        (VP (n 设置) (c 及) (n 管理)))
+      (NP (n 条例))
+      (wyy 」))
+    (wm ：)
+    (IP-SBJ
+      (NP-SBJ (n 政府))
+      (VP (PP-BNF (p 为) (NP (n 股市))) (VP (n 护盘))))
+    (VP (ADVP (d 将)) (VP (vyou 有) (NP-OBJ (n 法源)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 明))
+      (VP
+        (v 订)
+        (IP-OBJ
+          (LCP-TMP
+            (IP (NP-SBJ (n 国家) (an 安定)) (VP (v 受) (NP-OBJ (n 威胁))))
+            (n 时)
+            (PRN
+              (wp ——)
+              (UCP
+                (ADVP (v 如))
+                (UCP
+                  (NP (NP (s 国内外)) (ADJP (a 重大)) (NP (n 事件)))
+                  (wn 、)
+                  (LCP
+                    (IP
+                      (IP
+                        (NP-SBJ (n 国际) (n 资金))
+                        (VP (ADVP (d 大幅)) (VP (v 移动))))
+                      (wd ，)
+                      (IP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP
+                          (ADVP (ad 显著))
+                          (VP (v 影响) (NP-OBJ (n 资本) (n 市场))))))
+                    (n 时))))))
+          (wd ，)
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 得) (VP (v 动用) (NP-OBJ (QP (m 五千亿)) (NP (n 基金)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ
+    (NP (NP-PN (nr 李登辉)) (NP (n 总统)))
+    (p 与)
+    (NP (n 政府) (n 财经) (n 首长)))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (NP-PN (ns 台湾)) (NP (n 股市)))
+        (VP
+          (ADVP (d 原本))
+          (ADVP (d 即))
+          (VP
+            (VP-FOC
+              (v 受)
+              (IP-OBJ
+                (NP-SBJ (NP-PN (n 台海)) (NP (n 情势)))
+                (VP (n 影响))))
+            (VP (a 极大)))))
+      (wd ，)
+      (IP
+        (NP-SBJ (r 此举))
+        (VP
+          (VP
+            (v 可)
+            (VP
+              (v 使)
+              (NP-OBJ (n 政府))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-TMP
+                    (p 在)
+                    (LCP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (v 面临)
+                          (NP-OBJ
+                            (ADJP (v 类似))
+                            (NP (NP-PN (nt 中共)) (NP (n 导弹)))
+                            (NP (n 危机)))))
+                      (n 时)))
+                  (wd ，)
+                  (PP-MNR
+                    (PP (v 藉) (QP (CLP (p 由))))
+                    (IP (NP-SBJ (n 资金)) (VP (v 投入) (NP-OBJ (n 市场)))))
+                  (VP (v 进行) (NP-OBJ (a 安定) (n 操作)))))))
+          (wd ，)
+          (VP
+            (v 有助于)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 稳定) (NP-OBJ (n 民心)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 四))
+  (wn 、)
+  (NP-TPC
+    (NP-TTL (wyz 「) (n 国防法) (wyy 」))
+    (c 及)
+    (NP-TTL (wyz 「) (NP-PN (n 国防部)) (NP (n 组织法)) (wyy 」)))
+  (wm ：)
+  (NP-SBJ (n 国防法))
+  (VP
+    (VP (v 落实) (IP-OBJ (NP-SBJ (n 军政) (n 军令)) (VP (vi 一元化))))
+    (wd ，)
+    (VP
+      (v 确立)
+      (UCP-OBJ
+        (IP (NP-SBJ (n 军队)) (VP (n 国家化)))
+        (wn 、)
+        (NP (IP-APP (NP-SBJ (n 文人)) (VP (v 领军))) (NP (n 理念)))))
+    (wd ，)
+    (VP
+      (v 开启)
+      (NP-OBJ
+        (IP-APP (NP-SBJ (n 军队)) (VP (n 现代化)))
+        (NP (ADJP (a 新)) (NP (n 页))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ (NP-APP (n 国防部长)) (NP-PN (nr 唐飞)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DNP (ADJP (b 最终)) (ude 的)) (NP (n 理想)))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP (p 与) (NP (NP (DP (r 各)) (NP (n 军种))) (NP (n 官科))))
+            (VP (vl 融为一体)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (m 五))
+  (wn 、)
+  (NP-SBJ
+    (NP-TTL (wyz 「) (n 海岸) (v 巡防) (n 法) (wyy 」))
+    (c 及)
+    (NP-TTL
+      (wyz 「)
+      (NP-PN (n 行政院))
+      (NP-PN (n 海岸) (NP (v 巡防) (n 署)))
+      (NP (n 组织法))
+      (wyy 」)))
+  (wm ：)
+  (VP
+    (v 确立)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (NP (n 我国)) (ADJP (a 最高)) (ADJP (n 执法)) (NP (n 单位)))
+        (VP (v 为) (NP-PN-PRD (nt 海巡署))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (n 专责)
+          (UCP-OBJ
+            (NP (n 海防))
+            (wn 、)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 查缉) (NP-OBJ (n 走私) (c 及) (n 偷渡)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-1))
+            (NP-SBJ (ADJP (b 总)) (NP (n 员额)))
+            (VP (NP-PRD (QP (m 两万两千)) (NP (n 人)))))
+          (ude 的)))
+      (NP-PN (n 海巡署)))
+    (VP
+      (v 变成)
+      (NP-OBJ (DNP (NP-PN (n 行政院)) (ude 的)) (QP (b 一级)) (NP (n 单位)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-2))
+            (NP-SBJ (ADJP (b 总)) (NP (n 员额)))
+            (QP (QP (m 七万)) (ADVP (m 多))))
+          (ude 的)))
+      (NP (n 警察)))
+    (VP
+      (ADVP (d 仍))
+      (VP
+        (wyz 「)
+        (v 窝)
+        (wyy 」)
+        (PP (p 在) (NP (NP-PN (n 行政院)) (QP (b 二级)) (NP (n 单位)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vi 叫)
+        (NP-OBJ (QP (m 许多)) (NP (n 警界) (n 人士)))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (a 不平))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-PN-SBJ (n 行政院))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (DNP (NP-PN (ns 台湾)) (ude 的)) (NP (n 海防) (n 工作)))
+        (VP
+          (VRD (v 关系) (v 到))
+          (NP-OBJ
+            (NP (NP-PN (n 台海)) (NP (an 安全)))
+            (c 及)
+            (NP
+              (DNP
+                (NP
+                  (NP-PN (ns 钓鱼台) (wn 、) (ns 南海) (udeng 等))
+                  (NP (n 主权)))
+                (ude 的))
+              (NP (n 争议))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 该)
+              (VP
+                (ADVP (ad 单纯))
+                (VP
+                  (PP-MNR
+                    (p 以)
+                    (NP (NP (v 走私) (wn 、) (n 偷渡)) (NP (n 问题))))
+                  (VP (v 视) (NP-OBJ (r 之)))))))
+          (wd ，)
+          (VP
+            (d 必须)
+            (VP
+              (v 兼顾)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (v 维护) (NP-OBJ (n 治安) (c 及) (n 国防) (an 安全))))
+                  (ude 的))
+                (ADJP (b 双重))
+                (NP (n 任务)))))))
+      (wd ，)
+      (IP
+        (ADVP (c 因此))
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (ADVP (v 唯有))
+            (VP
+              (vi 成立)
+              (NP-OBJ
+                (CP-APP (IP (NP-SBJ (n 岸海)) (VP (n 一体))) (ude 的))
+                (NP-PN (n 海岸) (v 巡防) (n 署)))))
+          (wd ，)
+          (VP
+            (ADVP (d 才))
+            (VP
+              (v 能)
+              (VP
+                (p 将)
+                (IP-OBJ
+                  (NP-SBJ
+                    (NP
+                      (UCP (NP (n 海岸)) (wn 、) (LCP (n 岸际)))
+                      (NP (n 执法)))
+                    (wd ，)
+                    (p 与)
+                    (NP (n 渔港) (n 安检) (n 工作)))
+                  (VP (vi 合一))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP
+      (IP
+        (IP-SBJ (NP-SBJ (n 灾区) (VP (v 建) (NP (n 物)))) (VP (v 重建)))
+        (VP (a 适用) (NP-OBJ (NP (n 都市) (n 更新)) (NP (n 条例)))))
+      (n 时))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 得)
+      (VP
+        (ADVP (d 不))
+        (VP
+          (v 超过)
+          (QP-OBJ
+            (DNP
+              (NP
+                (NP (DP (r 该)) (NP (n 建筑) (n 基地)))
+                (ADJP (n 原有))
+                (NP (n 建筑) (n 容积)))
+              (uzhi 之))
+            (QP
+              (FRAG (IP (VP (NP (w ○))) (wj ．)) (QP (m 三)))
+              (CLP (q 倍))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (v 给予)
+        (NP-OBJ
+          (n 容积)
+          (n 奖励)
+          (PRN
+            (wkz （)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 即)
+                (IP-PRD
+                  (IP (NP (n 容积)) (VP (k 率)))
+                  (VP (v 提高) (QP-OBJ (m 百分之三十))))))
+            (wky ）))))
+      (wd ，)
+      (VP (v 提供) (NP-IO (n 民众)) (NP-OBJ (v 重建) (n 诱因)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 此外))
+    (wd ，)
+    (IP-CND
+      (NP-SBJ (NP (n 灾民)) (DNP (ADJP (v 原有)) (ude 的)) (NP (n 房屋)))
+      (VP
+        (VP (PP-PRP (p 因) (NP (vi 赈灾))) (VP (v 毁损)))
+        (c 并)
+        (VP (PP-MNR (p 经) (NP (n 政府))) (VP (v 认定)))))
+    (wd ，)
+    (NP-TPC
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (NP (r 其)) (NP (n 房屋)))
+            (VP
+              (PP-TMP (p 于) (LCP (NP (n 震灾)) (f 前)))
+              (VP (usuo 所) (VP (v 办理) (NP-OBJ (-NONE- *T*-1))))))
+          (ude 的)))
+      (NP (n 担保) (n 借款)))
+    (wd ，)
+    (NP-SBJ (NP (r 其)) (NP (n 利息)))
+    (VP (n 展延) (QP-EXT (m 五) (CLP (q 年)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (n 展延))) (NP (n 利息)))
+      (NP (n 总额)))
+    (VP
+      (v 得)
+      (VP
+        (PP-TMP (p 与) (NP (NP (n 借款) (n 存续)) (NP (f 期间))))
+        (ADVP (d 分期))
+        (VSB (v 摊) (v 还)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-LOC (NP (n 灾区)) (f 内))
+    (NP-SBJ (n 土地) (c 与) (n 建物))
+    (VP
+      (ADVP (d 亦))
+      (VP (v 得) (VP (v 减免) (NP-OBJ (n 房屋) (c 及) (NP (n 地价) (n 税)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (NP-TMP (-NONE- *T*-1)) (v 免征))))
+      (NP (f 期间)))
+    (VP
+      (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (d 最)) (VP (a 长))))
+      (VP (QP-PRD (m 三) (CLP (q 年))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 其他))
+    (DNP (NP (ADJP (ADVP (d 较)) (ADJP (a 少))) (NP (v 争议))) (ude 的))
+    (ADJP (a 重要))
+    (NP (n 法案)))
+  (VP (ADVP (d 则)) (VP (vyou 有)))
+  (wm ：)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (n 人权) (n 方面)) (ude 的))
+    (NP-TTL
+      (wyz 「)
+      (NP
+        (IP-APP
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-TMP (vi 戒严) (n 时期))
+                (NP-TPC (n 人民))
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (n 受损))))
+            (NP (n 权利)))
+          (VP (n 回复)))
+        (NP (n 条例)))
+      (NP (n 修正案))
+      (wyy 」)))
+  (wd ，)
+  (VP
+    (VP
+      (v 扩大)
+      (NP-OBJ
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TMP (vi 戒严) (n 时期))
+                    (NP-SBJ (n 人民))
+                    (VP
+                      (PP-PRP
+                        (p 因)
+                        (IP
+                          (NP-SBJ (-NONE- *PRO*))
+                          (VP
+                            (v 受)
+                            (NP-OBJ
+                              (NP (n 内乱) (wn 、) (n 外患))
+                              (NP (n 罪))))))
+                      (VP
+                        (c 而)
+                        (VP
+                          (ADVP (d 依法))
+                          (VP (v 申请) (NP-OBJ (-NONE- *T*-2)))))))
+                  (ude 的)))
+              (NP (n 冤狱) (v 赔偿)))
+            (VP (vi 适用) (NP-OBJ (-NONE- *T*-3)))))
+        (NP (n 范围))))
+    (wd ，)
+    (VP
+      (ADVP (d 明))
+      (VP
+        (v 订)
+        (IP-OBJ
+          (NP-SBJ (NP (n 新法)) (NP (IP (NP (n 声)) (VP (v 请))) (n 时限)))
+          (VP
+            (VP
+              (v 为)
+              (LCP-PRD
+                (IP (NP-SBJ (n 新法)) (VP (VRD (v 修正) (v 公布))))
+                (f 后)))
+            (wd ，)
+            (VP
+              (ADVP (d 不))
+              (VP
+                (v 受)
+                (IP-OBJ
+                  (QP-SBJ
+                    (CP
+                      (WHNP-4 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (n 冤狱) (n 赔偿法))
+                          (VP
+                            (usuo 所)
+                            (VP (v 定) (NP-OBJ (-NONE- *T*-4)))))
+                        (ude 的)))
+                    (QP (m 两) (CLP (q 年))))
+                  (VP (n 限制))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (PP
+        (p 为)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 保护)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (NP (NP (n 刑)) (NP (n 案)))
+                  (c 及)
+                  (NP
+                    (IP-APP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (NP (v 检) (v 肃)) (NP-OBJ (n 流氓))))
+                    (NP (n 案件))))
+                (uzhi 之))
+              (NP (n 证人)))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (ADVP (d 不))
+                (PP-PRP
+                  (p 因)
+                  (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 作证))))
+                (VP
+                  (c 而)
+                  (VP
+                    (v 致)
+                    (NP-OBJ
+                      (n 生命)
+                      (wn 、)
+                      (n 身体)
+                      (wn 、)
+                      (an 自由)
+                      (c 或)
+                      (n 财产))
+                    (IP
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP (v 遭受) (NP-OBJ (n 损害)))))))))))
+      (uzhi 之))
+    (NP-TTL (wyz 「) (n 证人) (n 保护法) (wyy 」)))
+  (VP
+    (ADVP (d 亦))
+    (VP
+      (v 获)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (NP-ADV (QP (m 三)) (NP (v 读))) (VP (n 通过))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (DNP (NP (n 文化) (n 方面)) (ude 的))
+    (NP-TTL (wyz 「) (n 文化) (n 资产) (n 保存法) (wyy 」))
+    (NP (n 修正案)))
+  (wd ，)
+  (PP-ADV
+    (p 除)
+    (LCP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-DIR (p 针对) (NP (DNP (NP (n 古迹)) (ude 的)) (NP (n 修复))))
+          (VP
+            (v 提出)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 能)
+                (VP
+                  (PP-LOC
+                    (p 在)
+                    (LCP
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (ADVP (d 不))
+                          (VP
+                            (IP (NP (v 损)) (VP (NP (c 及))))
+                            (NP-OBJ
+                              (DNP (ADJP (v 原有)) (ude 的))
+                              (NP (n 风貌))))))
+                      (f 下)))
+                  (wd ，)
+                  (VP
+                    (v 可)
+                    (VP
+                      (VP
+                        (v 采用)
+                        (NP-OBJ
+                          (ADJP (t 现代))
+                          (NP (n 科技) (c 与) (n 工法))))
+                      (wd ，)
+                      (VP
+                        (v 增加)
+                        (NP-OBJ
+                          (CP-APP
+                            (IP
+                              (NP-SBJ (-NONE- *PRO*))
+                              (VP
+                                (vi 防震)
+                                (wn 、)
+                                (vi 防灾)
+                                (wn 、)
+                                (v 防蛀)))
+                            (ude 的))
+                          (NP (n 机能))))))))))))
+      (f 外)))
+  (wd ，)
+  (NP-TMP (t 将来))
+  (NP-SBJ
+    (NP (ADJP (n 传统)) (NP (n 聚落)))
+    (c 与)
+    (NP (ADJP (a 古)) (NP (n 街市))))
+  (VP (ADVP (d 也)) (VP (v 可以) (VP (v 列为) (NP-OBJ (n 古迹)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (DNP (NP (NP (ADJP (b 公共)) (NP (an 卫生))) (NP (n 方面))) (ude 的))
+    (NP-TTL
+      (wyz 「)
+      (NP (NP (ADJP (a 罕见)) (NP (n 疾病))) (NP (n 防治) (c 及) (n 药物)))
+      (NP (n 法))
+      (wyy 」)))
+  (wm ：)
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (v 包括)
+      (NP-OBJ
+        (NP-APP
+          (NP (NP (ns 地中海) (n 型)) (NP (vi 贫血)))
+          (wn 、)
+          (IP (VP (v 泡) (NP (n 泡儿))))
+          (wn 、)
+          (IP
+            (NP (n 成骨))
+            (VP (ADVP (d 不)) (NP (ADVP (a 全)) (NP (n 症)))))
+          (wn 、)
+          (NP (NP (nrf 威尔逊)) (NP (n 氏症)))
+          (udeng 等))
+        (QP (m 数十) (CLP (q 种)))
+        (ADJP (a 罕见))
+        (NP (n 病)))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (p 将))
+    (NP-ADV (n 专案))
+    (VP
+      (v 进口)
+      (NP-OBJ
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 适用))))
+          (NP (n 药物)))
+        (wd ，)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (IP-SBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (VP (v 治疗)) (c 及) (VP (v 维持) (NP-OBJ (n 生命)))))
+                (VP (usuo 所) (VP (v 需) (NP-OBJ (-NONE- *T*-2)))))
+              (ude 的)))
+          (ADJP (a 特殊))
+          (NP (n 营养) (n 食品))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC (DP (r 此次)) (VP (v 立) (NP (n 法院))) (NP (n 会期)))
+  (CP-ADV
+    (ADVP (c 虽然))
+    (IP (NP-SBJ (IP (VP (v 选) (NP (n 战)))) (n 气氛)) (VP (a 浓厚))))
+  (wd ，)
+  (ADVP (c 但))
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (DVP (VP (v 总结)) (ude 地)) (VP (v 说))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-TPC
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (p 通过) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 法案)))
+      (NP-SBJ (n 数量))
+      (VP (ADVP (d 极)) (VP (a 多))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-DIR
+          (p 对于)
+          (NP
+            (NP (t 未来))
+            (DNP
+              (NP
+                (NP-APP (n 国防) (wn 、) (n 经济) (wn 、) (n 社会))
+                (DP (r 各))
+                (NP (n 方面)))
+              (ude 的))
+            (NP (n 发展))))
+        (wd ，)
+        (ADVP (d 皆))
+        (VP
+          (vyou 有)
+          (NP-OBJ (DNP (ADJP (a 长远)) (ude 的)) (NP (n 影响)))))))
+  (wj 。)))
+</S>

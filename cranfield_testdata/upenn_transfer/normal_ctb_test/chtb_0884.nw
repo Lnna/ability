@@ -1,0 +1,380 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 浙江))
+  (VP
+    (v 提出)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (NP-TMP (t 下世纪))
+        (ADVP (v 提前))
+        (ADVP (ad 基本))
+        (VP (v 实现) (NP-OBJ (vi 现代化))))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 杭州)
+  (t 十二月)
+  (t 二十七日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 方益波)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (NP-TMP (t 周五)) (VP (v 结束))))
+        (ude 的)))
+    (NP-PN (nt 中共))
+    (NP-PN (ns 浙江省))
+    (QP (m 第十) (CLP (q 次)))
+    (NP (n 代表大会)))
+  (VP
+    (v 提出)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 浙江省))
+      (VP
+        (v 要)
+        (VP
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (PP (p 比) (NP (NP (n 全国)) (NP (n 计划))))
+              (VP (v 提前) (QP-EXT (m 三十) (CLP (q 年))))))
+          (ADVP (ad 基本))
+          (VP (v 实现) (NP-OBJ (vi 现代化)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 会议))
+  (VP
+    (v 确定)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (ns 浙江省))
+        (VP
+          (VP
+            (PP-TMP (p 到) (QP (m 二００) (QP (m 五) (CLP (q 年)))))
+            (VP
+              (v 争取)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (vyou 有)
+                  (IP-OBJ
+                    (NP-SBJ
+                      (DNP (QP (ADVP (a 近)) (QP (m 三分之一))) (ude 的))
+                      (NP (ns 市县)))
+                    (VP (ADVP (ad 基本)) (VP (v 实现) (NP-OBJ (vi 现代化)))))))))
+          (wd ，)
+          (VP
+            (PP-TMP (p 到) (QP (m 二０一０) (CLP (q 年))))
+            (VP
+              (v 争取)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (vyou 有)
+                  (IP-OBJ
+                    (NP-SBJ
+                      (DNP (QP (ADVP (a 近)) (QP (m 三分之二))) (ude 的))
+                      (NP (ns 市县)))
+                    (VP (ADVP (ad 基本)) (VP (v 实现) (NP-OBJ (vi 现代化)))))))))))
+      (wd ，)
+      (IP
+        (PP-TMP (p 到) (NP (m 二０二０)))
+        (NP-SBJ (n 全省))
+        (VP (ADVP (ad 基本)) (VP (v 实现) (NP-OBJ (vi 现代化)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 按照)
+    (NP
+      (DNP (NP (NP-PN (ns 浙江)) (ADJP (n 有关)) (NP (n 部门))) (ude 的))
+      (NP (n 测算))))
+  (wd ，)
+  (NP-SBJ (DNP (NP (wyz “) (vi 现代化) (wyy ”)) (ude 的)) (NP (n 概念)))
+  (VP
+    (v 包括)
+    (NP-OBJ
+      (IP-APP
+        (IP
+          (NP-SBJ (ADJP (n 人均)) (NP (s 国内) (n 生产总值)))
+          (VP
+            (QP-PRD
+              (QP (m 三千) (CLP (-NONE- *RNR*-1)))
+              (p 至)
+              (QP (m 五千) (CLP-1 (q 美元))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 农业))
+          (VP
+            (v 占)
+            (QP-OBJ
+              (NP (NP (s 国内) (n 生产总值)) (NP (n 比重)))
+              (QP (m 百分之五) (p 至) (m 十五)))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (ADJP (b 非农业)) (ADJP (b 从业)) (NP (n 人员)))
+                (VP
+                  (v 占)
+                  (NP-OBJ
+                    (NP (DP (a 全)) (NP (n 社会)))
+                    (ADJP (b 从业))
+                    (NP (n 人员)))
+                  (NP-EXT (-NONE- *T*-2)))))
+            (NP (n 比重)))
+          (VP (v 达到) (QP-OBJ (m 百分之六十) (p 至) (m 七十))))
+        (wd ，)
+        (IP
+          (NP-SBJ (nl 第三产业))
+          (VP
+            (v 占)
+            (QP-OBJ
+              (NP (NP (s 国内) (n 生产总值)) (NP (n 比重)))
+              (QP (m 百分之四十五) (p 至) (m 五十)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (ADJP (n 城市化)) (NP (n 水平)))
+          (VP (QP-PRD (m 百分之五十) (p 至) (m 六十))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 大学生) (n 入学率))
+          (VP (QP-PRD (m 百分之十) (p 至) (m 十五))))
+        (udeng 等))
+      (QP (m 十二) (CLP (q 个)))
+      (NP (n 指标))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (v 地处) (NP-OBJ (f 东南) (f 沿海))))
+          (ude 的)))
+      (NP-PN (ns 浙江省)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-3))
+              (VP
+                (NP-PN-LOC (ns 中国))
+                (ADVP (ADVP (d 较)) (ADVP (a 早)))
+                (VP (v 开始) (VP (VCD (v 改革) (v 开放))))))
+            (ude 的)))
+        (NP (n 省份)))))
+  (wd ，)
+  (IP
+    (IP (VP (ADVP (d 尤其)) (VP (vshi 是))))
+    (NP-SBJ (wyz “) (NP-PN (ns 温州)) (NP (n 模式)) (wyy ”))
+    (VP
+      (ADVP (d 更))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (DNP
+            (NP (NP (n 社会主义) (n 市场经济)) (NP (n 发展) (f 初期)))
+            (ude 的))
+          (ADJP (a 重要))
+          (NP (n 现象))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (ad 广)) (VP (v 受) (NP-OBJ (n 关注)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-TPC (ns 浙江省))
+  (IP
+    (IP
+      (NP-SBJ (s 国内) (n 生产总值))
+      (VP
+        (PP-DIR
+          (p 从)
+          (QP
+            (DNP (NP (t 一九七八年)) (ude 的))
+            (QP (m 二百三十二点九亿) (CLP (q 元)))))
+        (VP
+          (VRD (vi 上升) (v 到))
+          (NP-OBJ
+            (DNP (NP (t 今年)) (ude 的))
+            (QP
+              (FRAG (NP (QP (m 五千)) (NP (m 余))) (QP (m 亿)))
+              (CLP (q 元)))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 经济) (n 总量))
+      (VP
+        (ADVP (d 已))
+        (VP
+          (VRD (v 跃升) (v 到))
+          (QP-OBJ (NP-PN (ns 中国)) (QP (m 第四) (CLP (q 位))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (IP (VP (v 致力) (p 于)))
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (VRD (v 发展) (v 成为))
+                (NP-OBJ (ADJP (n 现代化)) (NP (n 国际) (n 港口) (n 城市))))))
+          (ude 的))))
+    (NP-PN (ns 宁波市)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP (v 加大) (NP-OBJ (vl 招商引资) (n 力度)))
+          (wd ，)
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-PN-SBJ
+                (ns 宁波)
+                (n 经济)
+                (n 技术)
+                (n 开发区)
+                (wn 、)
+                (ns 宁波)
+                (n 保税区)
+                (c 和)
+                (ns 大榭岛))
+              (VP
+                (v 建成)
+                (NP-OBJ
+                  (NP (QP (m 二十一)) (NP (n 世纪)))
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新)))
+                      (ude 的)))
+                  (NP (n 经济) (NP (n 增长点)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-2))
+          (VP
+            (v 走)
+            (PP
+              (p 在)
+              (NP (NP (n 全国)) (DNP (NP (n 改革)) (uzhi 之)) (NP (n 先))))))
+        (ude 的)))
+    (NP-PN (ns 温州市)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (ADVP (d 将))
+          (ADVP (d 大力))
+          (VP (vi 推进) (NP-OBJ (DNP (NP (n 人)) (ude 的)) (NP (n 现代化)))))
+        (wd ，)
+        (VP
+          (PP-BNF
+            (p 给)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-LOC (n 全国)) (VP (v 闻名))))
+                  (ude 的)))
+              (NP
+                (wyz “)
+                (NP (NP (ns 温州)) (NP (n 人)))
+                (n 精神)
+                (wyy ”))))
+          (VP
+            (v 注入)
+            (NP-OBJ
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-3))
+                    (VP (ADVP (d 更)) (VP (a 多))))
+                  (ude 的)))
+              (NP (n 知识) (n 含量))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 此外))
+    (wd ，)
+    (NP-PN-SBJ (ns 浙江))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 提出)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 开拓) (NP-OBJ (n 海洋) (n 经济)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 使)
+      (NP-OBJ (r 其))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 成为)
+          (NP-OBJ
+            (NP (NP (n 全省)) (NP (n 经济)))
+            (NP (VP (v 跨) (NP (n 世纪))) (NP (v 发展)))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+            (NP (n 增长点)))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

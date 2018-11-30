@@ -1,0 +1,38 @@
+<S>
+( (IP
+  (NP-SBJ (QP (m ６) (CLP (q 所))) (NP (n 成人) (n 高校)))
+  (VP
+    (v 并入)
+    (NP-OBJ (QP (m ５) (CLP (q 所))) (ADJP (a 普通)) (NP (n 高校))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 许多)) (NP (n 学校)))
+    (VP
+      (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 合并))) (f 以后))
+      (wd ，)
+      (VP
+        (v 实现)
+        (y 了)
+        (IP-OBJ
+          (IP (NP-SBJ (n 优势)) (VP (n 互补)))
+          (wn 、)
+          (IP (NP-SBJ (n 资源)) (VP (v 共享)))))))
+  (wd ，)
+  (IP (NP-SBJ (n 办校) (n 条件)) (VP (ADVP (ad 明显)) (VP (v 改善))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (n 综合)) (NP (n 实力)))
+    (VP (ADVP (ad 明显)) (VP (v 增强))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 办学) (n 质量) (c 和) (n 效益))
+    (VP (ADVP (ad 显著)) (VP (v 提高))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 走向) (y 了) (NP-OBJ (ADJP (b 良性)) (NP (n 发展) (n 轨道)))))
+  (wj 。)))
+</S>

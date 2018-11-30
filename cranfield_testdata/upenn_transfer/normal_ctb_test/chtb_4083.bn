@@ -1,0 +1,274 @@
+<S>
+( (IP
+  (LCP-TMP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-LOC
+          (p 在)
+          (NP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (VSB (vi 中毒) (vi 身亡))))
+                  (ude 的)))
+              (NP-APP (NP-PN (ns 俄罗斯)) (ADJP (f 前)) (NP (n 特工)))
+              (NP-PN (nrf 利特维年科)))
+            (NP (s 体内))))
+        (VP
+          (VRD (v 检测) (v 到))
+          (FLR (ude 的))
+          (NP-OBJ (QP (m 大量)) (NP-APP (n 放射性) (n 物质)) (NP (nz 钋二幺零))))))
+    (f 之后))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 英国)) (NP (n 警方)))
+  (VP
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP (PP-ADV (p 与) (NP-PN (nrf 利特维年科))) (VP (v 有关))))
+              (ude 的)))
+          (NP (n 地点))))
+      (VP
+        (v 进行)
+        (y 了)
+        (NP-OBJ (DNP (ADJP (b 拉网式)) (ude 的)) (NP (n 排查)))))
+    (wd ，)
+    (VP
+      (ADVP (d 结果))
+      (PP-LOC (p 在) (NP (QP (m 十二) (CLP (q 处))) (NP (n 地点))))
+      (VP (v 发现) (y 了) (NP-OBJ (n 钋二幺零)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 与此同时))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (PP-ADV
+                        (p 与)
+                        (NP (NP-PN (nrf 利特维年科)) (NP (n 死亡) (n 事件))))
+                      (VP (v 有关))))
+                  (ude 的)))
+              (NP (n 人士)))
+            (VP (v 搭乘) (NP-OBJ (-NONE- *T*-2))))
+          (ude 的)))
+      (QP (m 四) (CLP (q 架)))
+      (NP (n 客机)))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 先后))
+      (VP (v 接受) (y 了) (NP-OBJ (n 放射性) (n 检查)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 排除)
+      (y 了)
+      (NP-OBJ
+        (NP (r 其中))
+        (QP (m 两) (CLP (q 架)))
+        (CP-APP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 出现) (NP-OBJ (n 核辐射))))
+          (ude 的))
+        (NP (n 可能性)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 英国)) (NP (n 内政) (n 大臣)))
+    (NP-PN (nrf 里德)))
+  (VP
+    (NP-TMP (t 十一月) (QP (m 三十) (CLP (q 号))))
+    (PP-LOC (p 在) (NP (NP-PN (ns 英国)) (NP (n 议会))))
+    (VP
+      (v 证实)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (ADJP (n 有关)) (NP (n 专家)))
+        (VP
+          (VP
+            (PP
+              (p 对)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (v 包括)
+                        (LCP-OBJ
+                          (NP
+                            (QP (m 两) (CLP (q 架)))
+                            (NP-PN (ns 英国) (n 航空) (n 公司))
+                            (NP (n 客机)))
+                          (u 在内))))
+                    (ude 的)))
+                (QP (m 二十四) (CLP (q 处)))
+                (NP (n 地点))))
+            (VP (v 实施) (NP-OBJ (v 监控))))
+          (wd ，)
+          (VP
+            (ADVP (n 结果))
+            (PP-LOC (p 在) (NP (QP (m 十二) (CLP (q 个))) (NP (n 地点))))
+            (VP (v 发现) (y 了) (NP (nr 钋二) (nr 幺零))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 此外))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (QP (m 一) (CLP (q 架)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (IP (VP (vi 停) (p 在)))
+              (NP-PN (ns 莫斯科) (n 国际) (n 机场))))
+          (ude 的)))
+      (NP-PN (nt 英航))
+      (NP (n 客机)))
+    (c 和)
+    (NP
+      (QP (m 一) (CLP (q 架)))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (IP (VP (vi 飞) (v 抵))) (NP-PN-OBJ (ns 伦敦))))
+          (ude 的)))
+      (NP-PN (ns 俄罗斯))
+      (NP (n 客机))))
+  (VP (ADVP (d 也)) (VP (v 接受) (y 了) (NP-OBJ (n 放射性) (n 检查))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TMP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (VRD (vi 截止) (v 到)) (NP-OBJ (t 当晚))))
+  (wd ，)
+  (NP-SBJ (n 专家))
+  (VP
+    (ADVP (d 已经))
+    (VP
+      (v 排除)
+      (y 了)
+      (NP-OBJ
+        (QP
+          (DNP
+            (LCP
+              (NP (DP (r 这) (QP (m 四) (CLP (q 架)))) (NP (n 客机)))
+              (f 中))
+            (ude 的))
+          (QP (m 两) (CLP (q 架))))
+        (CP-APP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 出现) (NP-OBJ (n 核辐射))))
+          (ude 的))
+        (NP (n 可能性)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 里德))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (v 可能))
+        (VP
+          (vyou 有)
+          (IP-OBJ
+            (NP-SBJ
+              (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+              (NP (n 飞机)))
+            (VP
+              (ADVP (d 将))
+              (VP (pbei 被) (VP (v 纳入) (NP-OBJ (v 调查))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 里德))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 透露)
+      (wd ，)
+      (IP-OBJ
+        (LCP-SBJ
+          (NP
+            (QP (QP (QP (m 三万)) (ADVP (m 多))) (CLP (q 名)))
+            (NP (n 乘客)))
+          (f 中))
+        (VP
+          (ADVP (d 已))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ (QP (m 数千)) (NP (n 人)))
+              (VP (VP (vi 打电话)) (VP (v 咨询)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP (r 其中))
+      (QP (m 十八) (CLP (q 名)))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (v 可能))
+              (VP (v 暴露) (PP-LOC (p 在) (IP (NP (n 钋)) (VP (v 辐射)))))))
+          (ude 的)))
+      (NP (n 人)))
+    (VP
+      (ADVP (d 已))
+      (VP
+        (VP
+          (pbei 被)
+          (VP
+            (IP (VP (v 送)) (p 往))
+            (NP-OBJ (DNP (ADJP (b 专门)) (ude 的)) (NP (n 医疗) (n 机构)))))
+        (VP (v 接受) (NP-OBJ (n 检查))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (QP (m 二十九) (CLP (q 份))) (NP (n 尿样) (v 检测)))
+    (VP (ADVP (d 都)) (VP (v 呈) (NP-OBJ (n 阴性)))))
+  (wj 。)))
+</S>

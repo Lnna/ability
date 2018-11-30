@@ -1,0 +1,152 @@
+<S>
+( (IP
+  (NP-TPC (NP-PN (wkz 《) (nz 人民日报) (wky 》)) (NP (n 消息)))
+  (wm ：)
+  (NP-SBJ
+    (NP-PN
+      (NP-PN (ns 中) (ns 日))
+      (NP (a 友好))
+      (NP (QP (m ２１)) (NP (n 世纪)))
+      (NP (n 委员会)))
+    (QP (m 第１４) (CLP (q 次)))
+    (NP (n 会议)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 昨天))
+    (PP-LOC (p 在) (NP-PN (ns 海南省) (ns 琼海市)))
+    (VP (v 举行)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP-APP (nt 国务院) (n 总理)) (NP-PN (nrf 朱容基)))
+    (c 和)
+    (NP (NP-APP (NP-PN (ns 日本)) (NP (n 首相))) (NP-PN (nrf 森喜朗))))
+  (VP
+    (ADVP (d 分别))
+    (VP (VRD (v 发) (v 去)) (NP-OBJ (n 贺辞) (c 和) (n 贺电))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr1 朱) (n 总理))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 贺辞)) (f 中)))
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (NP-TMP (DNP (NP (n 世纪)) (uzhi 之)) (NP (n 交)))
+        (wd ，)
+        (NP-SBJ (NP-PN (ns 中) (ns 日)) (NP (n 关系)))
+        (VP
+          (VP
+            (ADVP (c 既))
+            (VP
+              (v 迎来)
+              (NP-OBJ
+                (QP (m 一) (CLP (q 系列)))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新)))
+                    (ude 的)))
+                (NP (n 发展) (n 机遇)))))
+          (wd ，)
+          (VP
+            (ADVP (d 也))
+            (VP
+              (v 面临)
+              (uzhe 着)
+              (NP-OBJ
+                (QP (m 不少))
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新)))
+                    (ude 的)))
+                (NP (n 课题)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他))
+  (VP
+    (v 希望)
+    (IP-OBJ
+      (NP-SBJ (n 双方) (n 委员))
+      (VP
+        (VP
+          (DVP (VP (VCD (a 坦诚) (a 深入))) (ude 的))
+          (VP (n 交换) (NP-OBJ (n 意见))))
+        (wd ，)
+        (VP
+          (PP-BNF
+            (p 为)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP (v 充实) (NP-OBJ (-NONE- *RNR*-2)))
+                (c 和)
+                (VP
+                  (v 发展)
+                  (NP-OBJ-2
+                    (DNP (NP (QP (m ２１)) (NP (n 世纪))) (ude 的))
+                    (NP-PN (ns 中) (ns 日))
+                    (ADJP (a 友好))
+                    (NP (n 合作) (n 关系)))))))
+          (VP
+            (v 提出)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (VCD (a 积极) (a 有益))))
+                  (ude 的)))
+              (NP (n 建议))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr1 森) (n 首相))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 贺电)) (f 中)))
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 期待)
+          (IP
+            (NP-SBJ (n 双方) (n 委员))
+            (VP
+              (VP (ADVP (ad 充分)) (VP (v 发挥) (NP-OBJ (nl 聪明才智))))
+              (wd ，)
+              (VP
+                (PP-DIR
+                  (p 就)
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (ADVP (r 如何))
+                      (VP
+                        (v 发展)
+                        (NP-OBJ
+                          (DNP (NP (QP (m ２１)) (NP (n 世纪))) (ude 的))
+                          (NP-PN (ns 中) (ns 日))
+                          (NP (n 关系)))))))
+                (VP
+                  (v 进行)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 坦诚)))
+                        (ude 的)))
+                    (NP (n 对话)))))))))))
+  (wj 。)))
+</S>

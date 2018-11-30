@@ -1,0 +1,119 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 俄罗斯) (c 和) (ns 挪威)) (NP (n 潜水员)))
+  (VP
+    (v 恢复)
+    (NP-OBJ
+      (CP-APP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 打捞)
+            (wd ，)
+            (NP-OBJ
+              (NP
+                (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 核潜艇)))
+                (NP-PN (t 库尔斯克号)))
+              (NP (ADJP (b 死难)) (NP (n 水兵)))
+              (NP (n 尸体)))))
+        (ude 的))
+      (NP (n 工作))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 恶劣))) (ude 的)))
+    (NP (n 天气)))
+  (VP
+    (v 使)
+    (NP-OBJ (v 打捞) (n 工作))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (ADVP (d 不得不))
+        (VP
+          (v 中断)
+          (y 了)
+          (QP-EXT (QP (m 一) (CLP (q 天))) (ADVP (m 多)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (VP (ADVP (d 已经)) (VP (v 着手) (NP-OBJ (vi 钻孔))))
+      (wd ，)
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 进入)
+            (NP-OBJ
+              (DNP (LCP (NP (n 核潜艇)) (f 内)) (ude 的))
+              (NP (QP (m 第９)) (NP (q 号)))
+              (NP (n 舱))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 预计)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP-LOC (p 在) (NP (r 那里)))
+          (VP
+            (v 可以)
+            (VP
+              (v 找到)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (QP (ADVP (d 至少)) (QP (m ２３) (CLP (q 名))))
+                    (NP (n 海员)))
+                  (ude 的))
+                (NP (n 尸体)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (n 官员) (k 们))
+  (VP
+    (v 相信)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这) (QP (m ２３) (CLP (q 名)))) (NP (n 海员)))
+      (wd ，)
+      (VP
+        (PP-TMP
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 摧毁) (NP-OBJ (n 潜艇))))
+                    (ude 的)))
+                (NP (n 爆炸)))
+              (VP (v 发生)))
+            (f 以前)))
+        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+        (ADVP (d 立即))
+        (VP (vi 死亡)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (LCP (NP-PN (t 库尔斯克号)) (f 上)) (ude 的))
+    (QP (m １１８) (CLP (q 名)))
+    (NP (n 官兵)))
+  (VP (ADVP (m 全部)) (VP (vi 遇难)))
+  (wj 。)))
+</S>

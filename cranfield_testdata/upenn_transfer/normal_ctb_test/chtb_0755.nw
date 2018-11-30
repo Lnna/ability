@@ -1,0 +1,339 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (nt 安理会))
+  (VP
+    (v 呼吁)
+    (NP-OBJ (NP (NP-PN (ns 安哥拉)) (NP (n 冲突))) (NP (n 双方)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (v 协助)
+        (NP-OBJ (-NONE- *pro*))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 寻找) (NP-OBJ (n 空难) (n 幸存者)))))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (nt 联合国)
+  (t １２月)
+  (t ２９日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 顾震球)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nt 联合国) (nt 安理会))
+  (VP
+    (NP-TMP (t ２９日))
+    (VP
+      (VP (v 发表) (NP-OBJ (n 主席) (n 声明)))
+      (wd ，)
+      (VP
+        (wyz “)
+        (ADVP (ad 紧急))
+        (VP
+          (v 呼吁)
+          (NP-OBJ
+            (NP (NP-PN (ns 安哥拉)) (NP (n 政府)))
+            (c 和)
+            (NP
+              (CP
+                (WHNP (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 争取)
+                    (IP-OBJ (NP-PN-SBJ (ns 安哥拉)) (VP (ad 独立) (v 解放))))))
+              (NP-PN (NP (n 全国)) (NP (n 联盟)))
+              (PRN (wkz （) (NP-PN (nt 安盟)) (wky ）))))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (ADVP (d 立即))
+              (PP
+                (p 和)
+                (NP
+                  (NP-PN (nt 联合国))
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (v 驻) (NP-PN-SBJ (ns 安哥拉)))))
+                  (NP (n 观察团))
+                  (PRN
+                    (wkz （)
+                    (NP (NP-PN (nz 联安)) (NP (n 观察团)))
+                    (wky ）))))
+              (VP (v 进行) (NP-OBJ (ADJP (a 全面)) (NP (n 合作)))))))
+        (wyy ”))
+      (wd ，)
+      (VP
+        (ADVP (d 以便))
+        (VP
+          (v 使)
+          (NP-OBJ (NP-PN (nt 联合国)) (NP (n 工作) (n 人员)))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (v 能够)
+                (VP
+                  (v 到达)
+                  (NP-OBJ
+                    (DNP (NP (NP-PN (nt 联合国)) (NP (n 运输机))) (ude 的))
+                    (NP (n 失事) (n 地点)))))
+              (wd ，)
+              (VP
+                (v 寻找)
+                (NP-OBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-2))
+                        (VP (v 可能) (VP (vi 生还))))
+                      (ude 的)))
+                  (NP (n 幸存者))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 声明))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (NP-PN (nt 安理会)) (QP (m １５) (CLP (q 个))) (NP (n 成员国)))
+      (VP
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (DNP
+                (NP
+                  (DNP
+                    (LCP
+                      (NP (DP (r 这) (CLP (q 架))) (NP (n 失事) (n 飞机)))
+                      (f 上))
+                    (ude 的))
+                  (NP
+                    (NP
+                      (QP (m １０) (CLP (q 名)))
+                      (NP (NP-PN (nz 联安)) (NP (n 观察团)))
+                      (NP (n 成员)))
+                    (c 和)
+                    (NP (QP (m ４) (CLP (q 名))) (NP (n 机组) (n 人员)))))
+                (ude 的))
+              (NP (n 命运))))
+          (ADVP (d 非常))
+          (VP (v 关注)))
+        (wd ，)
+        (c 并)
+        (VP
+          (PP-DIR
+            (p 对)
+            (IP
+              (NP-SBJ (NP (NP-PN (ns 安哥拉)) (NP (n 冲突))) (NP (n 双方)))
+              (VP
+                (ADVP (d 至今))
+                (ADVP (d 仍))
+                (ADVP (d 未))
+                (VP
+                  (v 采取)
+                  (NP-OBJ
+                    (DNP (ADJP (v 有关)) (ude 的))
+                    (NP (n 援救) (n 措施)))))))
+          (VP (v 表示) (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (v 担忧))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 声明))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (DP (r 任何)) (NP (n 拖延)))
+      (VP
+        (ADVP (d 都))
+        (VP
+          (v 可能)
+          (VP (v 危及) (NP-OBJ (DNP (NP (n 幸存者)) (ude 的)) (NP (n 生命))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (nt 安理会)) (ude 的)) (NP (n 声明)))
+  (VP
+    (v 重申)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (NP (NP-PN (ns 安哥拉)) (NP (n 政府)))
+        (c 和)
+        (NP-PN (nt 安盟)))
+      (VP
+        (v 应)
+        (VP
+          (PP-DIR
+            (p 对)
+            (NP
+              (NP (NP (NP-PN (nz 联安)) (NP (n 观察团))) (NP (n 成员)))
+              (DNP
+                (PP (p 在) (NP (NP-PN (ns 安哥拉)) (NP (s 境内))))
+                (ude 的))
+              (NP (n 人身) (an 安全) (c 和) (n 行动) (ad 自由))))
+          (VP (v 负责))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 声明))
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 希望)
+      (IP-OBJ
+        (NP-PN-SBJ (nrf 安南))
+        (VP
+          (VP
+            (wyz “)
+            (v 采取)
+            (NP-OBJ (DP (r 其他)) (NP (n 措施)))
+            (wyy ”))
+          (wd ，)
+          (VP
+            (PP-BNF
+              (p 为)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (NP-TMP (t 目前))
+                        (VP (p 在) (NP-PN-OBJ (ns 安哥拉)))))
+                    (ude 的)))
+                (NP-PN (nt 联合国))
+                (NP (n 工作) (n 人员))))
+            (VP
+              (wyz “)
+              (v 提供)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 适当)))
+                    (ude 的)))
+                (NP (an 安全) (n 保护)))
+              (wyy ”)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 报道)))
+  (wd ，)
+  (NP-SBJ
+    (DP (r 这) (CLP (q 架)))
+    (QP (FRAG (nx Ｃ) (wp －) (QP (m １３０))) (CLP (k 型)))
+    (NP (n 运输机)))
+  (VP
+    (NP-TMP (t ２６日))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-DIR
+              (p 从)
+              (NP
+                (DNP (NP (NP-PN (ns 安哥拉)) (NP (f 中部))) (ude 的))
+                (NP-PN (ns 万博省))))
+            (VP (vi 起飞) (QP-EXT (m １０) (CLP (q 分钟))))))
+        (f 后)))
+    (VP (v 坠毁)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (wd ，)
+  (PP-PRP
+    (p 由于)
+    (IP
+      (NP-SBJ
+        (NP (NP-PN (ns 安哥拉)) (NP (n 政府军)))
+        (c 和)
+        (NP-PN (nt 安盟)))
+      (VP
+        (ADVP (d 正))
+        (PP-LOC (p 在) (NP (NP (r 该国)) (NP (f 中部) (n 地区))))
+        (VP (v 进行) (NP-OBJ (n 激战))))))
+  (wd ，)
+  (NP-SBJ
+    (DNP (NP (NP-PN (nz 联安)) (NP (n 观察团))) (ude 的))
+    (NP (n 成员)))
+  (VP
+    (ADVP (d 难以))
+    (VP
+      (VP (v 到达) (NP-OBJ (n 失事) (n 地点)))
+      (VP (v 进行) (NP-OBJ (NP (n 搜寻) (c 和) (n 抢救)) (NP (n 工作))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (n 事)) (VP (PP-TMP (-NONE- *T*-1)) (VP (v 发)))))
+    (NP (t 当天)))
+  (wd ，)
+  (NP-SBJ (NP-APP (NP-PN (nt 联合国)) (NP (n 秘书长))) (NP-PN (nrf 安南)))
+  (VP
+    (ADVP (d 曾))
+    (VP
+      (VP (v 发表) (NP-OBJ (n 声明)))
+      (wd ，)
+      (VP
+        (v 呼吁)
+        (NP-OBJ (NP (NP-PN (ns 安哥拉)) (NP (n 冲突))) (NP (n 双方)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (VP (v 实现) (NP-OBJ (vi 停火)))
+            (wd ，)
+            (VP
+              (v 使)
+              (NP-OBJ (NP-PN (nz 联安)) (NP (n 观察团)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (VP
+                    (v 能够)
+                    (VP
+                      (VP
+                        (v 前往)
+                        (NP-OBJ
+                          (CP
+                            (WHPP-2 (-NONE- *OP*))
+                            (IP
+                              (NP-SBJ (n 事))
+                              (VP (PP-LOC (-NONE- *T*-2)) (VP (v 发)))))
+                          (NP (s 现场))))
+                      (VP (v 进行) (NP-OBJ (n 搜索)))))
+                  (wd ，)
+                  (VP (c 以) (VP (v 抢救) (NP-OBJ (n 幸存者))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

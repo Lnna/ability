@@ -1,0 +1,171 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (QP (ADJP (f 最后)) (QP (m 一) (CLP (q 辆))))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (PP-LGS (p 由) (NP-PN (ns 英国) (nz 罗弗) (n 公司)))
+              (VP (v 生产) (NP-OBJ (-NONE- *-2)))))
+          (ude 的)))
+      (ADJP (b 微型))
+      (NP (n 轿车)))
+    (VP
+      (QP (m ４) (CLP (q 号)))
+      (VP (VRD (v 走) (v 下)) (NP-OBJ (n 生产线)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DP (r 这种))
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ-2 (-NONE- *T*-3))
+            (VP
+              (ADVP (d 曾))
+              (VP
+                (pbei 被)
+                (VP
+                  (v 喻为)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *-2))
+                    (VP
+                      (LCP-LOC (NP (n 世界)) (f 上))
+                      (ADVP (d 最))
+                      (VP (v 受) (IP-OBJ (NP-SBJ (n 人)) (VP (v 喜爱))))))))))
+          (ude 的)))
+      (ADJP (b 微型))
+      (NP (n 轿车)))
+    (VP
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 结束)
+          (NP-OBJ
+            (NP (r 它))
+            (DNP (QP (m ４１) (CLP (q 年))) (ude 的))
+            (NP (n 历史)))))
+      (wd ，)
+      (VP (ADVP (d 从此)) (ADVP (d 不)) (ADVP (v 在)) (VP (v 生产)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP-LOC (p 在) (NP-PN (ns 英国) (ns 牛津) (n 地区)))
+            (VP (vl 取而代之))))
+        (ude 的))))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nz 宝马) (n 公司))
+              (VP (v 生产) (NP-OBJ (-NONE- *T*-2))))
+            (ude 的)))
+        (ADJP (b 新款))
+        (ADJP (b 微型))
+        (NP (n 轿车)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nz 罗弗) (n 公司))
+  (VP
+    (NP-TMP (t 当天))
+    (ADVP (d 还))
+    (ADVP (d 同时))
+    (VP
+      (v 推出)
+      (y 了)
+      (NP-OBJ
+        (NP-APP (DNP (NP (r 自己)) (ude 的)) (ADJP (b 新款)) (NP (n 轿车)))
+        (wyz “)
+        (QP-PN (NP (n 流浪者)) (QP (m ７５))))))
+  (wyy ”)
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (DNP (NP (DP (r 该)) (NP (n 公司))) (ude 的))
+      (NP (n 首席) (n 执行官)))
+    (NP-PN (nrf 海伦·霍韦)))
+  (VP
+    (NP-TMP (t 当天))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (IP
+          (DP-SBJ (r 这) (CLP (q 条)))
+          (VP
+            (v 具有)
+            (IP-OBJ
+              (NP-PN-SBJ (nz 罗弗) (n 公司))
+              (VP
+                (VP
+                  (v 作为)
+                  (NP-OBJ
+                    (DNP (NP-PN (nz 宝马) (n 公司)) (ude 的))
+                    (QP (m 一个))
+                    (NP (n 子公司))))
+                (wd ，)
+                (VP
+                  (v 进入)
+                  (y 了)
+                  (NP-OBJ
+                    (QP (m 一个))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新)))
+                        (ude 的)))
+                    (NP (n 时代))))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 他))
+          (VP
+            (v 预计)
+            (IP-OBJ
+              (LCP-TMP (DP (f 下) (QP (m 一) (CLP (q 年)))) (NP (f 里)))
+              (NP-SBJ (n 公司))
+              (VP
+                (v 有望)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (ADVP (d 再次))
+                    (VP
+                      (v 出)
+                      (NP-OBJ
+                        (QP (m ８) (CLP (q 款)))
+                        (CP
+                          (WHNP-2 (-NONE- *OP*))
+                          (CP
+                            (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 新)))
+                            (ude 的)))
+                        (NP (n 车型)))))))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP (NP-PN-SBJ (n 中央台)) (VP (VSB (VCD (n 综合) (n 编辑)) (n 报道))) (wj 。)))
+</S>

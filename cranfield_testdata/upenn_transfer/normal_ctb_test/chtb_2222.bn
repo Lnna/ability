@@ -1,0 +1,78 @@
+<S>
+( (IP
+  (NP-TPC (NP-PN-PN (nt 新华社)) (NP (n 消息)))
+  (wm ：)
+  (NP-SBJ (NP (n 国家) (n 主席)) (NP-PN (nr 江泽民)))
+  (VP
+    (NP-TMP (t 昨天))
+    (PP-DIR
+      (p 就)
+      (IP
+        (NP-SBJ (NP-PN (ns 俄罗斯)) (QP (m 一) (CLP (q 架))) (NP (n 飞机)))
+        (VP (vi 失事))))
+    (VP
+      (VP
+        (v 致电)
+        (NP-OBJ
+          (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 总统)))
+          (NP-PN (nrf 普京))))
+      (VP (v 表示) (NP-OBJ (v 慰问)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 江泽民))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 电报)) (f 中)))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (r 我))
+        (VP
+          (VP
+            (ADVP (d 仅))
+            (VP
+              (v 代表)
+              (NP-OBJ (NP-PN (ns 中国)) (NP (n 政府) (c 和) (n 人民)))))
+          (c 并)
+          (VP
+            (PP-MNR
+              (p 以)
+              (NP (DNP (NP (r 我) (n 个人)) (ude 的)) (NP (n 名义))))
+            (PP-DIR (p 向) (NP (r 你)))
+            (ADVP (c 并))
+            (PP-MNR (p 通过) (NP (r 你)))
+            (VP
+              (VP
+                (PP-DIR (p 对) (NP (n 遇难者)))
+                (VP (v 表示) (NP-OBJ (v 哀悼))))
+              (wd ，)
+              (VP
+                (PP-DIR (p 向) (NP (n 遇难者) (n 家属)))
+                (VP (v 表示) (NP-OBJ (v 慰问))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 俄罗斯))
+      (QP (m 一) (CLP (q 架)))
+      (NP-PN (nrf 伊尔) (m １８))
+      (NP (n 飞机)))
+    (wd ，)
+    (VP
+      (NP-TMP (NP (t 本月)) (QP (m ２５) (CLP (q 号))))
+      (PP-LOC (p 在) (NP (NP-PN (ns 格鲁吉亚) (ns 巴统市)) (NP (f 附近))))
+      (VP (v 坠毁))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (s 机上)) (QP (m ８６)) (NP (n 人)))
+    (VP (ADVP (m 全部)) (VP (vi 遇难))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP (v 包括) (NP-OBJ (QP (m 几) (CLP (q 名))) (NP (n 儿童)))))
+  (wj 。)))
+</S>

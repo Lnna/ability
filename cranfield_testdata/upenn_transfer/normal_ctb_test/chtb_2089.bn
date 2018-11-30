@@ -1,0 +1,346 @@
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 克林顿))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (PP-TMP (p 自从) (LCP (NP-PN (n 越战)) (f 以来)))
+                (QP-ADV (m 第一) (CLP (q 次)))
+                (VP (v 访问) (NP-PN-OBJ (ns 越南)))))
+            (ude 的)))
+        (NP-PN (ns 美国))
+        (NP (n 总统)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP (NP (a 不同)) (VP (p 于)))
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 沉闷))) (ude 的)))
+        (ADJP (n 官式))
+        (NP (n 接待)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 大批)) (NP (n 越南人)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (nrf 克林顿))
+                (VP (usuo 所) (VP (v 到) (NP-OBJ (-NONE- *T*-3)))))
+              (uzhi 之)))
+          (NP (n 处))))
+      (VP (vl 夹道欢迎))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 民众))
+    (VP
+      (DVP (IP (NP (n 群情)) (VP (a 激昂))) (ude 的))
+      (VP
+        (VP (n 鼓掌))
+        (VP (v 高喊) (NP-OBJ (wyz “) (n 总统) (wn 、) (n 总统) (wyy ”))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 另外))
+  (NP-SBJ (NP-PN (ns 越南) (n 共党)) (NP (n 政权)))
+  (VP
+    (PP-TMP (p 在) (NP (t 今天)))
+    (ADVP (d 则))
+    (VP
+      (VP
+        (v 给予)
+        (NP-IO
+          (NP-APP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 到访))) (ude 的)))
+            (NP-PN (ns 美国))
+            (NP (n 总统)))
+          (NP-PN (nrf 克林顿)))
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 特殊))) (ude 的)))
+          (NP (n 尊容))))
+      (wd ，)
+      (VP
+        (v 同意)
+        (IP-OBJ
+          (NP-SBJ
+            (NP-PN (nrf 克林顿))
+            (DNP (PP (p 在) (NP (NP (ns 河内)) (NP (vi 大选)))) (ude 的))
+            (NP (n 演说)))
+          (wd ，)
+          (VP
+            (v 做)
+            (NP-OBJ
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-3)) (VP (bl 史无前例)))
+                  (ude 的)))
+              (NP (n 电视))
+              (ADJP (s 现场))
+              (NP (v 转播))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (PP-TMP
+    (p 当)
+    (LCP
+      (IP
+        (NP-PN-SBJ (nrf 克林顿))
+        (VP
+          (PP-LOC (p 在) (NP (NP (vi 演说)) (NP (f 当中))))
+          (VP
+            (v 提到)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 敏感))) (ude 的)))
+              (NP (n 人权) (n 问题))))))
+      (n 时)))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP-PN (ns 越南) (n 电视台)) (ude 的))
+      (ADJP (b 同步))
+      (NP (n 翻译)))
+    (VP
+      (ADVP (d 则))
+      (VP
+        (vshi 是)
+        (VP
+          (VP
+            (IP (VP (ADVP (n 纂)) (VP (v 改))))
+            (y 了)
+            (NP-OBJ
+              (DNP (NP-PN (nrf 克林顿)) (ude 的))
+              (NP (nz 英文) (n 原意))))
+          (wd ，)
+          (VP
+            (DVP (VSB (v 含) (v 混)) (ude 的))
+            (VP
+              (p 将)
+              (IP-OBJ
+                (NP-SBJ-2 (ADJP (n 相关)) (NP (n 段落)))
+                (VP
+                  (VP (v 带) (y 了) (NP-OBJ (-NONE- *-2)))
+                  (VP (t 过去))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (vi 演说)) (f 中)))
+    (DVP (VP (a 温和)) (ude 的))
+    (VP
+      (n 呼吁)
+      (IP-OBJ
+        (NP-SBJ (NP-PN (ns 越南)) (NP (n 政府)))
+        (VP
+          (v 考虑)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP
+                (v 加强)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP (v 尊重) (NP-OBJ (n 人权)))))
+              (wd ，)
+              (VP
+                (v 发展)
+                (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 政治) (n 制度))))
+              (c 并且)
+              (VP (ADVP (d 进一步)) (VP (v 实施) (NP-OBJ (n 经济) (n 开放))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR (p 根据) (NP (DNP (NP-PN (nt 路透社)) (ude 的)) (NP (n 报道))))
+    (wd ，)
+    (NP-TPC
+      (DNP (NP-PN (nrf 克林顿)) (ude 的))
+      (NP (n 演说) (n 内容))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (ADVP (d 没有)) (VP (v 引发) (NP-OBJ (n 争议)))))
+          (ude 的)))
+      (NP (n 部分)))
+    (wd ，)
+    (NP-SBJ
+      (DNP (NP (NP-PN (ns 越南)) (NP-PN (n 国人) (n 电视台))) (ude 的))
+      (NP (n 翻译)))
+    (VP
+      (ADVP (d 大多))
+      (DVP (VP (a 忠实)) (ude 的))
+      (PP-DIR (p 从) (NP (nz 英文)))
+      (VP (VRD (v 翻译) (v 过来)))))
+  (wd ，)
+  (IP
+    (ADVP (c 可是))
+    (PP-TMP
+      (p 当)
+      (NP
+        (CP
+          (WHPP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nrf 克林顿))
+              (VP
+                (PP-TMP (-NONE- *T*-2))
+                (VP (VRD (v 谈) (v 到)) (NP-OBJ (n 人权) (n 问题)))))
+            (ude 的)))
+        (NP (n 时候))))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 越南) (n 电视台)) (ADJP (s 现场)) (NP (v 翻译)))
+    (VP
+      (ADVP (d 就))
+      (DVP (VP (vi 有意)) (ude 的))
+      (VP
+        (n 曲解)
+        (NP-OBJ (DNP (NP-PN (nrf 克林顿)) (ude 的)) (NP (n 原意))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 例如))
+  (FLR (p 当))
+  (NP-PN-SBJ (nrf 克林顿))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (PP-MNR
+          (p 根据)
+          (NP (DNP (NP-PN (ns 美国)) (ude 的)) (NP (n 经验))))
+        (IP-SBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 确保)
+            (NP-OBJ
+              (NP (n 信仰) (an 自由))
+              (wd ，)
+              (NP
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (v 让)
+                      (NP-OBJ (ADJP (n 异议)) (NP (n 人士)))
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP
+                          (v 表达)
+                          (NP-OBJ (ADJP (a 不同)) (NP (n 意见)))))))
+                  (ude 的))
+                (NP (an 自由))))))
+        (VP
+          (ADVP (d 并))
+          (ADVP (d 不))
+          (VP (v 会) (VP (v 危及) (NP-OBJ (n 社会) (an 稳定))))))
+      (wd ，)
+      (IP
+        (DVP (ADVP (vi 相反)) (ude 的))
+        (NP-SBJ (DP (r 这种)) (NP (n 气氛)))
+        (VP
+          (v 有助于)
+          (IP-OBJ
+            (NP-SBJ (n 人们))
+            (VP
+              (PP-DIR
+                (p 对)
+                (NP (DNP (NP (r 他们)) (ude 的)) (NP (n 制度))))
+              (VP (v 增进) (NP-OBJ (n 信心)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 美国)) (NP (n 官员)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (IP
+        (NP-PN-SBJ (nrf 克林顿))
+        (VP
+          (v 受到)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP (NP-PN (ns 美国)) (NP (s 国内)))
+                (VP
+                  (v 要求)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (v 提出) (NP-OBJ (n 人权) (n 问题))))))
+              (ude 的))
+            (NP (n 压力)))))
+      (wd ，)
+      (IP
+        (ADVP (c 所以))
+        (NP-SBJ (r 他))
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-SBJ (DP (r 这次)) (NP (n 演说)))
+            (VP
+              (v 视为)
+              (NP-OBJ
+                (CP-APP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (ADVP (ad 直接))
+                      (PP-ADV (c 和) (NP (NP-PN (ns 越南)) (NP (n 民众))))
+                      (VP (vi 谈话))))
+                  (ude 的))
+                (NP (n 机会)))))))
+      (wd ，)
+      (IP
+        (ADVP (c 但是))
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 控制) (NP-OBJ (n 国家) (n 电视台))))
+              (ude 的)))
+          (NP-PN (ns 越南) (n 共党))
+          (NP (n 领袖)))
+        (VP
+          (PP-DIR (p 对) (NP (DP (r 这项)) (NP (n 人权) (n 议题))))
+          (VP
+            (ADVP (d 却))
+            (VP
+              (vshi 是)
+              (VP
+                (v 感到)
+                (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (a 紧张))))))))
+      (wj 。)))))
+</S>

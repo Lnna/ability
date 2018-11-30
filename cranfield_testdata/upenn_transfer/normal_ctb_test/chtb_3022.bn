@@ -1,0 +1,129 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-APP (NP-PN (ns 韩国)) (NP (n 总统))) (NP-PN (nr 金大中)))
+    (VP
+      (VP (v 离开) (NP-PN-OBJ (ns 汉城)))
+      (VP
+        (VP
+          (v 前往)
+          (NP-OBJ
+            (NP-APP (NP-PN (ns 挪威)) (NP (n 首都)))
+            (NP-PN (ns 奥斯路))))
+        (VP
+          (v 接受)
+          (NP-OBJ
+            (DNP (NP (t 今年)) (ude 的))
+            (wyz “)
+            (NP-PN (nrf 诺贝尔))
+            (NP (n 和平) (n 奖))
+            (wyy ”))))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 星期五))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (v 上) (NP-OBJ (n 飞机))))
+        (f 之前)))
+    (wd ，)
+    (NP-PN-SBJ (nr 金大中))
+    (VP
+      (VP (v 发表) (NP-OBJ (n 声明)))
+      (VP
+        (v 说)
+        (wm ：)
+        (IP-OBJ
+          (NP-SBJ (r 他))
+          (VP
+            (v 要)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (PP-ADV
+                  (c 和)
+                  (NP
+                    (LCP
+                      (NP (NP (t 过去)) (QP (m ４０) (CLP (q 年))))
+                      (f 来))
+                    (DP (b 所有))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP
+                          (NP-SBJ (-NONE- *T*-1))
+                          (VP
+                            (v 支持)
+                            (NP-OBJ
+                              (NP (r 他))
+                              (IP-APP
+                                (NP-SBJ (-NONE- *pro*))
+                                (VP
+                                  (PP-LOC
+                                    (p 在)
+                                    (NP-PN (ns 朝鲜) (n 半岛)))
+                                  (ADVP (d 进一步))
+                                  (VP
+                                    (v 推动)
+                                    (NP-OBJ (an 民主) (c 和) (n 人权)))))
+                              (NP (a 努力)))))
+                        (ude 的)))
+                    (NP (n 人))))
+                (VP (v 分享) (NP-OBJ (DP (r 这个)) (NP (n 荣誉)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (NP
+      (NP
+        (DNP (NP-PN (ns 奥斯路)) (ude 的))
+        (QP (m ４) (CLP (q 天)))
+        (NP (vi 逗留)))
+      (NP (f 期间))))
+  (wd ，)
+  (NP-PN-SBJ (nr 金大中))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (t 星期天)) (VP (v 举行))))
+                  (ude 的)))
+              (NP (n 颁奖) (n 仪式)))
+            (f 中)))
+        (VP (v 发表) (NP-OBJ (n 演说))))
+      (wd ，)
+      (VP
+        (ADVP (c 并且))
+        (VP
+          (v 会见)
+          (NP-OBJ
+            (NP
+              (NP-APP (NP-PN (ns 挪威)) (NP (n 国王)))
+              (NP-PN (nrf 哈罗德五世)))
+            (c 和)
+            (NP (NP-APP (n 首相)) (NP-PN (nrf 斯托尔·佟贝格))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP
+    (t １２月)
+    (QP (m １２) (CLP (q 号)))
+    (p 到)
+    (QP (m １４) (CLP (q 号))))
+  (wd ，)
+  (NP-SBJ (NP-PN (nr 金大中)) (NP (n 一行)))
+  (VP (ADVP (d 还)) (ADVP (d 将)) (VP (v 访问) (NP-PN-OBJ (ns 瑞典))))
+  (wj 。)))
+</S>

@@ -1,0 +1,1614 @@
+<S>
+( (IP-Q-HLN
+  (NP-TPC-1 (n 林荫))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP-WH (r 何处)) (VP (v 寻) (NP-OBJ (-NONE- *T*-1))))
+  (ww ？)
+  (PRN (wp ——) (NP (NP-PN (ns 台湾)) (NP (n 桧木))))))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 张静茹) (n 图) (wj ．) (nr 赖春标)))
+</S>
+<S>
+( (IP
+  (CLP-SBJ (NP (n 圣经)) (f 上))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz 「)
+      (IP
+        (NP-SBJ (r 你们))
+        (VP
+          (CP-CND
+            (ADVP (c 若))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (vyou 有) (NP-OBJ (n 信心)))))
+          (VP
+            (PP-PRD (p 像) (NP (QP (m 一) (CLP (q 粒))) (NP (n 芥菜子)))))))
+      (wd ，)
+      (IP
+        (CP-CND
+          (ADVP (d 就算))
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (vi 叫)
+              (NP-OBJ (DP (r 这)) (NP (n 山)))
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (VRD (v 移) (v 到)) (NP-OBJ (r 那里)))))))
+        (wd ，)
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 也))
+          (VP
+            (v 没有)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (d 不)) (VP (v 成))))
+                  (ude 的)))))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (PP
+  (c 因为)
+  (IP
+    (NP-SBJ (n 植物) (n 种子))
+    (VP
+      (IP-CND (NP-SBJ (-NONE- *PRO*)) (VP (ADVP (c 虽)) (VP (a 小))))
+      (wd ，)
+      (ADVP (d 却))
+      (VP
+        (v 能)
+        (VP
+          (VRD (vi 成长) (v 为))
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-1))
+                  (NP-SBJ (nz 华盖))
+                  (VP (v 满布)))
+                (ude 的)))
+            (n 大树))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 红桧))
+  (VP
+    (VP
+      (v 见证)
+      (y 了)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-PN-TPC (ns 台湾岛))
+            (PP-TMP
+              (p 从)
+              (LCP
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (IP-ADV (NP-SBJ (n 板块)) (VP (v 挤压)))
+                    (VP (vi 诞生))))
+                (f 后)))
+            (wd ，)
+            (NP-SBJ (n 地体))
+            (VP
+              (PP-DIR (p 由) (a 破碎))
+              (VP (c 而) (VP (ADVP (d 逐渐)) (VP (a 稳定))))))
+          (ude 的))
+        (NP (n 过程))))
+    (wd ，)
+    (d 也)
+    (VP
+      (v 见证)
+      (y 了)
+      (NP-OBJ
+        (QP (m 一) (CLP (q 页)))
+        (CP-APP
+          (IP (NP-SBJ (NP-PN (ns 台湾)) (NP (n 林业))) (VP (n 发展)))
+          (ude 的))
+        (NP (n 沧桑史)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (r 每))
+          (VP
+            (v 隔)
+            (NP-OBJ
+              (QP
+                (QP (m 一) (CLP (-NONE- *RNR*-2)))
+                (wn 、)
+                (QP (m 二十) (CLP-2 (n 公尺))))
+              (NP (n 距离))))))
+      (wd ，)
+      (ADVP (d 就))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (QP (m 一) (CLP (q 棵)))
+            (CP
+              (WHNP-4 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TPC (-NONE- *T*-4))
+                  (NP-SBJ (n 直径))
+                  (VP
+                    (QP-PRD
+                      (QP (m 三) (CLP (-NONE- *RNR*-3)))
+                      (wn 、)
+                      (QP (m 四) (CLP-3 (n 公尺))))))
+                (ude 的)))
+            (QP (m 千) (CLP (q 年)))
+            (NP (n 红桧)))
+          (wd ，)
+          (VP
+            (PP-MNR
+              (p 以)
+              (NP (DNP (QP (m 四十) (CLP (n 公尺))) (uzhi 之)) (NP (n 姿))))
+            (ADVP (d 牢牢))
+            (VP (VCD (v 耸立) (z 参天))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (LCP-LOC (NP (n 林)) (f 下))
+              (ADVP (v 危危))
+              (VP (vi 站立))))
+          (ude 的)))
+      (NP (n 登山) (n 客)))
+    (VP
+      (PP-MNR
+        (v 如)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 踏入) (NP-OBJ (DNP (NP (n 森林)) (uzhi 之)) (NP (n 海))))))
+      (wd ，)
+      (ADVP (ad 难))
+      (VP (v 见) (NP-OBJ (n 天日)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP
+          (PP-DIR
+            (p 由)
+            (NP
+              (DP (DP (r 这)) (QP (m 一) (CLP (q 片))))
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 残存))) (ude 的)))
+              (ADJP (a 蛮荒))
+              (NP (n 桧木) (n 原始林))))
+          (PP-DIR (p 往) (NP (f 北))))
+        (VP
+          (v 延伸)
+          (wd ，)
+          (PP-DIR (v 到) (NP-PN (ns 桃园) (nz 拉拉山) (p 与) (nz 宜兰栖兰))))))
+    (wd ，)
+    (NP-SBJ (n 桧木))
+    (VP
+      (VP (VRD (v 连结) (v 成)) (NP-OBJ (ADJP (n 绿色)) (NP (ns 长城))))
+      (wd ，)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ
+                      (NP-PN (NP (ns 北)) (NP-PN (ns 台湾)))
+                      (QP (m 百万))
+                      (NP (n 人)))
+                    (VP
+                      (v 赖)
+                      (NP-OBJ (-NONE- *T*-1))
+                      (IP
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (p 以) (VP (nr 维生))))))
+                  (ude 的)))
+              (NP-PN
+                (ns 石门)
+                (n 水库)
+                (wn 、)
+                (NP (NP (n 淡水)) (NP (n 河)))
+                (wn 、)
+                (n 兰阳溪)))
+            (ude 的))
+          (NP (n 安全阀))))))
+  (wd ，)
+  (IP
+    (IP-PRP (NP-SBJ (-NONE- *PRO*)) (VP (NP-PRD (bl 一衣带水))))
+    (wd ，)
+    (NP-SBJ
+      (DNP
+        (NP (NP-PN (n 桃竹苗) (wn 、) (nz 宜兰)) (NP (n 水土) (n 系统)))
+        (ude 的))
+      (NP (an 稳定)))
+    (VP
+      (ADVP (d 紧紧))
+      (VP
+        (v 受)
+        (CP-OBJ
+          (WHNP-3 (-NONE- *OP*))
+          (IP (NP-SBJ (r 其)) (VP (v 牵动) (NP-OBJ (-NONE- *T*-3))))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (DNP (NP (n 云雾)) (ude 的)) (NP (n 故乡))))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (ns 台湾))
+    (NP (n 桧木))
+    (PRN
+      (wp ——)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 古老))) (ude 的)))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (IP (NP-SBJ (n 冰河)) (VP (n 孑遗) (NP-OBJ (-NONE- *T*-2)))))
+        (NP (n 生命)))))
+  (wd ，)
+  (VP
+    (vi 落脚)
+    (PP
+      (p 于)
+      (NP
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP (NP-TPC (-NONE- *T*-3)) (NP-SBJ (n 地质)) (VP (a 年轻)))
+            (ude 的)))
+        (NP (ns 宝岛)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (QP (m 三千万) (CLP (q 年))) (f 前))
+    (wd ，)
+    (NP (IP (NP (n 桧木)) (VP (v 属))) (n 植物))
+    (VP (ADVP (d 曾)) (VP (vi 分布) (NP-OBJ (n 全世界)))))
+  (wd ，)
+  (IP
+    (IP-ADV (NP-SBJ (QP (m 几度)) (NP (n 冰河))) (VP (VCD (v 去) (v 来))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (LCP-TMP (QP (m 百万) (CLP (q 年))) (f 前))
+              (PP-PRP (IP (NP-SBJ (n 板块)) (IP (VP (v 推) (v 挤)))))
+              (VP (vi 成形))))
+          (ude 的)))
+      (NP-PN (ns 台湾))
+      (n 高山))
+    (wd ，)
+    (VP (v 成为) (NP-OBJ (n 桧木) (IP (NP (vi 避难)) (VP (usuo 所))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (t 如今))
+  (NP-SBJ (n 全球) (n 桧木))
+  (VP
+    (VP (ADVP (d 只)) (VP (v 剩) (QP-OBJ (m 六) (CLP (q 种)))))
+    (wd ，)
+    (VP (NP-LOC (nz 海天)) (ADVP (r 各)) (VP (p 据) (NP-OBJ (n 一隅))))
+    (wd ，)
+    (VP
+      (v 分散)
+      (PP (p 在) (NP-PN (ns 北美) (wn 、) (ns 日本) (c 与) (ns 台湾)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 台湾))
+    (VP
+      (v 拥有)
+      (NP-OBJ
+        (QP-APP (NP (r 其中)) (QP (m 两) (CLP (q 种))))
+        (wm ：)
+        (NP (n 红桧) (c 与) (n 扁柏)))))
+  (wd ，)
+  (IP (NP-SBJ (-NONE- *pro*)) (VP (v 合称) (NP-OBJ (n 桧木))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (NP-PN (ns 台湾)) (NP (n 桧木林))) (ude 的))
+    (NP (n 原乡)))
+  (wd ，)
+  (VP
+    (VP
+      (PP-PRD
+        (p 在)
+        (NP
+          (DNP
+            (QP
+              (QP (m 一千三百) (CLP (-NONE- *RNR*-2)))
+              (p 到)
+              (QP (m 二千六百) (CLP-2 (n 公尺))))
+            (ude 的))
+          (ADJP (ns 中))
+          (NP (n 海拔)))))
+    (wd ，)
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP-PN (ns 台湾))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 降雨量)) (VP (a 最高)))
+            (ude 的)))
+        (NP (n 集水区))))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (DNP
+            (NP (QP (QP (m 百)) (ADJP (m 余)) (CLP (q 条))) (NP (n 溪流)))
+            (ude 的))
+          (NP (n 水源) (n 地))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-SBJ
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (VCD (n 幽黯) (a 潮湿))))
+            (ude 的)))
+        (NP (n 林地)))
+      (f 之下))
+    (wd ，)
+    (VP
+      (v 深藏)
+      (NP-OBJ
+        (NP-PN (ns 台湾))
+        (DNP (QP (m 三分之一)) (ude 的))
+        (NP (n 蕨类)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 千) (CLP (q 年))) (NP (n 桧木)))
+    (VP
+      (VP
+        (ADVP (d 更))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (DNP (NP (ADJP (n 附生)) (NP (n 植物))) (ude 的))
+            (NP (n 天堂)))))
+      (wd ，)
+      (VP
+        (v 可以)
+        (VP
+          (ADVP (d 同时))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ (QP (m 八十) (CLP (q 种))) (NP (n 植物)))
+              (VP (vi 借宿) (NP-OBJ (NP (r 其)) (NP (f 上))))))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (NP-PN (ns 台湾)) (NP (n 土地) (b 公))))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (FRAG (NP (m 九二)) (QP (m 一))) (NP (n 地震))) (f 后))
+    (wd ，)
+    (NP-SBJ (n 大地))
+    (VP (vl 满目疮痍)))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 学界))
+    (VP
+      (v 发现)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (LCP-LOC (NP (n 大地) (n 怒吼)) (f 下))
+                (NP-SBJ (v 破坏))
+                (VP (ADVP (d 最)) (VP (a 小))))
+              (ude 的)))
+          (NP (n 地区)))
+        (VP (vshi 是) (NP-PRD (ADJP (b 天然)) (NP (n 林地)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 桧木林))
+    (VP
+      (PP-MNR
+        (p 以)
+        (NP
+          (NP (NP (r 其)))
+          (NP
+            (NP
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 宽阔))) (ude 的)))
+              (NP (n 胸围)))
+            (wn 、)
+            (NP
+              (CP
+                (WHNP-4 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-4)) (VP (a 壮硕))) (ude 的)))
+              (NP (n 根系))))))
+      (wd ，)
+      (PP-LOC
+        (p 在)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ (n 雨量))
+                  (VP (ADVP (d 最)) (VP (a 丰沛))))
+                (wn 、)
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ (n 地质))
+                  (VP (ADVP (d 最)) (VP (a 零碎))))
+                (wd ，)
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP
+                    (v 承受)
+                    (NP-OBJ
+                      (ADJP (ADVP (d 最)) (ADJP (a 剧烈)))
+                      (NP (v 冲刷) (IP (VP (v 崩) (NP (v 蚀)))))))))
+              (ude 的)))
+          (NP (n 山区))))
+      (wd ，)
+      (ADVP (d 紧紧))
+      (VP
+        (v 抓住)
+        (NP-OBJ
+          (CP
+            (WHNP-5 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-5)) (VP (a 脆弱))) (ude 的)))
+          (NP (n 土地))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 当)
+      (IP
+        (IP (NP-SBJ (n 板块)) (VP (v 挤压)))
+        (wd ，)
+        (IP
+          (NP-SBJ (ns 宝岛))
+          (VP (vi 持续) (VP (PP (p 往) (NP (f 上))) (VP (v 隆升)))))
+        (wd ，)
+        (IP (NP-SBJ (n 河川)) (IP (VP (f 下) (NP (v 切)))))
+        (wd ，)
+        (IP
+          (DVP (VP (vi 崩塌)) (ude 地))
+          (VP
+            (IP-ADV
+              (NP-SBJ (-NONE- *PRO*))
+              (IP (NP (nr 周而复)) (VP (d 始))))
+            (VP (v 出现))))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 战斗力)) (VP (a 旺盛)))
+          (ude 的)))
+      (NP (n 桧木) (n 种子)))
+    (VP
+      (VP (v 把握) (NP-OBJ (n 良机)))
+      (wd ，)
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (n 万物))
+                    (VCD (v 退) (v 避)))
+                  (ude 的)))
+              (NP (n 恶地)))
+            (f 上)))
+        (VP (vl 安身立命)))
+      (wd ，)
+      (VP (ADVP (d 逐渐)) (VP (VRD (vi 成长) (v 为)) (NP-OBJ (n 巨木林))))))
+  (wf ；)
+  (IP
+    (NP-SBJ (n 恶地))
+    (VP
+      (VP (ADVP (d 渐次)) (VP (vi 复原)))
+      (wd ，)
+      (VP (VRD (v 招) (v 来)) (NP-OBJ (n 物种)))
+      (wd ，)
+      (VP (ADVP (v 连带)) (VP (v 守护) (y 了) (NP-OBJ (f 下游))))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-OBJ (r 之))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 成为)
+            (NP-OBJ
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-3))
+                    (VP (VP (v 可) (VP (v 居))) (VP (v 可) (VP (v 耕)))))
+                  (uzhi 之)))
+              (NP (n 地))))))))
+  (wd ，)
+  (IP
+    (wyz 「)
+    (IP
+      (IP-SBJ (NP-SBJ (n 桧木)) (VP (n 成林)))
+      (VP
+        (n 代表)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ
+                (CP
+                  (WHNP-4 (-NONE- *OP*))
+                  (CP (IP (NP-SBJ (-NONE- *T*-4)) (VP (v 滚动)))))
+                (NP (n 山河)))
+              (VP (n 稳定化)))
+            (ude 的))
+          (NP (n 过程)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 桧木))
+      (VP
+        (v 即)
+        (NP-PRD
+          (CP-APP
+            (IP
+              (NP-SBJ (n 土地))
+              (VP (ADVP (d 自然)) (IP (VP (d 复) (IP (VP (a 健)))))))
+            (ude 的))
+          (ADJP (a 活))
+          (NP (n 神仙))))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (ADVP (c 只有))
+    (NP
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (vi 狩猎))) (ude 的)))
+      (ADJP (b 原))
+      (NP (n 住民))))
+  (VP
+    (VP (vi 穿梭) (NP-OBJ (f 其间)))
+    (wd ，)
+    (VP
+      (v 撷取)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 甜美))) (ude 的)))
+        (NP (n 野地) (n 果实)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP (d 偶))
+    (ADVP (c 而))
+    (wd ，)
+    (NP-SBJ
+      (QP (QP (m 几十) (CLP (q 年))) (QP (m 一) (CLP (q 次))))
+      (DNP (NP (n 大地)) (ude 的))
+      (NP (n 震动)))
+    (wd ，)
+    (VP (v 带来) (NP-OBJ (n 生态) (n 洗劫))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (NP (n 桧木))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP (NP-SBJ (-NONE- *T*-2)) (VP (vl 与生俱来)))
+                (ude 的)))
+            (NP (n 生命) (n 力量)))
+          (VP (n 庇佑)))))
+    (wd ，)
+    (NP-SBJ (n 大地))
+    (VP
+      (ADVP (d 终))
+      (VP (v 能) (VP (ADVP (d 逐渐)) (VP (v 修补) (wn 、) (a 稳定))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (n 桧木) (n 沧桑) (n 史)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 一八九九年))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 阿里山)) (NP (n 桧木)) (ADJP (a 大)) (NP (n 森林)))
+    (VP (pbei 被) (VP (v 揭开) (NP-OBJ (n 面纱)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 一九一二年))
+    (NP-SBJ (NP-PN (ns 日本)) (NP (n 殖民) (n 政府)))
+    (VP (ADVP (ad 正式)) (VCD (vi 伐木) (VP (v 集) (NP (n 材))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DP (d 凡))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (n 铁路))
+            (VP (usuo 所) (VP (v 经) (NP-OBJ (-NONE- *T*-1)))))
+          (uzhi 之)))
+      (NP (n 处)))
+    (VP (ADVP (d 都)) (VP (vshi 是) (NP-PRD (n 桧木) (n 林区)))))
+  (wd ，)
+  (IP
+    (ADVP (c 紧接着))
+    (NP-SBJ (NP-PN (ns 太平山) (wn 、) (nz 八仙山)) (NP (n 林场)))
+    (VP (ADVP (d 一一)) (VP (v 开发))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 桧木))
+    (VP
+      (VP (ADVP (d 源源)) (ADVP (d 不)) (ADVP (d 绝)) (VP (vi 出山)))
+      (wd ，)
+      (VP
+        (VP (v 跨) (NP (n 海)))
+        (VP (IP (VP (v 送)) (p 往)) (NP-PN-OBJ (ns 日本))))
+      (wd ，)
+      (VP (v 成为) (NP-OBJ (QP (m 一根根)) (NP (n 神社) (n 支柱))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除了)
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 无与伦比))) (ude 的)))
+      (NP (n 品质))))
+  (wd ，)
+  (NP-SBJ (DNP (NP (n 红桧) (c 与) (n 扁柏)) (ude 的)) (NP (n 蓄积量)))
+  (VP
+    (VP
+      (n 排名)
+      (QP-OBJ
+        (NP (NP-PN (ns 台湾)) (NP (n 树种)))
+        (QP (m 第二) (p 与) (m 第三))))
+    (wd ，)
+    (VP
+      (v 成为)
+      (NP-OBJ
+        (NP (NP-PN (ns 台湾)) (NP (n 林业)))
+        (DNP (NP (b 长期)) (ude 的))
+        (NP (n 摇钱树)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP (NP (QP (m 三十万) (CLP (q 公顷))) (NP (n 经济林))) (f 中)))
+  (wd ，)
+  (NP-SBJ (n 桧木))
+  (VP
+    (VP (v 占) (QP-OBJ (m 三分之二)))
+    (wd ，)
+    (VP
+      (v 贡献)
+      (y 了)
+      (NP-OBJ
+        (DNP
+          (QP
+            (QP (m 七) (CLP (-NONE- *RNR*-1)))
+            (p 至)
+            (NP (m 八) (CLP-1 (q 成))))
+          (ude 的))
+        (NP (n 林业) (n 收入)))))
+  (wj 。)))
+</S>
+<S>
+( (NP-PN-HLN (nx Hinoki) (p 与) (nx Melihi)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 一九七一年))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 明治神宫)) (IP (NP (n 鸟)) (VP (v 居))))
+    (VP (v 遭) (NP-OBJ (vi 雷击))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 特地))
+      (VP
+        (VP (v 来) (NP-PN-OBJ (ns 台)))
+        (VP
+          (v 采购)
+          (y 了)
+          (NP-OBJ
+            (QP (m 十一) (CLP (q 根)))
+            (DNP
+              (QP
+                (QP (m 十六) (CLP (-NONE- *RNR*-2)))
+                (p 至)
+                (QP (m 二十四) (CLP-2 (n 公尺))))
+              (ude 的))
+            (n 通直巨桧))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (QP (m 一千五百) (CLP (q 年))) (ude 的)) (NP (n 扁柏)))
+    (wd ，)
+    (VP
+      (v 造就)
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (NP-LOC (n 全球)) (ADVP (d 最)) (VP (a 大))))
+            (ude 的)))
+        (NP (n 鸟居)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN (IP (NP-SBJ (n 人世)) (VP (v 流转))) (wd ，) (IP (n 桧木恒长)) (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 当)
+      (IP (NP-SBJ (n 林业)) (VP (ADVP (d 逐渐)) (VP (vi 失色)))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 藏) (PP (p 在) (NP-PN-OBJ (n 中央) (n 山脉)))))
+          (ude 的)))
+      (NP (IP (VP (ADVP (n 日)) (VP (p 据)))) (NP (n 时代)))
+      (NP (n 林班) (n 房舍)))
+    (VP (VCD (ADJP (a 老)) (NP (a 旧)) (v 荒废))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 留下) (NP-OBJ (-NONE- *T*-2)))))
+      (DNP (NP (ADJP (a 古朴)) (NP (n 色泽))) (ude 的))
+      (NP (n 桧木) (n 洗手槽)))
+    (wd ，)
+    (VP (ADVP (d 依然)) (VP (a 完整))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 细密))) (ude 的)))
+      (NP (n 年轮) (n 纹路)))
+    (VP
+      (VP (ADVP (c 则)) (VP (VRD (v 透露) (v 出)) (NP-OBJ (n 年纪))))
+      (wd ，)
+      (VP (ADVP (d 也)) (VP (v 彰显) (uzhe 着) (NP-OBJ (n 韧度))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 阿里山) (n 铁路))
+    (VP
+      (NP-TMP (f 早期))
+      (VP
+        (v 使用)
+        (NP-OBJ (n 阔叶树))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 当) (NP-OBJ (n 枕木)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 坚硬))) (ude 的)))
+      (NP (n 榉木) (wn 、) (n 乌心石)))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (VPT (v 撑) (d 不) (v 过))
+        (IP-OBJ
+          (NP (n 运材车))
+          (DNP
+            (QP
+              (QP (m 三) (CLP (-NONE- *RNR*-2)))
+              (wn 、)
+              (QP (m 五) (CLP-2 (q 年))))
+            (ude 的))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (ADVP (o 轰隆)) (VP (v 去) (VP (v 来)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (n 铁道) (wn 、) (n 桥梁)) (NP (n 枕木)))
+    (VP
+      (VP
+        (ADVP (d 只好))
+        (ADVP (d 一律))
+        (VP (VRD (v 更新) (v 为)) (NP-OBJ (n 桧木))))
+      (wd ，)
+      (VP
+        (ADVP (d 才))
+        (VP
+          (v 得以)
+          (VP (QP-TMP (m 几十) (CLP (q 年))) (ADVP (d 不)) (VP (a 坏)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC (p 在) (LCP (NP (n 家具业者)) (LCP (s 眼中))))
+  (wd ，)
+  (wyz 「)
+  (NP-SBJ (n 桧木))
+  (VP
+    (VP (a 轻) (a 软) (n 中庸))
+    (wd ，)
+    (VP (v 富) (NP-OBJ (n 弹性)))
+    (wd ，)
+    (VP (n 耐腐性))
+    (wn 、)
+    (VP (v 耐) (NP-OBJ (n 白蚁))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR
+    (p 从)
+    (NP
+      (n 船舰)
+      (wn 、)
+      (n 桥梁)
+      (wn 、)
+      (n 车辆)
+      (wn 、)
+      (n 家具)
+      (wn 、)
+      (n 棺木)))
+  (wd ，)
+  (NP-TPC (DNP (NP (n 用途)) (uzhi 之)) (NP (n 广)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (v 无) (QP-OBJ (m 一)) (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 不宜))))
+  (wj 。)
+  (wyy 」)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (ADVP (d 总)) (VP (v 说) (QP-OBJ (m 一) (CLP (q 句))))))
+  (wd ，)
+  (NP-SBJ (IP (NP (n 省)) (VP (v 产))) (NP (n 木材)))
+  (VP
+    (v 无)
+    (NP-OBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (IP (VP (v 出) (NP (NP (r 其)) (NP (f 右)))))))
+      (NP (k 者))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 只是))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 美好))) (ude 的)))
+    (NP (n 桧木) (n 记忆)))
+  (wd ，)
+  (VP
+    (LCP-LOC (f 背后))
+    (VP
+      (v 藏)
+      (uzhe 着)
+      (NP-OBJ (DNP (NP (n 林业) (n 人员)) (ude 的)) (NP (n 欷嘘)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN-APP (ns 阿里山))
+      (wd ，)
+      (NP
+        (NP-PN (ns 台湾))
+        (QP (m 第一) (CLP (q 处)))
+        (NP (n 桧木) (VP (v 砍伐) (NP (n 区))))))
+    (wd ，)
+    (VP
+      (VP
+        (NP-TPC (DNP (LCP (NP (vi 伐木)) (f 前)) (ude 的)) (NP (n 调查)))
+        (wd ，)
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (DNP (LCP (QP (m 三十万) (CLP (q 棵))) (f 以上)) (ude 的))
+            (QP (m 千) (CLP (q 年)))
+            (NP (n 桧木)))))
+      (wd ，)
+      (VP
+        (ADVP-TMP (t 如今))
+        (ADVP (d 只))
+        (VP
+          (v 剩)
+          (NP-OBJ
+            (QP (m 几) (CLP (q 棵)))
+            (ADJP (a 孤独))
+            (ADJP (a 老))
+            (NP (n 树)))))))
+  (wd ，)
+  (CP
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (DNP (ADJP (b 外来)) (ude 的))
+              (NP (n 柳杉) (wn 、) (n 樱花)))
+            (f 中)))
+        (wd ，)
+        (VP (v 显得) (VP (ADVP (d 垂垂)) (VP (v 颓))))))
+    (y 矣))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 鼎鼎) (NP (n 大名))))
+        (ude 的)))
+    (NP-PN (ns 阿里山))
+    (NP (ns 神木)))
+  (wd ，)
+  (VP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (a 少)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 归属))) (ude 的)))
+          (NP (n 同伴)))))
+    (wd ，)
+    (ADVP (d 也))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 遭) (NP-OBJ (n 雷击) (wn 、) (n 火灾))))
+        (f 后)))
+    (VP (vl 寿终正寝)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP (NP (NP-PN (ns 台湾)) (NP (n 林业界))) (NP (n 前辈)))
+      (NP-PN (nr 柳缙)))
+    (VP
+      (ADVP (d 曾经))
+      (VP
+        (v 形容)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 幸存))) (ude 的)))
+            (NP (n 桧木)))
+          (VP
+            (vshi 是)
+            (IP-PRD (wyz 「) (NP-SBJ (a 寂寞)) (VP (vi 致死)) (wyy 」)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 它们))
+    (VP
+      (VP
+        (ADVP (d 彷佛))
+        (VP
+          (pbei 被)
+          (CP-OBJ
+            (WHNP-4 (-NONE- *OP*))
+            (IP
+              (NP-SBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP
+                        (VCD (d 相依) (vi 相持))
+                        (QP-EXT (m 千) (CLP (q 年)))))
+                    (ude 的)))
+                (NP (n 同伴)))
+              (VP (VCD (v 离) (v 弃)) (NP-OBJ (-NONE- *T*-4)))))))
+      (wd ，)
+      (VP (DVP (VP (a 孤独))) (VP (v 承受) (NP-OBJ (n 环境) (n 压力))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-3))
+            (VP (QP-ADV (m 千) (CLP (q 年))) (ADVP (d 不)) (VP (a 坏))))
+          (ude 的)))
+      (NP (n 神木)))
+    (VP (ADVP (d 也)) (VP (vl 奄奄一息))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 更)) (VP (a 大))))
+          (ude 的)))
+      (NP (an 遗憾)))
+    (VP
+      (vshi 是)
+      (wd ，)
+      (IP
+        (wyz 「)
+        (IP
+          (NP-SBJ
+            (QP (NP (QP (m 五十)) (NP (m 余))) (CLP (q 年)))
+            (DNP (NP (n 桧木林)) (ude 的))
+            (ADJP (a 大))
+            (NP (n 砍伐)))
+          (wd ，)
+          (VP
+            (v 铲除)
+            (y 了)
+            (NP-OBJ
+              (DNP (NP (NP-PN (ns 台湾)) (NP (nz 维生) (n 系统))) (ude 的))
+              (NP (n 命脉)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 加上) (IP-OBJ (NP-SBJ (n 农业)) (VP (vi 上山)))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 导致)
+            (IP-OBJ
+              (IP (vi 山崩))
+              (IP (NP-SBJ (n 水)) (VP (a 坏)))
+              (wd ，)
+              (IP (NP-SBJ (n 生态) (n 灾难)) (VP (vl 层出不穷))))))
+        (w ……)
+        (wyy 」))))
+  (IP
+    (NP-TPC
+      (NP (n 生态) (n 学者))
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-3)) (VP (v 回响) (NP-OBJ (n 耳际))))
+          (ude 的)))
+      (NP (n 警告)))
+    (wd ，)
+    (PP-TMP
+      (p 在)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-2))
+              (ADVP (d 不时))
+              (NP-SBJ (n 水患) (wn 、) (n 土石))
+              (VP (vi 横流)))
+            (ude 的)))
+        (NP (t 今天))))
+    (wd ，)
+    (NP-SBJ (n 人们))
+    (VP
+      (ADVP (d 也))
+      (IP (VP (ADVP (d 只)) (DFL (vyou 有))))
+      (VP (VSB (z 无言) (n 默认)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (b 大规模)) (NP (n 桧木) (v 砍伐)))
+    (VP
+      (ADVP (d 一直))
+      (VP
+        (VRD (v 延续) (v 到))
+        (NP-OBJ (NP-PN (n 民国)) (QP (m 七十八) (CLP (q 年)))))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (IP
+          (IP
+            (NP-SBJ (n 林业))
+            (VP (ADVP (d 已)) (VP (v 无) (NP-OBJ (n 利润)))))
+          (wn 、)
+          (IP (NP-SBJ (n 民间) (n 团体)) (VP (ADVP (d 大力)) (VP (vi 奔走)))))
+        (f 下)))
+    (wd ，)
+    (NP-PN-SBJ (n 行政院))
+    (VP
+      (ADVP (d 终于))
+      (VP
+        (v 颁布)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 禁)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 伐) (NP-OBJ (n 天然林))))))
+            (ude 的))
+          (NP (n 命令))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 保卫) (NP-OBJ (NP-PN (ns 台湾)) (NP (n 土地)))))
+          (ude 的)))
+      (ADJP (a 巨))
+      (NP (n 树)))
+    (VP (ADVP (d 总算)) (VP (v 可以) (VP (ADVP (d 稍事)) (VP (vi 歇息))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q-HLN
+  (NP-SBJ (-NONE- *pro*))
+  (VP (NP-PRD (DNP (NP (r 谁)) (ude 的)) (NP (n 国家) (n 公园))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-ADV
+      (IP (VP (ADVP (d 不)) (VP (v 到))))
+      (QP (m 一百) (CLP (q 年))))
+    (wd ，)
+    (NP-SBJ (n 人类))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ (DNP (QP (m 百万) (CLP (q 年))) (ude 的)) (NP (n 桧木)))
+        (VP (v 伐) (PP (p 于) (NP (d 一旦)))))))
+  (wd ，)
+  (IP (NP-SBJ (n 故事)) (VP (ADVP (d 仍然)) (ADVP (v 无法)) (VP (vi 结尾))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (nz 栖兰)) (NP (n 桧木林)))
+    (wd ，)
+    (NP (t 今日))
+    (DNP (ADJP (NP (n 全球)) (ADJP (b 唯一))) (ude 的))
+    (NP (n 扁柏纯林) (VP (v 蕴藏) (NP (n 地)))))
+  (wd ，)
+  (VP
+    (ADVP (d 竟然))
+    (ADVP (v 无法))
+    (VP
+      (v 享有)
+      (NP-OBJ
+        (DNP (NP (wyz 「) (n 天然林) (n 禁伐令) (wyy 」)) (ude 的))
+        (NP (n 庇荫)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-PRP
+      (c 由于)
+      (IP
+        (NP-SBJ (DNP (NP-PN (n 栖兰)) (ude 的)) (NP (n 管理) (n 单位)))
+        (VP (vshi 是) (NP-PN-PRD (n 退辅会)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (vi 过往))
+      (ADVP (d 已))
+      (VP
+        (FRAG (v 伐) (v 除))
+        (NP-OBJ
+          (QP (ADVP (d 将近)) (QP (m 六千) (CLP (q 公顷))))
+          (NP (n 桧木林))))))
+  (wd ，)
+  (IP
+    (PP-PRP
+      (p 为)
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 养活) (NP-OBJ (n 单位)))))
+    (wd ，)
+    (NP-PN-SBJ (nt 退辅会))
+    (VP
+      (ADVP (d 遂))
+      (VP
+        (VP
+          (PP-PRP
+            (p 以)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (wyz 「)
+                (VP
+                  (v 清除)
+                  (NP-OBJ
+                    (DNP (LCP (NP (n 林地)) (f 上)) (ude 的))
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (IP (VP (ADVP (vi 枯)) (VP (v 立))))))
+                    (NP (n 倒木))))
+                (wd ，)
+                (VP
+                  (VP
+                    (IP (VP (ADVP (d 空)) (VP (v 出))))
+                    (NP-OBJ (n 空间)))
+                  (VP
+                    (v 让)
+                    (NP-OBJ (n 幼木))
+                    (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 成长)))))
+                (wyy 」))))
+          (VP (vi 为由)))
+        (wd ，)
+        (VP (v 继续) (VP (vi 伐木))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 历史)) (ude 的)) (NP (n 包袱)))
+    (VP (ADVP (v 无法)) (NP-TMP (QP (m 一)) (NP (t 夕))) (VP (v 丢开))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 民间))
+    (VP
+      (VP
+        (ADVP (c 因而))
+        (VP
+          (v 发起)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-PN-SBJ (wyz 「) (n 桧木林) (n 国家) (n 公园) (wyy 」))
+                (VP (vi 催生))))
+            (NP (n 联盟)))))
+      (wd ，)
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP (DNP (NP (n 国家) (n 公园)) (ude 的)) (NP (n 庇佑)))
+                (f 下)))
+            (wd ，)
+            (VP
+              (v 留下)
+              (NP-OBJ
+                (QP (ADJP (f 最后)) (QP (m 一) (CLP (q 块))))
+                (NP (n 扁柏) (n 净土)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-DIR (p 对) (NP (nrf 桧木)))
+    (wd ，)
+    (NP (b 千禧) (n 年))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (QP (CLP (q 个)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 重要))) (ude 的)))
+          (NP (a 关键) (n 年))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (n 行政院))
+    (VP
+      (VP (ADVP (d 已)) (VP (VCD (v 编) (v 列)) (NP-OBJ (n 公务) (n 预算))))
+      (wd ，)
+      (VP
+        (v 让)
+        (NP-PN-OBJ (nt 退辅会))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 不))
+            (VP
+              (v 需)
+              (VP
+                (ADVP (d 再))
+                (VP
+                  (VP (v 砍) (NP-OBJ (n 树)))
+                  (VP (v 维持) (NP-OBJ (n 生计)))))))))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (VP (p 通过) (NP-OBJ (NP-PN (n 桧木) (n 国家) (n 公园)) (NP (n 方案)))))))
+  (wf ；)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (DNP (ADJP (v 所谓)) (ude 的)) (NP (n 生态) (n 旅游)))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 已))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (NP (nrf 桧木))
+          (DNP (NP (vi 生存)) (ude 的))
+          (ADJP (a 沉重))
+          (NP (n 压力))))))
+  (wf ；)
+  (IP
+    (PP-PRP
+      (p 为)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 照顾)
+          (NP-OBJ
+            (NP
+              (NP (NP-PN (nr 栖兰)) (NP (s 当地)))
+              (NP (nz 泰雅族) (NP (ADJP (b 原)) (NP (vi 住) (n 民)))))
+            (NP (n 生活))))))
+    (wd ，)
+    (NP-SBJ (DNP (NP-PN (n 桧木) (n 国家) (n 公园)) (ude 的)) (NP (n 成立)))
+    (wd ，)
+    (VP
+      (ADVP (d 更))
+      (VP
+        (v 需要)
+        (VP
+          (VP
+            (v 放置)
+            (PP
+              (p 在)
+              (LCP
+                (NP
+                  (CP-APP
+                    (IP-Q
+                      (NP-SBJ (-NONE- *PRO*))
+                      (VP
+                        (ADVP-WH (r 如何))
+                        (VP
+                          (v 兼顾)
+                          (IP-OBJ
+                            (IP
+                              (NP-SBJ (-NONE- *PRO*))
+                              (VP (v 保护) (NP-OBJ (n 森林))))
+                            (c 及)
+                            (IP
+                              (NP-SBJ (-NONE- *PRO*))
+                              (VP
+                                (v 维持)
+                                (NP-OBJ
+                                  (NP (ADJP (d 永续)) (NP (vi 观光)))
+                                  (wn 、)
+                                  (NP
+                                    (NP
+                                      (ADJP (d 原))
+                                      (NP (vi 住) (n 民)))
+                                    (n 生计)))))))))
+                    (ude 的))
+                  (NP (n 模式)))
+                (f 中))))
+          (VP (v 思考))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-WH-HLN
+  (NP-SBJ (-NONE- *PRO*))
+  (VP (nr 许桧木) (NP-OBJ (QP (m 一个)) (NP (t 未来))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 只有))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (nr 许桧木) (NP-OBJ (QP (m 一个)) (NP (t 未来))))))
+  (wd ，)
+  (NP-SBJ (NP (NP (ns 台湾)) (NP (n 人))) (NP (r 自己)))
+  (wd ，)
+  (VP
+    (ADVP (c 才))
+    (VP
+      (vyou 有)
+      (NP-OBJ
+        (QP (m 一个))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 长远))) (ude 的)))
+        (NP (t 未来)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (NP-SBJ (DP (r 这) (QP (m 一) (CLP (q 代)))) (NP (n 台湾人)))
+  (VP-WH
+    (v 能否)
+    (VP
+      (PP
+        (PP-BNF (v 为) (NP (r 自己)))
+        (wn 、)
+        (PP-BNF (p 为) (NP (n 后代))))
+      (VP
+        (v 留下)
+        (NP-OBJ
+          (LCP (NP (DP (r 这) (CLP (q 块))) (NP (n 土地))) (f 上))
+          (DNP (ADJP (f 最后)) (ude 的))
+          (NP (n 巨木林))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (v 藏)
+            (PP (p 在) (LCP (NP (ADJP (z 小小)) (NP (n 球果))) (f 中)))))
+        (ude 的)))
+    (NP (n 红桧) (n 种子)))
+  (VP
+    (VP (ADVP (d 彷佛)) (VP (v 有着) (NP-OBJ (ADJP (a 神秘)) (NP (n 力量)))))
+    (wd ，)
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 严苛))) (ude 的)))
+            (NP (n 大自然)))
+          (f 中)))
+      (VP
+        (v 长成)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 坚韧))) (ude 的)))
+          (ADJP (n 通天))
+          (ADJP (a 巨))
+          (NP (n 木))))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 林格立)) (VP (v 摄)) (wky ）)))
+</S>

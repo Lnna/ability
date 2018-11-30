@@ -1,0 +1,88 @@
+<S>
+( (IP
+  (NP (NP (n 上帝)) (NP (n 军)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (v 活跃)
+              (PP
+                (p 于)
+                (NP (NP-PN (ns 泰) (wn 、) (ns 缅)) (NP (s 边境))))))
+          (ude 的)))
+      (NP-PN (ns 缅甸))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (IP (NP-SBJ (-NONE- *T*-2)) (VP (vi 反) (NP-OBJ (n 政府)))))
+      (NP (n 武装))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (QP (m １６) (CLP (q 号)))
+  (NP-SBJ
+    (DNP (NP (n 童子) (n 军)) (ude 的))
+    (NP (ADJP (b 孪生)) (NP (n 兄弟)))
+    (NP (n 首领)))
+  (VP
+    (VP
+      (v 带领)
+      (NP-OBJ (NP (n 手下)) (QP (m １２) (CLP (q 名))) (NP (n 成员))))
+    (wd ，)
+    (VP (PP-DIR (p 向) (NP (NP-PN (ns 泰国)) (NP (n 政府)))) (VP (vi 投诚))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 据)
+      (IP (NP-SBJ (NP-PN (ns 泰国)) (NP (n 官员))) (VP (v 称))))
+    (QP (m １７) (CLP (q 号)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 又))
+      (VP
+        (vyou 有)
+        (IP
+          (NP-SBJ
+            (QP (m 一) (CLP (q 名)))
+            (NP (NP (n 上帝)) (NP (n 军)))
+            (NP (n 成员)))
+          (VP
+            (PP-DIR (p 向) (NP (NP-PN (ns 泰国)) (NP (n 政府))))
+            (VP (vi 投诚)))))))
+  (wd ，)
+  (IP
+    (PP-TMP (p 到) (LCP (NP (t 目前)) (v 为止)))
+    (NP-SBJ (NP-PN (ns 缅甸)) (NP (n 军政府)))
+    (VP
+      (VP
+        (ADVP (d 没有))
+        (PP-DIR (d 就此))
+        (VP (v 发表) (NP-OBJ (DP (r 任何)) (NP (n 评论)))))
+      (wd ，)
+      (VP
+        (ADVP (d 也))
+        (ADVP (d 没有))
+        (VP
+          (v 提出)
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (v 引渡)
+                  (NP-OBJ
+                    (DP (r 这) (QP (m １５) (CLP (q 名))))
+                    (NP (NP (n 上帝)) (NP (n 军)))
+                    (NP (n 成员)))))
+              (ude 的))
+            (NP (n 要求)))))))
+  (wj 。)))
+</S>

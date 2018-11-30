@@ -1,0 +1,1276 @@
+<S>
+( (IP-HLN
+  (IP (NP-SBJ (n 生肖)) (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))))
+  (wd ，)
+  (IP (NP-SBJ (r 我)) (VP (ADVP (d 不)) (NP (ADJP (a 冷)) (NP (n 血)))))
+  (wt ！)))
+</S>
+<S>
+( (FRAG (n 文) (wj ．) (nr 张静茹)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (t 蛇年)) (VP (v 开) (NP (n 喜))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (s 国内)) (NP-PN (nz 台原) (n 出版社)))
+    (VP
+      (ADVP (d 曾经))
+      (VP
+        (v 邀请)
+        (NP-OBJ (NP (n 社会)) (r 各界))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 选出)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (n 代表) (NP-OBJ (nl 十二生肖))))
+                  (ude 的)))
+              (NP (n 本土) (n 动物))))))))
+  (wd ，)
+  (IP
+    (LCP-LOC
+      (NP (NP-PN (ns 台湾)) (QP (m 五十) (CLP (q 种))) (NP (n 蛇) (n 类)))
+      (f 里))
+    (wd ，)
+    (NP-SBJ (r 大家))
+    (VP
+      (ADVP (ad 一致))
+      (VP (VRD (vi 投票) (v 给)) (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-Q
+    (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+    (VP
+      (ADVP-WH (r 为什么))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (DNP
+            (NP (wyz 「) (NP-PN (ns 台湾)) (NP (n 蛇)) (wyy 」))
+            (ude 的))
+          (NP (n 代表))))))
+  (ww ？)
+  (IP-Q
+    (NP-TPC
+      (DP (r 这个))
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 已))
+              (VP
+                (pbei 被)
+                (VP
+                  (v 列入)
+                  (NP-OBJ
+                    (wyz 「)
+                    (ADJP (a 珍贵))
+                    (NP (n 文化) (n 资产))
+                    (wyy 」))))))
+          (ude 的)))
+      (ADJP (n 保育类))
+      (NP (n 动物)))
+    (wd ，)
+    (NP-SBJ
+      (NP (r 我们))
+      (DNP (PP (p 对) (NP (r 它))) (ude 的))
+      (NP (n 了解)))
+    (VP (vyou 有) (QP-WH-OBJ (r 多少))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (NP (NP (nz 排湾族)) (ADJP (n 传统)) (NP (n 信仰))) (NP (n 神祁)))
+        (f 当中)))
+    (wd ，)
+    (NP-SBJ (nr 百步蛇))
+    (VP
+      (VP (v 代表) (NP-OBJ (n 守护神)))
+      (wd ，)
+      (VP
+        (v 守护)
+        (uzhe 着)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (v 居住)
+                  (LCP-OBJ (NP (ADJP (a 大)) (NP (ns 武山))) (f 下))))
+              (ude 的)))
+          (n 排湾子民)))))
+  (wd ，)
+  (IP
+    (IP-TPC-3
+      (wyz 「)
+      (NP-SBJ (r 它))
+      (VP
+        (VP (vshi 是) (NP-PRD (DNP (NP (n 生命)) (uzhi 之)) (NP (n 神))))
+        (wd ，)
+        (VP
+          (vshi 是)
+          (DP-PRD
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP (ADVP (d 最)) (VP (a 大))))
+                (ude 的)))
+            (DP (r 那) (QP (m 一) (CLP (q 位))))))))
+    (wd ，)
+    (wyy 」)
+    (NP-PN-SBJ (nr 蒋正信))
+    (VP (v 表示) (IP-OBJ (-NONE- *T*-3))))
+  (wd ，)
+  (IP
+    (PP-LOC (p 在) (NP (nz 排湾族)))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ (DNP (QP (m 百分之六十)) (ude 的)) (NP (n 神话) (n 故事)))
+        (VP (ADVP (d 都)) (PP (p 与) (NP (nrf 百步蛇))) (VP (n 有关))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (nr 蒋正信))
+      (DNP (LCP (s 眼中)) (ude 的))
+      (NP (n 排湾族) (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))) (n 图案)))
+    (wd ，)
+    (VP
+      (ADVP (d 更))
+      (d 从未)
+      (VP
+        (pbei 被)
+        (VP
+          (VRD (v 塑造) (v 成))
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 恐怖) (c 或) (a 可怕)))
+                (ude 的)))
+            (NP (n 形象)))))))
+  (wd ，)
+  (IP
+    (QP-SBJ (m 大部分))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 可爱) (c 与) (a 美丽)))
+              (ude 的)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+              (VP (IP (VP (v 请) (VP (v 入)))) (NP-OBJ (n 部落) (n 文化))))))
+        (ude 的)))
+    (NP (ADJP (d 原)) (NP (vi 住) (n 民族))))
+  (wd ，)
+  (VP (ADVP (d 还)) (VP (v 包括) (NP-OBJ (nz 布农族) (wn 、) (nz 鲁凯族))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 布农族))
+    (VP
+      (v 称)
+      (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (p 为)
+          (NP-PRD (nx Kaviiad) (PRN (wkz （) (NP (n 朋友)) (wky ）)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 相传)
+      (IP-OBJ
+        (IP
+          (IP-ADV (NP-SBJ (n 人) (wn 、) (n 蛇)) (VP (vi 相逢)))
+          (wd ，)
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 应)
+            (VP
+              (VP
+                (v 礼让)
+                (NP-OBJ (n 蛇))
+                (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 先行))))
+              (wd ，)
+              (c 或)
+              (VP
+                (VP
+                  (VRD (v 割) (f 下))
+                  (NP-OBJ
+                    (QP (m 一) (CLP (q 块)))
+                    (ADJP (a 红))
+                    (NP (n 布))))
+                (VP (VRD (v 送) (t 过去)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (nr 百步蛇))
+          (VP
+            (ADVP (d 便))
+            (VP (v 会) (VP (ADVP (ad 从容)) (VP (vi 离去)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHPP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP (ADJP (d 原)) (NP (vi 住) (n 民)))
+          (VP
+            (PP-MNR (-NONE- *T*-1))
+            (VP
+              (wyz 「)
+              (v 处理)
+              (wyy 」)
+              (NP-OBJ (NP (n 人) (wn 、) (n 蛇)) (NP (n 关系))))))
+        (ude 的)))
+    (NP (n 方式)))
+  (wd ，)
+  (VP
+    (ADVP (ad 显然))
+    (PP (p 与) (NP (n 汉人)))
+    (ADVP (d 绝然))
+    (VP (a 不同)))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (NP-PN (ns 台湾)) (QP (m 五)) (NP (n 毒))))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-LOC
+      (p 在)
+      (LCP (NP (DNP (NP (n 汉人)) (ude 的)) (NP (n 世界))) (f 里)))
+    (wd ，)
+    (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+    (VP
+      (VP (ADVP (d 仅仅)) (VP (vi 局限) (PP (p 在) (NP (v 利用) (n 层次)))))
+      (wd ，)
+      (VP
+        (ADVP (d 正))
+        (VP
+          (PP-PRD
+            (v 如)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (LCP-SBJ
+                      (NP
+                        (NP
+                          (NP-APP (n 排湾族) (n 诗人))
+                          (IP (ADVP (d 莫)) (NP (r 那)) (VP (v 能))))
+                        (NP (n 诗)))
+                      (f 中))
+                    (VP (v 提到) (NP-OBJ (-NONE- *T*-1))))
+                  (ude 的)))
+              (NP (wyz 「) (QP (b 一级)) (NP (n 补品)) (wyy 」))))))))
+  (wm ：)
+  (IP
+    (wyz 「)
+    (IP
+      (NP-SBJ (nr 百步蛇))
+      (VP
+        (VP (v 死) (y 了))
+        (wd ，)
+        (VP
+          (v 装)
+          (PP
+            (p 在)
+            (LCP
+              (NP
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 透明)))
+                    (ude 的)))
+                (ADJP (a 大))
+                (NP (n 药瓶)))
+              (f 里))))))
+    (wd ，)
+    (IP
+      (LCP-SBJ (NP (n 瓶)) (f 边))
+      (VP
+        (v 立)
+        (uzhe 着)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (wyz 『)
+                (VP (v 壮) (NP-OBJ (n 阳)))
+                (VP (v 补) (NP-OBJ (n 肾)))
+                (wyy 』)))
+            (ude 的))
+          (NP (n 字牌)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VCD (v 逗) (v 引))
+        (uzhe 着)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-3))
+                (VP
+                  (PP-LOC (p 在) (LCP (NP (ns 烟花巷)) (n 口)))
+                  (VP (vi 徘徊))))
+              (ude 的)))
+          (NP (n 男人))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (IP (VP (v 溯) (VP (ADVP (r 自)) (VP (p 于)))))
+        (NP-OBJ
+          (NP (n 人类))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 长远))) (ude 的)))
+          (IP-APP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (v 吃) (NP-OBJ (n 蛇肉)))
+              (p 与)
+              (VP (PP-MNR (p 以) (NP (n 蛇鞭))) (VP (vi 入药)))))
+          (NP (n 传统)))))
+    (wd ，)
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 多) (NP-OBJ (n 蛇皮))))
+          (ude 的)))
+      (NP (n 亚热带))
+      (NP-PN (ns 台湾)))
+    (wd ，)
+    (VP
+      (NP-TMP (t 过去))
+      (ADVP (d 到处))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (NP (DNP (ADJP (v 所谓)) (ude 的)) (NP (n 毒蛇)) (NP (n 研究所)))
+          (wn 、)
+          (NP (n 蛇) (n 店))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 人们))
+    (VP
+      (PP-DIR
+        (p 从)
+        (NP
+          (n 蛇)
+          (wn 、)
+          (n 蛇)
+          (n 血)
+          (wn 、)
+          (n 蛇)
+          (wn 、)
+          (n 蛇)
+          (wn 、)
+          (n 蛇)
+          (n 毒)))
+      (wd ，)
+      (VP
+        (v 展开)
+        (NP-OBJ
+          (DNP (PP (p 对) (NP (n 蛇))) (ude 的))
+          (ADJP (n 多样性))
+          (NP (n 利用))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 特别))
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (IP-APP
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (vl 以毒攻毒)))
+          (wn 、)
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (VP (ADVP (d 越)) (VP (a 毒)))
+              (VP (ADVP (d 越)) (VP (v 补))))))
+        (NP (n 观念)))
+      (f 下)))
+  (wd ，)
+  (NP-SBJ (n 毒蛇))
+  (VP
+    (ADVP (d 一直))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 珍贵))) (ude 的)))
+        (NP (n 山产)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-LOC
+      (NP
+        (NP-PN (ns 台湾))
+        (DNP (LCP (QP (m 五十) (CLP (q 种))) (m 左右)) (ude 的))
+        (NP (n 陆地) (NP (n 蛇) (n 类))))
+      (f 中))
+    (wd ，)
+    (NP-SBJ (n 毒蛇))
+    (VP (v 占) (QP-OBJ (m 五分之一))))
+  (wd ，)
+  (IP
+    (NP-ADV (r 其中))
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ-2 (-NONE- *T*-1))
+            (VP
+              (ADVP (d 较))
+              (ADVP (a 常))
+              (VP (pbei 被) (VP (v 利用) (NP-OBJ (-NONE- *-2))))))
+          (ude 的)))
+      (NP
+        (NP (n 龟壳花))
+        (wn 、)
+        (NP (NP (n 眼镜)))
+        (n 、)
+        (NP (ADJP (wn 赤尾)) (ADJP (n 青)) (NP (a 竹丝)))
+        (n 、)
+        (NP (wn 雨伞) (n 节))
+        (n 与)
+        (NP (QP (p 百) (CLP (m 步))) (NP (q 蛇)))))
+    (n ，)
+    (VP
+      (wd 被)
+      (VP
+        (pbei 称为)
+        (NP-OBJ
+          (v 「)
+          (QP (wyz 五))
+          (ADJP (m 大))
+          (a 毒蛇)
+          (NP (n 蛇))
+          (wyy 」)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (IP
+      (NP-SBJ
+        (NP (NP-PN (nz 木栅) (n 动物园)) (NP (n 技正)))
+        (NP-PN (nr 林华庆)))
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (NP
+              (NP-TTL-APP
+                (wkz 〈)
+                (DNP (NP (NP-PN (ns 台湾)) (NP (n 蛇) (n 类))) (ude 的))
+                (NP
+                  (NP (ADJP (n 商业性)) (NP (n 利用)))
+                  (c 与)
+                  (NP (n 猎捕)))
+                (NP (n 调查))
+                (wky 〉))
+              (NP (n 报告)))
+            (f 中)))
+        (VP (v 指出)))))
+  (wd ，)
+  (NP-SBJ (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))) (n 价格))
+  (VP
+    (VP
+      (vshi 是)
+      (QP-PRD
+        (DNP (NP (DP (r 其他)) (NP (n 毒蛇))) (ude 的))
+        (QP (m 三) (CLP (q 倍)))))
+    (wd ，)
+    (VP
+      (ADVP (d 曾经))
+      (QP-ADV (m 一) (CLP (q 斤)))
+      (ADVP (a 高))
+      (VP (v 达) (LCP-OBJ (QP (m 一万) (CLP (q 元))) (f 以上)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 根据)
+      (IP
+        (NP-SBJ
+          (DNP
+            (NP (NP (t 当时)) (NP-PN (nr 杜聪明)) (NP (n 实验室)))
+            (ude 的))
+          (NP (n 资料)))
+        (VP (v 显示))))
+    (wd ，)
+    (NP (QP (m 百) (CLP (q 步))))
+    (VP
+      (n 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (vshi *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (NN 致死率))
+              (VP (n 最高)))
+            (a 的)))
+        (ude 毒蛇)
+        (NP (n 蛇)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))) (n 毒))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 重要))) (ude 的)))
+          (NP (n 研究) (n 材料))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 蒋正信))
+  (VP
+    (v 记得)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (NP-PN (n 民国)) (QP (m 五十) (p 至) (m 七十)) (NP (n 年代)))
+      (wd ，)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+                  (v 捕捉)
+                  (n 量))
+                (VP (PP-TMP (-NONE- *T*-1)) (a 最高)))
+              (ude 的)))
+          (NP (n 时代))))))
+  (wj 。)))
+</S>
+<S>
+( (NP-HLN (DNP (NP (n 王者)) (uzhi 之)) (NP (n 风))))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 问题))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (CP-Q-PRD
+      (IP
+        (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+        (VP (ADVP (d 真)) (VP (vyou 有) (VP (ADVP (r 那么)) (VP (a 毒))))))
+      (y 吗)))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (NP (n 疾病) (n 管制)) (NP (n 局))) (NP (n 科长)))
+    (NP-PN (nr 陈村光)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (PP-LOC
+          (p 在)
+          (LCP (NP (QP (m 五)) (ADJP (a 大)) (n 毒蛇)) (f 中)))
+        (wd ，)
+        (NP-SBJ (NP (QP (nz 百) (CLP (n 步))) (NP (d 蛇))) (a 毒性))
+        (VP (wd 最低) (VP (c 微弱))))
+      (r ，)
+      (IP
+        (ADVP (ude 但是))
+        (NP-SBJ (DNP (NP (n 它)) (d 的)) (NP (a 毒牙)))
+        (VP (ADVP (wd 特别)) (VP (VA 长))))
+      (vshi ，)
+      (IP
+        (NP-SBJ (ns *pro*))
+        (VP
+          (VC 是)
+          (NP-PRD
+            (NP-PN (NR 台湾))
+            (CP
+              (WHNP-1 (n *OP*))
+              (CP
+                (IP
+                  (NP-TPC (n *T*-1))
+                  (NP-SBJ (d 毒液) (a 分泌量))
+                  (VP (ADVP (ude 最)) (VP (n 多))))
+                (wd 的)))
+            (NP (c 蛇)))))
+      (PU ，)
+      (IP
+        (ADVP (pbei 因此))
+        (NP-SBJ
+          (CP-APP
+            (IP
+              (NP-SBJ-2 (vi *pro*))
+              (VP (v 被) (VP (VRD (VV 咬) (ude 伤)) (NP-OBJ (n *-2)))))
+            (a 的))
+          (NP (wd 致死率)))
+        (VP (c 最高)))
+      (m ，)
+      (IP (ADVP (q 但)) (NP-SBJ (n 百步蛇) (n 族群)) (VP (a 稀少)))
+      (wd ，)
+      (IP
+        (NP-SBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (VRD (vi 咬) (v 伤)) (NP-OBJ (n 人))))
+            (ude 的))
+          (NP (n 比率)))
+        (VP (ADVP (d 其实)) (ADVP (a 最))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 王者)) (uzhi 之)) (NP (n 风)))
+  (VP
+    (ADVP (d 或许))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (r 它))
+              (VP
+                (PP-PRP (-NONE- *T*-1))
+                (VP (v 成为) (NP-OBJ (n 排湾族) (n 祖灵)))))
+            (ude 的)))
+        (NP (n 原因)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+  (VP
+    (VP
+      (v 属于)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (LCP-LOC (NP (n 蛇) (n 类)) (f 中))
+              (NP-SBJ (vi 演化))
+              (VP (ADVP (d 较)) (VP (a 晚))))
+            (ude 的)))
+        (NP (n 蝮蛇科))))
+    (wd ，)
+    (VP
+      (PP
+        (p 与)
+        (NP
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 原始))) (ude 的)))
+          (NP (n 蟒蛇) (wn 、) (n 盲蛇))))
+      (VP (a 不同))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 蝮蛇科) (n 蛇类))
+    (VP
+      (v 具有)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 分泌) (NP-OBJ (n 毒素))))
+            (ude 的)))
+        (NP (n 毒腺)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (nt 师大)) (NP (n 生物系)) (NP (n 教授)))
+      (NP-PN (nr 杜铭章)))
+    (VP
+      (v 解释)
+      (wd ，)
+      (IP-OBJ
+        (IP-ADV
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (IP (VP (ADVP (d 相)) (VP (ADVP (v 较)) (VP (p 于)))))
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 灵活))) (ude 的)))
+              (NP (QP (m 四)) (NP (n 足)))
+              (NP (n 动物)))))
+        (wd ，)
+        (IP-ADV
+          (IP
+            (NP-SBJ
+              (CP
+                (WHNP-3 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-3))
+                    (VP (v 源自) (NP-OBJ (n 穴居) (n 动物))))
+                  (ude 的)))
+              (NP (n 蛇类)))
+            (VP (ADVP (c 既)) (VP (v 乏) (NP-OBJ (n 四肢)))))
+          (wd ，)
+          (IP
+            (NP-SBJ (n 眼力) (wn 、) (n 听力))
+            (VP (ADVP (d 又)) (ADVP (d 都)) (ADVP (d 不)) (VP (a 佳)))))
+        (wd ，)
+        (NP-SBJ (n 毒牙))
+        (VP
+          (ADVP (d 几乎))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP
+                (WHPP-4 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (PP-MNR (-NONE- *T*-4))
+                      (VP (n 猎食) (c 与) (n 御敌))))
+                  (ude 的)))
+              (ADJP (b 唯一))
+              (NP (n 工具))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN
+  (NP-SBJ (r 我))
+  (VP (ADVP (d 不)) (VP (vshi 是) (NP-PRD (nl 冷血动物))))))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (NP
+      (DNP
+        (NP
+          (NP-APP (NP (n 动物园)) (NP (wyz 「) (n 蛇) (n 爸爸) (wyy 」)))
+          (NP-PN (nr 林华庆)))
+        (ude 的))
+      (ADJP (s 野外))
+      (NP (n 经验))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (n 蛇))
+      (VP (ADVP (t 平日)) (VP (v 过) (uzhe 着) (NP-OBJ (v 独居) (n 生活)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 嗅觉))
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (r 它们))
+                (VP (PP-MNR (-NONE- *T*-1)) (VP (v 沟通))))
+              (ude 的)))
+          (ADJP (a 重要))
+          (NP (n 媒介)))))
+    (wd ，)
+    (IP
+      (NP-TMP (n 繁殖) (n 季节))
+      (wd ，)
+      (NP-SBJ (ADJP (b 雄)) (NP (n 蛇)))
+      (VP
+        (v 会)
+        (VP
+          (VP
+            (pbei 被)
+            (CP-OBJ
+              (WHNP-3 (-NONE- *OP*))
+              (IP
+                (NP-SBJ
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (ADJP (b 雌)) (NP (n 蛇)))
+                        (VP (v 释放) (NP-OBJ (-NONE- *T*-2))))
+                      (ude 的)))
+                  (NP (n 气味)))
+                (VP (v 吸引) (NP-OBJ (-NONE- *T*-3))))))
+          (VP (c 而) (VP (v 来)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP (NP-TMP (t 去年) (t 八月)) (NP-SBJ (n 台风)) (VP (vi 过境)))
+        (f 中)))
+    (wd ，)
+    (NP-SBJ (QP (m 二十几) (CLP (q 个))) (NP (n 蛋)))
+    (VP
+      (ADVP (d 一一))
+      (VP (VRD (v 孵) (v 出)) (NP-OBJ (ADJP (a 小)) (NP (n 蛇))))))
+  (wd ，)
+  (IP
+    (ADVP (t 如今))
+    (NP-SBJ (n 动物园))
+    (VP
+      (ADVP (d 只))
+      (VP
+        (v 盼)
+        (IP-OBJ
+          (NP-SBJ (ADJP (a 小)) (NP (n 蛇)))
+          (VP (ADVP (ad 平安)) (VP (vi 长大)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (QP-ADV (m 第一) (CLP (q 次))) (VP (v 进行) (NP-OBJ (n 观察)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-PRP
+        (c 由于)
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 担心)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 动) (y 了) (NP-OBJ (NP (b 母蛇)) (NP (n 胎气))))))))
+      (n ，)
+      (ADVP (wd 不))
+      (VP (d 敢) (VP (ADVP (v 太)) (ADVP (d 多)) (VP (a 干扰))))))
+  (n ，)
+  (IP
+    (NP-PN-SBJ (wd 林华庆))
+    (VP
+      (nr 表示)
+      (v ，)
+      (IP-OBJ
+        (NP-TPC (DNP (QP (wd 第二) (CLP (m 次))) (q 的)) (NP (ude 繁殖)))
+        (n ，)
+        (NP-SBJ (wd *pro*))
+        (VP
+          (VP
+            (ADVP (AD 将))
+            (ADVP (d 更))
+            (ADVP (d 仔细))
+            (VP
+              (ad 进行)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (NP-APP
+                      (NP
+                        (NP (ADJP (v 母)) (NP (n 蛇)))
+                        (DP (r 每周))
+                        (NP (n 体重)))
+                      (udeng 等))
+                    (NP (n 数据)))
+                  (ude 的))
+                (NP (n 测量)))))
+          (wd ，)
+          (VP
+            (ADVP (d 才))
+            (VP
+              (v 能)
+              (VP
+                (v 做成)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 完整)))
+                      (ude 的)))
+                  (NP (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))) (n 繁殖))
+                  (NP (n 纪录))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP-HLN (NP-SBJ (-NONE- *pro*)) (VP (v 听)) (wt ！)))
+</S>
+<S>
+( (NP-HLN
+  (DNP (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))) (ude 的))
+  (NP (n 声音))))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 不论))
+    (IP
+      (NP-TMP (t 未来))
+      (NP-SBJ (r 我们))
+      (VP
+        (PP-LOC (p 在) (NP (n 动物园)))
+        (VP
+          (v 能)
+          (VP
+            (v 看到)
+            (NP-OBJ
+              (QP (r 多少))
+              (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))))))))
+  (wd ，)
+  (IP-SBJ
+    (NP-SBJ (-NONE- *PRO*))
+    (VP
+      (PP-DIR (p 从) (NP (n 动物园)))
+      (VP (v 了解) (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))))))
+  (VP
+    (ADVP (ad 显然))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 不够))) (ude 的))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 蒋正信))
+  (VP
+    (vi 直言)
+    (wd ，)
+    (IP-OBJ
+      (IP-Q
+        (NP-SBJ (n 学者))
+        (VP
+          (PP-LOC (p 在) (NP-WH (r 哪里)))
+          (VP (v 看到) (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))))))
+      (ww ？)
+      (IP
+        (IP-CND
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (c 如果)) (VP (vshi 是) (NP-PRD (n 动物园)))))
+        (wd ，)
+        (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+        (VP (ADVP (d 已经)) (VP (v 脱离) (NP-OBJ (ns 原乡)))))
+      (wd ，)
+      (IP
+        (IP-CND
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (v 若)) (VP (PP-PRD (p 在) (NP (s 野外))))))
+        (wd ，)
+        (NP-TPC
+          (DNP (NP (NP (t 现代)) (ADJP (a 大)) (NP (n 环境))) (ude 的))
+          (NP (n 改变)))
+        (wd ，)
+        (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+        (VP
+          (ADVP (d 恐怕))
+          (ADVP (d 也))
+          (VP (v 要) (VP (VCD (n 黯哑) (vi 无声))))))))
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-Q-SBJ
+      (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇)))
+      (VP (VNV-WH (v 会) (d 不) (v 会)) (VP (wyz 「) (vi 发声) (wyy 」))))
+    (wd ，)
+    (VP
+      (ADVP (d 仍))
+      (VP
+        (vshi 是)
+        (NP-PRD (DNP (LCP (NP (n 生态)) (f 上)) (ude 的)) (NP (n 谜题))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (PP-LOC (p 在) (LCP (NP (n 鼻笛) (n 传说)) (f 中)))
+    (wd ，)
+    (NP-SBJ
+      (NP (nr 原住民))
+      (NP
+        (NP (DNP (PP (p 对) (NP (n 荒野))) (ude 的)) (NP (n 开放) (n 态度)))
+        (wd ，)
+        (p 与)
+        (NP (DNP (PP (p 对) (NP (n 自然))) (ude 的)) (NP (n 参与)))))
+    (wd ，)
+    (VP
+      (v 可能)
+      (VP
+        (vshi 是)
+        (NP-PRD
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP
+                          (VP
+                            (IP (VP (vi 运转) (p 于)))
+                            (NP-OBJ (n 机械) (n 文明)))
+                          (wn 、)
+                          (VP
+                            (FRAG (v 受) (v 教) (p 于))
+                            (NP-OBJ (n 理性主义)))))
+                      (ude 的)))
+                  (n 现代人))
+                (VP
+                  (ADVP (d 难以))
+                  (VP
+                    (IP (VP (v 想) (DFL (p 像))))
+                    (NP-OBJ (-NONE- *T*-2)))))
+              (ude 的)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (d 或许))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 属于) (NP-OBJ (n 大自然))))
+          (ude 的)))
+      (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))))
+    (wd ，)
+    (p 和)
+    (NP
+      (NP (r 它))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-2))
+            (ADVP (d 至今))
+            (ADVP (d 仍))
+            (PP (p 与) (NP (n 自然)))
+            (NP-SBJ (n 声息))
+            (VP (vi 相通)))
+          (ude 的)))
+      (n 排湾子民)))
+  (wd ，)
+  (VP
+    (PP-TMP
+      (p 在)
+      (NP
+        (DP (r 这个))
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-3)) (VP (v 属于) (NP-OBJ (r 它))))
+            (ude 的)))
+        (NP (n 年份))))
+    (wd ，)
+    (ADVP (d 正在))
+    (VP
+      (v 告诉)
+      (NP-IO (r 我们))
+      (NP-OBJ
+        (QP (m 一些))
+        (CP
+          (WHNP-4 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ-5 (-NONE- *T*-4))
+              (VP
+                (ADVP (ad 早))
+                (VP (pbei 被) (VP (v 遗忘) (NP-OBJ (-NONE- *-5))))))
+            (ude 的)))
+        (DNP (NP (n 生命)) (uzhi 之))
+        (NP (n 歌)))))
+  (wd ，)
+  (CP-CND
+    (ADVP (c 只要))
+    (IP
+      (NP-SBJ (r 你))
+      (VP
+        (v 愿意)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 张开) (NP-OBJ (DNP (NP (n 心灵)) (ude 的)) (NP (n 耳朵))))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 88)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 林华庆)) (VP (v 摄)) (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 89)))
+</S>
+<S>
+( (IP (wkz （) (nr 卜华志) (VP (v 摄)) (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 90)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 木栅) (n 动物园))
+    (VP
+      (ADVP (d 不))
+      (ADVP (d 只))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (NP-APP (n 企鹅) (wn 、) (n 无尾熊) (udeng 等))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 外型))
+                (VP (v 讨好)))
+              (ude 的)))
+          (ADJP (b 外来))
+          (NP (n 娇客))))))
+  (wd ，)
+  (IP
+    (PP-LOC
+      (ADVP (d 就))
+      (PP
+        (p 在)
+        (NP
+          (DP (r 这))
+          (NP
+            (wyz 「)
+            (NP
+              (ADJP (b 两栖))
+              (NP (CP (IP (VP (v 爬) (NP (n 虫))))) (NP (n 类))))
+            (NP (n 收容) (n 中心))
+            (wyy 」)))))
+    (wd ，)
+    (NP-SBJ (NP-APP (n 技正)) (NP-PN (nr 林华庆)))
+    (VP
+      (PP-BNF (v 为) (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))))
+      (VP
+        (VRD (v 营造) (v 出))
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 适合))) (ude 的)))
+          (NP (n 洞房))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (f 右) (n 图))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (NP-TMP (t 去年) (t 八月))
+              (VP
+                (VRD (IP (VP (d 复) (IP (VP (v 育))))) (v 出))
+                (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (NP (QP (m 百) (CLP (q 步))) (NP (n 蛇))) (n 宝宝))))
+  (wj 。)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 薛继光)) (VP (v 摄)) (wky ）)))
+</S>
+<S>
+( (FRAG (NP (nx p) (wj .)) (m 92)))
+</S>
+<S>
+( (IP (wkz （) (NP-PN-SBJ (nr 卜华志)) (VP (v 摄)) (wky ）)))
+</S>

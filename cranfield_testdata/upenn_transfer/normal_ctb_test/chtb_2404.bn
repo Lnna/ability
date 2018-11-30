@@ -1,0 +1,27 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 一个)) (DNP (z 小小的)) (NP (n 擦撞) (n 事故)))
+    (wd ，)
+    (VP
+      (ADVP (d 竟然))
+      (VP
+        (VRD (vi 演变) (v 成))
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (r 这么)) (VP (a 严重))))
+              (ude 的)))
+          (NP (n 交通) (an 意外))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (ADVP (d 将))
+      (PP-TMP (p 在) (NP (t 事后)))
+      (VP (v 追究) (NP-OBJ (n 责任) (n 归属)))))
+  (wj 。)))
+</S>

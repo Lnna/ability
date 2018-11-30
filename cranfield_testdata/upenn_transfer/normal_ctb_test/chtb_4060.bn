@@ -1,0 +1,265 @@
+<S>
+( (IP
+  (IP
+    (PP-PRP
+      (p 鉴于)
+      (IP
+        (NP-PN-SBJ (ns 伊朗))
+        (VP
+          (v 拒绝)
+          (IP-OBJ
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 暂停) (NP-OBJ (n 铀) (n 浓缩) (n 活动)))))))
+    (wd ，)
+    (PP-LOC
+      (p 在)
+      (LCP (NP (DNP (NP-PN (ns 美国)) (ude 的)) (NP (n 支持))) (f 下)))
+    (wd ，)
+    (NP-SBJ (NP-APP (ns 法) (ns 英) (ns 德)) (QP (m 三)) (NP (n 国)))
+    (VP
+      (NP-TMP (t 八号))
+      (PP-LOC (p 在) (NP-PN (nt 联合国) (nt 安理会)))
+      (VP
+        (v 散发)
+        (y 了)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 份)))
+          (DNP
+            (PP
+              (p 有关)
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (v 制裁) (NP-PN-OBJ (ns 伊朗)))))
+            (ude 的))
+          (NP (n 决议) (n 草案))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (v 建议)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP
+            (p 对)
+            (NP
+              (QP (m 十二) (CLP (q 名)))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (v 涉嫌)
+                      (IP-OBJ
+                        (NP-SBJ (-NONE- *PRO*))
+                        (VP (v 参与) (NP-OBJ (n 核计划))))))
+                  (ude 的)))
+              (NP (n 伊朗人))))
+          (VP (v 进行) (NP-OBJ (n 制裁)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-MNR
+    (p 据)
+    (IP
+      (NP-PN-SBJ (ns 美国) (ns 华盛顿) (n 邮报))
+      (VP (QP (m 十一) (CLP (q 号))) (VP (n 报道)))))
+  (wd ，)
+  (NP-SBJ
+    (DP (r 这) (CLP (q 份)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-2 (-NONE- *T*-1))
+          (VP
+            (PP-LGS (p 由) (NP-PN (ns 美国) (nt 国务院)))
+            (VP (v 提供) (NP-OBJ (-NONE- *T*-2)))))
+        (ude 的)))
+    (NP (n 伊朗人) (n 名单)))
+  (wd ，)
+  (VP
+    (ADVP (d 竟然))
+    (VP
+      (vshi 是)
+      (CP-PRD
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-LOC (p 从) (LCP (NP (nl 互联网)) (f 上)))
+            (VP (VSB (v 搜索) (v 获得)))))
+        (ude 的))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (ulian 连))
+  (NP-SBJ (NP-PN (ns 美国)) (ADJP (n 中央)) (NP (n 情报局)))
+  (VP
+    (ADVP (d 都))
+    (ADVP (d 不))
+    (VP (v 相信) (NP-OBJ (DNP (NP (r 其)) (ude 的)) (NP (n 准确性)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (nt 国务院))
+  (VP
+    (ADVP (d 只好))
+    (VP
+      (v 指派)
+      (NP-OBJ (QP (m 一) (CLP (q 名))) (ADJP (a 低级)) (NP (n 官员)))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (VSB (v 上网) (v 查找)) (NP-OBJ (n 人名))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DP (r 这) (CLP (q 名))) (NP (n 官员)))
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (v 输入)
+              (NP-OBJ
+                (NP-APP (NP-PN (ns 伊朗)) (NP (n 核计划)) (udeng 等))
+                (n 关键词))))
+          (f 后)))
+      (wd ，)
+      (VP
+        (v 挑选)
+        (y 了)
+        (NP-OBJ
+          (QP (m 十二) (CLP (q 个)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-TPC (-NONE- *T*-1))
+                (NP-SBJ (n 点击率))
+                (VP (a 最高)))
+              (ude 的)))
+          (NP (n 名字))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (f 最后))
+      (VP
+        (VRD (v 写) (v 进))
+        (y 了)
+        (NP-OBJ (NP-PN (nt 安理会)) (NP (n 决议) (n 草案))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 草案))
+  (VP
+    (ADVP (ad 明确))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (PP (p 对) (NP (DP (r 这) (QP (m 十二))) (NP (n 人))))
+          (VP
+            (v 进行)
+            (NP-OBJ
+              (NP (n 制裁))
+              (wd ，)
+              (PRN
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 包括)
+                    (IP-OBJ
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (v 禁止)
+                        (UCP-OBJ
+                          (NP (r 他们) (n 国际) (n 旅行))
+                          (c 和)
+                          (IP
+                            (NP-SBJ (-NONE- *PRO*))
+                            (VP (v 参与) (NP-OBJ (n 国际) (n 商务) (n 活动))))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (v 报道)))
+  (wd ，)
+  (NP-SBJ (NP-PN (nt 中情局)) (ADJP (n 有关)) (NP (n 官员)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (LCP-SBJ (NP (n 名单)) (f 上))
+              (VP (v 提到) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (NP (n 人)))
+      (VP
+        (v 没有)
+        (DFL (w ＜) (NP (nx ｂａｃｋｇｒｏｕｎｄ)) (w ＞))
+        (IP-OBJ
+          (QP-SBJ (m 一个))
+          (VP
+            (PP-ADV
+              (p 与)
+              (NP
+                (DNP (NP-PN (ns 伊朗)) (ude 的))
+                (ADJP (a 秘密))
+                (NP (n 核计划))))
+            (ADVP (ad 直接))
+            (VP (vi 相关)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-SBJ (NP-PN (ns 美国)) (NP (nt 国务院)))
+  (VP
+    (ADVP (d 仍然))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ
+          (DP (r 这) (CLP (q 份)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (PP-MNR (p 通过) (NP (nl 互联网)))
+                  (VP (VSB (v 搜索) (v 得来)) (NP-OBJ (-NONE- *T*-1)))))
+              (ude 的)))
+          (NP (n 名单)))
+        (VP
+          (v 列入)
+          (y 了)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (ns 法) (ns 英) (ns 德))
+                  (VP (v 提交) (NP-OBJ (-NONE- *T*-2))))
+                (ude 的)))
+            (NP-PN (nt 安理会))
+            (NP (n 决议) (n 草案)))))))
+  (wj 。)))
+</S>

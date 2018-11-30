@@ -1,0 +1,179 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (n 行政院) (an 卫生) (n 署)) (ADJP (b 副)) (NP (n 署长)))
+    (NP-PN (nr 张宏仁)))
+  (VP
+    (NP-TMP (t 今天))
+    (PP-TMP
+      (p 在)
+      (LCP
+        (NP
+          (NP
+            (t ２０００年)
+            (n 国际)
+            (n 医学)
+            (n 资讯展)
+            (n 研讨会)
+            (c 暨)
+            (n 医疗)
+            (n 资讯))
+          (NP (n 开幕式)))
+        (n 时)))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (n 医疗) (an 卫生) (n 产业)) (ude 的))
+          (NP (n 电脑化)))
+        (VP
+          (VP (ADVP (d 很)) (VP (a 重要)))
+          (wd ，)
+          (VP
+            (CP-CND
+              (ADVP (c 如果))
+              (IP (NP-SBJ (-NONE- *pro*)) (VP (v 能够) (VP (v 克服)))))
+            (ADVP (d 将))
+            (VP
+              (vshi 是)
+              (NP-PRD (QP (m 一)) (ADJP (a 大)) (NP (n 革命)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP-PN (n 国家) (n 网络) (n 医院)) (NP (n 院长)))
+    (NP-PN (nr 张朝雄)))
+  (VP
+    (ADVP (d 则))
+    (VP
+      (vshi 是)
+      (VP
+        (v 呼吁)
+        (wd ，)
+        (NP-OBJ (DNP (NP (n 医学) (n 资讯) (n 教育)) (ude 的)) (NP (an 重要))))))
+  (wd ，)
+  (PP-PRP
+    (p 因)
+    (IP
+      (NP-SBJ (r 其))
+      (VP
+        (v 反映)
+        (NP-OBJ
+          (NP (DNP (NP (QP (m 一个)) (NP (n 国家))) (ude 的)) (NP (n 进步)))
+          (ADVP (u 与否))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ
+            (NP (NP-PN (ns 台北) (n 医学) (n 大学)) (NP-PN (n 资讯) (n 研究所)))
+            (wn 、)
+            (NP-PN (NP-PN (nz 中华) (n 民国)) (NP (n 医疗) (n 咨询) (n 学会)))
+            (wn 、)
+            (NP-PN
+              (NP-PN (ns 台北市))
+              (NP (n 电脑) (n 商业))
+              (NP (n 同业) (n 工会))))
+          (VP (v 主办) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的)))
+    (NP
+      (wyz “)
+      (NP (t ２０００年))
+      (NP
+        (NP (n 国际) (n 医学) (n 资讯) (n 研讨会))
+        (c 暨)
+        (NP (n 医疗) (n 资讯) (n 展)))
+      (wyy ”)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 今天) (t 上午))
+    (PP-LOC (p 在) (NP (NP-PN (ns 台北)) (NP-PN (n 国际) (n 会议) (n 中心))))
+    (VP (vi 开幕)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 将))
+    (VP
+      (v 进行)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (vi 为期) (QP-EXT (m 两) (CLP (q 天)))))
+            (ude 的)))
+        (NP (n 议程) (c 和) (n 展览)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 研讨会)) (DNP (NP (t 今年)) (ude 的)) (NP (n 主题)))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (wkz 《)
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 迎接)
+        (NP-OBJ
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (v 个人化))
+                  (VP (n 导向) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (NP (n 医疗) (n 资讯)))
+          (NP (n 时代))))
+      (wky 》)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (p 除了)
+    (LCP
+      (NP (NP (ADJP (n 专题)) (NP (n 演讲))) (c 和) (NP (n 论文) (v 发表)))
+      (f 之外)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 将))
+    (ADVP (d 分别))
+    (PP-DIR
+      (p 对)
+      (NP
+        (NP-APP
+          (NP (nrf 健保) (NP (ADJP (nx ｉｃ)) (NP (n 卡))) (n 计划))
+          (wn 、)
+          (NP
+            (NP (n 医疗) (n 资讯) (n 标准))
+            (p 与)
+            (NP
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (an 安全)))
+                  (ude 的)))
+              (NP (an 便利))))
+          (wn 、)
+          (NP (n 医药业) (n 电子) (n 商务) (n 前景))
+          (wn 、)
+          (NP (n 生物) (n 资讯))
+          (udeng 等))
+        (NP (n 议题))))
+    (VP (v 进行) (NP-OBJ (ADJP (n 分组)) (NP (n 讨论)))))
+  (wj 。)))
+</S>

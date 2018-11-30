@@ -1,0 +1,138 @@
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 眼看) (IP-OBJ (NP-SBJ (n 浓烟)) (VP (vi 四起)))))
+  (wd ，)
+  (NP-SBJ (b 消防) (n 人员))
+  (VP
+    (VP
+      (DVP (VP (d 奋力)) (ude 的))
+      (VP
+        (VP (VRD (v 爬) (v 上)) (NP-OBJ (QP (m 三)) (NP (n 楼))))
+        (c 并且)
+        (VP (VRD (v 敲) (a 碎)) (NP-OBJ (n 玻璃)))))
+    (wd ，)
+    (VP
+      (VP
+        (v 进入)
+        (NP-OBJ
+          (NP-PN (ns 三重市) (ns 重新路))
+          (DNP (QP (m 二) (CLP (q 栋))) (ude 的))
+          (NP (n 民宅))))
+      (VP (vi 救火))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-PRP
+      (c 由于)
+      (IP
+        (NP-SBJ (DNP (NP (QP (m 一)) (NP (n 楼))) (ude 的)) (NP (n 铁门)))
+        (VP (ADVP (d 紧)) (VP (v 闭)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 造成)
+      (NP-OBJ
+        (DNP
+          (LCP (IP (NP-SBJ (b 消防) (n 人员)) (VP (n 抢救))) (f 上))
+          (ude 的))
+        (NP (an 困难)))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (b 消防) (n 人员))
+    (VP
+      (ADVP (d 连忙))
+      (PP-MNR (p 用) (NP (n 铁钜)))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-1 (n 铁门))
+          (VP (IP (VP (VCD (n 钜) (v 开)))) (NP-OBJ (-NONE- *-1)))))))
+  (wd ，)
+  (IP (NP-SBJ (DP (b 整个)) (NP (n 火场))) (IP (NP (n 浓烟)) (VP (v 弥漫))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (b 消防) (n 人员))
+    (VP
+      (PP
+        (p 从)
+        (NP-DIR (QP (m 一) (wn 、) (m 二) (wn 、) (m 三)) (NP (n 楼))))
+      (VP
+        (VRD (v 救) (v 出))
+        (NP-OBJ
+          (QP (QP (QP (m ２０)) (QP (m 几))) (CLP (q 位)))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (IP (VP (v 受) (NP (n 困))))))
+          (NP (n 民众))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (DNP (NP (s 隔壁)) (ude 的)) (ADJP (n 便民)) (NP (n 医院)))
+    (VP
+      (PP-TMP (p 在) (NP (DP (r 这个)) (NP (n 时候))))
+      (VP (v 发挥) (y 了) (NP-OBJ (n 作用)))))
+  (wd ，)
+  (IP (NP-SBJ (n 急诊室)) (VP (v 挤满) (NP-OBJ (n 民众))))
+  (wd ，)
+  (IP
+    (ADVP (d 所幸))
+    (NP-SBJ (r 大家))
+    (VP
+      (ADVP (d 都))
+      (ADVP (d 只))
+      (VP
+        (vyou 有)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 轻微))) (ude 的)))
+          (ADJP (n 吸入性))
+          (NP (vi 烫伤))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (vi 停) (PP (p 在) (NP (s 楼下)))))
+          (ude 的)))
+      (NP
+        (NP
+          (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 辆)))
+          (NP (n 机车)))
+        (c 和)
+        (NP (QP (m 一) (CLP (q 台))) (NP (n 汽车)))))
+    (VP
+      (pbei 被)
+      (IP (NP-SBJ (n 大火)) (VP (vi 烧) (ude 得) (VP-EXT (z 焦黑))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (n 警方))
+    (VP
+      (ADVP (d 正在))
+      (VP
+        (v 调查)
+        (IP-OBJ
+          (NP-SBJ (DP (r 这项)) (NP (n 火警)))
+          (VP
+            (ADVP (d 究竟))
+            (VNV (vshi 是) (d 不) (vshi 是))
+            (IP-PRD
+              (NP-SBJ (ADJP (d 人为)) (NP (vi 纵火)))
+              (VP (usuo 所) (VP (v 引起)))))))))
+  (wj 。)))
+</S>

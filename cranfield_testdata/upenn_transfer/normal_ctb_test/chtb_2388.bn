@@ -1,0 +1,171 @@
+<S>
+( (IP
+  (IP
+    (NP-PN (nz 台东) (n 医院))
+    (VP (NP-TMP (t 上午)) (VP (v 发生) (y 了) (NP-OBJ (n 火警)))))
+  (wd ，)
+  (IP
+    (CP-ADV
+      (ADVP (c 虽然))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (d 没有))
+          (VP
+            (v 造成)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 严重))) (ude 的)))
+              (NP (n 灾情)))))))
+    (wd ，)
+    (ADVP (c 但是))
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-TPC (-NONE- *T*-2))
+            (NP-SBJ (n 人))
+            (VP (ADVP (d 已经)) (VP (vshi 是) (NP-PRD (n 祸)))))
+          (ude 的)))
+      (NP (n 病患)))
+    (VP
+      (VP-FOC
+        (v 碰上)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-3)) (VP (bl 突如其来))) (ude 的)))
+          (NP (n 大火))))
+      (wd ，)
+      (VP
+        (NP-ADV (q 个个))
+        (VP
+          (a 紧张)
+          (ude 的)
+          (QP (LCP (QP (m 七)) (v 上)) (QP (m 八) (CLP (q 下))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 浓烟))
+    (VP
+      (PP-DIR (p 从) (NP (n 地下室)))
+      (PP (p 往) (NP (f 上)))
+      (VP (v 扩散))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (b 整个)) (NP-PN (nz 台东) (n 医院)))
+    (VP
+      (v 弥漫)
+      (uzhe 着)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 刺) (NP (n 鼻))))
+            (ude 的)))
+        (NP (n 烟雾)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 医护) (n 人员))
+    (VP
+      (p 将)
+      (IP-OBJ
+        (n 病)
+        (NP (v 患))
+        (VP (VRD (v 疏散) (v 到)) (NP-OBJ (s 户外) (n 走廊))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 不少)) (NP (n 重症) (n 病患)))
+    (VP
+      (ADVP (d 甚至))
+      (ADVP (d 还))
+      (VP
+        (VP (v 打) (uzhe 着) (NP-OBJ (n 点滴)))
+        (VP (v 躺) (PP (p 在) (LCP (NP (n 病床)) (f 上)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (DP (r 每个)) (NP (n 人))) (ude 的)) (NP (s 脸上)))
+    (VP (ADVP (d 都)) (VP (VRD (v 写) (a 满)) (y 了) (NP-OBJ (an 惊慌)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 今天) (t 上午))
+    (NP-PN-LOC (nz 台东) (n 医院))
+    (ADVP (a 突然))
+    (NP-SBJ (n 警铃))
+    (VP (n 大作)))
+  (wd ，)
+  (IP
+    (IP (VP (ADVP (d 一)) (VP (v 开始))))
+    (NP-SBJ (n 医护) (n 人员))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (VP (VCP (v 以为) (vshi 是)) (NP-OBJ (n 火警) (n 演习)))
+        (wd ，)
+        (VP (vl 不以为然)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 没))
+      (VP
+        (v 想到)
+        (IP-OBJ
+          (NP-SBJ (QP (CLP (q 阵阵))) (NP (n 浓烟)))
+          (VP
+            (VP (ADVP (ad 迅速)) (VP (v 窜升)))
+            (wd ，)
+            (VP (v 笼罩) (y 了) (NP-OBJ (DP (b 整个)) (NP (n 医院)))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 院方))
+    (VP
+      (ADVP (d 才))
+      (ADVP (a 紧急))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP (n 病) (v 患))
+          (VP
+            (PP (p 往) (NP (f 外)))
+            (VP (v 疏散) (NP-OBJ (-NONE- *-1))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (b 消防) (n 人员))
+    (VP
+      (VP (v 赶到) (NP-OBJ (s 现场)))
+      (VP (ADVP (d 立刻)) (VP (v 铺设) (NP-OBJ (n 灭火) (n 管线))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 起火) (n 地点))
+    (VP (p 在) (NP-OBJ (n 地下室) (LCP (NP (n 储藏)) (f 间)))))
+  (wd ，)
+  (IP
+    (VP (ADVP (d 还)) (VP (a 好)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP
+        (ADVP (d 只))
+        (VP (v 烧掉) (y 了) (NP-OBJ (QP (m 部分)) (NP (n 杂物)))))
+      (wd ，)
+      (VP
+        (ADVP (d 并))
+        (ADVP (d 没有))
+        (VP (v 造成) (NP-OBJ (ADJP (a 严重)) (NP (n 灾情)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 也)) (VP (v 没有) (IP (NP-SBJ (n 人员)) (VP (n 伤亡))))))
+  (wj 。)))
+</S>

@@ -1,0 +1,430 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 新疆)) (NP (n 生产) (n 建设) (n 兵团)))
+  (VP
+    (v 寻求)
+    (NP-OBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (-NONE- *T*-1)) (VP (ADVP (d 更)) (VP (a 广泛))))
+          (ude 的)))
+      (NP (n 国际) (n 经贸) (n 合作))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 乌鲁木齐)
+  (t 十一月)
+  (t 三日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 唐施红)
+  (nr 邬焕庆)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (NP-PN-LOC (ns 中国)) (ADVP (d 最)) (VP (a 大))))
+        (ude 的)))
+    (NP (NP (n 农工商)) (NP (n 联合体)))
+    (PRN (wp —) (wp －) (NP-PN (ns 新疆)) (NP (n 生产) (n 建设) (n 兵团))))
+  (VP
+    (ADVP (d 将))
+    (PP-MNR
+      (p 以)
+      (NP
+        (DNP
+          (NP-PN
+            (wyz “)
+            (NP-PN (ns 中国))
+            (ADJP (n 新建))
+            (NP (n 集团))
+            (wyy ”))
+          (ude 的))
+        (NP (n 名义))))
+    (VP
+      (v 展开)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (ADVP (d 更)) (VP (a 广泛))))
+            (ude 的)))
+        (NP (n 国际) (n 经贸) (n 合作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (NP-APP
+                (NP (DP (r 该)) (NP (n 集团)))
+                (ADJP (b 副))
+                (NP (n 总裁)))
+              (NP-PN (nr 朱鉴凡)))
+            (VP
+              (NP-TMP (t 今天))
+              (PP-TMP
+                (p 在)
+                (LCP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (v 接受) (NP-OBJ (n 记者) (n 采访))))
+                  (n 时)))
+              (VP (v 透露) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (NP-TMP (t 最近)) (VP (v 举行))))
+            (ude 的)))
+        (NP-PN (ns 厦门) (n 国际) (n 贸洽会)))
+      (f 上)))
+  (wd ，)
+  (NP-PN-SBJ (ns 新疆) (n 建设) (n 兵团))
+  (VP
+    (QP (m 首) (CLP (q 次)))
+    (VP
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 国际) (nl 互联网)) (f 上)))
+        (VP (v 建立) (y 了) (NP-OBJ (n 主页))))
+      (wd ，)
+      (VP
+        (PP-DIR (p 向) (NP (n 全球) (nl 互联网) (n 用户)))
+        (VP
+          (VP (v 介绍) (NP-OBJ (n 兵团)))
+          (wn 、)
+          (VP (v 寻求) (NP-OBJ (n 商机)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 新疆) (n 建设) (n 兵团))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (LCP-TMP (QP (m 四十三) (CLP (q 年))) (f 前))
+              (PP-LGS
+                (p 由)
+                (NP
+                  (QP (m 十万))
+                  (VP (v 驻) (NP (ns 疆)))
+                  (NP-PN (n 人民) (n 解放军))))
+              (ADVP (n 集体))
+              (VP (VP (ADVP (d 就地)) (VP (vi 转业))) (VP (v 组成)))))
+          (ude 的)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 兵团))
+    (VP
+      (PP-DIR (p 从) (LCP (NP (QP (m 五十)) (NP (n 年代))) (f 末)))
+      (VP
+        (v 开始)
+        (VP
+          (v 承担)
+          (NP-OBJ
+            (DNP (PP (p 对) (NP-PN (ns 越南))) (ude 的))
+            (NP (n 农业) (n 援助) (n 项目)))))))
+  (wd ，)
+  (IP
+    (NP (QP (m 九十)) (NP (n 年代)))
+    (NP-SBJ (n 兵团))
+    (VP
+      (v 承担)
+      (y 了)
+      (NP-OBJ
+        (IP-APP
+          (NP-PN-SBJ (ns 中国))
+          (VP
+            (v 援助)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (NP-PN-APP
+                    (ns 布隆迪)
+                    (wn 、)
+                    (ns 阿富汗)
+                    (wn 、)
+                    (ns 蒙古国)
+                    (wn 、)
+                    (ns 古巴)
+                    (wn 、)
+                    (ns 墨西哥)
+                    (udeng 等))
+                  (NP (n 国家)))
+                (ude 的))
+              (NP
+                (NP (n 农业))
+                (wn 、)
+                (NP (n 水利))
+                (c 及)
+                (NP (ADJP (n 综合)) (NP (n 开发)))))))
+        (NP (n 工作)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 从)
+    (UCP
+      (QP (m 一九九０) (CLP (q 年)))
+      (p 至)
+      (LCP (NP (t 今年) (t 七月)) (f 底))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (n 兵团))
+      (VP
+        (ADVP (v 累计))
+        (VP
+          (v 承担)
+          (NP-OBJ
+            (NP
+              (PP (p 对) (NP (n 周边) (n 国家)))
+              (NP (n 工程) (n 承包) (wn 、) (n 劳务) (n 合作)))
+            (NP (n 项目)))
+          (QP-EXT (m 二十一) (CLP (q 项))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (NP (n 合同)) (ADJP (b 总)) (NP (n 金额)))
+      (VP
+        (QP-PRD
+          (QP (QP (m 一千)) (QP (ADVP (m 多)) (QP (m 万))))
+          (CLP (q 美元)))))
+    (wf ；)
+    (IP
+      (NP-SBJ (NP (s 境外) (n 投资)) (NP (n 项目)))
+      (VP (QP-PRD (m 四十八) (CLP (q 项)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (n 合同) (n 金额))
+      (VP
+        (QP-PRD
+          (QP (QP (QP (m 两千)) (ADVP (m 多))) (QP (m 万)))
+          (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 兵团))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (NP-PN-LOC (ns 新疆))
+            (ADVP (ADVP (d 最)) (ADVP (a 早)))
+            (VP
+              (VP (v 利用) (NP-OBJ (NP-PN (nz 世行)) (NP (n 贷款))))
+              (wd ，)
+              (VP (v 开展) (NP-OBJ (n 补偿) (n 贸易)))
+              (c 和)
+              (VP (v 吸收) (NP-OBJ (n 外商) (n 投资)))))))
+      (NP (n 单位) (r 之一))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 到) (LCP (t 去年底)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (n 兵团))
+      (VP
+        (n 注册)
+        (NP-OBJ (n 外商) (n 投资) (n 企业))
+        (QP-EXT (m 七十) (CLP (q 家)))))
+    (wd ，)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (ADVP (ad 实际))
+              (VP (v 利用) (NP-OBJ (n 外资)) (NP-EXT (-NONE- *T*-1))))))
+        (ADJP (b 总))
+        (NP (n 金额)))
+      (VP
+        (QP-PRD
+          (QP (QP (m 一亿六千)) (QP (ADVP (m 多)) (QP (m 万))))
+          (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 朱鉴凡))
+  (VP
+    (VP (v 介绍))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (NP (n 兵团)) (nl 对外贸易))
+          (VP
+            (ADVP (d 也))
+            (VP
+              (v 呈)
+              (NP-OBJ
+                (DNP (NP (ADJP (d 高速)) (NP (v 增长))) (ude 的))
+                (NP (n 发展) (n 态势))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP
+              (ADVP (d 已))
+              (VP
+                (v 拥有)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ-2 (-NONE- *T*-1))
+                        (VP
+                          (PP-LGS (p 经) (NP-PN (n 国家) (nt 外经贸部)))
+                          (ADVP (ad 正式))
+                          (VP (v 授权) (NP-OBJ (-NONE- *-2)))))
+                      (ude 的)))
+                  (DP (r 各类))
+                  (NP (n 外经贸) (n 企业)))
+                (QP-EXT (m 二百零五) (CLP (q 家)))))
+            (wd ，)
+            (VP
+              (NP-TMP (t 今年))
+              (VP
+                (v 预计)
+                (VP
+                  (v 完成)
+                  (NP-OBJ (n 进出口) (n 总额))
+                  (QP-EXT (m 二点二亿) (CLP (q 美元)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (n 兵团) (n 负责人)) (NP-PN (nr 王传友)))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 接受) (NP-OBJ (n 记者) (n 采访))))
+        (n 时)))
+    (VP
+      (v 表示)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (NP-PN-SBJ (ns 新疆) (n 生产) (n 建设) (n 兵团))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (VP
+              (v 依托)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (IP-APP
+                      (NP-SBJ (n 国家) (n 经济) (n 建设))
+                      (VP
+                        (PP-DIR (p 向) (NP (f 西部)))
+                        (VP (VSB (n 倾斜) (n 发展)))))
+                    (NP (n 战略)))
+                  (ude 的))
+                (ADJP (a 大好))
+                (NP (n 时机))))
+            (wd ，)
+            (VP
+              (VSB (v 选择) (v 建设))
+              (NP-OBJ (QP (m 一) (CLP (q 批))) (NP (n 项目) (n 库))))
+            (wd ，)
+            (VP
+              (v 加强)
+              (NP-OBJ
+                (CP
+                  (WHPP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *pro*))
+                      (VP
+                        (PP-MNR (-NONE- *T*-1))
+                        (PP-DIR (vi 对外))
+                        (VP (VCD (vl 招商引资)))))
+                    (ude 的)))
+                (NP (n 力度))))
+            (wd ，)
+            (VP (v 制定) (NP-OBJ (n 优惠) (n 政策)))
+            (wd ，)
+            (VP
+              (v 创造)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 良好)))
+                    (ude 的)))
+                (NP (n 外商) (n 投资) (n 环境))))
+            (wd ，)
+            (VP
+              (v 开创)
+              (NP-OBJ
+                (CP
+                  (WHPP-3 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (n 兵团))
+                      (VP
+                        (PP-ADV (-NONE- *T*-3))
+                        (VP (v 利用) (NP-OBJ (n 外资)))))
+                    (ude 的)))
+                (ADJP (a 新))
+                (NP (n 局面)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

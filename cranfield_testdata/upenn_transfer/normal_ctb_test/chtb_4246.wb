@@ -1,0 +1,82 @@
+<S>
+( (IP
+  (NP-OBJ-SBJ (d 偶))
+  (VP (v 想) (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 回家))))))
+</S>
+<S>
+( (FRAG (nx daysafter)))
+</S>
+<S>
+( (FRAG
+  (n 发信人)
+  (wm ：)
+  (nx daysafter)
+  (wkz （)
+  (nx Iamnothappy)
+  (wky ）)
+  (wd ，)
+  (ns 信区)
+  (wm ：)
+  (nx Family)))
+</S>
+<S>
+( (NP
+  (NP (n 标题))
+  (wm ：)
+  (IP-APP
+    (NP-SBJ (d 偶))
+    (VP (v 想) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 回家)))))))
+</S>
+<S>
+( (FRAG
+  (n 发信站)
+  (wm ：)
+  (nx BBS)
+  (nz 未名)
+  (n 空间站)
+  (wkz （)
+  (nx FriJan)
+  (m 26)
+  (t 05：45：27)
+  (m 2007)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (d 偶))
+    (VP
+      (vshi 是)
+      (CP-PRD
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 来) (VP (v 哭诉))))
+        (ude 的))))
+  (wd ，)
+  (IP
+    (NP-SBJ (s 心里))
+    (VP
+      (ADVP (d 实在))
+      (VP
+        (vshi 是)
+        (VP (IP (VP (ADVP (d 太)) (VP (d 过)))) (VP (a 难受))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (QP (m ３个半)) (NP (n 小时))) (f 之前))
+    (NP-SBJ (ns 欧))
+    (VP
+      (v 知道)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (NP (d 偶)) (NP (nx ｂｆ))) (ude 的))
+          (NP (n 父亲)))
+        (VP (ADVP (d 已经)) (VP (vi 再婚) (QP-EXT (m 好多) (CLP (q 天)))))
+        (y 了))))
+  (wd ，)
+  (NP-SBJ (n 女方))
+  (VP
+    (VRD (v 带) (v 过来))
+    (NP-OBJ (QP (m 一个)) (ADJP (a 小)) (NP (n 妹妹))))
+  (wj 。)))
+</S>

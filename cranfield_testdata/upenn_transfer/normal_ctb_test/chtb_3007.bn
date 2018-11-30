@@ -1,0 +1,76 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 印度)) (NP (n 铁路) (n 官员)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-TMP (t 星期六) (t 凌晨))
+        (PP-LOC
+          (p 在)
+          (NP
+            (NP
+              (DNP
+                (NP (NP (f 北部)) (IP (NP (ns 旁遮普)) (VP (v 帮))))
+                (ude 的))
+              (NP-PN (ns 安巴拉城镇)))
+            (NP (f 附近))))
+        (wd ，)
+        (NP-SBJ
+          (NP
+            (QP (m 一) (CLP (q 列)))
+            (ADJP (b 高速))
+            (NP (n 客运) (n 火车)))
+          (c 和)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (vi 停) (PP (p 在) (NP (r 那里)))))
+                (ude 的)))
+            (QP (m 一) (CLP (q 列)))
+            (NP (n 货车))))
+        (VP (vi 相撞)))
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 造成)
+          (IP-OBJ
+            (IP
+              (NP-SBJ (ADVP (d 至少)) (NP (QP (m ３６)) (NP (n 人))))
+              (VP (vi 死亡)))
+            (wd ，)
+            (IP
+              (NP-SBJ (QP (QP (m １００)) (QP (m 多))) (NP (n 人)))
+              (VP (vi 受伤))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 印度))
+    (VP
+      (v 拥有)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (LCP-LOC (NP (n 世界)) (f 上))
+                (ADVP (d 最))
+                (VP (a 大))))
+            (ude 的)))
+        (wd ，)
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 过时))) (ude 的)))
+        (NP (n 铁路) (n 系统)))))
+  (wd ，)
+  (IP (NP-SBJ (n 铁路) (an 安全) (n 记录)) (VP (ADVP (d 一直)) (a 不好)))
+  (wj 。)))
+</S>

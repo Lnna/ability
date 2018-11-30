@@ -1,0 +1,94 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-APP (NP-PN (ns 澳门)) (QP (m 第４) (CLP (q 所))) (n 高等院校))
+      (NP-PN (ns 澳门) (n 科技) (n 大学)))
+    (VP
+      (QP (m １０) (CLP (q 号)))
+      (VP
+        (v 举行)
+        (y 了)
+        (FLR (vi 成立))
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 隆重))) (ude 的)))
+          (NP (n 成立) (c 及) (n 动工))
+          (NP (n 典礼))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (NP-APP
+        (NP (NP (ADJP (n 全国)) (NP (nt 政协))) (ADJP (b 副)) (NP (n 主席)))
+        (NP (NP (ns 中国) (n 中央) (nt 统战部)) (NP (n 部长))))
+      (NP-PN (nr 王兆国)))
+    (VP
+      (PP-BNF (p 为) (NP-PN (ns 澳门) (n 科技) (n 大学)))
+      (VP
+        (VCD (v 提) (v 写))
+        (y 了)
+        (NP-OBJ
+          (NP-APP (n 贺词))
+          (wd ，)
+          (IP-NOM
+            (wyz “)
+            (IP (NP-SBJ (-NONE- *pro*)) (VP (v 培育) (NP-OBJ (n 英才))))
+            (wd ，)
+            (IP (NP-PN-SBJ (nz 中华)) (VP (v 振兴))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (NP-APP
+          (NP (ADJP (n 全国)) (NP (nt 政协)))
+          (ADJP (b 副))
+          (NP (n 主席)))
+        (NP-PN (nr 马万祺)))
+      (wn 、)
+      (NP
+        (NP-APP
+          (NP-PN (NP (ns 澳门)) (ADJP (a 特别)) (NP (n 行政区)))
+          (NP (n 行政) (n 长官)))
+        (NP-PN (nr 何厚华)))
+      (wn 、)
+      (NP
+        (NP-APP
+          (NP
+            (NP (n 中央))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (v 驻) (NP-PN-OBJ (ns 澳门)))))
+            (NP (n 联络) (n 办公室)))
+          (NP (n 主任)))
+        (NP-PN (nr 王喜仁)))
+      (udeng 等))
+    (NP (NP-PN (ns 澳门)) (NP (r 各界) (n 人士)))
+    (QP (m 数百))
+    (NP (n 人)))
+  (VP
+    (v 参加)
+    (y 了)
+    (NP-OBJ
+      (NP-PN (ns 澳门) (n 科技) (n 大学))
+      (NP (vi 成立) (c 及) (n 动工))
+      (NP (n 典礼))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (n 中央台))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 驻) (NP-PN-OBJ (ns 澳门)))))
+    (NP (n 记者)))
+  (VP (n 报道))
+  (wj 。)))
+</S>

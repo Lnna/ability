@@ -1,0 +1,90 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 以色列)) (NP (n 士兵)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP
+          (NP (NP-PN (ns 约旦河)) (NP (s 西岸)))
+          (c 和)
+          (NP (NP-PN (ns 加沙)) (NP (n 地带)))))
+      (VP
+        (ADVP (d 又))
+        (VP
+          (VRD (v 打) (v 死))
+          (y 了)
+          (NP-OBJ
+            (QP (m ４) (CLP (q 名)))
+            (NP-PN (ns 巴勒斯坦))
+            (NP (n 抗议者)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 以色列)) (NP (n 军方)))
+    (VP
+      (v 估计)
+      (wm ：)
+      (IP-OBJ
+        (NP-SBJ (vi 动乱))
+        (VP
+          (ADVP (d 将))
+          (VP (v 继续) (NP-EXT (QP (m 好几) (CLP (q 个))) (NP (n 月))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-SBJ (DP (r 这些)) (NP (n 巴勒斯坦人)))
+      (VP
+        (vshi 是)
+        (VP
+          (PP-LOC
+            (p 在)
+            (LCP
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ
+                        (NP-APP (NP-PN (ns 加沙)) (udeng 等))
+                        (QP (m ４) (CLP (q 个)))
+                        (NP (n 城镇)))
+                      (VP (v 爆发) (NP-OBJ (-NONE- *T*-1))))
+                    (ude 的)))
+                (NP (n 冲突)))
+              (f 中)))
+          (VP (vi 丧生)))))
+    (ude 的))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 巴勒斯坦人))
+    (VP
+      (PP-DIR (p 向) (NP (NP-PN (ns 以色列)) (NP (n 士兵))))
+      (VP (v 投掷) (y 了) (NP-OBJ (n 石块)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (PP-LOC (p 在) (NP (QP (m 好几) (CLP (q 个))) (NP (n 地区))))
+      (VP (v 发生) (y 了) (NP-OBJ (n 冲突)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 一些)) (NP (n 巴勒斯坦人)))
+    (VP
+      (pba 把)
+      (IP-OBJ
+        (NP-SBJ (DP (r 这) (QP (m 一))) (NP (q 天)))
+        (VP
+          (v 称为)
+          (wyz “)
+          (NP-OBJ
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (NP (a 愤怒))) (ude 的)))
+            (QP (m 一))
+            (NP (q 天)))
+          (wyy ”)))))
+  (wj 。)))
+</S>

@@ -1,0 +1,384 @@
+<S>
+( (NP-HLN (n 官员) (c 和) (n 百姓)))
+</S>
+<S>
+( (FRAG (QP (m 613305))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 官员))
+    (VP
+      (v 称)
+      (NP-OBJ (n 百姓))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 为) (NP-PRD (nl 衣食父母))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 百姓))
+    (VP
+      (v 称)
+      (NP-OBJ (n 官员))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (p 为) (NP-PRD (n 人民) (n 公仆))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 吃饭)))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 增加) (NP-OBJ (n 营养))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vi 吃饭)))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (VRD (v 填) (a 饱)) (NP-OBJ (n 肚皮))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (n 讲话)))
+    (VP (vi 叫) (NP-OBJ (n 指示))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (n 讲话)))
+    (VP (vi 叫) (NP-OBJ (n 意见))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 官员)) (ude 的)) (NP (n 孩子)))
+    (VP (vi 叫) (QP (m 千) (CLP (q 斤)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (n 百姓)) (ude 的)) (NP (n 孩子)))
+    (VP (vi 叫) (NP-OBJ (n 丫头))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VCD (v 挪) (n 窝)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 交流)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VCD (v 挪) (n 窝)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (n 移民)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 官员))
+    (VP (VP (vi 喝酒)) (VP (ADVP (d 不)) (VP (v 买) (NP-OBJ (n 酒))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 百姓))
+    (VP (VP (v 买) (NP-OBJ (n 酒))) (VP (ADVP (d 不)) (VP (vi 喝酒)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 官员)) (VP (ADVP (bl 逢年过节)) (VP (v 收) (NP (n 礼)))))
+  (wd ，)
+  (IP (NP-SBJ (n 百姓)) (VP (ADVP (bl 逢年过节)) (VP (vi 送礼))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (NP-SBJ (n 官员))
+      (VP (vi 住) (NP-OBJ (QP (m 三)) (NP (n 楼)))))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (vi 生活) (PP (p 在) (LCP (NP (n 群众)) (f 中间)))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vi 住) (NP (v 顶) (n 楼))))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (n 群众) (n 利益)) (VP (v 高于) (NP-OBJ (r 一切))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 吃喝)))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (NP-PRP (n 业务)) (VP (n 招待))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 吃喝)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 铺张浪费)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 进) (NP-OBJ (n 舞厅))))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 贴近) (NP-OBJ (n 群众))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 进) (NP-OBJ (n 舞厅))))
+    (VP-SBJ (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (vl 不务正业))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 外出)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 旅游)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vi 外出)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 打工)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 上学)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (n 知识)) (VP (n 更新)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vi 上学)))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 混) (NP-OBJ (CLP (q 张)) (NP (n 文凭)))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (ADVP (d 到处)) (VP (v 走))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 考察)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (ADVP (d 到处)) (VP (v 走))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (n 流浪)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 进) (NP-OBJ (n 衙门))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 上班)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 进) (NP-OBJ (n 衙门))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 上访)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 打) (NP (n 人))))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 维护) (NP-OBJ (n 社会) (an 稳定))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 打) (NP (n 人))))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 扰乱) (NP-OBJ (n 社会) (n 治安))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 官员)) (VP (ADVP (q 个个)) (VP (v 要) (VP (vi 减肥)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 百姓))
+    (VP (ADVP (n 人人)) (ADVP (d 都)) (VP (v 缺) (NP-OBJ (n 钙)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 官员)) (VP (VP (vi 下乡)) (VP (vl 前呼后拥))))
+  (wd ，)
+  (IP (NP-SBJ (n 百姓)) (VP (VP (v 上访)) (VP (vl 孤苦伶仃))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 官员))
+    (VP (v 盼) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 过年)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 百姓))
+    (VP (v 愁) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 过节)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 拍桌子)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 大发雷霆)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vi 拍桌子)))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 企图) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 行凶)))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP (n 官员)) (ude 的)) (NP (n 孩子)))
+    (VP (v 要) (VP (vi 出国))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (n 百姓)) (ude 的)) (NP (n 娃娃)))
+    (VP (v 想) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 念书)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (NP-SBJ (n 官员))
+      (VP (v 晒) (QP-EXT (m 一) (CLP (q 次))) (NP-OBJ (n 太阳))))
+    (VP (vi 叫) (NP (n 日光) (v 浴))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (n 百姓))
+      (VP (v 歇) (QP-EXT (m 一) (CLP (q 次))) (NP-OBJ (an 阴凉))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 享清福)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 到) (NP-OBJ (n 农村))))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 体验) (NP-OBJ (n 生活))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 进) (NP-OBJ (n 城市))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 大开眼界)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 官员))
+    (VP (v 怕) (IP-OBJ (NP-SBJ (n 百姓)) (VP (v 上访)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 百姓))
+    (VP (v 怕) (IP-OBJ (NP-SBJ (n 官员)) (VP (vi 催粮)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 犯) (NP (n 错误))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 情有可原)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 犯) (NP (n 错误))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 蓄谋已久)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 包) (NP-OBJ (n 二奶))))
+    (VP
+      (vi 叫)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (PP (p 与) (NP (n 民) (d 同) (a 乐))))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 耍) (NP-OBJ (n 小姐))))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (VCD (vi 卖淫) (v 嫖娼))))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 发财)))
+    (VP (vi 叫) (NP-OBJ (ADJP (n 灰色)) (NP (n 收入)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vyou 有) (NP (n 钱))))
+    (VP (vi 叫) (NP-OBJ (nl 非法所得))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 违法)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 失误)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 百姓) (vi 违法))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vi 犯罪)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 没) (NP (n 钱))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (a 廉洁)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 没) (NP (n 钱))))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (a 贫穷)))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (vi 得病)))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 呕心沥血)))
+      (wd ，)))
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (vi 得病)))
+    (VP (vi 叫) (NP-OBJ (nl 天灾人祸))))
+  (wf ；)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ (NP-SBJ (n 官员)) (VP (v 死) (y 了)))
+    (VP (vi 叫) (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (vl 永垂不朽)))))
+  (wd ，)
+  (IP
+    (IP-SBJ (NP-SBJ (n 百姓)) (VP (v 死) (y 了)))
+    (VP
+      (vi 叫)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 脱离) (NP-OBJ (n 苦海))))))
+  (wj 。)))
+</S>

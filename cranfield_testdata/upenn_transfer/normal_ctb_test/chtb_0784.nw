@@ -1,0 +1,175 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 俄) (n 网球) (n 协会))
+  (d 不再)
+  (VP (v 信任) (NP-PN-OBJ (nrf 库尔尼科娃)))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 北京) (t １２月) (t ３０日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 俄罗斯) (n 网球) (n 协会)) (ADJP (a 高级)) (NP (n 官员)))
+  (VP
+    (NP-TMP (t 日前))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (r 他们))
+          (VP
+            (PP-DIR
+              (p 对)
+              (IP
+                (NP-SBJ
+                  (NP-APP
+                    (DNP (NP-PN (ns 俄罗斯)) (ude 的))
+                    (NP (n 网球) (n 新秀)))
+                  (NP-PN (nrf 库尔尼科娃)))
+                (VP
+                  (NP-TMP (t 明年))
+                  (ADVP (v 是否))
+                  (VP
+                    (v 能够)
+                    (VP
+                      (VP (v 代表) (NP-OBJ (n 国家)))
+                      (VP (v 参加) (NP (n 联合会) (n 杯赛))))))))
+            (VP (v 感到) (VP (ADVP (m 十分)) (VP (v 怀疑))))))
+        (wd ，)
+        (IP
+          (ADVP (c 同时))
+          (NP-SBJ (r 他们))
+          (VP
+            (PP-DIR
+              (p 对)
+              (NP
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP
+                          (NP-LOC (n 世界))
+                          (VP (vi 排名) (QP-OBJ (m 第十三) (CLP (q 位))))))
+                      (ude 的)))
+                  (NP-APP
+                    (wyz “)
+                    (NP (n 网坛))
+                    (ADJP (a 美))
+                    (NP (n 少女))
+                    (wyy ”))
+                  (NP-PN (nrf 库尔尼科娃)))
+                (DNP (NP (t 过去)) (ude 的))
+                (NP (n 态度))))
+            (VP
+              (v 感到)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP (ADVP (d 非常)) (VP (a 失望))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-MNR (p 据) (NP (n 外电) (v 报道)))
+  (wd ，)
+  (NP-SBJ
+    (NP-APP (NP-PN (ns 俄罗斯) (n 网球) (n 协会)) (ADJP (b 副)) (NP (n 主席)))
+    (NP-PN (nrf 亚·卡利沃德)))
+  (VP
+    (v 认为)
+    (IP-OBJ
+      (NP-SBJ
+        (CP-APP
+          (IP
+            (NP-PN-SBJ (nrf 库尔尼科娃))
+            (VP
+              (NP-TMP (t 明年))
+              (VP (VP (v 代表) (NP-PN (ns 俄罗斯))) (VP (vi 参赛)))))
+          (ude 的))
+        (NP (n 可能性)))
+      (VP (ADVP (d 很)) (VP (a 小)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC-1
+    (ADVP (c 可是))
+    (VP (v 转) (NP (n 脸)))
+    (NP-SBJ (r 她))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (v 可以)
+        (VP
+          (DVP
+            (VP (VP (v 无) (NP-OBJ (n 伤))) (VP (v 无) (NP-OBJ (a 痛))))
+            (ude 地))
+          (VP
+            (v 参加)
+            (NP-OBJ
+              (DNP (NP (r 自己)) (ude 的))
+              (NP (n 个人) (n 职业) (n 赛)))))))
+    (wd ，)
+    (wyy ”))
+  (NP-SBJ (r 他))
+  (VP (v 说) (IP-OBJ (-NONE- *T*-1)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (ADVP (t 此前))
+                (PP-PRP
+                  (c 因为)
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (PP (p 同) (NP-PN (n 网球) (n 协会)))
+                      (PP-LOC (p 在) (LCP (NP (n 奖金) (n 问题)) (f 上)))
+                      (ADVP (v 无法))
+                      (VP (v 达成) (NP-OBJ (n 协议))))))
+                (VP (c 而) (VP (v 退出) (NP-OBJ (n 国家队))))))
+            (ude 的)))
+        (NP-APP (NP-PN (ns 俄罗斯)) (QP (m 二) (CLP (q 号))) (NP (n 选手)))
+        (IP (NP (nrf 叶·利霍夫)) (VP (v 采) (NP (n 娃)))))
+      (ude 的))
+    (NP (n 情况)))
+  (VP (vyou 有) (y 了) (NP-OBJ (n 转机)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP (nz 卡利) (nrf 沃德))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (r 我们) (c 和) (r 她))
+      (VP
+        (ADVP (d 至少))
+        (ADVP (d 还))
+        (VP
+          (v 可以)
+          (VP
+            (VP (VP (VRD (v 坐) (v 下来))) (VP (v 交换) (NP-OBJ (n 看法))))
+            (wd ，)
+            (VP
+              (v 缩小)
+              (NP-OBJ (DNP (NP (n 双方)) (ude 的)) (NP (n 距离)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

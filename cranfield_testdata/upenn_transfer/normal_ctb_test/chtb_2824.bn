@@ -1,0 +1,191 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 总统))) (NP-PN (nrf 普京)))
+  (VP
+    (VP (v 到达) (NP-PN-OBJ (ns 新德里)))
+    (VP
+      (v 开始)
+      (VP
+        (PP-DIR (p 对) (NP-PN (ns 印度)))
+        (VP
+          (v 进行)
+          (NP-OBJ (DNP (QP (m ４) (CLP (q 天))) (ude 的)) (NP (n 访问)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC (DP (r 这次)) (NP (n 访问)))
+  (NP-SBJ (n 目的))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP
+          (v 建立)
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 新))) (ude 的)))
+            (NP (n 战略) (n 伙伴) (n 关系))))
+        (c 并)
+        (VP
+          (v 完成)
+          (NP-OBJ
+            (QP (m 几) (CLP (q 笔)))
+            (CP
+              (WHNP-2 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-2)) (VP (a 重要))) (ude 的)))
+            (NP (n 武器) (n 交易)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 普京))
+  (VP
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (NP-TMP
+            (t 星期一)
+            (NP (CP (IP (VP (a 晚) (QP (q 些))))) (NP (n 时候))))
+          (VP (v 到达))))
+      (f 之后))
+    (PP-ADV
+      (c 和)
+      (NP (NP-APP (NP-PN (ns 印度)) (NP (n 总理))) (NP-PN (nrf 瓦杰帕伊))))
+    (VP (IP (VP (ADVP (d 共)) (VP (v 进)))) (NP-OBJ (n 晚餐))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (n 有关)) (NP (n 方面)))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (NP-SBJ (r 他们))
+      (VP
+        (VP
+          (v 进行)
+          (y 了)
+          (NP-OBJ (DNP (ADJP (b 非正式)) (ude 的)) (NP (n 会谈))))
+        (wd ，)
+        (VP
+          (ADVP (c 并且))
+          (ADVP (d 将))
+          (PP-TMP (p 在) (NP (t 星期四)))
+          (ADVP (d 进一步))
+          (VP (v 讨论) (NP-OBJ (n 问题)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 预计)
+    (IP-OBJ
+      (NP-SBJ (n 双方))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (VP (v 签署) (NP-OBJ (QP (m 一个)) (NP (n 协议))))
+          (VP
+            (PP-BNF
+              (p 给)
+              (NP
+                (NP (QP (m 两)) (NP (n 国)))
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP
+                        (PP-TMP
+                          (p 在)
+                          (LCP
+                            (IP (NP-SBJ (ns 苏联)) (VP (vi 崩溃)))
+                            (f 之后)))
+                        (VP (vi 停滞))))
+                    (ude 的)))
+                (NP (n 关系))))
+            (VP
+              (VP (ADVP (d 重新)) (VP (VRD (v 明确) (v 起来))))
+              (c 并)
+              (VP (v 注入) (NP-OBJ (n 活力)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 协议)))
+  (VP
+    (v 争取)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 促进)
+        (NP-OBJ
+          (NP (n 双方))
+          (DNP
+            (PP
+              (p 在)
+              (NP
+                (NP
+                  (n 国防)
+                  (wn 、)
+                  (n 核能)
+                  (wn 、)
+                  (n 民航)
+                  (wn 、)
+                  (n 农业)
+                  (c 和)
+                  (n 教育)
+                  (udeng 等))
+                (DP (r 各))
+                (NP (n 方面))))
+            (ude 的))
+          (NP (n 合作))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 另外))
+    (NP-SBJ (n 双方))
+    (VP
+      (ADVP (d 将))
+      (VP
+        (v 签署)
+        (NP-OBJ
+          (DNP (NP (QP (m 若干) (m 百万)) (NP (q 美元))) (ude 的))
+          (NP (n 武器) (n 交易))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 其中))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-PN-SBJ (ns 印度))
+        (VP
+          (v 购买)
+          (NP-OBJ
+            (NP-PN (ns 俄罗斯))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 先进))) (ude 的)))
+            (NP
+              (NP (ADJP (b 喷气式)) (NP (n 战斗机)))
+              (c 和)
+              (NP (n 作战) (n 坦克))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ns 印度))
+    (VP
+      (ADVP (d 还))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 得到) (NP-OBJ (QP (m 一) (CLP (q 艘))) (NP (n 航空母舰))))))))
+  (wj 。)))
+</S>

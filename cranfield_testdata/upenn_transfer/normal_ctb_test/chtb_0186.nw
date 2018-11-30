@@ -1,0 +1,199 @@
+<S>
+( (IP-HLN
+  (PP
+    (p 就)
+    (NP
+      (IP-APP
+        (NP-PN-SBJ (nt 非国大))
+        (VP (v 停止) (NP-OBJ (n 武装) (n 斗争))))
+      (NP (n 问题))))
+  (NP-SBJ
+    (NP-PN (NP-PN (nt 非国大)) (c 和) (NP (NP-PN (ns 南非)) (NP (n 政府))))
+    (NP (vi 会谈)))
+  (VP (vyou 有) (NP-OBJ (n 突破)))))
+</S>
+<S>
+( (FRAG (p 据) (nt 新华社) (ns 哈博罗内) (t ２月) (t １３日) (n 电)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 据)
+    (IP
+      (NP-SBJ (NP-PN (ns 南非)) (NP-TTL (wkz 《) (n 星) (n 报) (wky 》)))
+      (VP (v 报道))))
+  (wd ，)
+  (NP-SBJ
+    (NP-PN (ns 南非) (n 非洲人) (n 国民) (n 大会))
+    (c 和)
+    (NP (NP-PN (ns 南非)) (NP (n 政府))))
+  (VP
+    (NP-TMP (t １２日))
+    (PP
+      (p 就)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 解决)
+          (NP-OBJ
+            (NP (n 双方))
+            (DNP
+              (PP-LOC
+                (p 在)
+                (LCP
+                  (NP
+                    (IP-APP
+                      (NP-PN-SBJ (nt 非国大))
+                      (VP (v 停止) (NP-OBJ (n 武装) (n 斗争))))
+                    (NP (n 问题)))
+                  (f 上)))
+              (ude 的))
+            (NP (n 分歧))))))
+    (VP (v 取得) (NP-OBJ (ADJP (a 重大)) (NP (n 突破)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ
+    (NP (NP-APP (NP-PN (ns 南非)) (NP (n 总统))) (NP-PN (nrf 德克勒克)))
+    (c 和)
+    (NP-PN
+      (NP-APP (NP-PN (nt 非国大)) (ADJP (b 副)) (NP (n 主席)))
+      (NP-PN (nrf 曼德拉))))
+  (VP
+    (NP-TMP (t １２日))
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-LOC (p 在) (NP-PN (ns 开普敦)))
+          (VP
+            (v 举行)
+            (y 了)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (a 长))
+                    (VP
+                      (v 达)
+                      (NP-OBJ (QP (m １１) (CLP (q 个))) (NP (n 小时)))))
+                  (ude 的)))
+              (NP (n 会谈))))))
+      (f 后))
+    (wd ，)
+    (VP
+      (VP
+        (v 发表)
+        (NP-OBJ (QP (m 一) (CLP (q 项))) (ADJP (n 联合)) (NP (n 声明))))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP
+          (IP
+            (NP-SBJ (DP (r 这) (QP (m 一))) (NP (n 问题)))
+            (VP (v 得到) (y 了) (NP-OBJ (n 解决))))
+          (wd ，)
+          (IP
+            (NP-SBJ (n 双方))
+            (VP
+              (VP
+                (PP
+                  (p 关于)
+                  (NP
+                    (DNP
+                      (NP (DP (r 这) (QP (m 一))) (NP (n 问题)))
+                      (ude 的))
+                    (QP (m 大部分))
+                    (NP (n 观点))))
+                (VP (v 取得) (y 了) (NP-OBJ (a 一致))))
+              (wd ，)
+              (c 并)
+              (VP (v 达成) (NP-OBJ (n 协议)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这项)) (NP (n 协议)))
+  (VP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 得到)
+            (NP-OBJ
+              (DNP
+                (NP
+                  (NP (NP-PN (ns 南非)) (NP (n 内阁)))
+                  (c 和)
+                  (NP-PN
+                    (NP-PN (nt 非国大))
+                    (NP (n 全国))
+                    (NP (n 执行) (n 委员会))))
+                (ude 的))
+              (NP (n 批准)))))
+        (f 后)))
+    (wd ，)
+    (ADVP (d 就))
+    (ADVP (d 将))
+    (VP (v 予以) (NP-OBJ (n 公布))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 据)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (IP (NP-TPC (-NONE- *T*-1)) (NP-SBJ (n 消息)) (VP (a 灵通))))
+        (NP (n 人士)))
+      (VP (v 透露))))
+  (wd ，)
+  (IP
+    (IP
+      (NP-PN-SBJ (nt 非国大))
+      (VP
+        (ADVP (d 将))
+        (VP (v 停止) (NP-OBJ (NP (m 绝大部分)) (ADJP (n 军事)) (NP (n 活动))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 包括)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VP (v 征召)) (c 和) (VP (v 武装) (NP-OBJ (n 干部))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (QP (m 一))) (ADJP (a 重大)) (NP (n 突破)))
+  (VP
+    (PP-BNF
+      (v 为)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (v 释放) (IP (NP (n 政治)) (VP (n 犯))))
+          (c 和)
+          (VP
+            (v 允许)
+            (NP-OBJ
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (v 流亡) (NP-OBJ (s 国外))))
+                  (ude 的)))
+              (NP (n 人)))
+            (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 回国)))))))
+    (VP (v 铺平) (y 了) (NP-OBJ (n 道路))))
+  (wj 。)))
+</S>

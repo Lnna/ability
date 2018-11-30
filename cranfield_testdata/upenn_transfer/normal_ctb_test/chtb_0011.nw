@@ -1,0 +1,238 @@
+<S>
+( (IP-HLN
+  (NP-PN-TPC
+    (NP-PN (ns 杭州))
+    (NP (NP (n 高新技术)) (NP (n 产业)))
+    (NP (n 开发区)))
+  (NP-SBJ (n 成果))
+  (VP (a 显著))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 杭州)
+  (t 二月)
+  (t 二十一日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 唐庆忠)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ
+      (NP-PN (ns 杭州))
+      (NP (NP (n 高新技术)) (NP (n 产业)))
+      (NP (n 开发区)))
+    (VP
+      (ADVP (ad 积极))
+      (VP (v 转化) (NP-OBJ (NP (n 高新技术)) (NP (n 成果))))))
+  (wd ，)
+  (IP (NP-SBJ (n 成效)) (VP (a 显著)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 到) (LCP (NP (t 目前)) (v 为止)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (n 全区))
+      (VP
+        (ADVP (d 已))
+        (VP (vyou 有) (NP-OBJ (QP (m 四百一十) (CLP (q 家))) (NP (n 企业))))))
+    (wd ，)
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ-2 (-NONE- *T*-1))
+              (VP
+                (pbei 被)
+                (VP
+                  (v 认定)
+                  (IP-OBJ
+                    (NP-SBJ (-NONE- *-2))
+                    (VP (p 为) (NP-PRD (NP (n 高新技术)) (NP (n 产业))))))))
+            (ude 的))))
+      (VP (vyou 有) (QP-OBJ (m 二百二十三) (CLP (q 家))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-ADV (r 其中))
+  (NP-SBJ
+    (CP
+      (WHNP-2 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ
+            (NP (n 大专院校))
+            (wn 、)
+            (NP (ADJP (b 大型)) (NP (n 科研) (n 院所)))
+            (c 和)
+            (NP (n 大中企业)))
+          (VP (v 开办) (NP-OBJ (-NONE- *T*-2))))
+        (ude 的)))
+    (NP (n 企业)))
+  (VP (ADVP (d 约)) (VP (v 占) (QP-OBJ (m 百分之七十))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 迄今))
+    (ADVP (d 已))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ
+          (QP (QP (QP (m 二十)) (ADVP (m 多))) (CLP (q 家)))
+          (n 高新)
+          (NP (n 企业)))
+        (VP
+          (VP
+            (PP
+              (p 与)
+              (NP
+                (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 个)))
+                (NP (n 国家) (c 和) (n 地区))))
+            (VP (v 联合)))
+          (wd ，)
+          (VP
+            (v 兴办)
+            (y 了)
+            (NP-OBJ
+              (QP (m 七十八) (CLP (q 家)))
+              (NP (n 外商) (n 投资) (n 企业))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 去年))
+  (wd ，)
+  (NP-TPC (n 开发区))
+  (IP
+    (IP
+      (NP-SBJ (NP (nt 技工贸)) (n 总收入))
+      (VP (v 达) (QP-OBJ (m 三十亿) (CLP (q 元)))))
+    (wd ，)
+    (IP (NP-SBJ (n 税利)) (VP (QP-PRD (m ４亿) (CLP (q 元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (VSB (vi 出口) (vi 创汇)) (QP-OBJ (m 二千万) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ (NP-SBJ (NP (n 产品) (wn 、) (n 项目)) (NP (n 水平))) (VP (a 高)))
+  (wd ，)
+  (VP
+    (vshi 是)
+    (NP-PRD (DNP (NP (r 该区)) (ude 的)) (ADJP (a 重要)) (NP (n 特点))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP (p 据) (NP (v 了解)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (ns 进区))) (ude 的)))
+        (DP (r 每个))
+        (NP (n 企业)))
+      (VP
+        (ADVP (d 都))
+        (VP
+          (vyou 有)
+          (NP-OBJ
+            (QP
+              (QP (m 一) (CLP (-NONE- *RNR*-2)))
+              (p 至)
+              (QP (a 多) (CLP-2 (q 个))))
+            (NP (n 高新技术))
+            (NP (n 项目) (c 或) (n 产品))))))
+    (wd ，)
+    (IP
+      (NP-TMP (t 目前))
+      (LCP-SBJ (NP (n 区)) (f 内))
+      (VP
+        (ADVP (d 已))
+        (VP
+          (vyou 有)
+          (IP-OBJ
+            (NP-SBJ
+              (QP (QP (QP (m 五百五十)) (ADVP (m 多))) (CLP (q 个)))
+              (NP (n 高新技术))
+              (NP (n 项目) (c 或) (n 产品)))
+            (VP (v 进入) (NP-OBJ (vd 商品化) (v 生产) (c 或) (v 推广) (v 应用))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-ADV (r 其中))
+    (QP-SBJ-1 (m 五十七) (CLP (q 项)))
+    (VP
+      (pbei 被)
+      (VP
+        (v 批准)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *-1))
+          (VP
+            (v 列入)
+            (NP-OBJ
+              (NP (n 国家) (wn 、) (n 省) (wn 、) (n 市))
+              (NP (n 火炬) (n 计划))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (r 其)) (NP (n 数量) (n 比例)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (NP (n 全国))
+            (NP (NP (n 高新技术)) (NP (n 产业)))
+            (NP (n 开发区)))
+          (f 中)))
+      (VP (vl 名列前茅))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (ADJP (a 重大)) (NP (n 科技) (n 成果)))
+    (VP
+      (ADVP (ad 迅速))
+      (VP (VRD (v 转化) (v 为)) (NP-OBJ (a 现实) (n 生产力)))))
+  (wd ，)
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP (NP (DP (r 这个)) (NP (n 开发区))) (ude 的))
+      (ADJP (a 突出))
+      (NP (n 特点))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (ADJP (a 新)) (NP (n 材料)))
+    (DNP (NP (ADJP (a 重大)) (NP (n 成果))) (ude 的))
+    (NP (n 转化)))
+  (VP (PP-LOC (p 在) (NP (r 该区))) (ADVP (d 尤为)) (VP (a 突出)))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

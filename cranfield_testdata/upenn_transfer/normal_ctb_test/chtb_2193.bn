@@ -1,0 +1,382 @@
+<S>
+( (IP
+  (NP
+    (NP-APP (QP (nz 百集)) (ADJP (n 系列)) (NP (n 报道)))
+    (NP-PN (wkz 《) (NP (n 经济)) (n 新干线))
+    (wky 》))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 现在))
+    (VP
+      (VCD (v 播) (v 送))
+      (NP-OBJ
+        (NP-APP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-APP (NP-PN (n 中央台)) (NP (n 记者)))
+                  (NP-PN (nr 胡笑) (wn 、) (nr 蔡福金)))
+                (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-1))))
+              (ude 的)))
+          (NP (n 报道)))
+        (NP-PN
+          (wkz 《)
+          (IP (NP (b 铁血) (n 丹心)) (VP (v 铸) (NP (n 钢) (n 魂)))))
+        (wky 》))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TPC-1
+      (CP-APP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (VCD (v 扭亏) (v 增效))))
+        (ude 的))
+      (NP (n 口号)))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (ADVP (d 曾))
+      (VP
+        (v 喊)
+        (y 了)
+        (NP-OBJ (-NONE- *T*-1))
+        (QP-EXT (m 好几) (CLP (q 年))))))
+  (wd ，)
+  (IP
+    (NP-TPC-2 (n 药方))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 开)
+      (y 了)
+      (NP-OBJ (-NONE- *T*-2))
+      (QP-EXT (m 无数) (CLP (q 遍)))))
+  (wd ，)
+  (IP
+    (ADVP (c 可是))
+    (NP-SBJ
+      (DNP (NP (DP (r 这些)) (NP (n 钢铁) (n 企业))) (ude 的))
+      (NP (n 面貌)))
+    (VP
+      (ADVP (d 就))
+      (VP
+        (vshi 是)
+        (VP
+          (ADVP (d 没))
+          (VP (v 见) (NP-OBJ (DP (r 什么)) (ADJP (a 大)) (NP (n 改变))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (t 去年)) (f 以来))
+  (NP-SBJ
+    (QP (m 一) (CLP (q 场)))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP (IP (NP-TPC (-NONE- *T*-1)) (al 声势浩大)) (ude 的)))
+    (NP (n 扭亏) (n 脱困))
+    (NP (n 攻坚战)))
+  (VP (ADVP (ad 全面)) (VP (v 打响)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (QP (m 一) (CLP (q 剂))) (NP (ADVP (a 猛)) (NP (n 药))))
+    (VP
+      (VP (v 立) (IP (VP (QP (CLP (n 杆))) (VP (v 见) (NP (n 影))))))
+      (wd ，)
+      (VP (VCD (v 催) (v 活)) (y 了) (NP-OBJ (n 生机)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP (NP (n 企业)) (NP (n 干部) (n 群众))) (ude 的))
+      (NP (n 精神) (n 面貌)))
+    (VP (al 焕然一新)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 南昌) (n 钢铁) (n 公司))
+  (VP
+    (VP
+      (QP-TMP (NP (t 去年)) (QP (m 一) (CLP (q 年))))
+      (VP (v 赢利) (QP-OBJ (m ５００万))))
+    (wd ，)
+    (VP
+      (VRD (v 摘) (v 下))
+      (y 了)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 戴)
+                (y 了)
+                (NP-OBJ (-NONE- *T*-1))
+                (QP-EXT (m ５) (wn 、) (m ６) (CLP (q 年)))))
+            (ude 的)))
+        (NP (n 亏损) (n 帽子))))
+    (wd ，)
+    (VP
+      (NP-TMP (t 今年) (m １) (p 到) (t ８月))
+      (VP
+        (v 实现)
+        (NP-OBJ (n 利润))
+        (QP (QP (QP (m ２０００)) (ADVP (m 多))) (QP (m 万))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (IP (NP-SBJ (n 眼睛)) (LCP (p 向) (f 内)))
+    (wd ，)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP (v 加强) (NP-OBJ (v 管理)))
+        (wd ，)
+        (VP (ADVP (v 深入)) (VP (vi 挖潜))))))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHPP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (NP-PN (ns 江西)) (NP (n 钢铁) (n 企业)))
+            (VP (PP-MNR (-NONE- *T*-1)) (ADVP (ad 成功)) (VP (v 扭亏))))
+          (ude 的)))
+      (ADJP (b 内在))
+      (NP (n 动力))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nz 平湘) (n 钢铁厂))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (IP-APP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 学) (NP-PN-OBJ (n 邯钢))))
+            (NP (n 过程)))
+          (f 中)))
+      (wd ，)
+      (VP
+        (v 尝试)
+        (y 了)
+        (NP-OBJ (DNP (NP (n 末位) (n 淘汰制)) (ude 的)) (NP (n 作法))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 平钢人))
+    (VP
+      (v 称)
+      (NP-OBJ (r 他))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (vshi 是)
+          (IP-PRD
+            (NP-SBJ (-NONE- *pro*))
+            (VP
+              (PP-LOC
+                (p 在)
+                (LCP (IP (NP-SBJ (-NONE- *pro*)) (VP (vi 赛马))) (f 中)))
+              (VP (vi 下马))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (v 继)
+    (LCP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (NP-TMP (t 去年)) (VP (v 扭亏))))
+      (f 之后)))
+  (wd ，)
+  (NP-TMP (t 今年) (m １) (p 到) (t ８月))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 又))
+    (VP
+      (v 实现)
+      (NP-OBJ (n 利润))
+      (QP-EXT
+        (QP (QP (QP (m ７０００)) (ADVP (m 多))) (QP (m 万)))
+        (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 科技) (n 进步))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHPP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (PP-MNR (-NONE- *T*-1)) (VP (v 扭亏))))
+            (ude 的)))
+        (ADJP (a 强大))
+        (NP (n 助推器)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 江西省)) (NP (n 钢铁) (n 行业)) (NP (n 科技) (n 人员)))
+    (wd ，)
+    (VP
+      (PP-MNR
+        (v 围绕)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VP (VCD (vi 节能) (v 降耗)))
+            (wn 、)
+            (VP (v 降低) (NP-OBJ (n 成本)))
+            (wn 、)
+            (VP (v 开发) (NP-OBJ (n 新品)))
+            (wn 、)
+            (VP (v 提高) (NP-OBJ (n 质量))))))
+      (wd ，)
+      (ADVP (d 大力))
+      (VP (v 开展) (NP-OBJ (n 科技) (n 攻关)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (QP-TMP (ADVP (z 短短)) (QP (m 几) (CLP (q 年))))
+    (NP-SBJ
+      (DNP (NP (NP-PN (ns 江西省)) (NP (n 钢铁) (n 企业))) (ude 的))
+      (NP (nl 工艺流程)))
+    (wd ，)
+    (VP
+      (ADVP (d 已经))
+      (PP-DIR (p 从) (NP (DNP (NP (n 全国)) (ude 的)) (NP (n 后列))))
+      (VP (VRD (vi 上升) (v 到)) (NP-OBJ (ADJP (f 中上)) (NP (n 水平))))))
+  (wd ，)
+  (IP (NP-SBJ (n 转炉)) (VP (v 实现) (NP (DP (a 全)) (NP (n 连铸)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 高炉) (n 利用) (n 系数))
+    (VP (v 进入) (NP-OBJ (NP (n 全国)) (ADJP (a 先进)) (NP (n 水平)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (DNP (NP (n 技术) (n 指标)) (ude 的)) (NP (n 改善)))
+    (wd ，)
+    (NP (DNP (NP (n 成本)) (ude 的)) (NP (n 降低))))
+  (VP
+    (PP-DIR
+      (p 对)
+      (IP
+        (NP-SBJ (NP (n 全省)) (NP (n 钢铁) (n 企业)))
+        (VP (v 摆脱) (NP-OBJ (n 困境)))))
+    (VP (VRD (v 闯) (v 出)) (y 了) (NP-OBJ (ADJP (a 新)) (NP (n 路)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (IP-MNR (NP-SBJ (-NONE- *pro*)) (VP (vl 众志成城)))
+      (VP (v 闯) (NP-OBJ (n 市场)))))
+  (wd ，)
+  (IP (NP-SBJ (b 铁血) (n 丹心)) (VP (v 铸) (NP-OBJ (n 钢魂))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 今年) (m １) (p 到) (t ８月))
+  (NP-SBJ (NP-PN (ns 江西)) (NP (n 钢铁) (n 行业)))
+  (VP
+    (VP
+      (v 实现)
+      (NP-OBJ (n 利润))
+      (QP-EXT
+        (QP (QP (m １亿４千)) (QP (ADVP (m 多)) (QP (m 万))))
+        (CLP (q 元))))
+    (wd ，)
+    (VP
+      (PP-BNF
+        (p 为)
+        (IP
+          (NP-SBJ (NP-PN (ns 江西)) (ADJP (n 国有)) (NP (n 企业)))
+          (VP
+            (v 实现)
+            (NP-OBJ
+              (IP-APP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (QP-TMP (m ３) (CLP (q 年)))
+                  (VP (VCD (v 扭亏) (n 脱困)))))
+              (NP (n 目标))))))
+      (VP (v 迈出) (NP-OBJ (ADJP (a 重要)) (QP (m 一)) (NP (q 步))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VP (VRD (v 走) (v 出)) (NP-OBJ (n 低谷)))
+      (wd ，)
+      (VP (v 摆脱) (y 了) (NP-OBJ (n 困境)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (ns 江西)) (QP (m ７万)) (NP (n 钢铁) (n 大军)))
+    (VP
+      (VP
+        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+        (ADVP (c 因此))
+        (VP (vl 沾沾自喜)))
+      (wd ，)
+      (VP (ADVP (c 而是)) (VP (vl 励精图治)))
+      (wd ，)
+      (VP
+        (PP-MNR
+          (p 以)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 更)) (VP (a 大))))
+                (ude 的)))
+            (NP (n 气魄))))
+        (VP
+          (VP
+            (v 直面)
+            (NP-OBJ (DNP (NP (n 市场经济)) (ude 的)) (NP (n 挑战))))
+          (wd ，)
+          (VP
+            (v 开辟)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (NP-TMP (t 未来)) (VP (a 广阔))))
+                  (ude 的)))
+              (ADJP (a 新))
+              (NP (n 天地))))))))
+  (wj 。)))
+</S>

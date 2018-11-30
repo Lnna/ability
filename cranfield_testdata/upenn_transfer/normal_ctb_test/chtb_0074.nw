@@ -1,0 +1,383 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 宁波) (ns 北仑))
+  (VP (v 形成) (NP-OBJ (NP (n 港口)) (ADJP (a 大)) (NP (n 工业) (n 经济带))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 杭州)
+  (t 十二月)
+  (t 二日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 沈锡权)
+  (n 通迅员)
+  (nr 马立新)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 经过)
+    (NP
+      (DNP (QP (QP (QP (m 十)) (ADVP (m 多))) (CLP (q 年))) (ude 的))
+      (NP (n 建设))))
+  (wd ，)
+  (NP-PN-SBJ (ns 宁波) (ns 北仑港))
+  (VP
+    (ADVP (d 已))
+    (VP
+      (VP
+        (v 拥有)
+        (NP-OBJ
+          (DNP
+            (QP
+              (QP (m 二点五万) (CLP (q 吨)))
+              (p 至)
+              (QP (m 二十五万) (CLP (q 吨))))
+            (ude 的))
+          (NP (n 码头)))
+        (QP-EXT (m 十六) (CLP (q 座))))
+      (wd ，)
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (NP-PN-LOC (ns 中国)) (ADVP (d 最)) (VP (a 大))))
+              (ude 的)))
+          (NP (b 深水) (NP (n 泊位) (n 群)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 港口)) (ude 的)) (NP (n 发展)))
+  (VP
+    (v 带动)
+    (y 了)
+    (NP-OBJ
+      (LCP (NP-PN (ns 北仑港)) (n 畔))
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP
+              (ADVP (d 原))
+              (VP
+                (vshi 是)
+                (VP
+                  (VCD (v 封闭) (NP (QP (m 半)) (NP (v 封闭))) (vl 自给自足))))))
+          (ude 的)))
+      (NP (n 农村) (n 经济)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-DIR
+          (p 向)
+          (NP
+            (NP (NP-PN (ns 华东)) (NP (NP (n 重化工)) (NP (n 基地))))
+            (wn 、)
+            (NP (ADJP (a 重要)) (NP (n 贸易) (n 口岸)))
+            (c 和)
+            (NP
+              (NP-PN (ns 浙江省))
+              (ADJP (ADVP (d 最)) (ADJP (a 大)))
+              (NP (n 出口) (n 加工区)))))
+        (VP (v 发展)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP (n 港口) (n 优势))
+        (c 和)
+        (NP (DNP (NP-PN (ns 宁波) (n 开发区)) (ude 的)) (NP (n 开放) (n 政策))))
+      (ude 的))
+    (QP (b 双重))
+    (NP (n 效应)))
+  (wd ，)
+  (VP
+    (v 受到)
+    (y 了)
+    (NP-OBJ
+      (DNP (NP (NP (n 国际)) (ADJP (a 大)) (NP (n 公司))) (ude 的))
+      (NP (n 青睐))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LCP-TMP (NP (t 一九九三年)) (f 以后))
+  (wd ，)
+  (NP-SBJ
+    (DNP (LCP (QP (m 一千万) (CLP (q 美元))) (f 以上)) (ude 的))
+    (ADJP (a 大))
+    (NP (n 项目)))
+  (VP
+    (DP-TMP (r 每年))
+    (PP-MNR
+      (p 以)
+      (NP
+        (DNP
+          (QP
+            (QP (m 十几) (CLP (q 个)))
+            (wn 、)
+            (QP (m 二十几) (CLP (q 个))))
+          (ude 的))
+        (NP (n 速度))))
+    (VP (v 发展)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-1))
+              (NP-SBJ (ADJP (b 总)) (NP (n 投资)))
+              (VP (QP-PRD (m 三十亿) (CLP (q 美元)))))
+            (ude 的)))
+        (NP-PN (ns 美国) (nz 协和))
+        (NP (n 石化) (n 项目)))
+      (wd ，)
+      (NP
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-2))
+              (NP-SBJ (ADJP (b 总)) (NP (n 投资)))
+              (VP (v 超过) (QP-OBJ (m 二百亿) (CLP (q 元)))))
+            (ude 的)))
+        (NP-PN (ns 北仑) (n 钢铁厂)))
+      (wd ，)
+      (NP
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-3))
+              (NP-SBJ (n 投资) (n 规模))
+              (VP
+                (QP-PRD
+                  (NP-LOC (NP-PN (ns 亚洲)) (NP (n 同行)))
+                  (QP (m 第一)))))
+            (ude 的)))
+        (NP-PN (wyz “) (nz 兴洋) (n 毛毯) (wyy ”)))
+      (wn 、)
+      (NP
+        (CP
+          (WHNP-4 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-4))
+              (NP-LOC (NP-PN (ns 中国)) (NP (s 国内)))
+              (NP-SBJ (n 规模))
+              (VP (ADVP (d 最)) (VP (a 大))))
+            (ude 的)))
+        (NP-PN (wyz “) (nz 正大) (n 粮油) (wyy ”)))
+      (wn 、)
+      (NP
+        (CP
+          (WHNP-5 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-TPC (-NONE- *T*-5))
+              (NP-SBJ (n 生产) (n 规模))
+              (VP (QP-PRD (NP-LOC (n 世界)) (QP (m 第一)))))
+            (ude 的)))
+        (NP-PN (wyz “) (ns 宁波) (nz 麦芽) (wyy ”)))
+      (udeng 等))
+    (ADJP (a 大))
+    (NP (n 公司)))
+  (VP
+    (VP (ADVP (d 均)) (VP (vi 落户) (NP-OBJ (s 此地))))
+    (wd ，)
+    (VP
+      (ADVP (d 都))
+      (VP
+        (vshi 是)
+        (VP
+          (v 看中)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP (NP-PN (ns 北仑)) (ADJP (a 大)) (NP (n 港口)))
+              (ude 的))
+            (NP (n 优势)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (ns 北仑港)) (ude 的)) (NP (n 兴起)))
+  (wd ，)
+  (VP
+    (ADVP (d 还))
+    (VP
+      (v 带动)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (NP (s 当地)) (QP (m 一些)) (NP (n 地方) (n 企业))) (ude 的))
+        (NP (n 发展)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (v 如))
+  (IP
+    (IP
+      (NP-PN-SBJ (NP-PN (ns 宁波) (nz 海天)) (NP (n 机械) (n 制造)) (n 有限公司))
+      (VP
+        (ADVP (d 原来))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (QP (m 一个))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 不起眼))) (ude 的)))
+            (NP (n 作坊))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (r 他们))
+      (VP
+        (VP
+          (v 借助)
+          (NP-OBJ (DNP (NP (n 港口)) (ude 的)) (NP (a 便利) (n 条件))))
+        (wd ，)
+        (VP
+          (ADVP (d 不断))
+          (VP
+            (v 开发)
+            (NP-OBJ (n 出口) (n 新品))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 进入)
+                (NP-OBJ
+                  (NP-PN-APP
+                    (ns 美国)
+                    (wn 、)
+                    (ns 西班牙)
+                    (wn 、)
+                    (ns 希腊)
+                    (wn 、)
+                    (ns 澳大利亚)
+                    (udeng 等))
+                  (QP (QP (QP (m 二十)) (ADVP (m 多))) (CLP (q 个)))
+                  (NP (n 国家)))))))
+        (wd ，)
+        (VP
+          (NP-TMP (t 目前))
+          (ADVP (d 已))
+          (VP
+            (v 成为)
+            (NP-OBJ
+              (NP-PN (ns 中国))
+              (NP (ADJP (b 特大)) (NP (n 注塑机)))
+              (NP (n 专业) (n 制造) (n 公司)))))
+        (wd ，)
+        (VP
+          (v 列)
+          (NP-OBJ
+            (DNP
+              (NP
+                (NP-PN (ns 中国) (n 机械部))
+                (NP (ADJP (b 大中型)) (NP (n 企业)))
+                (NP (ADJP (n 综合)) (NP (n 指数)))
+                (QP (m 百))
+                (NP (n 强)))
+              (uzhi 之))
+            (NP (n 首)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 目前))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (QP
+        (DNP
+          (NP
+            (NP-PN (ns 宁波) (n 北仑区))
+            (NP (f 沿海))
+            (QP (m 二十) (CLP (q 公里)))
+            (NP (n 黄金) (n 海岸)))
+          (ude 的))
+        (QP (QP (QP (m 一百)) (ADVP (m 多))) (CLP (q 平方公里))))
+      (ude 的))
+    (NP (n 带状) (n 地段)))
+  (wd ，)
+  (VP
+    (ADVP (d 已))
+    (VP
+      (VP
+        (DVP (VP (vl 星罗棋布)) (ude 地))
+        (VP
+          (VRD (v 矗立) (v 起))
+          (NP-OBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 投资) (QP-OBJ (m 一千万) (CLP (q 美元)))))
+                (ude 的)))
+            (ADJP (a 大))
+            (NP (n 项目)))
+          (QP-EXT (ADVP (a 近)) (QP (m 七十) (CLP (q 个))))))
+      (wd ，)
+      (VP
+        (v 形成)
+        (NP-OBJ
+          (QP (m 一个))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (IP
+                  (NP-SBJ (-NONE- *T*-2))
+                  (VP
+                    (PP-MNR (p 以) (NP (n 石化) (wn 、) (n 钢铁)))
+                    (VP (v 为) (NP-OBJ (n 主导)))))
+                (wd ，)
+                (IP
+                  (NP-TPC (-NONE- *T*-2))
+                  (NP-SBJ
+                    (NP-APP
+                      (n 电力)
+                      (wn 、)
+                      (n 机械)
+                      (wn 、)
+                      (n 电子)
+                      (wn 、)
+                      (n 轻纺)
+                      (wn 、)
+                      (n 建材)
+                      (wn 、)
+                      (n 塑胶)
+                      (udeng 等))
+                    (QP (m 多种))
+                    (NP (n 产业)))
+                  (VP (VSB (vd 辅助) (v 发展)))))
+              (ude 的)))
+          (ADJP (b 新兴))
+          (ADJP (a 大))
+          (NP (n 工业) (n 经济带))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

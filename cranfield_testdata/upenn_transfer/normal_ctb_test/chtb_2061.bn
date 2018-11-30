@@ -1,0 +1,287 @@
+<S>
+( (IP
+  (NP-PN-SBJ (nt 总统府))
+  (VP
+    (NP-TMP (t 今天))
+    (PP-MNR
+      (p 以)
+      (NP
+        (CP
+          (IP (NP-SBJ (-NONE- *pro*)) (VP (v 发布) (NP (n 新闻) (n 稿))))
+          (ude 的))
+        (NP (n 方式))))
+    (ADVP (ad 公开))
+    (VP
+      (v 宣布)
+      (wd ，)
+      (IP-OBJ
+        (NP-PN-SBJ (nr 陈水扁) (n 总统))
+        (VP
+          (v 决定)
+          (IP-OBJ
+            (NP-SBJ-1 (-NONE- *PRO*))
+            (VP
+              (PP-LGS
+                (p 由)
+                (NP
+                  (NP-APP (NP-PN (n 中央) (n 银行)) (NP (n 总裁)))
+                  (NP-PN (nr 彭怀南))))
+              (VP
+                (VP (v 代表) (NP-OBJ (-NONE- *-1)))
+                (VP
+                  (v 参加)
+                  (NP-OBJ
+                    (DP (r 本届))
+                    (NP
+                      (NP-PN
+                        (ns 亚)
+                        (ADVP (n 太))
+                        (IP (NP (n 经合)) (VP (n 会))))
+                      (ADJP (b 非正式))
+                      (NP (n 领袖) (n 会议))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (LCP-LOC (NP (n 新闻) (n 稿)) (f 中))
+    (VP
+      (v 指出)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-PN-SBJ (ns 亚) (ADVP (n 太)) (IP (NP (n 经合)) (VP (n 会))))
+          (VP
+            (VP
+              (vshi 是)
+              (NP-PRD
+                (NP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (n 我国))
+                        (VP
+                          (usuo 所)
+                          (VP (v 加入) (NP-OBJ (-NONE- *T*-1)))))
+                      (ude 的)))
+                  (CP
+                    (WHNP-2 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-2))
+                        (VP (ADVP (d 最)) (VP (a 重要))))
+                      (ude 的)))
+                  (NP (n 国际) (n 经贸) (n 组织)))
+                (NP (r 之一))))
+            (wd ，)
+            (VP
+              (v 攸关)
+              (NP-OBJ
+                (NP (NP (n 我国)) (NP (n 国际) (n 贸易)))
+                (CP
+                  (WHNP-3 (-NONE- *OP*))
+                  (CP
+                    (IP (NP-SBJ (-NONE- *T*-3)) (VP (a 重大)))
+                    (ude 的)))
+                (NP (n 权益))))))
+        (wd ，)
+        (IP
+          (ADVP (c 所以))
+          (NP-PN-SBJ (nr1 陈) (n 总统))
+          (VP
+            (DVP (VP (ADVP (d 非常)) (VP (a 慎重))) (ude 的))
+            (VP (n 考虑) (NP-OBJ (n 人选))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 原本))
+      (VP
+        (v 希望)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 能够)
+            (VP
+              (v 邀请)
+              (NP-OBJ
+                (NP-APP
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (IP
+                          (NP-TPC (-NONE- *T*-1))
+                          (VP (v 学) (NP (n 经历)))
+                          (VP (ADVP (d 俱)) (VP (a 佳))))
+                        (wd ，)
+                        (IP
+                          (NP-SBJ (-NONE- *pro*))
+                          (VP
+                            (ADVP (d 同时))
+                            (VP
+                              (vyou 有)
+                              (NP-OBJ
+                                (IP-APP
+                                  (NP-SBJ (-NONE- *pro*))
+                                  (VP
+                                    (ADVP (m 多次))
+                                    (VP
+                                      (v 出席)
+                                      (NP-PN-OBJ
+                                        (ADVP
+                                          (NP (ns 亚))
+                                          (ADVP (n 太)))
+                                        (n 经合会)))))
+                                (NP (n 经验)))))))
+                      (ude 的)))
+                  (ADJP (f 前))
+                  (NP (n 行政) (n 院长)))
+                (NP-PN (nr 肖万长)))
+              (IP (NP-SBJ (-NONE- *PRO*)) (VP (VSB (n 代表) (v 出席))))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 非常)) (VP (a 遗憾))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 这项)) (NP (n 邀请)))
+    (VP
+      (v 受到)
+      (NP-OBJ
+        (NP-PN (n 国民党))
+        (DNP (ADJP (a 正式)) (ude 的))
+        (NP (n 婉拒)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (n 总统府)) (NP (n 秘书长))) (NP-PN (nrf 尤希昆)))
+  (VP
+    (PP-LOC (p 在) (LCP (NP (n 新闻) (n 稿)) (f 中)))
+    (ADVP (d 也))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (CP-APP
+            (IP
+              (NP (n 总统))
+              (VP
+                (DVP (IP (NP (d 诚)) (VP (v 肯))) (ude 的))
+                (VP (n 邀请) (NP-OBJ (nr 肖前) (NP (n 院长))))))
+            (ude 的))
+          (NP (n 心意)))
+        (VP (ADVP (d 一直)) (ADVP (d 没有)) (VP (v 改变))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 肖万长))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 曾经))
+    (VP
+      (v 表示)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-MNR
+              (p 基于)
+              (NP (DNP (NP (n 国家)) (ude 的)) (NP (n 利益))))
+            (VP (v 愿意) (VP (VP (v 代表) (NP-OBJ (n 总统))) (VP (v 出席))))))
+        (wd ，)
+        (IP
+          (ADVP (c 但是))
+          (NP-SBJ (r 他))
+          (VP
+            (ADVP (d 仍然))
+            (VP
+              (d 必须)
+              (VP
+                (v 尊重)
+                (NP-OBJ (DNP (NP-PN (n 国民党)) (ude 的)) (NP (n 立场))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (n 总统))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP (DNP (PP (p 和) (NP-PN (nr 彭怀南))) (ude 的)) (NP (n 沟通)))
+        (f 当中)))
+    (ADVP (d 也))
+    (DVP (VP (a 清楚)) (ude 的))
+    (VP
+      (n 说明)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-PN-SBJ (nr 彭怀南))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (DNP (NP-PN (nr 肖万长)) (ude 的))
+              (ADJP (n 储备))
+              (NP (n 人选)))))
+        (wd ，)
+        (IP
+          (PP-LOC
+            (p 在)
+            (LCP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP (v 迫于) (NP-OBJ (n 时间) (v 限制))))
+              (f 之下)))
+          (wd ，)
+          (NP-SBJ (n 总统))
+          (LCP-TMP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (VP
+                  (p 经过)
+                  (NP-OBJ (DNP (ADJP (a 多方)) (ude 的)) (NP (n 思考))))
+                (wd ，)
+                (c 并且)
+                (VP
+                  (v 请)
+                  (NP-PN-OBJ (nt 外交部))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (PP-ADV
+                        (p 与)
+                        (NP (NP-APP (n 主办国)) (NP-PN (ns 文莱))))
+                      (VP (v 做) (NP-OBJ (ADJP (d 进一步)) (NP (v 确认)))))))
+                (wd ，)
+                (VP (v 得到) (NP-OBJ (ADJP (a 正式)) (NP (n 答复))))))
+            (f 之后))
+          (NP-TMP (t 今天))
+          (VP
+            (v 决定)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-LGS
+                  (p 由)
+                  (NP
+                    (NP-APP (NP-PN (nt 央行)) (NP (n 总裁)))
+                    (NP-PN (nr 彭怀南))))
+                (VP
+                  (VP (v 代表) (NP-PN-OBJ (nr1 陈) (n 总统)))
+                  (VP (v 出席))))))))))
+  (wj 。)))
+</S>

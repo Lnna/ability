@@ -1,0 +1,265 @@
+<S>
+( (IP
+  (NP-SBJ (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 总统))) (NP-PN (nrf 普京)))
+  (VP
+    (QP (m ２６) (CLP (q 号)))
+    (VP
+      (VP (v 提出) (NP-OBJ (v 警告)))
+      (VP
+        (v 说)
+        (wd ，)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 美国))
+          (VP
+            (VP-FOC
+              (v 部署)
+              (NP-OBJ
+                (ADJP (n 全国))
+                (NP (IP (VP (vi 飞) (NP (v 弹)))) (n 防御) (n 系统))))
+            (VP
+              (ADVP (d 将))
+              (PP-DIR (p 对) (NP (n 国际) (n 关系)))
+              (VP
+                (v 造成)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP
+                        (NP-SBJ (-NONE- *T*-1))
+                        (VP (ADVP (v 无法)) (VP (v 弥补))))
+                      (ude 的)))
+                  (NP (n 损害))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-PN-SBJ (nrf 普京))
+  (VP
+    (ADVP (v 接着))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (NP-APP (NP-PN (ns 美国)) (NP (n 总统))) (NP-PN (nrf 布什)))
+          (DNP (NP (t 最近)) (ude 的))
+          (NP (n 声明)))
+        (VP
+          (v 证明)
+          (IP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (vi 对话))
+                (VP
+                  (ADVP (d 将))
+                  (VP (v 产生) (NP-OBJ (ADJP (b 正面)) (NP (n 作用))))))
+              (ude 的))
+            (NP (n 事实)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 普京))
+  (VP
+    (vshi 是)
+    (VP
+      (LCP-TMP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-LOC (p 在) (NP (NP-PN (ns 俄罗斯)) (NP (n 外交部))))
+            (PP-DIR (p 向) (NP (n 外交) (n 人员)))
+            (VP (v 进行) (NP (n 演说)))))
+        (n 时))
+      (wd ，)
+      (VP
+        (v 发表)
+        (y 了)
+        (NP-OBJ (DNP (NP (f 以上)) (ude 的)) (NP (n 谈话))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 位))) (NP-PN (ns 俄罗斯)) (NP (n 领袖)))
+  (VP
+    (v 说)
+    (wm ：)
+    (wyz “)
+    (IP-OBJ
+      (NP-PN-SBJ (ns 俄罗斯))
+      (VP
+        (PP-LOC
+          (p 在)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 维护)
+                (NP-OBJ
+                  (t １９７２年)
+                  (NP-PN
+                    (wkz 《)
+                    (VP (vi 反) (NP (n 飞弹)))
+                    (NP (n 条约))
+                    (wky 》)))))
+            (f 上)))
+        (VP
+          (v 遇到)
+          (y 了)
+          (NP-OBJ
+            (QP (m 一个))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (an 困难) (c 和) (a 复杂)))
+                (ude 的)))
+            (NP (n 任务)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (r 他)) (VP (v 指) (NP-OBJ (-NONE- *T*-1))))
+        (ude 的))))
+  (VP (vshi 是) (NP-PRD (wkz 《) (n 反弹) (n 道飞弹) (NP (n 条约)) (wky 》)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这项))
+    (NP-PN (wkz 《) (vi 反弹) (n 道飞弹) (NP (n 条约)) (wky 》)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (UCP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (NP-TMP (t 目前))
+              (VP (v 禁止) (IP-OBJ (NP-SBJ (n 核子) (n 武器)) (VP (n 扩散))))))
+          (c 和)
+          (NP (n 裁军) (n 条约)))
+        (ude 的))
+      (NP (n 基石))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (ns 美国))
+    (VP
+      (CP-CND
+        (ADVP (c 如果))
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 部署)
+            (NP-OBJ
+              (ADJP (n 全国))
+              (NP (IP (VP (vi 飞) (NP (v 弹)))) (n 防御) (n 系统))))))
+      (ADVP (d 将))
+      (VP
+        (v 超出)
+        (NP-OBJ
+          (DNP
+            (NP-PN
+              (wkz 《)
+              (IP (VP (vi 反) (VP (vi 飞) (v 弹))))
+              (NP (n 条约))
+              (wky 》))
+            (ude 的))
+          (NP (n 界限))))))
+  (wd ，)
+  (IP
+    (ADVP (c 所以))
+    (NP-PN-SBJ (ns 美国))
+    (VP
+      (ADVP (d 一直))
+      (ADVP (p 在))
+      (VP
+        (v 要求)
+        (NP-OBJ (NP-PN (ns 俄罗斯)) (NP (n 方面)))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 同意)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 修改) (NP-OBJ (DP (r 这项)) (NP (n 条约))))))))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (ad 及时))
+        (VP
+          (v 部署)
+          (NP-OBJ
+            (ADJP (n 全国))
+            (NP (IP (VP (vi 飞) (NP (v 弹)))) (n 防御) (n 系统))))))
+    (VP
+      (v 能够)
+      (VP
+        (v 符合)
+        (NP-OBJ
+          (DNP
+            (NP-PN
+              (wkz 《)
+              (VP (vi 反) (NP (n 飞弹)))
+              (NP (n 条约))
+              (wky 》))
+            (ude 的))
+          (NP (n 规定))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (NP-SBJ (NP-PN (ns 莫斯科)) (NP (n 方面)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (IP-SBJ
+          (NP-PN-SBJ (ns 美国))
+          (VP (v 部署) (NP-OBJ (n 飞弹) (n 防御) (n 系统))))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (vi 使得)
+            (NP-PN-OBJ (ns 俄罗斯))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 陷于)
+                (NP-OBJ
+                  (CP
+                    (WHNP-1 (-NONE- *OP*))
+                    (CP
+                      (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 不利)))
+                      (ude 的)))
+                  (NP (n 状态))))))))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP (c 因此))
+          (ADVP (ad 强烈))
+          (VP
+            (v 护卫)
+            (NP-OBJ
+              (DNP (NP (t 目前)) (ude 的))
+              (NP-PN (wkz 《) (n 反弹) (n 道飞弹) (NP (n 条约)) (wky 》))))))))
+  (wj 。)))
+</S>

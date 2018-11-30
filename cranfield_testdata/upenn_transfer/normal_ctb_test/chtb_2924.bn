@@ -1,0 +1,415 @@
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP (QP (m 二十)) (NP (n 国))) (NP (n 集团)))
+    (NP (NP (n 财政部长)) (c 及) (NP (n 中央) (n 银行) (n 行长)))
+    (NP (n 会议)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (NP (DNP (NP-PN (ns 加拿大)) (ude 的)) (NP-PN (ns 蒙特利尔))))
+    (VP (v 举行)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (n 会议)) (ude 的)) (ADJP (b 主要)) (NP (n 议题)))
+  (VP
+    (vshi 是)
+    (wm ：)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VP (v 制定) (NP-OBJ (ADJP (a 具体)) (NP (n 措施))))
+        (wd ，)
+        (VP
+          (c 以)
+          (VP
+            (v 防止)
+            (IP-OBJ
+              (NP-SBJ (ADJP (n 国际性)) (NP (n 金融) (n 危机)))
+              (VP (ADVP (d 再次)) (VP (v 发生)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (LCP-LOC (NP (n 会场)) (f 以外))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 爆发)
+    (y 了)
+    (NP-OBJ (DNP (ADJP (b 大规模)) (ude 的)) (NP (n 抗议) (n 示威) (n 活动))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (f 下面))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 请)
+      (VP
+        (v 听)
+        (NP-OBJ
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ
+                  (NP-APP (NP-PN (n 美国之音)) (ADJP (n 特邀)) (NP (n 记者)))
+                  (NP-PN (nr 严明)))
+                (VP
+                  (PP-DIR (p 从) (NP-PN (ns 多伦多)))
+                  (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-2)))))
+              (ude 的)))
+          (NP (n 报道))))))
+  (wm ：)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (vi 为期) (QP-EXT (m 两) (CLP (q 天)))))
+          (ude 的)))
+      (NP (NP (QP (m 二十)) (NP (n 国))) (NP (n 集团)))
+      (NP (NP (n 财政部长)) (c 及) (NP (n 中央) (n 银行) (n 行长)))
+      (NP (n 会议)))
+    (wd ，)
+    (VP
+      (NP-TMP (t 星期二) (t 下午))
+      (PP-LOC
+        (p 在)
+        (NP
+          (NP-APP
+            (DNP (NP-PN (ns 加拿大)) (ude 的))
+            (QP (m 第二))
+            (ADJP (a 大))
+            (NP (n 城市)))
+          (NP-PN (ns 蒙特利尔市))))
+      (VP (vi 开幕))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP (v 来自) (NP-OBJ (QP (m １９) (CLP (q 个))) (NP (n 国家)))))
+          (ude 的)))
+      (NP
+        (NP (n 财政部长))
+        (c 和)
+        (NP (DNP (NP (n 中央) (n 银行)) (ude 的)) (NP (n 行长)))))
+    (wd ，)
+    (c 以及)
+    (NP
+      (DNP
+        (NP
+          (NP-PN (nt 欧盟))
+          (wn 、)
+          (NP-PN (n 世界) (n 银行))
+          (c 及)
+          (NP-PN (n 国际) (n 货币) (n 基金) (n 组织)))
+        (ude 的))
+      (NP (n 代表))))
+  (VP (v 出席) (y 了) (NP-OBJ (n 会议)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (n 加通社)) (ude 的)) (NP (n 报道)))
+  (VP
+    (v 说)
+    (wm ：)
+    (CP-OBJ
+      (IP
+        (NP-SBJ (NP (QP (m 二十)) (NP (n 国))) (NP (n 集团)))
+        (VP
+          (vshi 是)
+          (VP
+            (PP-MNR
+              (p 在)
+              (LCP
+                (NP (DNP (NP-PN (ns 加拿大)) (ude 的)) (NP (n 推动)))
+                (f 之下)))
+            (wd ，)
+            (PP-TMP (p 于) (NP (t 去年) (t 九月)))
+            (VP (v 创立)))))
+      (ude 的)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP (NP-APP (NP-PN (ns 中国)) (NP (n 财政部长))) (NP-PN (nr 向怀成)))
+    (c 和)
+    (NP
+      (NP-APP (NP-PN (ns 中国) (n 人民) (n 银行)) (NP (n 行长)))
+      (NP-PN (nr 戴相龙))))
+  (VP
+    (VP (v 代表) (NP-PN-OBJ (ns 中国)))
+    (VP (v 参加) (y 了) (NP-OBJ (DP (r 这个)) (NP (n 会议)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-APP (NP (n 会议) (n 主席)) (NP (NP-PN (ns 加拿大)) (NP (n 财政部长))))
+    (NP-PN (nrf 保罗马丁)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP (NP (DP (r 这) (CLP (q 次))) (NP (n 会议))) (ude 的))
+        (ADJP (b 主要))
+        (NP (n 内容)))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 要)
+            (VP
+              (PP-PRP
+                (p 为)
+                (IP
+                  (NP-SBJ (-NONE- *pro*))
+                  (VP
+                    (v 防止)
+                    (IP-OBJ
+                      (NP-SBJ (n 金融) (n 危机))
+                      (VP (ADVP (d 再次)) (VP (v 发生)))))))
+              (wd ，)
+              (VP
+                (v 制定)
+                (NP-OBJ
+                  (QP (m 一些))
+                  (DNP (ADJP (n 国际性)) (ude 的))
+                  (ADJP (b 共同))
+                  (NP (n 措施))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP-PN (n 加通社)) (ude 的)) (NP (n 报道)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ
+        (DNP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (v 来自) (NP-OBJ (NP (n 世界)) (r 各地))))
+                (ude 的)))
+            (NP (n 示威者)))
+          (ude 的))
+        (NP (n 示威) (n 抗议) (n 行动)))
+      (wd ，)
+      (VP
+        (vi 使得)
+        (NP-OBJ (n 会议))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (ADVP (d 被迫))
+            (VP
+              (VP
+                (v 推迟)
+                (y 了)
+                (NP-EXT (QP (m 几) (CLP (q 个))) (NP (n 小时))))
+              (VP (v 召开))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (ADVP (d 大约)) (QP (m ５００) (CLP (q 名)))) (NP (n 示威者)))
+  (VP
+    (NP-TMP (t 星期一) (t 晚上))
+    (wd ，)
+    (ADVP (d 就))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (DNP
+            (NP
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (IP
+                  (NP-SBJ (n 会议))
+                  (VP (PP-LOC (-NONE- *T*-1)) (VP (v 举行)))))
+              (NP (n 地点)))
+            (ude 的))
+          (NP (n 酒店)))
+        (f 外)))
+    (VP
+      (VP (v 举行) (NP-OBJ (n 抗议) (n 示威)))
+      (wd ，)
+      (VP
+        (v 抗议)
+        (UCP-OBJ
+          (NP (n 全球化) (n 浪潮))
+          (c 以及)
+          (IP (NP-SBJ (n 世界) (n 贫富) (n 分化)) (VP (v 加剧)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一些)) (NP (n 示威者)))
+  (VP
+    (VP (PP-LOC (p 在) (NP (s 街上))) (VP (vi 放火)))
+    (wd ，)
+    (VP
+      (ADVP (c 并且))
+      (VP (v 砸毁) (NP-OBJ (DNP (NP (n 酒店)) (ude 的)) (NP (n 玻璃))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 他们))
+    (VP
+      (ADVP (d 还))
+      (PP-ADV (p 同) (NP (n 警方)))
+      (VP (v 发生) (y 了) (NP-OBJ (n 冲突)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ (QP (m ３９) (CLP (q 名))) (NP (n 示威者)))
+        (VP (PP-LOC (p 在) (LCP (NP (vi 示威)) (f 中))) (VP (vi 被捕))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 名))) (NP (n 示威者)))
+  (VP
+    (v 说)
+    (wm ：)
+    (IP-OBJ
+      (wyz “)
+      (NP-SBJ (n 警方))
+      (VP
+        (VP (v 没有) (NP-OBJ (an 必要)))
+        (VP (ADVP (r 这样)) (VP (v 对待) (NP-OBJ (r 我们)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP (n 示威者) (k 们))
+  (VP
+    (v 指责)
+    (NP-OBJ (n 警方))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (DVP (ADVP (n 过份)) (ude 的)) (VP (n 使用) (NP-OBJ (n 武力))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ (NP-PN (ns 蒙特利尔市)) (NP (n 警方)))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (v 指责)
+      (NP (n 示威者) (k 们))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 破坏) (NP-OBJ (ADJP (b 公共)) (NP (n 秩序)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 星期二))
+  (wd ，)
+  (NP-SBJ (n 警方))
+  (VP
+    (v 派出)
+    (y 了)
+    (NP-OBJ (DNP (QP (m 大批)) (ude 的)) (NP (b 防暴) (n 警察)))
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP
+          (v 封锁)
+          (y 了)
+          (NP-OBJ
+            (DNP
+              (NP
+                (CP
+                  (WHPP-1 (-NONE- *OP*))
+                  (IP
+                    (NP-SBJ (n 会议))
+                    (VP (PP-LOC (-NONE- *T*-1)) (VP (v 举行)))))
+                (NP (n 地点)))
+              (ude 的))
+            (NP (f 附近) (n 地区))))
+        (wd ，)
+        (VP
+          (v 禁止)
+          (NP (n 示威者) (k 们))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 靠近)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-SBJ-1 (n 酒店))
+      (VP
+        (VP
+          (pbei 被)
+          (IP-OBJ
+            (NP (n 示威者) (k 们))
+            (VP (v 损坏) (NP-OBJ (-NONE- *-1)))))
+        (wd ，)
+        (VP (v 需要) (NP-OBJ (ADJP (ad 紧急)) (NP (v 维修)))))))
+  (wd ，)
+  (ADVP (c 因此))
+  (NP-SBJ (n 会议))
+  (VP
+    (ADVP (d 被迫))
+    (VP
+      (VP (v 推迟) (NP-EXT (QP (m 几) (CLP (q 个))) (NP (n 小时))))
+      (VP (v 举行))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 以上))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ
+              (NP-APP (NP-PN (n 美国之音)) (ADJP (n 特邀)) (NP (n 记者)))
+              (NP-PN (nr 严明)))
+            (VP
+              (PP-DIR (p 从) (NP-PN (ns 多伦多)))
+              (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-1)))))
+          (ude 的)))
+      (NP (n 报道))))
+  (wj 。)))
+</S>

@@ -1,0 +1,300 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 深圳) (ns 沙头角) (n 保税区))
+  (VP
+    (NP (NP (v 绘)) (ADVP (v 就)))
+    (NP-OBJ (NP (wyz “) (m 九五) (wyy ”)) (ADJP (a 新)) (NP (n 规划))))))
+</S>
+<S>
+( (FRAG (nt 新华社) (ns 深圳) (t 二月) (t 二十八日) (n 电)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 深圳市) (ns 沙头角) (n 保税区))
+  (VP
+    (NP-TMP (t 今后) (QP (m 五) (CLP (q 年))))
+    (ADVP (d 将))
+    (VP
+      (VP
+        (ADVP (ad 充分))
+        (VP
+          (v 发挥)
+          (NP-OBJ
+            (DNP (NP (n 保税区)) (ude 的))
+            (NP (n 区位) (n 优势) (c 和) (n 政策) (n 优势)))))
+      (wd ，)
+      (VP
+        (PP-MNR (p 以) (NP (NP (n 高新技术)) (NP (n 产业))))
+        (VP (v 为) (NP-OBJ (n 先导))))
+      (wd ，)
+      (VP (ADVP (ad 积极)) (VP (v 调整) (NP-OBJ (n 产品) (n 结构))))
+      (wd ，)
+      (VP
+        (v 实施)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (PP-MNR
+                    (p 以)
+                    (NP
+                      (NP (ADJP (n 转口)) (NP (n 贸易)))
+                      (c 和)
+                      (NP (n 仓储业))))
+                  (VP (p 为) (NP-OBJ (vi 辅助)))))
+              (ude 的)))
+          (NP (n 经营) (n 战略))))
+      (wd ，)
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 沙头角) (n 保税区))
+          (VP
+            (v 建成)
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (VP
+                        (PP-MNR (p 按) (NP (n 国际) (n 惯例)))
+                        (VP (vi 运作)))
+                      (wn 、)
+                      (VP (NP-LOC (s 国内)) (VP (vi 领先)))))
+                  (ude 的)))
+              (ADJP (a 特殊))
+              (ADJP (n 综合))
+              (NP (n 经济) (n 区域))))))
+      (wd ，)
+      (VP
+        (v 使)
+        (NP-OBJ (r 其))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 成为)
+            (NP-OBJ
+              (NP (r 该市))
+              (DNP (NP (ADJP (b 外向型)) (NP (n 经济))) (ude 的))
+              (ADJP (b 快速))
+              (NP (n 增长点))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为)
+    (IP
+      (NP-SBJ (-NONE- *PRO*))
+      (VP (v 实现) (NP-OBJ (ADJP (b 上述)) (NP (n 规划))))))
+  (wd ，)
+  (NP-PN-SBJ (ns 沙头角) (n 保税区))
+  (VP
+    (PP
+      (p 除)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP
+            (v 继续)
+            (VP
+              (ad 完备)
+              (NP-OBJ
+                (NP (DNP (ADJP (vi 相应)) (ude 的)) (NP (n 物质) (n 条件)))
+                (c 和)
+                (NP
+                  (NP-APP
+                    (n 政策)
+                    (n 法规)
+                    (wn 、)
+                    (n 管理)
+                    (n 体制)
+                    (wn 、)
+                    (n 运作)
+                    (n 机制)
+                    (wn 、)
+                    (n 人才)
+                    (udeng 等))
+                  (NP (n 条件)))))))
+        (f 外)))
+    (wd ，)
+    (ADVP (c 并))
+    (VP
+      (VP (v 推出) (NP-OBJ (ADJP (b 下列)) (NP (n 措施))))
+      (VP (v 予以) (NP-OBJ (n 保障)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (wp －－))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (ADVP (d 真正))
+      (PP-MNR (p 按照) (NP (n 国际) (n 惯例)))
+      (VP (vi 运作)))
+    (wd ，)
+    (VP
+      (PP-MNR
+        (p 以)
+        (NP
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (LCP-LOC (NP (n 国际)) (f 上)) (VP (vi 通行))))
+              (ude 的)))
+          (NP (wyz “) (ADJP (a 自由)) (NP (n 贸易区)) (wyy ”))))
+      (VP (v 为) (NP-OBJ (n 参照) (n 目标))))
+    (wd ，)
+    (VP
+      (PP-MNR (p 以) (NP (wyz “) (s 境内) (s 关外) (wyy ”)))
+      (VP (v 为) (NP-OBJ (n 监管) (n 模式))))
+    (wd ，)
+    (VP
+      (ADVP (d 逐步))
+      (VP
+        (v 做到)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP (LCP (NP (n 区)) (f 内)) (ude 的))
+            (NP (n 人员) (wn 、) (n 货物) (wn 、) (n 资金)))
+          (VP (PP (p 与) (NP (s 境外))) (ADVP (ad 自由)) (VP (v 流动))))))
+    (wd ，)
+    (VP
+      (v 实现)
+      (NP-OBJ
+        (DNP (PP (p 与) (NP (n 国际) (n 市场))) (ude 的))
+        (ADJP (a 充分))
+        (NP (n 对接)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (wp －－))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 继续)
+    (VP
+      (v 优化)
+      (NP-OBJ (NP (n 投资)) (NP (NP (n 硬环境)) (c 和) (NP (n 软环境))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (LST (wp －－))
+  (NP-SBJ (-NONE- *pro*))
+  (VP (ADVP (ad 积极)) (VP (v 做好) (NP-OBJ (vl 招商引资) (n 工作))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP
+    (p 根据)
+    (NP
+      (DNP (NP-PN (ns 沙头角) (n 保税区)) (ude 的))
+      (NP (wyz “) (m 九五) (wyy ”))
+      (NP (n 计划))))
+  (wd ，)
+  (PP-TMP (p 到) (LCP (NP (t 本世纪)) (f 末)))
+  (wd ，)
+  (IP
+    (IP
+      (NP-SBJ (DNP (NP (n 保税区)) (ude 的)) (NP (n 出口) (n 加工)) (n 年产值))
+      (VP (ADVP (d 将)) (VP (v 达) (QP-OBJ (m 一百五十亿) (CLP (q 元))))))
+    (wd ，)
+    (IP
+      (NP-SBJ (ADJP (q 年)) (NP (vi 出口) (vi 创汇)))
+      (VP (QP-PRD (m 十五亿) (CLP (q 美元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (ADJP (q 年)) (NP (n 进口) (n 贸易) (n 总额)))
+      (VP (QP-PRD (m 二亿) (CLP (q 美元)))))
+    (wd ，)
+    (IP
+      (NP-SBJ (ADJP (q 年)) (NP (n 仓储) (n 能力)))
+      (VP (v 达到) (QP-OBJ (m 二十万) (CLP (q 吨))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ-PN (ns 沙头角) (n 保税区))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (ns 中国))
+              (VP
+                (NP-TMP (t 目前))
+                (ADVP (ADVP (d 最)) (ADVP (a 早)))
+                (VP (v 创办) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (NP (n 保税区)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DP (r 各项)) (NP (n 经济) (n 指标)))
+    (VP
+      (ADVP (d 仍))
+      (VP (v 居) (NP-OBJ (NP (NP (n 全国)) (NP (n 同行))) (NP (n 前列))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (NP-TMP (t 去年))
+    (VP
+      (VP
+        (v 实现)
+        (NP-OBJ (n 工业) (n 产值))
+        (QP-EXT (m 二十点五亿) (CLP (q 元))))
+      (wd ，)
+      (VP (VSB (vi 出口) (vi 创汇)) (QP-OBJ (m 一点五亿) (CLP (q 美元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (LCP-TMP (QP (m 八) (CLP (q 年))) (f 来))
+      (wd ，)
+      (ADVP (d 先后))
+      (VP
+        (vyou 有)
+        (IP-OBJ
+          (NP-SBJ
+            (DNP
+              (NP
+                (QP (m 十) (m 多) (CLP (q 个)))
+                (NP (n 国家) (c 和) (n 地区)))
+              (ude 的))
+            (NP (n 客商)))
+          (VP (VP (v 进) (NP-OBJ (n 保税区))) (VP (v 投资)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-TMP (p 到) (LCP (NP (t 去年) (t 十二月)) (f 底)))
+      (wd ，)
+      (ADVP (d 已))
+      (ADVP (v 累计))
+      (VP
+        (v 批准)
+        (NP-OBJ (n 外商) (n 投资) (n 企业))
+        (QP-EXT (m 二百一十六) (CLP (q 家))))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

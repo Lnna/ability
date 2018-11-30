@@ -1,0 +1,64 @@
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (IP-MNR
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (PP-DIR (p 从) (LCP (NP (DP (r 这个)) (NP (n 桥))) (f 上)))
+        (VSB (v 看) (v 讲))))
+    (wd ，)
+    (NP-SBJ (r 这))
+    (VP (vshi 是) (NP-PRD (DNP (ADJP (b 人为)) (ude 的)) (NP (n 因素)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (r 我们))
+    (VP
+      (v 要求)
+      (NP-OBJ (n 市政府))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (v 来) (VP (v 追究) (NP-OBJ (n 行政) (n 责任)))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (PP-ADV
+    (p 除了)
+    (LCP
+      (IP (NP-SBJ (-NONE- *pro*)) (VP (v 追究) (NP-OBJ (n 责任))))
+      (f 之外)))
+  (wd ，)
+  (IP-SBJ
+    (NP (-NONE- *pro*))
+    (VP
+      (v 要)
+      (VP
+        (ADVP (r 如何))
+        (ADVP (d 赶快))
+        (VP
+          (VP
+            (pba 把)
+            (IP-OBJ
+              (NP-SBJ-1 (n 垃圾))
+              (VP (VRD (v 清) (v 掉)) (NP-OBJ (-NONE- *-1)))))
+          (c 并且)
+          (VP
+            (v 改善)
+            (NP-OBJ (DNP (NP (r 这里)) (ude 的)) (NP (n 施工) (n 品质))))
+          (wd ，)
+          (VP
+            (v 避免)
+            (IP-OBJ
+              (NP-SBJ (n 大雨))
+              (VP
+                (ADVP (d 就))
+                (VP (v 引发) (NP-OBJ (ADJP (a 重大)) (NP (n 水患)))))))))))
+  (wd ，)
+  (ADVP (d 恐怕))
+  (ADVP (d 更))
+  (VP (vshi 是) (VP (vl 刻不容缓)))
+  (wj 。)))
+</S>

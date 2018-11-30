@@ -1,0 +1,47 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP (NP-SBJ (n 双方)) (VP (v 讨论) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (NP (n 重点)))
+    (VP
+      (v 包括)
+      (y 了)
+      (UCP-OBJ
+        (NP (NP (n 两岸)) (NP (n 关系)))
+        (wn 、)
+        (IP
+          (NP-PN-SBJ (nt 中共))
+          (VP (v 加入) (NP-OBJ (n 世界) (n 贸易) (n 组织)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 值得)
+        (IP-OBJ
+          (NP-SBJ (r 我方))
+          (VP (DVP (VP (a 密切)) (ude 的)) (VP (n 观察)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (PP-TMP
+      (p 在)
+      (LCP (IP (NP-PN-SBJ (ns 克) (wn 、) (ns 江)) (VP (vi 会面))) (f 之前)))
+    (wd ，)
+    (NP-SBJ
+      (NP-APP (DNP (NP-PN (ns 美国)) (ude 的)) (NP (n 国务卿)))
+      (NP-PN (nrf 奥尔布赖特)))
+    (VP
+      (ADVP (d 将))
+      (PP-ADV
+        (p 和)
+        (NP (NP-APP (NP-PN (nt 中共)) (NP (n 外交部长))) (NP-PN (nr 唐家璇))))
+      (VP (v 进行) (NP-OBJ (DNP (ADJP (b 先期)) (ude 的)) (NP (n 会面))))))
+  (wj 。)))
+</S>

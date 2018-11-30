@@ -1,0 +1,150 @@
+<S>
+( (IP
+  (NP-SBJ (n 国际) (n 社会))
+  (VP
+    (PP-DIR
+      (p 针对)
+      (NP
+        (DNP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-TMP
+                    (NP
+                      (NP-PN (ns 多哥))
+                      (NP (t １９９８年))
+                      (NP (n 总统) (n 选举)))
+                    (NP (f 期间)))
+                  (wd ，)
+                  (NP-SBJ (NP-PN (ns 多哥)) (NP (n 军人)))
+                  (VP (v 实施) (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (ADJP (n 政治性))
+            (NP (n 枪杀)))
+          (ude 的))
+        (NP (n 指控))))
+    (wd ，)
+    (VP (v 开始) (VP (v 展开) (NP-OBJ (n 调查)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ-2 (-NONE- *T*-1))
+          (VP
+            (PP-LGS
+              (p 由)
+              (NP
+                (NP-PN (nt 联合国))
+                (c 和)
+                (NP-PN (ns 非洲) (n 统一) (n 组织))))
+            (VP (v 组成) (NP-OBJ (-NONE- *-2)))))
+        (ude 的)))
+    (NP (n 调查组)))
+  (wd ，)
+  (VP
+    (NP-TMP (t 星期一))
+    (PP-LOC
+      (p 在)
+      (NP (NP-APP (NP-PN (ns 多哥)) (NP (n 首都))) (NP-PN (ns 洛美))))
+    (VP (v 开始) (NP-OBJ (n 调查) (n 工作))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他们))
+  (VP
+    (PP-ADV
+      (p 和)
+      (NP (NP-APP (NP-PN (ns 多哥)) (NP (n 总统))) (NP-PN (nrf 埃亚德马))))
+    (VP (v 举行) (y 了) (NP-OBJ (n 会谈))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-APP (n 调查组) (n 负责人)) (NP-PN (nrf 阿卡巴)))
+  (VP
+    (v 表示)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (NP-PN (ns 多哥)) (NP (n 政府)))
+      (VP
+        (ADVP (ad 明确))
+        (VP
+          (v 保证)
+          (IP-OBJ
+            (NP-SBJ
+              (DP (r 那些))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP
+                      (PP-LOC
+                        (p 在)
+                        (NP (NP (n 调查组) (n 成员)) (NP (f 面前))))
+                      (VP (vi 作证))))
+                  (ude 的)))
+              (NP (n 人)))
+            (VP (ADVP (d 不)) (VP (v 会) (VP (v 受到) (NP-OBJ (n 骚扰))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-APP (n 人权) (n 组织)) (NP-PN (v 大赦) (n 国际)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (t １９９９年) (t ５月)) (ude 的))
+            (QP (m 一) (CLP (q 份)))
+            (NP (n 报告)))
+          (f 中)))
+      (VP
+        (v 宣称)
+        (wd ，)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (ns 多哥)) (NP (nl 武装力量)))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP
+                  (DNP (LCP (QP (m ２) (CLP (q 年))) (f 前)) (ude 的))
+                  (NP (n 总统) (n 选举) (n 决选)))
+                (f 中)))
+            (VP (v 处决) (y 了) (NP-OBJ (QP (m 数百)) (NP (n 人)))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 埃亚德马) (n 总统))
+    (VP
+      (VP (v 否认) (y 了) (NP-OBJ (DP (r 这个)) (NP (n 指控))))
+      (wd ，)
+      (VP
+        (ADVP (c 并且))
+        (VP
+          (v 邀请)
+          (NP-OBJ (NP-PN (nt 联合国)) (c 和) (NP-PN (nz 非统) (n 组织)))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 进行) (NP-OBJ (n 调查))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 埃亚德马))
+  (VP
+    (v 赢得)
+    (y 了)
+    (NP-OBJ
+      (DNP (NP (DP (r 那) (CLP (q 次))) (NP (n 总统) (n 选举))) (ude 的))
+      (NP (n 胜利))))
+  (wj 。)))
+</S>

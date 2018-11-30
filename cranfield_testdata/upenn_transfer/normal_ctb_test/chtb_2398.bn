@@ -1,0 +1,166 @@
+<S>
+( (IP
+  (NP-SBJ (DP (r 这) (CLP (q 段))) (NP (v 录影) (n 画面)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (CP-APP
+        (IP
+          (NP-TMP (DP (f 上) (CLP (q 个))) (NP (n 星期)))
+          (NP-SBJ
+            (NP-PN (ns 台中市))
+            (NP-PN (nz 政旦) (n 通信))
+            (n 公学)
+            (n 店))
+          (VP
+            (v 遭)
+            (IP-OBJ
+              (NP-SBJ
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (IP (NP-SBJ (-NONE- *T*-1)) (VP (n 持枪))))
+                (NP (n 歹徒)))
+              (VP (VSB (v 侵入) (n 行抢))))))
+        (ude 的))
+      (NP (n 过程))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 警方))
+  (VP
+    (VP (v 布线) (ADVP (t 多日)))
+    (wd ，)
+    (VP
+      (NP-TMP (t 凌晨))
+      (VP
+        (VP
+          (VRD (v 逮捕) (v 到))
+          (y 了)
+          (NP-OBJ (NP-APP (n 抢匪)) (NP-PN (nr 赖俊明))))
+        (c 并且)
+        (VP
+          (VRD (v 起) (v 出))
+          (NP-OBJ
+            (NP
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (r 他))
+                    (VP (PP-MNR (-NONE- *T*-1)) (VP (vi 犯案))))
+                  (ude 的)))
+              (NP (n 枪支)))
+            (c 以及)
+            (NP
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP
+                      (ADVP (d 还))
+                      (ADVP (v 来不及))
+                      (VP (vi 销赃) (NP-OBJ (-NONE- *T*-2)))))
+                  (ude 的)))
+              (QP (m 大批))
+              (NP (n 手机))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (NP
+          (CP-APP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 围捕))) (ude 的))
+          (NP (n 过程)))
+        (f 当中)))
+    (NP-SBJ (n 嫌犯))
+    (VP
+      (VP
+        (ADVP (d 还))
+        (ADVP (d 一度))
+        (VP (VCD (VSB (v 拒) (v 捕)) (v 跳楼))))
+      (VP (ADVP (d 还)) (VP (VRD (v 摔) (v 断)) (y 了) (NP-OBJ (n 腿))))))
+  (wd ，)
+  (IP
+    (ADVP (d 所幸))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 只)) (VP (vshi 是) (NP-PRD (n 轻伤)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP
+      (NP (QP (m 一个)) (NP (n 月)))
+      (IP (VP (ADVP (d 不)) (VP (v 到))))))
+  (NP-SBJ-1 (DP (r 这家)) (IP (NP (n 通信)) (VP (n 行))))
+  (VP
+    (ADVP (d 竟))
+    (ADVP (d 又))
+    (VP
+      (pbei 被)
+      (IP-OBJ
+        (NP-PN-SBJ (nr 赖俊明))
+        (VP
+          (VP (VRD (v 盯) (v 上)) (NP-OBJ (-NONE- *-1)))
+          (wd ，)
+          (VP (VP (vi 持枪)) (VP (v 抢夺) (NP-OBJ (-NONE- *-1))))
+          (VP
+            (p 将)
+            (IP-OBJ
+              (NP-SBJ-2
+                (DNP (LCP (NP (n 店)) (f 内)) (ude 的))
+                (NP (n 手机)))
+              (VP (vl 洗劫一空) (NP-OBJ (-NONE- *-2)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ (DNP (QP (m 大多)) (ude 的)) (NP (n 通信) (n 行)))
+    (VP
+      (VP
+        (ADVP (d 都))
+        (ADVP (d 只))
+        (VP
+          (VP
+            (v 雇用)
+            (NP-OBJ (QP (m 一) (CLP (q 名))) (ADJP (b 女)) (NP (n 店员))))
+          (VP (v 看管))))
+      (wd ，)
+      (VP
+        (VP-FOC (LCP (NP (v 遇)) (v 上)) (NP-OBJ (n 抢匪)))
+        (VP
+          (ADVP (d 根本))
+          (VP (VP (v 没有) (NP-OBJ (n 办法))) (VP (v 抵抗)))))))
+  (wd ，)
+  (IP
+    (ADVP (v 加上))
+    (NP-SBJ (n 手机))
+    (VP (VP-FOC (vi 销赃)) (VP (a 容易))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 让)
+      (NP (n 通信) (vi 行))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 成)
+          (y 了)
+          (NP-OBJ
+            (DNP (NP (n 歹徒) (s 眼中)) (ude 的))
+            (ADJP (a 新))
+            (NP (n 肥羊)))))))
+  (wd ，)
+  (IP (ADVP (d 难怪)) (NP-SBJ (n 业者)) (VP (al 人人自危)))
+  (wj 。)))
+</S>

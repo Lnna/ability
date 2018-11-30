@@ -1,0 +1,188 @@
+<S>
+( (IP
+  (NP-SBJ (DNP (QP (vl 成千上万)) (ude 的)) (NP (n 民众)))
+  (VP
+    (VP
+      (v 聚集)
+      (PP
+        (p 在)
+        (NP (NP-APP (NP-PN (ns 美国)) (NP (n 首都))) (NP-PN (ns 华盛顿)))))
+    (wd ，)
+    (VP
+      (v 准备)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 参加)
+          (NP-OBJ
+            (DNP (NP (t 星期天) (c 和) (t 星期一)) (ude 的))
+            (QP (m 两) (CLP (q 个)))
+            (ADJP (b 大型))
+            (NP (n 集会)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (DNP (NP (vi 集会)) (ude 的)) (NP (n 主题)))
+  (VP
+    (vshi 是)
+    (IP-PRD
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 吸引)
+        (NP-OBJ
+          (NP (n 社会))
+          (DNP-DIR
+            (PP (p 对) (NP (NP (n 妇女) (c 和) (n 家庭)) (NP (n 问题))))
+            (ude 的))
+          (NP (n 注意))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 预期)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (NP (t 星期天)) (ude 的))
+          (NP (n 世界) (n 妇女))
+          (ADJP (a 大))
+          (NP (n 游行)))
+        (VP
+          (ADVP (d 将))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ (DNP (QP (vl 数以万计)) (ude 的)) (NP (n 人)))
+              (VP (v 参加))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (DNP (NP (DP (r 这个)) (NP (n 游行))) (ude 的)) (NP (n 主题)))
+    (VP
+      (vshi 是)
+      (IP-PRD
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (v 结束)
+            (NP-OBJ (DNP (PP (p 对) (NP (n 妇女))) (ude 的)) (NP (n 暴力))))
+          (wd ，)
+          (VP (v 争取) (NP-OBJ (nl 男女平等)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TPC
+    (DNP (NP (t 星期一)) (ude 的))
+    (NP (QP (m 百万)) (NP (n 家庭)))
+    (ADJP (a 大))
+    (NP (n 游行)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 预计)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (vyou 有)
+          (IP-OBJ
+            (NP-SBJ
+              (NP (QP (m 一百万)) (NP (n 人)))
+              (c 或是)
+              (NP
+                (CP
+                  (WHNP-1 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-1))
+                      (VP (ADVP (d 更)) (VP (a 多))))
+                    (ude 的)))
+                (NP (n 人))))
+            (VP (v 参加)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ
+    (NP-SBJ (-NONE- *pro*))
+    (VP (v 组织) (NP-OBJ (DP (r 这个)) (n 活动))))
+  (VP
+    (ADVP (d 则))
+    (VP
+      (vshi 是)
+      (PP-PRD
+        (p 为了)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 支持)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (PP-MNR
+                  (p 经由)
+                  (NP
+                    (CP-APP
+                      (IP
+                        (NP-SBJ (-NONE- *pro*))
+                        (VP
+                          (v 改革)
+                          (NP-OBJ (ADJP (b 公共)) (NP (n 政策)))))
+                      (ude 的))
+                    (NP (n 方式))))
+                (wd ，)
+                (VP
+                  (v 来)
+                  (VP (v 巩固) (NP-OBJ (NP-PN (ns 美国)) (NP (n 家庭))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (DNP
+        (NP (DP (r 这) (QP (m 两) (CLP (q 个)))) (NP (vi 集会)))
+        (ude 的))
+      (NP (n 组织者)))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (vyou 有) (NP-OBJ (n 争议))))
+            (ude 的)))
+        (NP-APP (nz 穆斯林) (n 民族) (n 领袖))
+        (NP-PN (nrf 法拉罕)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (PP-LOC (p 在) (NP (n 集会))) (VP (n 讲话))))
+          (ude 的)))
+      (NP (n 人)))
+    (VP
+      (v 包括)
+      (wm ：)
+      (NP-OBJ
+        (NP
+          (NP (nz 伊斯兰教) (wn 、) (nz 基督教) (wn 、) (nz 犹太教))
+          (n 领袖)
+          (k 们))
+        (c 以及)
+        (NP (NP (n 民权)) (nl 积极分子))
+        (c 和)
+        (NP (DNP (ADJP (a 著名)) (ude 的)) (NP (n 明星)))
+        (udeng 等等))))
+  (wj 。)))
+</S>

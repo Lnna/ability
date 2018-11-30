@@ -1,0 +1,82 @@
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 设) (PP-LOC (p 在) (NP-PN (ns 香港)))))
+        (ude 的)))
+    (NP-PN (ns 中国) (n 人权) (nz 民运) (n 信息) (n 中心)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-PN-TPC (ns 中国) (ns 福建省) (ns 漳州市))
+      (NP-SBJ
+        (QP
+          (ADVP (d 大约))
+          (IP (LST (m １)) (wd ，) (VP (QP (m ０００))))
+          (CLP (q 名)))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP (NP-SBJ (-NONE- *T*-2)) (VP (v 种植) (NP-OBJ (n 香蕉))))
+            (ude 的)))
+        (NP (n 农民)))
+      (VP
+        (PP-LOC (p 在) (LCP (NP (n 市政府)) (f 前)))
+        (VP
+          (VP (v 举行) (NP-OBJ (n 示威)))
+          (wd ，)
+          (VP
+            (v 抗议)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP (v 增加) (NP-OBJ (n 香蕉) (n 税)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (LCP
+      (NP
+        (CP-APP
+          (IP (NP-SBJ (n 警方)) (VP (v 驱散) (NP-OBJ (n 示威) (n 人群))))
+          (ude 的))
+        (NP (n 过程)))
+      (f 中)))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 至少))
+    (VP
+      (vyou 有)
+      (IP-OBJ
+        (NP-SBJ (QP (m ５) (CLP (q 个))) (NP (n 人)))
+        (VP (vi 受伤)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DNP (NP (DP (r 这次)) (NP (v 抗议) (vi 示威))) (ude 的))
+    (NP (n 起因)))
+  (VP
+    (vshi 是)
+    (wd ，)
+    (IP-PRD
+      (NP-SBJ (n 政府))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-1 (n 香蕉) (v 销售) (n 税))
+          (VP
+            (v 提高)
+            (y 了)
+            (NP-OBJ (-NONE- *-1))
+            (QP-EXT (ADVP (d 将近)) (QP (m 百分之) (m ８０))))))))
+  (wj 。)))
+</S>

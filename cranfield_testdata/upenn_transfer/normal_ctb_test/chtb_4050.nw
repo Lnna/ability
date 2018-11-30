@@ -1,0 +1,130 @@
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 韩国)) (NP (nt 农林部)))
+  (VP
+    (NP-TMP (t ２１日))
+    (VP
+      (v 证实)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (NP-PN-SBJ (ns 韩国) (ns 忠清南道) (ns 牙山市))
+          (VP
+            (NP-TMP (t 近日))
+            (VP
+              (v 出现)
+              (NP-OBJ
+                (NP
+                  (NP (NP (ADJP (a 高)) (NP (n 致病))) (NP (k 性)))
+                  (NP (n 禽流感)))
+                (NP (n 疫情))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (r 这))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (NP-PN (ns 韩国))
+              (CP
+                (WHNP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (t 今年)) (VP (v 发生))))
+                  (ude 的)))
+              (QP (m 第四) (CLP (q 起)))
+              (NP
+                (NP (NP (ADJP (a 高)) (NP (n 致病))) (NP (k 性)))
+                (NP (n 禽流感)))
+              (NP (n 疫情))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 韩国)) (NP (nt 农林部)))
+  (VP
+    (NP-TMP (t 当天) (t 晚间))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (NP-PN (ns 牙山市)) (QP (m 一) (CLP (q 家))) (NP (n 养鸭场)))
+        (VP
+          (NP-TMP (t １１日))
+          (VP
+            (PP-DIR (p 向) (NP (ADJP (n 有关)) (NP (n 部门))))
+            (VP
+              (v 报告)
+              (wd ，)
+              (IP-OBJ
+                (NP-TPC
+                  (DNP (NP (n 养鸭场)) (ude 的))
+                  (QP (QP (m ９０００)) (NP (m 余)) (CLP (q 只)))
+                  (NP (n 鸭)))
+                (PP-TMP
+                  (p 自)
+                  (LCP (NP (NP (t 本月)) (NP (t ５日))) (f 起)))
+                (NP-SBJ (n 产蛋量))
+                (VP (ADVP (d 大幅)) (VP (vi 下降))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN (ns 韩国))
+    (ADJP (b 国立))
+    (NP (n 兽医) (n 科学) (n 检疫) (n 院)))
+  (VP
+    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*)) (VP (v 检测))) (f 后))
+    (VP
+      (v 确认)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ (DP (r 该)) (VP (n 养鸭) (NP (n 场))))
+        (VP
+          (v 发现)
+          (y 了)
+          (NP-OBJ
+            (NP (NP (ADJP (a 高)) (NP (n 致病))) (NP (k 性)))
+            (NP (n 禽流感) (n 病毒)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 韩国)) (NP (nt 农林部)) (NP (n 官员)))
+  (VP
+    (v 说)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (DP (r 这家)) (NP (n 养鸭) (n 场)))
+      (VP
+        (ADVP (d 曾))
+        (PP-TMP (p 在) (NP (t ２００４年)))
+        (VP (v 发生) (uguo 过) (NP-OBJ (n 禽流感) (n 疫情))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 韩国)) (NP (n 防疫) (n 部门)))
+  (VP
+    (VP
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (NP-TMP (t １１日)) (VP (v 接到) (NP-OBJ (n 报告)))))
+          (f 后)))
+      (ADVP (d 已))
+      (VP (v 采取) (NP-OBJ (n 措施))))
+    (wd ，)
+    (VP
+      (v 禁止)
+      (NP-OBJ
+        (DNP (NP (DP (r 该)) (NP (n 养鸭) (n 场))) (ude 的))
+        (NP (n 鸭蛋)))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 外运))))
+    (c 并)
+    (VP (v 开始) (VP (v 销毁) (NP-OBJ (n 鸭蛋)))))
+  (wj 。)))
+</S>

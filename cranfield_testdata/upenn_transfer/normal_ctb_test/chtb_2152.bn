@@ -1,0 +1,230 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 东莞)) (NP (n 台商) (n 子弟) (n 学校)))
+    (wd ，)
+    (VP
+      (ADVP (d 还))
+      (ADVP (d 特地))
+      (VP
+        (v 选出)
+        (y 了)
+        (NP-OBJ
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ
+                    (NP-APP
+                      (NP
+                        (IP (NP (n 国)) (VP (a 小)))
+                        (NP (QP (m 一)) (NP (q 年)))
+                        (NP (QP (m 二)) (NP (n 班)))
+                        (NP-PN (nr 陈伊玲)))
+                      (wn 、)
+                      (NP
+                        (NP (QP (m 三)) (NP (q 年)))
+                        (NP (QP (m 一)) (NP (n 班)))
+                        (NP-PN (nr 郭建良)))
+                      (wn 、)
+                      (NP
+                        (NP (QP (m 四)) (NP (q 年)))
+                        (NP (QP (m 一)) (NP (n 班)))
+                        (NP-PN (nr 张维涵)))
+                      (c 和)
+                      (NP
+                        (DNP
+                          (NP
+                            (NP (n 国) (f 中部))
+                            (NP (QP (m 三)) (NP (q 年)))
+                            (NP (QP (m 一)) (NP (q 班))))
+                          (ude 的))
+                        (NP-PN (nr 李维珍)))
+                      (udeng 等))
+                    (QP (m 四) (CLP (q 位)))
+                    (NP (n 小朋友)))
+                  (VP
+                    (VRD (v 写) (v 给))
+                    (NP-IO
+                      (NP
+                        (NP-APP (n 部长) (n 爷爷))
+                        (wd ，)
+                        (NP-APP (n 教育部长))
+                        (NP-PN (nr 曾志朗)))
+                      (c 和)
+                      (NP
+                        (NP-APP (n 次长) (n 阿姨))
+                        (NP-APP (n 政务) (n 司长))
+                        (NP-PN (nr 范徐丽))))
+                    (NP-OBJ (-NONE- *T*-1))))
+                (ude 的)))
+            (NP (n 感谢信)))
+          (wd ，)
+          (c 以及)
+          (NP
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-PN-SBJ (nr 李维珍) (c 和) (nr 张维涵))
+                  (VP
+                    (VRD (v 写) (v 给))
+                    (NP-IO
+                      (CP
+                        (WHNP-2 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ (-NONE- *T*-2))
+                            (VP (VSB (v 创) (NP (n 校)) (vi 有功))))
+                          (ude 的)))
+                      (NP (n 伯伯) (n 叔叔) (c 和) (n 阿姨)))
+                    (NP-OBJ (-NONE- *T*-3))))
+                (ude 的)))
+            (QP (m 一) (CLP (q 封)))
+            (NP (n 信)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 文辞))
+    (VP (ADVP (d 都)) (DVP (ADVP (vi 相当)) (ude 的)) (VP (a 感人))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 东莞)) (NP (n 台商) (n 子弟) (n 学校)))
+    (VP
+      (v 表示)
+      (IP-OBJ
+        (IP
+          (NP-SBJ (n 学校))
+          (VP
+            (PP-MNR
+              (p 在)
+              (LCP
+                (NP
+                  (DNP (NP (NP (n 两岸)) (c 和) (NP (r 各界))) (ude 的))
+                  (NP (n 关爱)))
+                (f 下)))
+            (DVP (VP (a 顺利)) (ude 的))
+            (VP (n 开学))))
+        (wd ，)
+        (IP
+          (LCP-TMP
+            (NP (NP (t 最近)) (QP (m ４) (CLP (q 个))) (NP (n 月)))
+            (f 以来))
+          (PP-DIR (p 从) (NP (DNP (NP (n 幼稚园)) (ude 的)) (NP (n 小朋友))))
+          (PP-DIR
+            (p 到)
+            (NP
+              (DNP (NP (n 国中)) (ude 的))
+              (NP
+                (NP (ADJP (a 大)) (NP (n 哥哥)))
+                (wn 、)
+                (NP (ADJP (a 大)) (NP (n 姐姐))))))
+          (wd ，)
+          (NP-TPC
+            (ADVP (c 无论))
+            (NP (n 课堂) (v 学习) (c 或是) (n 生活) (n 教育)))
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 适应) (ude 的) (VP-EXT (ADVP (d 越来越)) (VP (a 好)))))
+        (wd ，)
+        (IP
+          (NP-SBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *pro*))
+                (VP
+                  (ADVP (t 先前))
+                  (PP-ADV (c 和) (NP (n 亲人)))
+                  (VP (vi 分隔) (NP-OBJ (n 两地)))))
+              (ude 的))
+            (NP (n 阴霾)))
+          (VP (vl 一扫而空)))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (LCP (NP (n 校园)) (f 里))
+            (ADVP (d 到处))
+            (ADVP (d 都))
+            (VP
+              (v 洋溢)
+              (uzhe 着)
+              (NP-OBJ (n 笑声) (wn 、) (n 歌声) (c 和) (n 读书声)))))
+        (wd ，)
+        (IP
+          (ADVP (c 而))
+          (NP-SBJ
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (VP (v 来自) (NP-OBJ (r 各地))) (VP (v 参观))))
+                (ude 的)))
+            (NP (n 人潮)))
+          (VP (vshi 是) (VP (vl 络绎不绝))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-TMP (p 到) (NP (t 现在)))
+            (ADVP (d 已经))
+            (VP
+              (vyou 有)
+              (QP-OBJ (ADVP (d 将近)) (QP (m ８００) (CLP (q 人次)))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (n 学校))
+          (VP
+            (ADVP (z 俨然))
+            (VP
+              (v 成为)
+              (NP-OBJ
+                (DNP
+                  (NP
+                    (NP (n 两岸))
+                    (NP (n 教育) (c 和) (n 社会))
+                    (NP (n 团体)))
+                  (ude 的))
+                (NP (n 观光) (n 景点) (r 之一)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t 目前))
+    (NP-SBJ (DNP (NP (n 学生)) (ude 的)) (NP (n 人数)))
+    (VP (vyou 有) (NP-OBJ (QP (m ７００)) (NP (n 人)))))
+  (wd ，)
+  (IP (QP-SBJ (m ６０％)) (VP (v 来自) (NP-PN-OBJ (ns 东莞))))
+  (wd ，)
+  (IP
+    (QP-SBJ (m ３０％))
+    (VP (v 来自) (NP-OBJ (NP-PN (ns 珠江)) (NP (n 三角洲)))))
+  (wd ，)
+  (IP
+    (QP-SBJ (m １０％))
+    (VP
+      (v 来自)
+      (NP-OBJ
+        (NP-PN-APP (ns 云南) (wn 、) (ns 四川) (c 和) (vi 下海) (udeng 等))
+        (NP (n 地)))))
+  (wd ，)
+  (IP
+    (NP-TMP (DP (f 上) (CLP (q 个))) (NP (n 学期)))
+    (NP-SBJ (ADJP (b 候补)) (NP (n 入学) (n 人数)))
+    (VP (v 达到) (NP-OBJ (QP (m ２５０)) (NP (n 人)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (DNP (NP (DP (f 下) (CLP (q 个))) (NP (n 学年))) (ude 的))
+      (NP (n 学生)))
+    (VP
+      (ADVP (c 则))
+      (VP
+        (v 可能)
+        (VP (v 会) (VP (v 突破) (NP-OBJ (QP (m １５００)) (NP (n 人))))))))
+  (wj 。)))
+</S>

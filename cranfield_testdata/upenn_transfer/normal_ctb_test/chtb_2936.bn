@@ -1,0 +1,100 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 南斯拉夫)) (ADJP (a 新)) (NP (n 政府)))
+    (VP
+      (ADVP (ad 正式))
+      (VP
+        (v 申请)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 加入) (NP-PN-OBJ (nt 联合国)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-PN (nt 联合国)) (NP (n 发言人)))
+    (VP
+      (v 说)
+      (wm ：)
+      (IP-OBJ
+        (wyz “)
+        (IP
+          (NP-SBJ (r 他们))
+          (VP
+            (NP-TMP (t 星期五))
+            (VP
+              (v 收到)
+              (y 了)
+              (NP-OBJ
+                (DNP (NP-PN (nrf 科什图尼察) (n 总统)) (ude 的))
+                (QP (m 一) (CLP (q 封)))
+                (NP (n 信))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (v 要求)
+            (NP-PN-OBJ (nt 联合国))
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP
+                (v 接纳)
+                (NP-PN-OBJ (ns 南斯拉夫联邦共和国))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (p 为)
+                    (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 成员国)))))))))
+        (wyy ”))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-TMP (t １９９２年))
+    (NP-SBJ (nt 安理会))
+    (VP
+      (v 裁定)
+      (IP-OBJ (NP-PN-SBJ (ns 南斯拉夫)) (VP (d 不再) (VP (v 存在))))))
+  (wd ，)
+  (IP
+    (PP-TMP (p 从) (LCP (NP (r 那时)) (f 以来)))
+    (wd ，)
+    (NP-SBJ
+      (NP-PN (ns 南斯拉夫))
+      (DNP (PP (p 在) (NP-PN (nt 联合国))) (ude 的))
+      (NP (n 席位)))
+    (VP (ADVP (d 就)) (ADVP (d 一直)) (VP (v 空缺))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 科什图尼察))
+    (VP
+      (LCP-TMP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (PP-ADV
+              (c 和)
+              (NP
+                (NP-APP (NP-PN (ns 俄罗斯)) (NP (n 总统)))
+                (NP-PN (nrf 普京))))
+            (NP-TMP (t 星期五) (t 早上))
+            (PP-LOC (p 在) (NP-PN (ns 莫斯科)))
+            (VP (v 举行) (NP-OBJ (n 会谈)))))
+        (f 之后))
+      (VP
+        (v 重申)
+        (wm ：)
+        (IP-OBJ
+          (NP-PN-SBJ (ns 科索沃))
+          (VP
+            (d 必须)
+            (VP
+              (ADVP (d 仍然))
+              (VP
+                (vshi 是)
+                (NP-PRD
+                  (DNP (NP-PN (ns 南斯拉夫)) (ude 的))
+                  (QP (m 一))
+                  (NP (n 部分))))))))))
+  (wj 。)))
+</S>

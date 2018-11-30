@@ -1,0 +1,115 @@
+<S>
+( (IP
+  (PP-DIR
+    (p 针对)
+    (NP
+      (DNP
+        (NP
+          (LCP (NP (ADJP (t 现代)) (NP (n 信息化) (n 条件))) (f 下))
+          (NP (n 战争)))
+        (ude 的))
+      (ADJP (a 重要))
+      (NP (n 特征))))
+  (wd ，)
+  (NP-SBJ (NP-PN (ns 兰州) (n 军区)) (DP (r 某)) (NP (n 训练) (n 基地)))
+  (VP
+    (PP-LOC
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 组织) (NP-OBJ (n 部队) (n 演习))))
+        (f 中)))
+    (VP
+      (v 注重)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP (n 构设) (NP-OBJ (ADJP (a 复杂)) (NP (n 电磁) (n 环境))))
+          (wd ，)
+          (WHPP
+            (VCD (v 锻炼) (v 提高))
+            (NP-OBJ
+              (CP
+                (WHPP-1 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (n 部队))
+                    (VP
+                      (PP-MNR (-NONE- *T*-1))
+                      (VP
+                        (IP (VP (v 打) (v 赢)))
+                        (NP-OBJ
+                          (LCP (NP (n 信息化) (n 条件)) (f 下))
+                          (NP (vi 作战))))))
+                  (ude 的)))
+              (NP (n 能力))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP
+      (v 运用)
+      (NP-OBJ
+        (DNP (ADJP (a 先进)) (ude 的))
+        (NP (n 电子) (n 信息) (n 技术) (c 和) (n 模拟) (n 仿真) (n 技术))))
+    (wd ，)
+    (VP
+      (v 制作)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (v 具有) (NP-OBJ (ADJP (n 仿真)) (NP (n 电磁) (n 特征)))))
+            (ude 的)))
+        (NP
+          (NP (ADJP (n 模拟)) (NP (n 雷达) (n 通信) (wd 车)))
+          (v ，)
+          (NP (ADJP (n 模拟)) (NP (n 卫星) (n 通信车)))
+          (udeng 等))))
+    (wd ，)
+    (VP
+      (p 将)
+      (IP-OBJ
+        (NP-SBJ (n 实物))
+        (VP (v 放置) (PP (p 在) (LCP-LOC (NP (n 蓝军) (n 阵地)) (f 内))))))
+    (wd ，)
+    (VP
+      (v 模拟)
+      (NP-OBJ
+        (CP
+          (WHNP-3 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (DP (r 各类)) (NP (n 武器) (n 装备)))
+              (VP
+                (PP-LOC (p 在) (LCP (NP (n 作战)) (f 中)))
+                (VP (v 形成) (NP-OBJ (-NONE- *T*-3)))))
+            (ude 的)))
+        (NP (n 电磁) (n 环境)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-MNR
+      (p 通过)
+      (NP
+        (DNP (NP (QP (m 多种)) (NP (n 方式))) (ude 的))
+        (ADJP (n 综合))
+        (NP (n 运用))))
+    (wd ，)
+    (ADVP (vi 着力))
+    (PP-BNF (p 为) (NP (n 部队)))
+    (VP
+      (v 营造)
+      (NP-OBJ
+        (DNP (ADJP (ADVP (d 相对)) (ADJP (a 复杂))) (ude 的))
+        (NP (n 电磁) (n 战场)))))
+  (wj 。)))
+</S>

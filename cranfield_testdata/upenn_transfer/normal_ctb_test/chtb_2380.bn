@@ -1,0 +1,290 @@
+<S>
+( (IP
+  (CP
+    (IP
+      (NP-SBJ (ADJP (a 新)) (NP (n 政府)))
+      (VP
+        (VP-FOC (VCD (vi 上台) (vi 执政)))
+        (VP
+          (ADVP (d 已经))
+          (VP (v 满) (NP-EXT (QP (m ５) (CLP (q 个))) (NP (n 月)))))))
+    (y 了))
+  (wd ，)
+  (CP-Q
+    (IP
+      (PP-LOC
+        (p 在)
+        (LCP (NP (DNP (NP (t 目前)) (ude 的)) (NP (n 政局))) (f 之中)))
+      (CP-CND
+        (ADVP (c 如果))
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (ADVP (d 重新)) (VP (vi 投票)))))
+      (wd ，)
+      (NP-PN-SBJ (nr 陈水扁) (n 总统))
+      (VP (VNV (v 能) (d 不) (v 能)) (VP (ADVP (d 再)) (VP (v 当选)))))
+    (y 呢))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (PP-MNR
+    (p 根据)
+    (NP
+      (DNP (NP-PN (NP-PN (n 国民党)) (NP (n 国家) (n 发展) (n 协会))) (ude 的))
+      (ADJP (a 最新))
+      (NP (n 民调))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (vyou 有)
+    (IP
+      (NP-SBJ
+        (DNP (QP (ADVP (d 将近)) (QP (m ７) (CLP (q 成)))) (ude 的))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (IP (NP-SBJ (-NONE- *T*-1)) (IP (VP (v 受) (NP (v 访))))))
+        (NP (n 民众)))
+      (VP
+        (v 表示)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 不))
+            (VP (v 会) (VP (v 改变) (NP-OBJ (n 投票) (n 人选)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 同时))
+    (VP
+      (vyou 有)
+      (IP
+        (NP-SBJ
+          (DNP (QP (ADVP (d 将近)) (QP (m ４) (CLP (q 成)))) (ude 的))
+          (NP (n 民众)))
+        (VP
+          (v 认为)
+          (wd ，)
+          (IP-OBJ
+            (IP
+              (CP-CND
+                (ADVP (c 如果))
+                (CP
+                  (IP
+                    (NP-SBJ
+                      (NP-APP (DNP (NP (t 目前)) (ude 的)) (NP (n 执政党)))
+                      (wn 、)
+                      (NP-PN (nt 民进党)))
+                    (VP (ADVP (d 都)) (a 不好)))
+                  (FRAG (ude 的) (NP (n 话)))))
+              (wd ，)
+              (DP-ADV (f 下) (QP (m 一) (CLP (q 次))))
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (ADVP (d 就))
+                (ADVP (d 不))
+                (VP (VRD (vi 投票) (v 给)) (NP-OBJ (r 他们)))))
+            (wd ，)
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (v 要)
+                (NP-OBJ (n 执政党))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (v 来) (VP (VRD (v 负) (v 起)) (NP-OBJ (n 责任))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-MNR
+      (p 根据)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN (NP-PN (n 国民党)) (NP (n 国家) (n 发展) (n 协会)))
+              (VP (v 做) (NP-OBJ (-NONE- *T*-1))))
+            (ude 的)))
+        (ADJP (a 最新))
+        (NP (n 民调))))
+    (wd ，)
+    (NP-TPC (n 受访者))
+    (NP-SBJ
+      (CP
+        (WHNP-2 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-2))
+            (VP (VRD (vi 投票) (v 给)) (NP-PN-OBJ (nr 陈水扁))))
+          (ude 的))))
+    (VP
+      (VP (ADVP (d 最)) (VP (a 多)))
+      (wd ，)
+      (VP (v 占) (QP-OBJ (m ３２．３％)))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-3 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-3))
+            (VP (VRD (v 投) (v 给)) (NP-PN-OBJ (nr 宋楚瑜))))
+          (ude 的))))
+    (VP (v 占) (QP-OBJ (m ２４．７))))
+  (wd ，)
+  (IP (NP-PN-SBJ (nr 连战)) (VP (vshi 是) (QP-PRD (m ２．７))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP
+    (p 在)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (VRD (v 问) (v 到))
+        (IP-OBJ
+          (CP-CND
+            (ADVP (c 如果))
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP (ADVP (d 重新)) (VP (vi 投票)))))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (VNV (v 会) (d 不) (v 会))
+            (VP (VSB (v 改) (v 投)) (NP-OBJ (DP (r 其他)) (NP (n 候选人)))))))))
+  (wd ，)
+  (NP-SBJ (QP (m ６６．９％)) (NP (n 受访者)))
+  (VP
+    (v 表示)
+    (wm ：)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (d 不)) (VP (v 会) (VP (v 改变))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-SBJ (r 我))
+  (VP
+    (v 问)
+    (NP-IO (r 你))
+    (IP-OBJ
+      (ADVP (f 以后))
+      (NP-SBJ (r 我们))
+      (VP
+        (ADVP (d 也))
+        (VP
+          (v 看到)
+          (IP-OBJ
+            (IP
+              (NP-SBJ (DNP (QP (m 若干)) (ude 的)) (NP (n 民调)))
+              (VP
+                (v 提到)
+                (IP-OBJ
+                  (NP-SBJ
+                    (DNP (PP (p 对) (NP-PN (nr 阿扁))) (ude 的))
+                    (NP (n 支持)))
+                  (wd ，)
+                  (VP
+                    (ADVP (d 通常))
+                    (ADVP (d 都))
+                    (VP (p 在) (LCP-OBJ (QP (m ４０％)) (f 以上)))))))
+            (wd ，)
+            (IP
+              (DP-ADV (r 这) (CLP (q 次)))
+              (FLR (y 呢))
+              (wd ，)
+              (NP-SBJ (-NONE- *pro*))
+              (VP (VRD (v 掉) (v 到)) (y 了) (QP-OBJ (m ３２．３％)))))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 肯定)
+        (IP-OBJ (NP-SBJ (n 政策)) (VP (ADVP (d 不)) (VP (v 确定))))))
+    (VP (v 占) (QP-OBJ (m ２３．１))))
+  (wd ，)
+  (IP
+    (IP-SBJ
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (v 同意)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP (ADVP (d 不)) (VP (vi 停) (NP-OBJ (n 核试)))))))
+    (VP (v 占) (QP-OBJ (m １０．７))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 显示)
+      (IP-OBJ
+        (NP-SBJ
+          (DNP (LCP (NP (n 财经) (n 政策) (n 本职)) (f 以外)) (ude 的))
+          (NP (n 因素)))
+        (VP (m 左右) (NP-OBJ (n 股市) (n 表现))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-TPC
+    (NP-SBJ (NP (n 农会)) (ADJP (b 总)) (NP (n 干事)))
+    (VP
+      (VP-FOC
+        (d 必须)
+        (VP (v 没有) (NP-OBJ (DP (r 任何)) (NP (n 犯罪) (n 事实)))))
+      (VP (ADVP (d 才)) (VP (v 可以) (VP (v 登记))))))
+  (wd ，)
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (v 认为) (IP-OBJ (NP-SBJ (-NONE- *pro*)) (VP (a 合理)))))
+        (ude 的))))
+  (VP
+    (vyou 有)
+    (QP-EXT (ADVP (d 将近)) (QP (QP (m ９) (CLP (q 成))) (QP (m ５)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ
+      (CP-APP
+        (IP
+          (NP-SBJ
+            (NP (wkz 《) (n 农会法) (wky 》))
+            (ADJP (v 修正))
+            (NP (n 条文)))
+          (VP
+            (PP-TMP
+              (p 在)
+              (NP (VP (v 立) (NP (n 法院))) (DP (r 这个)) (NP (n 会期))))
+            (VP (v 通过))))
+        (ude 的))
+      (NP (n 可能性)))
+    (VP (ADVP (d 很)) (VP (a 低))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 农民))
+    (VP
+      (PP-DIR (p 对于) (NP (n 黑金) (n 问题)))
+      (ADVP (d 仍旧))
+      (VP (v 表示) (NP-OBJ (a 悲观)))))
+  (wj 。)))
+</S>

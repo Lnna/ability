@@ -1,0 +1,260 @@
+<S>
+( (IP
+  (NP-TMP (t 今天))
+  (wd ，)
+  (NP
+    (NP-SBJ
+      (NP-APP
+        (DNP (NP-PN (ns 新加坡) (n 联合) (NP (n 早报) (n 网))) (ude 的))
+        (QP (m 一) (CLP (q 位)))
+        (NP (n 记者)))
+      (NP-PN (nr 于泽远)))
+    (VP
+      (PP-LOC (p 从) (NP-PN (ns 北京)))
+      (VP
+        (v 发出)
+        (IP-OBJ (NP-APP (QP (m 一) (CLP (q 篇))) (NP (n 报道))) (wkz 《))
+        (IP-HLN
+          (NP-TMP
+            (IP-APP
+              (NP-PN-SBJ (nr 毛泽东))
+              (VP (vi 逝世) (NP-EXT (t 28周年))))
+            (NP (t 忌日)))
+          (NP-SBJ (NP-PN (ns 中国)) (NP (n 官方) (n 媒体)))
+          (VP (z 静悄悄)))
+        (wky 》))))
+  (wd ，)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (r 此公))
+            (VP (IP (VP (v 抓) (v 取))) (NP-OBJ (-NONE- *T*-1))))
+          (ude 的)))
+      (QP (m 第一) (CLP (q 个)))
+      (NP (n 特征)))
+    (w ＂)
+    (VP
+      (IP-PRD
+        (IP
+          (NP-SBJ (t 昨天))
+          (VP
+            (vshi 是)
+            (NP-PRD
+              (CP-APP
+                (IP
+                  (NP-SBJ
+                    (NP-APP (NP-PN (nt 中共)) (NP (n 创始人)))
+                    (NP-PN (nr 毛泽东)))
+                  (VP (vi 逝世) (NP-EXT (QP (m 28)) (NP (q 周年)))))
+                (ude 的))
+              (NP (t 忌日)))))
+        (wd ，)
+        (IP
+          (ADVP (c 但))
+          (NP-SBJ
+            (CP
+              (WHNP (-NONE- *OP*))
+              (CP
+                (IP
+                  (VP
+                    (v 包括)
+                    (LCP-OBJ
+                      (NP (n 电视) (wn 、) (n 报纸) (c 和) (n 网站))
+                      (u 在内))))
+                (ude 的)))
+            (NP-PN (ns 中国))
+            (NP (n 官方) (n 媒体)))
+          (VP
+            (ADVP (ADVP (d 极)) (ADVP (a 少)))
+            (VP
+              (v 见到)
+              (NP-OBJ
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-SBJ (-NONE- *T*-2))
+                      (VP (v 纪念) (NP-PN-OBJ (nr 毛泽东))))
+                    (ude 的))
+                  (NP (n 内容))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 很多)) (NP (n 民众)))
+    (VP
+      (VP (ADVP (d 已经)) (VP (v 忘记) (NP-OBJ (-NONE- *RNR*-3))))
+      (c 或)
+      (VP
+        (ADVP (d 根本))
+        (ADVP (d 不))
+        (VP
+          (v 知道)
+          (NP-OBJ-3
+            (DNP
+              (NP
+                (DP (r 这) (CLP (q 位)))
+                (NP-PN (nt 中共))
+                (QP (m 第一) (CLP (q 代)))
+                (NP (n 领袖)))
+              (ude 的))
+            (NP (t 忌日) (c 和) (n 生日)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wj ．．．)
+  (NP-SBJ
+    (NP-APP
+      (NP-PN (wkz 《))
+      (nz 人民日报)
+      (wky 》)
+      (wn 、)
+      (NP-PN (wkz 《))
+      (n 解放军)
+      (n 报)
+      (wky 》)
+      (udeng 等))
+    (ADJP (b 主要))
+    (NP (n 官方) (n 报纸)))
+  (VP
+    (NP-TMP (t 昨天))
+    (ADVP (d 没有))
+    (VP
+      (v 刊登)
+      (NP-OBJ
+        (DP (r 任何))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (v 纪念) (NP-PN-OBJ (nr 毛泽东))))
+            (ude 的)))
+        (NP (n 文章) (c 或) (n 照片)))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-PN-SBJ (wkz 《))
+    (nz 人民日报)
+    (wky 》)
+    (VP
+      (VP
+        (v 发表)
+        (y 了)
+        (NP-OBJ
+          (QP (m 一) (CLP (q 篇)))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (v 纪念)
+                  (NP-OBJ
+                    (NP-APP
+                      (NP-PN (nt 中共))
+                      (QP (m 第二) (CLP (q 代)))
+                      (NP (n 领袖)))
+                    (NP-PN (nr 邓小平)))))
+              (ude 的)))
+          (NP (n 文章))))
+      (wd ，)
+      (VP
+        (v 赞美)
+        (NP-OBJ
+          (CP
+            (WHNP-3 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-PN-SBJ (nr 邓小平))
+                (VP (v 提出) (NP-OBJ (-NONE- *T*-3))))
+              (ude 的)))
+          (CP-APP
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (v 建设)
+                  (NP-OBJ (NP-PN (ns 中国)) (NP (n 特色)) (NP (n 社会主义)))))
+              (ude 的)))
+          (NP (n 理论))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (w ＂)
+  (wkz （)
+  (NP-PN-TPC (n 联合) (n 早报))
+  (wky ）)
+  (wd ，)
+  (ADVP (v 看来))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 得)
+    (VP
+      (v 佩服)
+      (NP-OBJ
+        (DNP (NP (s 西方) (n 人士)) (ude 的))
+        (NP
+          (NP (n 政治) (w ＂) (a 敏感) (w ＂) (n 度))
+          (wd ，)
+          (VP (v 挑剔) (NP (n 度)))))))
+  (wd ，)
+  (DFL
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (IP (VP (ADVP (d 非)) (VP (v 要)))) (VP (pba 把)))))
+  (w ＂)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (NP-PN-SBJ (wkz 《))
+  (nz 人民日报)
+  (wky 》)
+  (VP
+    (VP
+      (v 发表)
+      (y 了)
+      (NP-OBJ
+        (QP (m 一) (CLP (q 篇)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (v 纪念)
+                (NP
+                  (NP-APP
+                    (NP-PN (nt 中共))
+                    (QP (m 第二) (CLP (q 代)))
+                    (NP (n 领袖)))
+                  (NP-PN (nr 邓小平)))))
+            (ude 的)))
+        (NP (n 文章))))
+    (wd ，)
+    (VP
+      (v 赞美)
+      (NP-OBJ
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-PN-SBJ (nr 邓小平))
+              (VP (v 提出) (NP-OBJ (-NONE- *T*-2))))
+            (ude 的)))
+        (CP-APP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (v 建设)
+              (NP-OBJ (NP-PN (ns 中国)) (NP (n 特色)) (NP (n 社会主义)))))
+          (ude 的))
+        (NP (n 理论)))))))
+</S>

@@ -1,0 +1,141 @@
+<S>
+( (IP
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (v 继续)
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (DNP (NP (NP (n 大陆) (n 地区)) (c 以及) (NP (n 国际))) (ude 的))
+        (ADJP (a 重要))
+        (NP (n 新闻)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 首先))
+  (NP-SBJ (r 我们))
+  (VP
+    (IP (VP (ADVP (d 先)) (VP (v 来))))
+    (VP
+      (v 看)
+      (NP-OBJ
+        (CP-APP
+          (IP
+            (NP-SBJ (n 两岸))
+            (VP (VSB (n 合作) (v 打击)) (NP-OBJ (vi 犯罪))))
+          (ude 的))
+        (NP (n 消息)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (b 刑事) (n 警察局) (n 侦察科))
+  (VP
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (IP (VP (v 去) (NP (n 函))))
+        (NP-PN-OBJ (n 海峡) (n 交流) (n 基金会))))
+    (wd ，)
+    (VP
+      (v 要求)
+      (NP-PN-OBJ (nt 海基会))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (v 协调)
+          (NP-OBJ
+            (NP (n 大陆))
+            (NP-PN (NP (NP (n 海峡)) (n 两岸)) (NP (n 关系)) (NP (n 协会))))
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP
+              (p 将)
+              (IP-OBJ
+                (NP-SBJ
+                  (NP-APP
+                    (NP
+                      (CP
+                        (WHNP-1 (-NONE- *OP*))
+                        (CP
+                          (IP
+                            (NP-SBJ-2 (-NONE- *T*-1))
+                            (VP
+                              (NP-TMP (t 日前))
+                              (VP
+                                (pbei 被)
+                                (IP-OBJ
+                                  (NP-SBJ
+                                    (NP-PN (nt 中共))
+                                    (NP (n 公安)))
+                                  (VP (v 逮捕) (NP-OBJ (-NONE- *-2)))))))
+                          (ude 的)))
+                      (NP
+                        (NP-APP (NP-PN (nz 四海帮)) (NP (n 帮主)))
+                        (NP-PN (nr 杨光南))))
+                    (udeng 等))
+                  (NP (n 人)))
+                (VP (VRD (v 遣返) (v 回)) (NP-PN-OBJ (ns 台湾))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (c 由于)
+    (IP
+      (NP-SBJ (n 双方))
+      (VP
+        (ADVP (t 早先))
+        (PP-PRP
+          (p 为了)
+          (IP
+            (NP-SBJ (-NONE- *pro*))
+            (VP (v 抢占) (NP-OBJ (NP-PN (ns 上海)) (NP (n 地盘))))))
+        (VP (VRD (v 存) (vyou 有)) (NP-OBJ (n 心结))))))
+  (wd ，)
+  (NP-TMP (t 当时))
+  (LCP-TMP (IP-SBJ (NP (-NONE- *pro*)) (VP (n 言谈))) (f 之间))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 再度))
+    (VP
+      (VP (v 爆发) (y 了) (VP (ADVP (d 不)) (VP (a 愉快))))
+      (wd ，)
+      (VP (vl 大打出手))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 上海)) (NP (n 公安)))
+    (VP
+      (ADVP (d 顺势))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (r 他们))
+          (IP (NP (QP (m 一)) (NP (n 网))) (VP (n 成擒)))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ-2 (nr 杨光南))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 成为)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 不)) (VP (v 受) (NP-OBJ (n 欢迎))))))
+          (NP (n 人士))))
+      (wd ，)
+      (VP
+        (v 遣返)
+        (NP-OBJ (-NONE- *-2))
+        (IP
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (VRD (vi 出境) (v 到)) (NP-PN-OBJ (ns 澳门)))))))
+  (wj 。)))
+</S>

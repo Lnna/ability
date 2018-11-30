@@ -1,0 +1,558 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (r 这里))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (NP
+          (DNP (NP-PN (n 美国之音)) (ude 的))
+          (NP
+            (NP (NP-PN (ns 中国)) (NP (n 新闻)))
+            (c 和)
+            (NP (n 世界) (v 报道)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 继续)
+      (VP
+        (ADVP (d 再))
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-SBJ (n 焦点))
+            (VP (vi 转向) (NP-OBJ (NP-PN (ns 中东)) (NP (n 地区)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-LOC
+    (p 在)
+    (LCP
+      (NP (NP-PN (ns 以色列)) (c 和) (NP (NP (ns 巴勒斯坦)) (NP (n 人))))
+      (f 之间)))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (DVP (VP (v 继续)) (ude 的))
+    (VP (v 传出) (NP-OBJ (ADJP (b 零星)) (NP (n 冲突)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 以色列)) (NP (n 政府)))
+  (VP
+    (VSB (v 警告) (v 说))
+    (wm ：)
+    (IP-OBJ
+      (PP-DIR
+        (p 对于)
+        (NP
+          (DP (r 那些))
+          (CP
+            (WHNP-2 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-2))
+                (VP
+                  (PP-DIR
+                    (p 向)
+                    (NP
+                      (CP
+                        (WHPP-1 (-NONE- *OP*))
+                        (IP
+                          (NP (NP (ns 以色列)) (NP (n 人)))
+                          (VP (PP-LOC (-NONE- *T*-1)) (VP (v 居住)))))
+                      (NP (n 村落))))
+                  (VP (vi 开火))))
+              (ude 的)))
+          (NP-PN (ns 巴勒斯坦))
+          (ADJP (n 持枪))
+          (NP (n 民众))))
+      (wd ，)
+      (NP-SBJ (r 他们))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 采取)
+          (NP-OBJ
+            (CP
+              (WHNP-3 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-3))
+                  (VP (ADVP (d 更)) (VP (a 强硬))))
+                (ude 的)))
+            (NP (n 措施)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 与此同时))
+  (wd ，)
+  (PP-LOC (p 在) (NP (NP-PN (ns 约旦河)) (NP (s 西岸))))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 传出)
+      (y 了)
+      (NP-OBJ
+        (DNP (QP (ADVP (d 更)) (QP (a 多))) (ude 的))
+        (NP (n 冲突) (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (NP-APP (NP-PN (ns 以色列)) (NP (n 总理))) (NP-PN (nrf 巴拉克)))
+    (VP
+      (ADVP (d 则))
+      (VP
+        (vshi 是)
+        (VP
+          (ADVP (p 在))
+          (DVP (VP (v 继续)) (ude 的))
+          (VP
+            (VP (an 努力))
+            (wd ，)
+            (VP
+              (v 要)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (pba 把)
+                  (IP-OBJ
+                    (NP-SBJ
+                      (DNP (NP (n 右翼)) (ude 的))
+                      (NP-PN (nz 利库德) (n 集团)))
+                    (VP
+                      (VRD (v 拉) (v 进))
+                      (NP-OBJ (DNP (NP (r 他)) (ude 的)) (NP (n 政府)))))))))))))
+  (wd ，)
+  (IP
+    (PP-TPC
+      (n 有关)
+      (NP
+        (DNP (NP (NP-PN (ns 中东)) (NP (n 地区))) (ude 的))
+        (ADJP (a 最新))
+        (NP (n 局势))))
+    (wd ，)
+    (NP-SBJ (f 下面))
+    (VP
+      (vshi 是)
+      (NP-PRD
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ
+                (NP-APP (NP-PN (n 美国之音)) (NP (n 记者)))
+                (NP-PN (nrf 佩斯)))
+              (VP
+                (PP-DIR (p 从) (NP-PN (ns 耶路撒冷)))
+                (VP (VRD (v 发) (v 来)) (NP-OBJ (-NONE- *T*-1)))))
+            (ude 的)))
+        (NP (n 报道)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 巴拉克))
+    (VP
+      (NP-TMP (t 星期一))
+      (PP-ADV
+        (p 与)
+        (NP
+          (NP-APP (NP-PN (nz 利库德) (n 集团)) (NP (n 领袖)))
+          (NP-PN (n 沙龙))))
+      (VP (vi 会面))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 没有)) (VP (v 达成) (NP-OBJ (n 协议)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 双方))
+  (VP
+    (v 可能)
+    (VP (v 会) (VP (ADVP (d 很快)) (ADVP (d 再次)) (VP (vi 会面)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 巴拉克))
+  (VP
+    (v 希望)
+    (IP-OBJ
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (VP
+          (pba 把)
+          (IP-OBJ
+            (NP-PN-SBJ (nz 利库德) (n 集团))
+            (VP (VRD (v 带) (v 进来)))))
+        (wd ，)
+        (VP
+          (ADVP (d 以便))
+          (VP
+            (v 防止)
+            (IP-OBJ
+              (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (m 少数) (n 政府)))
+              (VP (vi 垮台))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (DNP (NP (t 当前)) (ude 的)) (NP (n 情况)))
+  (VP
+    (vshi 是)
+    (VP
+      (v 发生)
+      (PP
+        (p 在)
+        (LCP
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP
+                    (vi 持续)
+                    (y 了)
+                    (NP-EXT
+                      (ADVP (al 差不多))
+                      (NP (QP (m 四) (CLP (q 个))) (NP (n 星期))))))
+                (ude 的)))
+            (DNP
+              (LCP
+                (NP
+                  (NP (NP-PN (ns 巴勒斯坦)) (NP (n 示威) (n 民众)))
+                  (c 和)
+                  (NP (NP-PN (ns 以色列)) (NP (b 保安) (n 部队))))
+                (f 之间))
+              (ude 的))
+            (ADJP (z 血腥))
+            (NP (n 冲突)))
+          (f 之后)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nrf 巴拉克))
+  (VP
+    (VP
+      (ADVP (d 已经))
+      (VP
+        (v 宣布)
+        (IP-OBJ
+          (NP-SBJ (NP-PN (ns 以) (ns 巴)) (NP (n 和平) (n 会谈)))
+          (VP (ADVP (n 无限期)) (VP (v 暂停))))))
+    (wd ，)
+    (VP
+      (ADVP (c 并))
+      (VP
+        (v 说)
+        (wm ：)
+        (IP-OBJ
+          (NP-SBJ
+            (DP (r 这种))
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (CP
+                (IP
+                  (NP-SBJ (-NONE- *T*-1))
+                  (VP (ADVP (d 不断)) (VP (vi 升级))))
+                (ude 的)))
+            (ADJP (a 紧张))
+            (NP (n 局势)))
+          (wd ，)
+          (VP
+            (v 需要)
+            (VP
+              (vyou 有)
+              (NP-OBJ
+                (QP (m 一个))
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-TPC (-NONE- *T*-2))
+                      (NP-SBJ (v 团结) (n 基础))
+                      (VP (ADVP (d 更)) (VP (a 广泛))))
+                    (ude 的)))
+                (NP (n 政府)))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但是))
+  (NP-SBJ
+    (NP-PN (ns 以色列))
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 寻求) (NP-OBJ (n 和平))))
+        (ude 的)))
+    (NP (n 人士)))
+  (VP
+    (ADVP (d 不))
+    (VP
+      (v 赞成)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (n 强硬派)) (ude 的)) (NP-PN (n 沙龙)))
+        (VP (v 进入) (NP-OBJ (n 政府))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP-PN (ns 巴勒斯坦)) (NP (n 官员)))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (vi 表态)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (ADVP (d 不))
+          (VP (v 会) (VP (PP-ADV (p 与) (NP-PN (n 沙龙))) (VP (n 合作))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 沙龙))
+    (VP
+      (PP-TMP (p 在) (NP (t ９月) (QP (m ２８) (CLP (q 号)))))
+      (VP
+        (v 访问)
+        (y 了)
+        (NP-OBJ
+          (NP-PN (ns 耶路撒冷))
+          (QP (m 一个))
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP
+                  (pbei 被)
+                  (IP-OBJ
+                    (NP-SBJ (nz 穆斯林) (c 和) (n 犹太人))
+                    (VP (ADVP (d 都)) (VP (v 视为) (NP-OBJ (n 圣地)))))))
+              (ude 的)))
+          (NP (n 地方))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 由此))
+      (VP (v 挑起) (NP-OBJ (DP (r 这) (CLP (q 次))) (NP (n 暴力) (n 冲突))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 巴勒斯坦人))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 没有))
+    (VP
+      (v 忘记)
+      (IP-OBJ
+        (NP-TMP
+          (IP
+            (NP (QP (m ８０)) (NP (n 年代)))
+            (wd ，)
+            (NP-PN-SBJ (nrf 沙龙))
+            (VP (v 担任) (NP-OBJ (NP-PN (ns 以色列)) (NP (n 国防部长)))))
+          (NP (f 期间)))
+        (wd ，)
+        (NP-SBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (IP (NP-SBJ (-NONE- *T*-1)) (VP (vl 数以百计))))
+          (DNP
+            (PP
+              (p 在)
+              (LCP (NP (NP-PN (ns 黎巴嫩)) (NP (n 难民营))) (NP (f 中))))
+            (ude 的))
+          (NP (n 巴勒斯坦人)))
+        (VP
+          (v 遭到)
+          (NP-OBJ
+            (DNP
+              (NP
+                (CP
+                  (WHNP-2 (-NONE- *OP*))
+                  (CP
+                    (IP
+                      (NP-PN-SBJ (ns 以色列))
+                      (VP (v 支持) (NP-OBJ (-NONE- *T*-2))))
+                    (ude 的)))
+                (NP (nz 基督教) (n 民兵)))
+              (ude 的))
+            (NP (n 屠杀)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (t 后来))
+  (NP-SBJ
+    (QP (m 一) (CLP (q 份)))
+    (DNP (NP (NP-PN (ns 以色列)) (NP (n 政府))) (ude 的))
+    (NP (n 报告)))
+  (VP
+    (v 发现)
+    (wm ：)
+    (IP-OBJ
+      (NP-PN-SBJ (n 沙龙))
+      (VP
+        (v 应该)
+        (VP
+          (DVP (ADVP (d 间接)) (ude 地))
+          (PP-DIR (p 为) (NP (DP (r 那场)) (NP (n 屠杀))))
+          (VP (v 负责))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 与此同时))
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (VP (vyou 有) (NP-OBJ (n 报道)))
+    (VP
+      (v 说)
+      (wd ，)
+      (IP-OBJ
+        (NP-SBJ
+          (NP (NP-PN (ns 巴勒斯坦)) (NP (n 示威) (n 人士)))
+          (c 和)
+          (NP (NP-PN (ns 以色列)) (NP (b 保安) (n 部队))))
+        (VP
+          (PP-LOC
+            (p 在)
+            (NP
+              (NP (NP-PN (ns 约旦河)) (NP (s 西岸)))
+              (c 和)
+              (NP (NP-PN (ns 加沙)) (NP (n 地带)))))
+          (VP (v 爆发) (NP-OBJ (DNP (ADJP (a 新)) (ude 的)) (NP (n 冲突))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-LOC
+    (NP (NP-PN (ns 约旦河)) (NP (s 西岸)))
+    (c 和)
+    (NP (NP-PN (ns 耶路撒冷)) (DNP (NP (s 近郊)) (ude 的)) (NP (n 地方))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP (NP-TMP (t 晚上)) (VP (v 能) (VP (v 听到) (NP-OBJ (n 枪) (v 回响)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 同时))
+  (wd ，)
+  (NP-SBJ
+    (DNP
+      (NP
+        (NP (NP-PN (ns 约旦河)) (NP (s 西岸)))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ-2 (-NONE- *T*-1))
+              (VP (pbei 被) (VP (vi 分裂) (NP-OBJ (-NONE- *-2)))))
+            (ude 的)))
+        (NP-PN (ns 西伯伦市)))
+      (ude 的))
+    (NP (n 武装) (n 冲突)))
+  (VP (ADVP (d 一直)) (VP (vi 持续) (uzhe 着)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (p 在)
+      (LCP
+        (IP
+          (NP-SBJ (NP-PN (ns 巴勒斯坦)) (ADJP (vi 持枪)) (NP (n 民众)))
+          (VP
+            (PP-DIR
+              (p 向)
+              (NP (DNP (NP-PN (nrf 吉洛)) (ude 的)) (NP (n 犹太人))))
+            (VP (vi 开火))))
+        (f 后)))
+    (wd ，)
+    (NP-SBJ (NP-PN (ns 以色列)) (NP (n 坦克)))
+    (VP
+      (v 炮轰)
+      (y 了)
+      (NP-OBJ
+        (DNP (NP (NP-PN (ns 耶路撒冷)) (NP (f 附近))) (ude 的))
+        (NP-PN (ns 拜特贾拉村)))))
+  (wd ，)
+  (IP
+    (NP (NP (ns 以色列)) (NP (n 人)))
+    (VP
+      (v 认为)
+      (IP-OBJ
+        (NP-PN-SBJ (nrf 吉洛))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (DNP (NP-PN (ns 耶路撒冷)) (ude 的))
+            (QP (m 一))
+            (NP (n 部分)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但是))
+    (NP-SBJ (n 巴勒斯坦人))
+    (VP
+      (ADVP (d 则))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ (r 它))
+          (VP
+            (VCP (v 看做) (vshi 是))
+            (NP-OBJ
+              (CP
+                (WHNP-2 (-NONE- *OP*))
+                (CP
+                  (IP
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP
+                      (v 建立)
+                      (PP
+                        (p 在)
+                        (LCP
+                          (NP
+                            (CP
+                              (WHNP-1 (-NONE- *OP*))
+                              (CP
+                                (IP
+                                  (NP-SBJ-3 (-NONE- *T*-1))
+                                  (VP
+                                    (pbei 被)
+                                    (IP-OBJ
+                                      (NP (NP (ns 以色列)) (NP (n 人)))
+                                      (VP
+                                        (v 占领)
+                                        (NP-OBJ (-NONE- *-3))))))
+                                (ude 的)))
+                            (NP (n 领土)))
+                          (f 上)))))
+                  (ude 的)))
+              (QP (m 一个))
+              (NP (n 犹太人) (n 聚居地))))))))
+  (wj 。)))
+</S>

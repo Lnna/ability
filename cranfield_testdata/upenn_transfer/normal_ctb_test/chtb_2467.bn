@@ -1,0 +1,195 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 台北市) (ns 松山)) (NP (n 火车站)) (NP (f 附近)))
+    (VP (NP-TMP (t 今天) (t 凌晨)) (VP (v 传出) (y 了) (NP-OBJ (n 枪声)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 歹徒))
+    (VP
+      (PP-LOC
+        (p 在)
+        (NP (NP (QP (m 一) (CLP (q 家))) (n 服饰) (n 店)) (NP (s 大门口))))
+      (ADVP (d 连连))
+      (VP (vi 开枪))))
+  (wd ，)
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ (n 子弹))
+    (VP
+      (VP
+        (IP (VP (ADVP (d 并)) (VP (d 没有))))
+        (VP (v 贯穿) (NP-OBJ (n 铁门))))
+      (wd ，)
+      (VP
+        (ADVP (d 只))
+        (VP (v 留下) (y 了) (NP-OBJ (n 弹头) (c 和) (n 弹壳))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (n 店家))
+    (VP
+      (v 说)
+      (IP-OBJ
+        (NP-SBJ (r 他们))
+        (VP
+          (ADVP (d 没有))
+          (PP-ADV (p 和) (NP (r 任何人)))
+          (VP (v 结) (NP (a 冤)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 警方))
+    (VP
+      (v 怀疑)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 可能)
+          (VP
+            (vshi 是)
+            (IP-PRD
+              (NP-SBJ (QP (m 一些)) (NP (n 歹徒)))
+              (VP
+                (v 选择)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP
+                    (PP-LOC (p 在) (NP (r 这里)))
+                    (VP (v 练) (NP-OBJ (n 枪法))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 枪击) (n 地点))
+  (VP
+    (ADVP (d 就))
+    (VP
+      (p 在)
+      (LCP-OBJ
+        (NP
+          (DNP (NP (NP-PN (ns 松山) (n 火车站)) (NP (f 对面))) (ude 的))
+          (DP (r 这个))
+          (NP (n 巷子)))
+        (f 里))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (f 附近) (n 邻居))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (NP-SBJ (r 他们))
+      (VP
+        (VP
+          (vshi 是)
+          (VP (v 听到) (NP-OBJ (ADJP (nl 一连串)) (NP (n 枪声)))))
+        (wd ，)
+        (VP (ADVP (c 但是)) (ADVP (d 没有)) (VP (v 看到) (NP-OBJ (n 人影)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-SBJ (r 我))
+  (VP
+    (VP
+      (LCP-TMP
+        (IP (NP-SBJ (-NONE- *pro*)) (VP (v 听到) (NP-OBJ (n 声音))))
+        (f 后))
+      (ADVP (d 就))
+      (VP (VSB (v 下来) (v 看))))
+    (wd ，)
+    (VP (ADVP (c 可是)) (ADVP (d 没)) (VP (v 看到) (NP-OBJ (n 人)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 警员))
+  (VP
+    (PP-LOC (p 在) (NP (s 现场)))
+    (VP
+      (v 找到)
+      (NP-OBJ
+        (NP (QP (m ３) (CLP (q 个))) (NP (nrf 弹壳)))
+        (wd ，)
+        (NP (QP (m ５) (CLP (q 个))) (NP (n 弹头))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 不过))
+    (NP-SBJ (ADVP (ulian 连)) (NP (n 铁门)))
+    (VP (ADVP (d 都)) (VP (VPT (v 打) (d 不) (v 穿)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VCD (v 研) (v 判))
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (v 可能) (VP (vshi 是) (NP-PRD (ADJP (v 改造)) (NP (n 枪))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 服饰) (n 店) (n 老板))
+  (VP
+    (v 说)
+    (IP-OBJ
+      (NP-SBJ (r 他们))
+      (VP
+        (VP
+          (ADVP (d 没有))
+          (PP-ADV (p 和) (NP (n 人)))
+          (VP (v 结) (NP (a 冤))))
+        (wd ，)
+        (VP
+          (ADVP (d 不))
+          (VP
+            (v 知道)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (vshi 是)
+                (IP-PRD (NP-SBJ (r 谁)) (VP (v 找) (NP-OBJ (an 麻烦)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 警方))
+  (VP
+    (VP
+      (v 怀疑)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (v 可能)
+          (VP
+            (vshi 是)
+            (IP-PRD
+              (NP-SBJ (n 歹徒))
+              (VP
+                (IP (ADVP (t 一时)) (NP (k 性)) (VP (f 起)))
+                (wd ，)
+                (VP
+                  (VP
+                    (pba 把)
+                    (IP-OBJ
+                      (NP-SBJ (n 铁门))
+                      (VP (v 当) (NP-OBJ (n 标杷)))))
+                  (VP (v 练) (NP (n 枪))))))))))
+    (wd ，)
+    (VP
+      (NP-TMP (t 目前))
+      (VP
+        (p 将)
+        (IP-OBJ
+          (NP-SBJ (n 弹头) (wn 、) (IP (VP (v 弹) (NP (n 壳)))))
+          (VP (VP (VRD (v 送) (v 到)) (b 刑事) (n 局)) (VP (n 鉴定)))))))
+  (wj 。)))
+</S>

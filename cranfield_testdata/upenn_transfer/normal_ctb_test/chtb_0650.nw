@@ -1,0 +1,342 @@
+<S>
+( (IP-HLN
+  (NP-SBJ (NP-PN (ns 山东)) (NP (n 蔬菜) (n 产业)))
+  (VP (v 继续) (VP (PP-DIR (p 向) (NP (n 纵深))) (VP (v 发展))))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 济南)
+  (t 十二月)
+  (t 二十七日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 李红梅)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (NP-PN-APP (nr 齐宝芳))
+    (wd ，)
+    (DNP (NP-PN (ns 山东省) (ns 寿光市)) (ude 的))
+    (QP (m 一) (CLP (q 位)))
+    (NP (n 菜农)))
+  (wd ，)
+  (VP
+    (PP-DIR
+      (p 对)
+      (NP
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP
+                (vi 前来)
+                (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 视察)))))
+            (ude 的)))
+        (NP (n 人大代表))))
+    (ADVP (r 这样))
+    (VP (v 说)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP
+            (PP (v 像) (NP (v 齐家)))
+            (ADVP (r 这样))
+            (VP (v 承包) (NP-OBJ (n 蔬菜) (n 大棚)))))
+        (ude 的)))
+    (NP (n 农民)))
+  (VP
+    (PP-LOC (p 在) (NP (s 当地)))
+    (ADVP (d 并))
+    (ADVP (d 不))
+    (VP (p 在) (NP-OBJ (m 少数))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nr 赫风英))
+    (VP
+      (VP
+        (v 承包)
+        (y 了)
+        (NP-OBJ
+          (DNP (QP (m 六百) (CLP (q 平方米))) (ude 的))
+          (NP (n 蔬菜) (n 大棚))))
+      (wd ，)
+      (VP (v 种植) (NP-OBJ (n 葫芦)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (DP-TMP (r 每年))
+      (VP (v 可以) (VP (v 种) (QP-OBJ (m 三) (CLP (q 季)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 年收入))
+    (VP (v 可) (VP (v 达) (QP-OBJ (m 三万) (CLP (q 元))))))
+  (wf ；)
+  (IP
+    (NP-PN-SBJ (nr 王德莲))
+    (VP
+      (VP (v 承包) (y 了) (NP-OBJ (QP (m 一个)) (NP (n 大棚))))
+      (wd ，)
+      (VP (v 种植) (NP-OBJ (NP-PN (ns 以色列)) (NP (n 番茄))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP (DP (r 这种)) (NP (n 番茄))) (n 年产量))
+    (VP
+      (VP (v 可) (VP (v 达) (QP-OBJ (m 四万) (CLP (q 公斤)))))
+      (wd ，)
+      (VP
+        (ADVP (d 主要))
+        (VP
+          (VRD (v 供应) (p 给))
+          (NP-OBJ (DP (r 各)) (ADJP (a 大)) (NP (n 宾馆)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (ADJP (q 年)) (NP (vi 盈利)))
+    (VP (QP-PRD (m 三万五千) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 经营) (NP-OBJ (n 大棚) (n 蔬菜))))
+  (VP (ADVP (d 比较)) (VP (a 辛苦)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (nr 王德英))
+  (VP
+    (v 告诉)
+    (NP-IO (n 记者))
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (r 她))
+      (VP
+        (VP
+          (QP-TMP (DP (r 每天)) (NP (t 早上)) (QP (t 七点)))
+          (ADVP (d 就))
+          (VP (v 要) (VP (VP (v 到) (NP-OBJ (n 大棚))) (VP (v 来)))))
+        (wd ，)
+        (VP
+          (ADVP (d 一直))
+          (VP
+            (v 要)
+            (VP
+              (v 忙)
+              (PP-TMP (v 到) (NP (t 晚上) (QP (m 六) (CLP (q 点)))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 但))
+  (IP-ADV (NP-SBJ (-NONE- *PRO*)) (VP (v 看) (ude 得) (VP-EXT (v 出来))))
+  (wd ，)
+  (NP-SBJ (r 她))
+  (VP (ADVP (d 很)) (VP (a 开心)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP (DP (r 每个)) (NP (n 蔬菜) (n 大棚))) (NP (n 投入)))
+    (VP
+      (ADVP (d 大约))
+      (ADVP (d 都))
+      (VP
+        (v 要)
+        (QP-OBJ
+          (QP (m 两) (CLP (-NONE- *RNR*-1)))
+          (wn 、)
+          (QP (m 三万) (CLP-1 (q 元)))))))
+  (wd ，)
+  (IP
+    (DP-ADV (r 每年))
+    (NP-SBJ (DP (r 各项)) (NP (n 费用)))
+    (VP
+      (QP-PRD
+        (ADVP (d 约))
+        (QP
+          (QP (m 三千) (CLP (-NONE- *RNR*-2)))
+          (p 到)
+          (QP (m 五千) (CLP-2 (q 元)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-TMP
+      (ADVP (r 每))
+      (PP
+        (v 到)
+        (NP
+          (CP
+            (WHPP-1 (-NONE- *OP*))
+            (IP
+              (NP-SBJ (n 蔬菜))
+              (VP (PP-TMP (-NONE- *T*-1)) (VP (a 成熟)))))
+          (NP (n 时节)))))
+    (wd ，)
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 会)
+        (VP
+          (vyou 有)
+          (IP-OBJ (NP-SBJ (n 蔬菜) (n 批发商)) (VP (VSB (vi 前来) (v 收购))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 菜农))
+    (VP
+      (ADVP (d 也))
+      (VP
+        (v 可以)
+        (VP
+          (NP-ADV (r 自己))
+          (VP
+            (VP
+              (v 到)
+              (NP-OBJ (DNP (LCP (n 市里)) (ude 的)) (NP (n 批发) (n 市场))))
+            (VP (v 进行) (NP-OBJ (n 交易))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 去年))
+  (IP
+    (IP
+      (NP-SBJ
+        (DNP (NP (DP (r 这个)) (NP (n 市场))) (ude 的))
+        (NP (n 蔬菜) (n 成交量)))
+      (VP (QP-PRD (m 二十三亿) (CLP (q 公斤)))))
+    (wd ，)
+    (IP (NP-SBJ (n 交易额)) (VP (QP-PRD (m 二十五亿) (CLP (q 元))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 山东省))
+  (wd ，)
+  (VP
+    (PP-MNR
+      (p 作为)
+      (NP
+        (DNP (NP-PN (ns 中国)) (ude 的))
+        (NP (n 农业))
+        (ADJP (a 大))
+        (NP (n 省))))
+    (wd ，)
+    (PP-LOC (p 在) (NP (n 农业) (n 产业化) (n 方面)))
+    (VP
+      (VP (VP-FOC (vi 起步)) (VP (ADVP (d 较)) (VP (a 早))))
+      (wd ，)
+      (VP
+        (v 取得)
+        (y 了)
+        (NP-OBJ
+          (CP
+            (WHNP-1 (-NONE- *OP*))
+            (CP
+              (IP
+                (NP-SBJ (-NONE- *T*-1))
+                (VP (ADVP (d 很)) (VP (a 好))))
+              (ude 的)))
+          (NP (n 经济效益))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (ns 该省))
+    (VP
+      (IP-ADV
+        (NP-SBJ (-NONE- *PRO*))
+        (VP (PP-DIR (p 从) (NP (t 去年))) (VP (v 开始))))
+      (ADVP (d 大力))
+      (VP
+        (v 开发)
+        (NP-OBJ (NP (ADJP (n 绿色)) (NP (n 蔬菜))) (NP (n 种植业))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (QP (m 许多)) (NP (n 菜农)))
+    (VP
+      (ADVP (d 都))
+      (VP
+        (v 投入)
+        (y 了)
+        (NP-OBJ
+          (DNP (NP (ADJP (n 绿色)) (NP (n 蔬菜))) (ude 的))
+          (NP (n 生产))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (s 当地) (n 政府))
+    (VP
+      (ADVP (d 也))
+      (PP-LOC (p 在) (NP (DP (r 这)) (NP (n 方面))))
+      (VP
+        (v 给予)
+        (y 了)
+        (NP-OBJ
+          (DNP (LCP (NP (n 财政) (c 和) (n 技术)) (f 上)) (ude 的))
+          (NP (n 支持))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (v 建) (NP-OBJ (n 棚))))
+    (NP (n 费用)))
+  (VP
+    (VP
+      (PP-LGS (p 由) (NP (n 政府)))
+      (VP (v 资助) (QP-OBJ (m 一万) (CLP (q 元)))))
+    (wd ，)
+    (VP
+      (PP-LGS (NP (n 个人)))
+      (VP
+        (vi 出资)
+        (QP-OBJ
+          (QP (m 二万) (CLP (-NONE- *RNR*-1)))
+          (p 至)
+          (QP (m 三万) (CLP-1 (q 元)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (n 绿色)) (NP (n 食品)))
+  (VP
+    (vshi 是)
+    (VP
+      (v 指)
+      (NP-OBJ
+        (DP (r 那些))
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP (IP (NP-SBJ (-NONE- *T*-1)) (VP (v 无污染))) (ude 的)))
+        (CP
+          (WHNP-2 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-2))
+              (VP (a 安全) (wn 、) (b 优质) (wn 、) (n 营养)))
+            (ude 的)))
+        (NP (n 食品)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

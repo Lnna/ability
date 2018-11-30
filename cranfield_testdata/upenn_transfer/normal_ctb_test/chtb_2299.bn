@@ -1,0 +1,114 @@
+<S>
+( (IP
+  (IP
+    (NP-TPC (NP-PN (ns 本溪)) (NP (n 消息)))
+    (wm ：)
+    (NP-PN-SBJ (ns 辽宁省) (ns 本溪市))
+    (VP
+      (v 落实)
+      (NP-OBJ
+        (IP-APP
+          (NP-SBJ (-NONE- *pro*))
+          (VP (v 完善) (NP-OBJ (n 社会) (n 保障) (n 体系))))
+        (NP (n 工作)))))
+  (wd ，)
+  (IP
+    (NP-TMP (t 去年))
+    (NP-SBJ (NP (n 职工)) (ADJP (a 基本)) (NP (n 养老金)))
+    (VP
+      (v 实现)
+      (IP-OBJ
+        (NP-SBJ (-NONE- *pro*))
+        (VP (QP-ADV (bl 百分之百)) (ADVP (n 社会化)) (VP (n 发放))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-LOC (NP-APP (ADJP (a 老)) (NP (n 工业) (n 基地))) (NP-PN (ns 本溪)))
+  (NP-SBJ
+    (NP
+      (NP (ADJP (n 在职)) (NP (n 职工)))
+      (c 与)
+      (NP (ADJP (n 退休)) (NP (n 职工))))
+    (IP (NP (n 人数)) (VP (n 比))))
+  (VP
+    (VP (v 达到) (QP (m ２．８) (wm ：) (m １)))
+    (wd ，)
+    (VP
+      (v 高于)
+      (NP-OBJ (NP (n 全国)) (ADJP (a 平均)) (NP (n 水平)))
+      (QP-EXT (m 二) (p 到) (m 三) (CLP (q 倍)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (PP-DIR (p 针对) (NP (DP (r 这种)) (NP (n 情况))))
+    (wd ，)
+    (NP-PN-SBJ (ns 本溪市))
+    (VP
+      (PP-DIR
+        (p 对)
+        (NP (NP (n 养老保险金)) (NP (v 征缴) (c 和) (n 方法) (n 体制))))
+      (VP (v 做) (y 了) (NP-OBJ (ADJP (a 重大)) (NP (n 调整))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (PP-DIR
+        (p 由)
+        (NP
+          (DNP (NP (t 过去)) (ude 的))
+          (FLR (v 实行))
+          (NP (ADJP (n 差额)) (NP (n 收支)))))
+      (VP (VCP (v 改) (v 为)) (NP-OBJ (ADJP (n 全额)) (NP (n 收支))))))
+  (wd ，)
+  (IP
+    (NP-SBJ-1 (n 社会) (n 养老保险金))
+    (VP
+      (VP (ADVP (ad 统一)) (VP (v 征缴)))
+      (wd ，)
+      (VP
+        (PP-LGS (p 由) (NP (n 银行)))
+        (ADVP (ad 直接))
+        (VP (v 发放) (NP-OBJ (-NONE- *-1))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (ad 严格))
+      (VP
+        (v 控制)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-SBJ (n 养老) (n 保险) (vd 统筹))
+              (VP (v 以为) (NP-OBJ (n 项目))))
+            (ude 的))
+          (NP (n 支出))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-TMP (p 到) (LCP (t 去年底)))
+  (wd ，)
+  (NP-SBJ (n 全市))
+  (VP
+    (ADVP (d 共))
+    (VP
+      (v 征缴)
+      (NP-OBJ (NP (n 企业)) (ADJP (a 基本)) (NP (n 养老保险金)))
+      (QP-EXT (m ５．３亿) (CLP (q 元)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (NP (n 养老金)) (ADJP (n 社会化)) (VP (n 发放) (NP (k 率))))
+  (VP
+    (ADVP (d 也))
+    (PP-DIR (p 由) (QP (DNP (NP (t 去年)) (ude 的)) (QP (m ４６％))))
+    (VP
+      (VRD (vi 上升) (v 到))
+      (QP-EXT (DNP (NP (t 现在)) (ude 的)) (QP (bl 百分之百)))))
+  (wj 。)))
+</S>

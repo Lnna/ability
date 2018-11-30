@@ -1,0 +1,658 @@
+<S>
+( (IP-HLN
+  (IP (NP-TPC (wyz 「) (n 兴票案) (wyy 」)) (NP-SBJ (n 疑云)) (VP (v 密布)))
+  (wd ，)
+  (IP (NP-TPC (n 总统) (n 选情)) (NP-SBJ (n 变数)) (VP (d 不断)))))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 原先))
+              (PP-LOC (p 在) (LCP (NP (n 民意) (n 调查)) (f 中)))
+              (VP (vl 遥遥领先))))
+          (ude 的)))
+      (NP-PN (nr 宋楚瑜)))
+    (wd ，)
+    (VP
+      (ADVP (d 也))
+      (PP-PRP
+        (p 因为)
+        (NP (DP (r 这) (CLP (q 起))) (NP (wyz 「) (n 兴票案) (wyy 」))))
+      (VP
+        (IP (VP (ADVP (d 重)) (VP (v 击))))
+        (NP-OBJ
+          (IP-APP (NP-SBJ (-NONE- *PRO*)) (VP (a 清廉)))
+          (NP (n 形象))))))
+  (wd ，)
+  (IP (v 支持) (NP (n 度)) (VP (vi 下滑)))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 让)
+      (NP-OBJ (n 选情))
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VRD (vi 演变) (v 成))
+          (NP-OBJ
+            (CP-APP
+              (IP
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP (p 与) (NP-PN (nr 连战) (wn 、) (nr 陈水扁)))
+                  (NP-ADV (QP (m 三)) (NP (n 雄)))
+                  (VP (vi 鼎立))))
+              (ude 的))
+            (NP (n 局势)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (c 同时))
+    (wd ，)
+    (NP-SBJ (NP (wyz 「) (n 兴票案) (wyy 」)) (NP (n 效应)))
+    (VP (vd 持续) (VP (vi 发酵))))
+  (wd ，)
+  (IP (NP-SBJ (n 选情) (n 变数)) (VP (ADVP (d 仍)) (VP (v 在))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-PN-SBJ (ns 台北) (n 地检署))
+  (VP
+    (VP
+      (ADVP (d 亦))
+      (ADVP (d 随即))
+      (VP
+        (v 展开)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *PRO*))
+          (VP (v 侦办) (NP-OBJ (wyz 「) (n 兴票案) (wyy 」))))))
+    (wd ，)
+    (VP
+      (PP-DIR
+        (p 向)
+        (NP
+          (NP-PN-APP
+            (nt 财政部)
+            (wn 、)
+            (n 台银)
+            (wn 、)
+            (VP (v 兴) (NP (n 票)))
+            (udeng 等))
+          (NP (n 单位))))
+      (VP (v 调阅) (NP-OBJ (NP (n 帐) (wn 、) (n 证)) (NP (n 资料)))))
+    (wd ，)
+    (c 并)
+    (VP
+      (ADVP (d 将))
+      (PP-TMP
+        (p 在)
+        (LCP
+          (IP
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (n 厘清) (NP-OBJ (n 资金) (v 流向))))
+          (f 之后)))
+      (wd ，)
+      (VP
+        (v 传唤)
+        (NP-OBJ
+          (NP-PN-APP (nr 陈碧云) (wn 、) (nr 宋镇远) (udeng 等))
+          (NP (n 人)))
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (VSB (n 到案) (n 说明)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-DIR (p 针对) (NP (DNP (NP (n 外界)) (ude 的)) (NP (n 质疑))))
+  (wd ，)
+  (NP-PN-SBJ (nr 宋楚瑜))
+  (VP
+    (ADVP (d 也))
+    (VP
+      (v 委托)
+      (NP-OBJ
+        (NP-APP (NP (ADJP (a 新)) (NP (n 党))) (NP (nt 立委)))
+        (NP-PN (nr 谢启大)))
+      (wd ，)
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (VP
+            (VP (v 组成) (NP-OBJ (QP (m 一)) (NP (n 查帐团))))
+            (wd ，)
+            (VP (v 投入) (NP-OBJ (n 查帐) (n 工作))))
+          (wd ，)
+          (VP (p 以) (VP (vi 取信) (NP-OBJ (n 社会))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 十二月) (t 二十八日))
+  (wd ，)
+  (NP-PN-SBJ (nr 谢启大))
+  (VP
+    (VP (v 召开) (NP-OBJ (nr 查帐) (VP (v 说明) (NP (n 会)))))
+    (wd ，)
+    (VP
+      (v 解释)
+      (NP-OBJ
+        (DNP (NP (DP (r 各)) (ADJP (n 相关)) (NP (n 帐户))) (ude 的))
+        (NP (n 开立) (n 时间) (wn 、) (n 用途) (c 及) (n 资金) (n 流向)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (ADJP (a 详细)) (NP (n 帐目)))
+  (VP
+    (ADVP (p 将))
+    (LCP-TMP
+      (IP
+        (NP-SBJ (-NONE- *PRO*))
+        (VP
+          (PP-TMP (p 在) (LCP (NP (t 近期)) (f 内)))
+          (PP-LGS (p 由) (NP-PN (nr 谢启大)))
+          (IP-ADV
+            (NP-SBJ (-NONE- *PRO*))
+            (VP (v 会同) (NP-OBJ (n 会计师))))
+          (VP (VRD (v 整理) (v 成)) (NP (NP (a 清)) (NP (n 册))))))
+      (f 后))
+    (wd ，)
+    (VP (v 交给) (NP-OBJ (n 检调) (n 单位))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 不过))
+  (wd ，)
+  (PP-DIR
+    (p 对于)
+    (IP
+      (NP-APP
+        (CP
+          (NP-1 (-NONE- *PRO*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (d 最)) (VP (a 关键))))
+            (ude 的)))
+        (NP (n 问题)))
+      (wm ：)
+      (IP-Q
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (ADVP-WH (r 为何))
+          (VP
+            (v 要)
+            (VP
+              (p 将)
+              (IP-OBJ
+                (NP-SBJ (n 公帐) (wn 、) (n 私帐))
+                (VP (v 混) (IP (VP (p 在) (ADVP (s 一起))))))))))))
+  (ww ？)
+  (NP-PN-SBJ (nr 陈碧云))
+  (VP (ADVP (d 仍)) (ADVP (v 无法)) (ADVP (ad 合理)) (VP (v 解释)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (LCP-TMP (NP (NP-PN (t 陈) (wn 、) (t 宋)) (NP (n 记者会))) (f 之后))
+    (wd ，)
+    (NP-PN-SBJ (n 国民党))
+    (VP (ADVP (d 亦)) (VP (v 召开) (NP-OBJ (n 记者会)))))
+  (wd ，)
+  (NP-SBJ (NP-APP (NP-PN (n 国民党)) (NP (n 发言人))) (NP-PN (nr 黄辉珍)))
+  (VP
+    (v 强调)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ (DP (r 这些)) (NP (n 资金)))
+        (VP
+          (ADVP (d 并))
+          (ADVP (d 未))
+          (VP
+            (v 获得)
+            (NP-OBJ (NP-PN (n 国民党)) (ADJP (ad 正式)) (NP (v 授权))))))
+      (wd ，)
+      (IP (NP-PN-SBJ (nr 宋楚瑜)) (VP (v 涉嫌) (NP-OBJ (v 侵占))))
+      (wd ，)
+      (IP
+        (NP-SBJ (ADJP (a 实际)) (NP (n 调查) (n 结果)))
+        (wd ，)
+        (VP
+          (v 需)
+          (VP
+            (VCD (ad 静) (vi 待))
+            (NP-OBJ (n 司法) (n 单位))
+            (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 调查))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (DP (r 这) (CLP (q 起)))
+    (DNP (PP (p 有关) (NP-PN (nr 宋楚瑜))) (ude 的))
+    (NP (n 金钱) (n 数字))
+    (NP (n 疑云)))
+  (wd ，)
+  (VP
+    (IP (VP (v 肇始) (p 于)))
+    (NP-OBJ
+      (DNP (NP (NP-APP (nt 立委)) (NP-PN (nr 杨吉雄))) (ude 的))
+      (NP (n 举发))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-PN-SBJ (nr 宋楚瑜))
+  (VP
+    (ADVP (d 只))
+    (VP
+      (v 表示)
+      (IP-OBJ
+        (IP
+          (IP-TPC
+            (IP (NP (ns 宋镇)) (VP (a 远)))
+            (VP
+              (LCP-TMP
+                (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 毕业)))
+                (f 后))
+              (VP
+                (vi 出国)
+                (IP-OBJ
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (vi 念书) (wn 、) (vi 创业))))))
+          (wd ，)
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ (n 长辈))
+              (VP
+                (VP
+                  (ADVP (n 好意))
+                  (VP (v 摆) (NP-OBJ (QP (m 一个)) (NP (n 帐户)))))
+                (wd ，)
+                (VP
+                  (v 让)
+                  (IP (NP (ns 宋镇)) (VP (a 远)))
+                  (IP
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP
+                      (LCP-TMP
+                        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 需要)))
+                        (n 时))
+                      (VP (v 可) (VP (v 使用) (NP-OBJ (n 帐户) (n 孳息)))))))))))
+        (wd ，)
+        (IP
+          (ADVP (c 而))
+          (LCP-TMP (QP (a 多) (CLP (q 年))) (f 来))
+          (PP-PRP
+            (c 因为)
+            (IP
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (v 没有) (NP-OBJ (ADJP (a 特别)) (NP (n 需要))))))
+          (wd ，)
+          (ADVP (c 故))
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (LCP-TMP (NP (t 去年) (t 六月)) (n 时))
+            (ADVP (d 已))
+            (VP
+              (p 将)
+              (IP-OBJ
+                (QP-SBJ
+                  (QP (QP (m 一亿四千)) (QP (ADVP (m 多)) (QP (m 万))))
+                  (CLP (q 元)))
+                (VP (v 归还))))))
+        (wd ，)
+        (IP
+          (PP-DIR
+            (p 至于)
+            (IP (NP-SBJ (n 长辈)) (VP (vshi 是) (NP-WH-PRD (r 谁)))))
+          (NP-SBJ (r 他))
+          (VP (ADVP (v 无法)) (VP (v 公布)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (DNP (NP-PN (nr 宋楚瑜)) (ude 的)) (NP (n 解释)))
+    (VP
+      (VP
+        (ADVP (d 并))
+        (ADVP (d 未))
+        (VP
+          (v 使)
+          (NP-OBJ (n 舆论))
+          (IP (NP-SBJ (-NONE- *PRO*)) (VP (vi 平息)))))
+      (wd ，)
+      (VP
+        (ADVP (d 反而))
+        (VP
+          (v 引起)
+          (NP-OBJ (ADJP (ADVP (d 更)) (ADJP (a 多))) (NP (v 臆测)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 于是))
+    (NP-SBJ (r 他))
+    (VP
+      (PP-TMP (p 在) (NP (t 十二月) (t 十四日)))
+      (VP
+        (VP (v 召开) (NP-OBJ (n 记者会)))
+        (VP
+          (v 说明)
+          (wd ，)
+          (IP-OBJ
+            (NP-SBJ
+              (DNP (IP (NP (ns 宋镇)) (VP (a 远))) (ude 的))
+              (NP (n 资金)))
+            (VP
+              (vshi 是)
+              (IP-PRD
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-LOC
+                    (p 在)
+                    (LCP
+                      (NP
+                        (NP
+                          (NP-APP (NP-PN (n 国民党)) (NP (n 主席)))
+                          (NP-PN (nr 李登辉)))
+                        (NP (v 指示)))
+                      (f 下)))
+                  (wd ，)
+                  (VP
+                    (d 将)
+                    (IP-OBJ
+                      (NP-SBJ
+                        (CP
+                          (WHNP-2 (-NONE- *OP*))
+                          (CP
+                            (IP
+                              (NP-SBJ (-NONE- *T*-2))
+                              (VP
+                                (ADVP (d 原))
+                                (VP
+                                  (PP-PRD
+                                    (p 在)
+                                    (NP
+                                      (NP
+                                        (NP-PN (n 国民党))
+                                        (NP (n 秘书长)))
+                                      (NP (n 专户)))))))
+                            (ude 的)))
+                        (NP (n 款项)))
+                      (wd ，)
+                      (VP
+                        (VP
+                          (PP-LGS
+                            (p 经由)
+                            (NP
+                              (NP
+                                (NP (n 党) (v 营))
+                                (NP-PN (nz 华夏) (n 投资) (n 公司)))
+                              (p 与)
+                              (NP
+                                (NP-PN (n 国民党))
+                                (NP (n 中央) (n 委员会)))))
+                          (wd ，)
+                          (VP
+                            (VSB (v 拨) (v 交))
+                            (QP-OBJ
+                              (QP (m 一亿四千六百四十六万))
+                              (ADJP (m 余))
+                              (CLP (q 元)))))
+                        (wd ，)
+                        (VP
+                          (ADVP (d 分别))
+                          (VP
+                            (VP
+                              (v 借用)
+                              (NP-OBJ
+                                (DNP
+                                  (NP-PN
+                                    (IP (NP (ns 宋镇)) (VP (ad 远)))
+                                    (p 与)
+                                    (nr 陈碧云))
+                                  (uzhi 之))
+                                (NP (n 帐户))))
+                            (VP (v 存放))))
+                        (wd ，)
+                        (VP
+                          (IP (NP (n 委)) (VP (p 由)))
+                          (NP-PN-OBJ (nr 宋楚瑜))
+                          (IP
+                            (NP-SBJ (-NONE- *PRO*))
+                            (VP
+                              (v 执行)
+                              (NP-OBJ
+                                (UCP-APP
+                                  (IP
+                                    (NP-SBJ (-NONE- *PRO*))
+                                    (VP
+                                      (v 照顾)
+                                      (NP-OBJ
+                                        (NP
+                                          (NP-APP
+                                            (ADJP (f 前))
+                                            (NP (n 主席)))
+                                          (NP-PN (nr 蒋经国)))
+                                        (NP (n 家族) (n 后代)))))
+                                  (wd ，)
+                                  (c 及)
+                                  (NP
+                                    (CP
+                                      (WHNP-1 (-NONE- *OP*))
+                                      (CP
+                                        (IP
+                                          (NP-SBJ (n 主席))
+                                          (VP
+                                            (ADVP (d 特别))
+                                            (VP
+                                              (v 指示)
+                                              (NP-OBJ (-NONE- *T*-1)))))
+                                        (uzhi 之)))
+                                    (NP (n 党政))
+                                    (NP (n 工作)))
+                                  (udeng 等))
+                                (NP (n 任务)))))))))))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 十二月) (t 二十一日))
+  (wd ，)
+  (NP-PN-SBJ (nr 杨吉雄))
+  (VP
+    (VP (ADVP (d 亦)) (ADVP (d 再度)) (VP (v 召开) (NP-OBJ (n 记者会))))
+    (wd ，)
+    (VP
+      (v 公布)
+      (IP-OBJ
+        (NP-SBJ
+          (NP-APP (NP-PN (nr 宋楚瑜)) (NP (n 妻妹)))
+          (NP-PN (nr 陈碧云)))
+        (VP
+          (ADVP (d 曾))
+          (PP-TMP
+            (p 于)
+            (LCP
+              (NP
+                (DNP
+                  (LCP
+                    (LCP (QP (m 八十三) (CLP (q 年))) (f 底))
+                    (p 至)
+                    (LCP (QP (m 八十四) (CLP (q 年))) (f 初)))
+                  (ude 的))
+                (QP (m 半) (CLP (q 个)))
+                (NP (n 月)))
+              (f 内)))
+          (wd ，)
+          (PP-MNR (p 以) (QP (NP (n 现金)) (QP (m 四亿七千万))))
+          (VP
+            (v 购买)
+            (NP-OBJ
+              (DNP (NP-PN (nz 中兴) (n 票券)) (ude 的))
+              (NP (n 债券) (c 与) (n 票券))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP (NP-SBJ (n 舆论)) (VP (ADVP (d 再度)) (VP (z 哗然))))
+  (wd ，)
+  (IP
+    (NP-SBJ (NP-APP (n 财政部长)) (NP-PN (nr 邱正雄)))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP
+              (UCP
+                (NP (n 舆论))
+                (c 及)
+                (IP (NP-SBJ (n 立法) (n 委员)) (VP (v 质询))))
+              (ude 的))
+            (NP (n 压力)))
+          (f 下)))
+      (wd ，)
+      (ADVP (v 乃))
+      (PP-TMP (p 于) (NP (t 十二月) (t 二十二日)))
+      (VP (v 公布) (NP-OBJ (ADJP (b 前述)) (NP (n 调查) (n 结果))))))
+  (wd ，)
+  (IP
+    (ADVP (f 之后))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (c 乃))
+      (ADVP (d 又))
+      (VP
+        (v 引发)
+        (y 了)
+        (NP-OBJ
+          (CP-APP
+            (IP
+              (NP-PN-SBJ (nr 宋楚瑜))
+              (VP
+                (v 委托)
+                (NP-OBJ
+                  (NP-APP (NP (ADJP (a 新)) (NP (n 党))) (NP (nt 立委)))
+                  (NP-PN (nr 谢启大)))
+                (IP
+                  (NP-SBJ (-NONE- *PRO*))
+                  (VP (ADVP (ad 独立)) (VP (v 调查))))))
+            (uzhi 之))
+          (ADJP (n 后续))
+          (NP (n 行动))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP (ADVP (d 至今)) (VP (NP (n 余波)) (VP (vi 荡漾)) (wd ，) (vl 莫衷一是))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (IP-Q-SBJ
+      (NP-SBJ (NP (wyz 「) (n 兴票案) (wyy 」)) (NP (n 真相)))
+      (VP-WH (r 如何)))
+    (wd ，)
+    (VP
+      (LCP-TMP (NP (ADJP (ADJP (a 短))) (NP (n 时间))) (f 内))
+      (VP
+        (v 可能)
+        (VP
+          (ADVP (d 很))
+          (ADVP (a 难))
+          (VP (VP-FOC (v 解释)) (VP (a 清楚)))))))
+  (wd ，)
+  (IP
+    (ADVP (c 但))
+    (NP-SBJ (r 该案))
+    (VP
+      (PP-DIR (p 对) (NP (DNP (NP-PN (nr 宋楚瑜)) (ude 的)) (NP (n 选情))))
+      (ADVP (d 已))
+      (VP (v 造成) (NP-OBJ (ADJP (a 重大)) (NP (n 影响))))))
+  (wd ，)
+  (IP
+    (IP-ADV
+      (NP-SBJ (-NONE- *PRO*))
+      (VP
+        (PP-MNR
+          (p 根据)
+          (NP
+            (CP
+              (WHNP-1 (-NONE- *OP*))
+              (IP
+                (NP-PN-SBJ (ns 中国) (n 时报))
+                (VP
+                  (PP-TMP (p 在) (NP (t 十二月) (t 二十日)))
+                  (VP (usuo 所) (VP (v 作) (NP-OBJ (-NONE- *T*-1)))))))
+            (NP (n 民调))))
+        (VP (v 显示))))
+    (wd ，)
+    (NP-SBJ
+      (CP-APP
+        (IP (NP-SBJ (-NONE- *PRO*)) (VP (v 支持) (NP-PN-OBJ (nr 宋楚瑜))))
+        (ude 的))
+      (NP (n 比例)))
+    (VP
+      (ADVP (d 已))
+      (PP-DIR
+        (p 由)
+        (QP
+          (DNP (LCP (s 案前)) (ude 的))
+          (IP (VP (QP (QP (m 三) (CLP (q 成))) (ADVP (m 多)))))))
+      (VP (VRD (v 下挫) (v 至)) (QP (QP (m 二) (CLP (q 成))) (QP (m 三))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 陈水扁))
+    (VP
+      (ADVP (d 则))
+      (PP-MNR (p 以) (QP (QP (m 二) (CLP (q 成))) (QP (m 四))))
+      (VP (a 超前))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nr 连战))
+    (VP
+      (PP-MNR (p 以) (VP (QP (m 二)) (VP (q 成) (QP (m 二)))))
+      (LCP (IP (VP (ADVP (d 紧)) (VP (VRD (v 追) (p 在))))) (f 后))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (v 形成)
+      (NP-OBJ
+        (DNP
+          (NP
+            (IP (VP (ADVP (d 只)) (DFL (vyou 有))))
+            (NP (ADJP (m 些微)) (NP (n 差距))))
+          (ude 的))
+        (NP (n 情形)))))
+  (wj 。)))
+</S>
+<S>
+( (IP-Q
+  (IP-Q-TPC
+    (NP-SBJ
+      (DNP (NP (NP-PN (ns 台湾)) (NP (a 民主) (n 文化))) (ude 的))
+      (NP (n 品质)))
+    (VP (ADVP (d 究竟)) (VP-WH (r 如何))))
+  (wd ，)
+  (NP-SBJ (n 民众) (p 与) (n 媒体))
+  (VP (ADVP-WH (v 是否)) (ADVP (d 都)) (VP (v 得) (VP (vl 加把劲))))
+  (ww ？)))
+</S>

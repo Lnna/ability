@@ -1,0 +1,246 @@
+<S>
+( (IP-HLN
+  (NP-PN-SBJ (ns 河南) (ns 西峡))
+  (VP (v 发现) (NP-OBJ (n 恐龙) (n 骨骼) (n 化石)))))
+</S>
+<S>
+( (FRAG
+  (nt 新华社)
+  (ns 郑州)
+  (t 四月)
+  (t 二十三日)
+  (n 电)
+  (wkz （)
+  (n 记者)
+  (nr 刘雅鸣)
+  (wky ）)))
+</S>
+<S>
+( (IP
+  (NP-TMP (t 最近))
+  (wd ，)
+  (NP-SBJ (ADJP (n 有关)) (NP (n 专家) (n 学者)))
+  (VP
+    (PP-LOC (p 在) (NP-PN (ns 河南省) (ns 西峡县) (ns 阳城乡)))
+    (VP (v 发现) (NP-OBJ (QP (m 大量)) (NP (n 恐龙) (n 骨骼) (n 化石)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (DNP
+        (PP
+          (v 继)
+          (LCP
+            (IP
+              (NP-SBJ (-NONE- *pro*))
+              (VP
+                (NP-TMP (t 去年初))
+                (PP-LOC (p 在) (NP (r 该地)))
+                (VP
+                  (v 发现)
+                  (NP-OBJ
+                    (CP
+                      (WHNP-1 (-NONE- *OP*))
+                      (CP
+                        (IP (NP-SBJ (-NONE- *T*-1)) (VP (a 丰富)))
+                        (ude 的)))
+                    (ADJP (a 珍贵))
+                    (NP (n 恐龙蛋) (n 化石))))))
+            (f 之后)))
+        (ude 的))
+      (QP (ADVP (d 又)) (QP (m 一)))
+      (ADJP (a 重大))
+      (NP (n 发现))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 记者))
+  (VP
+    (PP-DIR (p 从) (NP-PN (ns 河南省) (n 文物) (n 考古) (n 研究所)))
+    (VP
+      (v 获悉)
+      (wd ，)
+      (IP-OBJ
+        (IP
+          (LCP-TMP (NP (t 今年) (t 四月)) (f 初))
+          (wd ，)
+          (NP-SBJ (ADJP (n 有关)) (NP (n 专家)))
+          (VP
+            (PP-LOC
+              (p 在)
+              (LCP
+                (NP
+                  (DNP
+                    (NP
+                      (NP-PN-APP
+                        (ns 西峡县)
+                        (ns 阳城乡)
+                        (VP (n 虎头) (NP (n 山)))
+                        (udeng 等))
+                      (NP (n 地)))
+                    (ude 的))
+                  (QP (m 两) (CLP (q 个)))
+                  (NP (n 河砾层)))
+                (f 之间)))
+            (wd ，)
+            (VP
+              (v 发现)
+              (y 了)
+              (NP-OBJ
+                (QP (m 数百) (CLP (q 块)))
+                (NP (n 恐龙) (n 骨骼) (n 化石))))))
+        (wd ，)
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (NP-ADV (r 其中))
+            (VP (vyou 有) (NP-OBJ (n 肋骨) (wn 、) (n 趾骨) (udeng 等))))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (PP-ADV
+    (c 由于)
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP (ADVP (d 长期)) (VP (v 暴露) (PP-LOC (p 于) (NP (n 地表)))))))
+  (wd ，)
+  (NP-SBJ (r 有些))
+  (VP (ADVP (d 已经)) (VP (v 破碎)))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (PP-LOC (p 从) (LCP (NP (n 地层学)) (f 上))) (VP (v 看))))
+  (wd ，)
+  (NP-SBJ (r 它们))
+  (VP (ADVP (d 都)) (VP (v 属于) (NP-OBJ (t 白垩纪))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP-ADV
+    (NP-SBJ (-NONE- *PRO*))
+    (VP (PP (p 据) (NP (n 专家))) (VP (v 判断))))
+  (wd ，)
+  (NP-SBJ (-NONE- *pro*))
+  (VP
+    (PP-LOC (p 在) (NP (n 恐龙) (n 化石群) (n 分布区)))
+    (ADVP (d 还))
+    (VP
+      (VRD (v 埋藏) (vyou 有))
+      (NP-OBJ
+        (QP (m 大量))
+        (NP
+          (NP (n 恐龙) (n 骨骼) (n 化石))
+          (c 和)
+          (NP (DP (r 其它)) (NP (n 物种) (n 化石)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 他们))
+  (VP
+    (v 认为)
+    (wd ，)
+    (IP-OBJ
+      (IP
+        (NP-SBJ
+          (DNP
+            (NP
+              (LCP (NP-PN (ns 西峡) (n 盆地)) (f 中))
+              (QP (m 大量))
+              (ADJP (a 珍贵))
+              (NP (n 恐龙蛋) (n 化石)))
+            (ude 的))
+          (NP (n 发现)))
+        (wd ，)
+        (VP
+          (ADVP (d 已))
+          (VP
+            (v 属)
+            (IP-OBJ
+              (NP-SBJ (-NONE- *PRO*))
+              (VP (NP-LOC (n 世界)) (VP (a 罕见)))))))
+      (wd ，)
+      (c 而)
+      (IP
+        (IP-SBJ
+          (NP-SBJ (n 蛋) (n 化石) (c 与) (n 骨骼) (n 化石))
+          (VP (vi 共存) (QP-OBJ (m 一) (CLP (q 处)))))
+        (VP (ADVP (d 就)) (ADVP (d 更为)) (VP (a 罕见))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 这))
+  (VP
+    (PP
+      (p 对于)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP
+          (VP
+            (v 研究)
+            (NP-OBJ (NP-PN (ns 西峡) (n 地区)) (NP (n 恐龙) (vi 分类))))
+          (wd ，)
+          (VP
+            (v 探讨)
+            (NP-OBJ
+              (NP (n 恐龙))
+              (NP (n 生态) (n 习性) (c 和) (n 繁殖) (n 行为))))
+          (wd ，)
+          (VP (vi 复原) (NP-OBJ (n 恐龙) (n 时代) (n 生态) (n 环境)))
+          (wd ，)
+          (VP
+            (v 揭示)
+            (NP-OBJ
+              (IP-APP
+                (IP (NP-SBJ (n 地壳)) (VP (n 变迁)))
+                (p 与)
+                (IP (NP-SBJ (n 地球) (n 环境)) (VP (n 演化))))
+              (NP (n 规律)))))))
+    (VP
+      (v 具有)
+      (NP-OBJ
+        (CP
+          (WHNP-1 (-NONE- *OP*))
+          (CP
+            (IP
+              (NP-SBJ (-NONE- *T*-1))
+              (VP (ADVP (m 十分)) (VP (a 重要))))
+            (ude 的)))
+        (NP (n 意义)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (ADVP (c 而))
+  (NP-SBJ (DNP (NP (n 恐龙) (n 骨骼) (n 化石)) (ude 的)) (NP (n 发现)))
+  (wd ，)
+  (VP
+    (ADVP (d 也))
+    (PP-BNF
+      (p 为)
+      (IP
+        (NP-SBJ (-NONE- *pro*))
+        (VP (ADVP (d 进一步)) (VP (v 寻找) (NP-OBJ (n 恐龙) (n 化石))))))
+    (PP-LOC
+      (p 在)
+      (LCP
+        (LCP (NP (n 地域)) (f 上))
+        (wn 、)
+        (LCP (NP (v 埋藏) (n 规律)) (f 上))))
+    (VP (v 提供) (y 了) (NP-OBJ (ADJP (a 重要)) (NP (n 线索)))))
+  (wj 。)))
+</S>
+<S>
+( (FRAG (wkz （) (vi 完) (wky ）)))
+</S>

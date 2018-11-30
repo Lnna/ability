@@ -1,0 +1,279 @@
+<S>
+( (IP
+  (LCP-TMP
+    (IP
+      (NP-SBJ (n 总统府))
+      (VP
+        (v 传出)
+        (NP-OBJ
+          (DNP (ADJP (v 所谓)) (ude 的))
+          (wyz “)
+          (NP (n 绯闻) (n 疑案))
+          (wyy ”))))
+    (f 之后))
+  (wd ，)
+  (NP-SBJ
+    (NP
+      (DNP (LCP (NP (n 当事人)) (f 中)) (ude 的))
+      (NP
+        (NP (NP-APP (n 总统府) (n 顾问)) (NP-PN (nr 肖美琴)))
+        (wn 、)
+        (NP (NP-APP (n 秘书)) (NP-PN (nr 马永臣) (c 以及) (nr 林锦昌)))))
+    (PRN
+      (VP
+        (ADVP (d 也))
+        (ADVP (d 就))
+        (VP
+          (vshi 是)
+          (NP-PRD
+            (NP (n 外界) (s 口中))
+            (DNP (ADJP (v 所谓)) (ude 的))
+            (wyz “)
+            (DNP (NP (n 总统) (s 身边)) (ude 的))
+            (NP (n 童子) (n 军)))))))
+  (wyy ”)
+  (wd ，)
+  (VP
+    (NP-TMP (t 上午))
+    (QP-ADV (m 第一) (CLP (q 次)))
+    (VP
+      (VP (VSB (vi 应邀) (v 到)) (VP (v 立) (NP (n 法院))))
+      (VP (pbei 被) (VP (v 询)))))
+  (wj 。)))
+</S>
+<S>
+( (PP
+  (ADVP (c 而))
+  (ADVP (d 不过))
+  (PP-PRP
+    (p 为了)
+    (IP
+      (LCP-SBJ
+        (NP (NP-PN (nr 马永臣)) (c 和) (NP-PN (nr1 陈) (n 总统)))
+        (f 之间))
+      (VP
+        (ADVP (d 到底))
+        (VP (vyou 有) (NP-OBJ (DP (r 什么)) (NP (n 关系)))))))
+  (ww ？)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (n 朝野) (nt 立委))
+  (VP
+    (vshi 是)
+    (VP (VRD (v 吵) (v 成)) (y 了) (QP-OBJ (m 一) (CLP (q 片)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (NP-TPC
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (r 他))
+          (VP (ADVP (d 刚刚)) (VP (v 讲) (NP-OBJ (-NONE- *T*-1)))))
+        (ude 的)))
+    (DP (r 这))
+    (NP (q 点)))
+  (NP-SBJ (DNP (NP (n 总统) (s 身边)) (ude 的)) (NP (n 人)))
+  (VP
+    (ADVP (d 都))
+    (VP (v 要) (VP (VP (v 到) (VP (v 立) (NP (n 法院)))) (VP (v 来)))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (PP-PRP
+    (p 为了)
+    (IP
+      (NP-PN-SBJ (nr 肖美琴))
+      (VP
+        (VNV (v 要) (d 不) (v 要))
+        (VP (VSB (vi 上台) (v 接受)) (VP (pbei 被) (VP (v 询)))))))
+  (wd ，)
+  (NP-SBJ (nt 立委))
+  (VP
+    (VP-FOC (vi 开场))
+    (VP
+      (ADVP (d 就))
+      (VP (VRD (v 吵) (v 成)) (y 了) (QP-EXT (m 一) (CLP (q 团))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (dl 好不容易))
+      (VP
+        (VRD (v 劝) (v 开))
+        (y 了)
+        (NP-OBJ
+          (NP (DNP (NP-PN (n 国民党)) (ude 的)) (NP-PN (nr 郑从时)))
+          (c 和)
+          (NP (DNP (NP-PN (n 民主党)) (ude 的)) (NP-PN (nr 王俊南)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ
+      (CP
+        (WHNP-1 (-NONE- *OP*))
+        (CP
+          (IP
+            (NP-SBJ (-NONE- *T*-1))
+            (VP
+              (ADVP (d 已经))
+              (VP (v 拖延) (y 了) (NP-EXT (QP (m １个)) (NP (n 小时))))))
+          (ude 的)))
+      (NP (n 会议)))
+    (VP (ADVP (d 终于)) (VP (v 开始))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (d 只不过)
+    (NP-SBJ (NP-APP (n 主席)) (NP-PN (nr 冯副祥)))
+    (VP
+      (NP-MNR (r 自己))
+      (VP
+        (VSB (vi 上台) (IP (VP (v 置) (NP (v 询)))))
+        (IP-OBJ
+          (NP-SBJ (NP-APP (n 总统府) (n 秘书)) (NP-PN (nr 马永臣)))
+          (VP
+            (VNV (vshi 是) (d 不) (vshi 是))
+            (VP
+              (v 负责)
+              (IP-OBJ
+                (NP-SBJ (-NONE- *PRO*))
+                (VP
+                  (PP-BNF (p 给) (NP-PN (nr 陈水扁) (n 总统)))
+                  (VP (v 洗) (NP-OBJ (n 内裤)))))))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VNV (vyou 有) (d 没) (vyou 有))
+      (NP-OBJ (DNP (DP (r 其它)) (ude 的)) (NP (n 义含)))))
+  (wd ，)
+  (IP
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (ADVP (d 再度))
+      (VP (v 引爆) (NP-OBJ (QP (m 第三) (CLP (n 波))) (NP (n 冲突))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (wyz “)
+  (IP
+    (NP-SBJ (r 你))
+    (VP
+      (NP-TMP (t 现在))
+      (ADVP (r 怎么))
+      (ADVP (d 又))
+      (VP
+        (v 讲)
+        (FLR (v 说))
+        (IP-OBJ
+          (NP-SBJ (r 你))
+          (VP
+            (PP-BNF (v 帮) (NP (DP (r 这个)) (NP-PN (nr1 陈) (n 总统))))
+            (VP (v 洗) (NP-OBJ (n 内裤))))))))
+  (IP-Q
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (VNV (vyou 有) (d 没) (vyou 有))
+      (NP-OBJ (DP (r 这) (CLP (q 回))) (NP (n 事)))))
+  (ww ？)
+  (wyy ”)))
+</S>
+<S>
+( (CP
+  (wyz “)
+  (IP
+    (NP-SBJ (r 这个))
+    (VP (ADVP (d 当然)) (VP (vshi 是) (VP (ADVP (d 绝对)) (VP (v 没有))))))
+  (y 哇)
+  (wt ！)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP (d 也))
+    (ADVP (d 不))
+    (VP
+      (v 了解)
+      (IP-OBJ
+        (NP-SBJ (DNP (NP (r 他)) (ude 的)) (NP (n 意思)))
+        (VP (vshi 是) (NP-PRD (r 什么))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (CP-CND
+    (ADVP (c 如果))
+    (IP
+      (NP-SBJ (-NONE- *pro*))
+      (VP
+        (vshi 是)
+        (IP-PRD
+          (NP-SBJ (DP (r 这个)) (NP (n 意思)))
+          (VP
+            (vyou 有)
+            (NP-OBJ (DNP (DP (r 其它)) (ude 的)) (NP (n 影射))))))))
+  (wd ，)
+  (ADVP (r 那))
+  (NP-SBJ (r 我))
+  (VP
+    (ADVP (d 当然))
+    (VP
+      (v 考虑)
+      (IP-OBJ (NP-SBJ (-NONE- *PRO*)) (VP (v 采取) (NP-OBJ (n 司法))))))
+  (wj 。)
+  (wyy ”)))
+</S>
+<S>
+( (CP
+  (wyz “)
+  (IP
+    (NP-TMP (t 现在))
+    (NP-SBJ (r 我们))
+    (VP
+      (v 要求)
+      (NP-OBJ (r 你))
+      (IP (NP-SBJ (-NONE- *PRO*)) (VP (n 道歉)))))
+  (y 哪)
+  (wt ！)
+  (wyy ”)))
+</S>
+<S>
+( (IP
+  (IP
+    (ADVP (d 就))
+    (ADVP (r 这样))
+    (NP-SBJ (DNP (NP (n 会场)) (ude 的)) (NP (n 秩序)))
+    (VP
+      (v 陷入)
+      (y 了)
+      (NP-OBJ (DNP (ADJP (d 极度)) (ude 的)) (NP (an 混乱)))))
+  (wd ，)
+  (IP
+    (PP-MNR (p 在) (NP (DNP (NP (a 无奈)) (uzhi 之)) (NP (n 余))))
+    (NP-PN-SBJ (nr 肖美琴))
+    (VP
+      (VP
+        (ADVP (d 私下))
+        (VP (v 写) (y 了) (NP-OBJ (QP (m 一) (CLP (q 篇))) (NP (n 声明)))))
+      (VP
+        (v 告)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (ADVP (d 将))
+            (VP (v 会) (VP (PP-TMP (p 在) (NP (t 下午))) (VP (v 公布)))))))))
+  (wj 。)))
+</S>

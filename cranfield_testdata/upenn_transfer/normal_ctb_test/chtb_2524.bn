@@ -1,0 +1,63 @@
+<S>
+( (IP
+  (IP
+    (NP-SBJ (NP-PN (ns 台北市)) (NP (n 警局)))
+    (VP
+      (VP
+        (v 侦破)
+        (y 了)
+        (NP-OBJ
+          (DNP
+            (QP
+              (LCP (dl 近年来))
+              (NP (s 国内))
+              (ADJP (ADVP (d 最)) (ADJP (a 大)))
+              (QP (m 一) (CLP (q 起))))
+            (ude 的))
+          (NP (n 枪支) (n 走私) (n 集团))))
+      (wd ，)
+      (VP
+        (v 查获)
+        (NP-OBJ
+          (NP (QP (m １７) (CLP (q 把))) (NP (n 手枪)))
+          (v 还有)
+          (NP (DNP (QP (m 上千) (CLP (q 发))) (ude 的)) (NP (n 子弹)))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 嫌犯) (n 势力))
+    (VP
+      (PP-MNR (p 用) (NP (DNP (NP (vi 赈灾)) (ude 的)) (NP (n 名义))))
+      (VP
+        (pba 把)
+        (IP-OBJ
+          (NP-SBJ-1 (n 枪支))
+          (VP
+            (VP (v 穿) (PP-LOC (p 在) (LCP (NP (n 发电机)) (f 里))))
+            (VP (v 空运) (NP-OBJ (-NONE- *-1)))
+            (VP (v 来) (NP-PN-OBJ (ns 台))))))))
+  (wd ，)
+  (IP
+    (ADVP (c 而))
+    (NP-SBJ (-NONE- *pro*))
+    (VP
+      (NP-TMP (t 目前))
+      (ADVP (d 已经))
+      (VP
+        (v 知道)
+        (IP-OBJ
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (vyou 有)
+            (IP-OBJ
+              (NP-SBJ
+                (DNP
+                  (QP (ADVP (a 近)) (QP (m 百) (CLP (q 支))))
+                  (ude 的))
+                (NP (n 枪支)))
+              (VP
+                (ADVP (d 已经))
+                (VP
+                  (VRD (v 流入) (v 到))
+                  (NP-OBJ (NP-PN (ns 台湾)) (NP (n 黑道) (s 手中)))))))))))
+  (wj 。)))
+</S>

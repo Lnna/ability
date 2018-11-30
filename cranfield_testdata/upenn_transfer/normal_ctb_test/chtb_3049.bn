@@ -1,0 +1,106 @@
+<S>
+( (IP
+  (IP
+    (NP-PN-SBJ (nrf 克林顿) (n 总统))
+    (VP
+      (NP-TMP (t 星期一))
+      (PP-LOC (p 在) (NP-PN (ns 华盛顿)))
+      (VP
+        (VP (v 会见) (NP-OBJ (NP-PN (ns 欧洲)) (NP (n 领导人))))
+        (VP
+          (v 讨论)
+          (NP-OBJ (NP (n 贸易)) (c 和) (NP (DP (r 其它)) (NP (n 问题))))))))
+  (wd ，)
+  (IP
+    (NP-PN-SBJ (nrf 克林顿))
+    (VP
+      (ADVP (d 将))
+      (PP-ADV
+        (p 和)
+        (NP
+          (NP (NP-APP (NP-PN (ns 法国)) (NP (n 总统))) (NP-PN (nrf 希拉克)))
+          (c 以及)
+          (NP
+            (NP-APP (NP (NP-PN (ns 欧洲)) (NP (n 议会))) (NP (n 主席)))
+            (NP-PN (nrf 普罗迪)))))
+      (VP (v 举行) (NP-OBJ (n 会谈)))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (IP
+    (NP-SBJ
+      (NP-PN (ns 美国))
+      (c 和)
+      (NP (NP-PN (ns 欧洲)) (NP (n 经济) (n 共同体))))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP
+              (NP
+                (NP (n 牛肉) (wn 、) (n 香蕉))
+                (c 以及)
+                (NP (DP (r 其它)) (NP (n 产品))))
+              (ude 的))
+            (NP (n 贸易) (n 问题)))
+          (f 上)))
+      (VP (v 存在) (VP (v 分) (NP (n 岐))))))
+  (wd ，)
+  (IP
+    (NP-SBJ (n 双方))
+    (VP
+      (PP-LOC
+        (p 在)
+        (LCP
+          (NP
+            (DNP (NP (NP-PN (ns 欧洲)) (NP (n 防御) (n 力量))) (ude 的))
+            (NP (n 问题)))
+          (f 上)))
+      (ADVP (d 也))
+      (VP (vyou 有) (NP-OBJ (DNP (ADJP (a 不同)) (ude 的)) (NP (n 意见))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ (QP (m 一些)) (NP-PN (ns 美国)) (NP (n 官员)))
+  (VP
+    (v 相信)
+    (wd ，)
+    (IP-OBJ
+      (NP-SBJ (NP (r 这样)) (QP (m 一) (CLP (q 支))) (NP (nl 武装力量)))
+      (VP
+        (ADVP (d 将))
+        (VP
+          (v 威胁)
+          (NP-OBJ (DNP (NP-PN (nt 北约)) (ude 的)) (NP (n 生存)))))))
+  (wj 。)))
+</S>
+<S>
+( (IP
+  (NP-SBJ
+    (CP
+      (WHNP-1 (-NONE- *OP*))
+      (CP
+        (IP
+          (NP-SBJ (-NONE- *T*-1))
+          (VP (vi 为期) (QP-EXT (m 一) (CLP (q 天)))))
+        (ude 的)))
+    (NP (n 首脑) (n 会议)))
+  (VP
+    (vshi 是)
+    (NP-PRD
+      (NP-PN (nrf 克林顿))
+      (LCP
+        (IP
+          (NP-SBJ (-NONE- *pro*))
+          (VP
+            (NP-TMP (DP (f 下) (CLP (q 个))) (NP (n 月)))
+            (VP (vi 离任))))
+        (f 前))
+      (DNP (PP (p 与) (NP (NP-PN (ns 欧洲)) (NP (n 领导人)))) (ude 的))
+      (QP (ADJP (f 最后)) (QP (m 一) (CLP (q 次))))
+      (NP (n 会晤))))
+  (wj 。)))
+</S>

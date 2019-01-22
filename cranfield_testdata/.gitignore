@@ -1,0 +1,10 @@
+data/
+private/
+*.jar
+*.txt
+*.nw
+*.wb
+*.bc
+*.bn
+*.mz
+

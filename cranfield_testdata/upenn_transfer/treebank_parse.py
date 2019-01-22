@@ -9,6 +9,7 @@ def seg_pos_ctb(ctb_dir,fileids):
     # tree=reader.tagged_sents()
     #生成每个句子的树结构，对于部分数据如40.nw中五年来一句无法正确解析
     tree = reader.parsed_sents()
+    print('tree len: {}'.format(len(tree)))
 
     seg_pos_sentences = []
     broken_parses=[]
@@ -20,7 +21,6 @@ def seg_pos_ctb(ctb_dir,fileids):
             seg_pos_sentences.append(s)
         else:
             broken_parses.append(s)
-    print('tree len: {}'.format(len(tree)))
 
     return seg_pos_sentences,broken_parses
 

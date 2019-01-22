@@ -8,15 +8,15 @@ from nltk.corpus.reader.util import find_corpus_fileids
 from nltk.tree import Tree
 from nltk.data import FileSystemPathPointer
 from stanfordcorenlp.corenlp import StanfordCoreNLP
-home_dir=path.join(path.dirname(__file__),'./')
+home_dir='/home/lnn/Downloads/ctb_paper/transfer'
 def parse_trees(dir,fileid):
     # reader = BracketParseCorpusReader('/home/lnn/Documents/ability/cranfield_testdata/upenn_transfer/new_ctb', fileid)
     reader = BracketParseCorpusReader(dir, fileid)
     tree = reader.parsed_sents()
     return tree
 
-# nlp=StanfordCoreNLP(r'/home/lnn/Documents/postag/stanford-corenlp-full-2016-10-31/', lang='zh')
-nlp=StanfordCoreNLP(r'/home/nana/Documents/stanford-corenlp-full-2016-10-31/', lang='zh')
+nlp=StanfordCoreNLP(r'/home/lnn/Downloads/postag/stanford-corenlp-full-2016-10-31/', lang='zh')
+# nlp=StanfordCoreNLP(r'/home/nana/Documents/stanford-corenlp-full-2016-10-31/', lang='zh')
 def stanford_parser(sentence):
     flg=True
     while flg:
@@ -39,86 +39,6 @@ def last_parent(tree,index):
         leaf=leaf[:-1]
     return leaf
 
-def analysis(fileid):
-    trees=parse_trees(fileid)
-    new_trees=[]
-    mod_seq_count=0
-    for t in trees:
-        ctb=t.pos()
-        boson=ctb2boson_seg(ctb)
-        pattern,leaf_diff,ctb_index,bos_index = sentence_diff(t, ctb, boson)  # 每一个不同找出来后，应立即更新树结构
-
-        while pattern!='same':
-            if pattern == 'one_ctb_multi_boson':
-                # break
-                # stanford_parser
-                ctb_leaf=last_parent(t,ctb_index[0])
-                # print(' '.join([i[0] for i in boson]))
-                parser=stanford_parser(' '.join([i[0] for i in boson]))
-                # print(parser)
-                #在ｐａｒｓｅｒ中，可能不按照分割好的词语分词，比如：中国银行在ｃｔｂ和ｂｏｏｓｏｎ中都是一个，但在ｓｔａｎｆｏｒｄ中是中国　和银行
-                #这种情况，找到要改变句法的词语在ｐａｒｓｅｒ中的ｉｎｄｅｘ,下面仍然存在纰漏，要改变句法的词语也可能被再次切分，此时直接略过，不做处理
-                if len(parser.leaves())!=len(boson):
-                    try:
-                        pi=parser.leaves().index(boson[bos_index[0]][0])
-                        mb = parser[common_index([parser.leaf_treeposition(pi+i) for i in range(0,len(bos_index))])]
-                        co=''.join([parser[parser.leaf_treeposition(pi+i)[:-1]].__str__()  for i in range(0,len(bos_index))])
-                    except:
-                        break
-                else:
-                    mb=parser[common_index([parser.leaf_treeposition(i) for i in bos_index])]
-                    co=''.join(parser[parser.leaf_treeposition(i)[:-1]].__str__()  for i in range(0,len(bos_index)))
-                if len(mb.leaves())!=len(bos_index):
-                    t[ctb_leaf]=co
-                else:
-                    t[ctb_leaf]=mb
-                t = Tree.fromstring(t.__str__())
-
-                ctb_copy = ctb
-                ctb = ctb[:ctb_index[0]]
-                if ctb_index != []:
-                    for i in bos_index:
-                        ctb.append(boson[i])
-                    for i in range(ctb_index[-1] + 1, len(ctb_copy)):
-                        ctb.append(ctb_copy[i])
-
-            elif pattern == 'multi_ctb_one_boson':
-                # this and same count:30077
-                # find index and do it now
-                com = common_index(leaf_diff)
-                # print(t[com])
-                if len(t[com].leaves())==len(ctb_index):
-                    t[com] = '({} ({} {}))'.format(t[com]._label, boson[bos_index[0]][1], boson[bos_index[0]][0])
-                    t=Tree.fromstring(t.__str__())
-
-                else:
-                    co=''.join([t[last_parent(t,i)].__str__() for i in ctb_index])
-                    if t.__str__().find(co)>=0:
-                        t=Tree.fromstring(t.__str__().replace(co,boson[bos_index[0]].__str__()))
-                    else:
-                        break
-                ctb_copy = ctb
-                ctb = ctb[:ctb_index[0]]
-                if ctb_index != []:
-                    ctb.append(boson[bos_index[0]])
-                    for i in range(ctb_index[-1] + 1, len(ctb_copy)):
-                        ctb.append(ctb_copy[i])
-
-            elif pattern == 'multi_multi':
-                # leave it
-                break
-            pattern, leaf_diff, ctb_index, bos_index = sentence_diff(t, ctb, boson)  # 每一个不同找出来后，应立即更新树结构
-        if pattern=='same':
-            mod_seq_count += 1
-            for i, l in enumerate(boson):
-
-                if l[0] != 'NONE':
-                    k = t.leaf_treeposition(i)
-
-                    t[k[:-1]].set_label(l[1])
-        new_trees.append(t)
-        # print(t)
-    return new_trees,mod_seq_count
 
 def analysis_v2(ctb_dir,fileid):
     trees=parse_trees(ctb_dir,fileid)
@@ -159,7 +79,9 @@ def analysis_v2(ctb_dir,fileid):
                                 # if t.__str__().replace('\n','').replace(' ','').find(ctb_leaf.__str__().replace('\n','').replace(' ','')) >= 0:
                                 #     tstr=t.__str__().replace('\n','').replace(' ','').replace(ctb_leaf.__str__().replace('\n','').replace(' ',''), parser[ci].__str__().replace('\n','').replace(' ',''), 1)
                             else:
-                                tstr = t.__str__().replace(ctb_leaf.__str__(), parser[ci].__str__(), 1)
+                                t[last_parent(t, ctb_index[0])]=parser[ci].__str__()
+                                tstr=t.__str__()
+                                # tstr = t.__str__().replace(ctb_leaf.__str__(), parser[ci].__str__(), 1)
                             t = Tree.fromstring(tstr)
                         else:
                             lpp = last_parent(parser, pi)
@@ -171,8 +93,10 @@ def analysis_v2(ctb_dir,fileid):
                                     break
                                 rstr += parser[last_parent(parser, pi + i)].__str__()
                             if lpp_equal:
-                                tstr = t.__str__().replace(ctb_leaf.__str__(), rstr, 1)
-                                t = Tree.fromstring(tstr)
+                                t[last_parent(t, ctb_index[0])]=rstr
+                                # tstr = t.__str__().replace(ctb_leaf.__str__(), rstr, 1)
+                                t = Tree.fromstring(t.__str__())
+
                             else:
                                 # just parse part of
                                 if t.__str__().find(ctb_leaf.__str__()) < 0:
@@ -181,9 +105,11 @@ def analysis_v2(ctb_dir,fileid):
 
                                     break
                                 # print("new")
-                                phrase_parser=stanford_parser(' '.join(text))
-                                tstr = t.__str__().replace(ctb_leaf.__str__(), phrase_parser[0].__str__(), 1)
-                                t = Tree.fromstring(tstr)
+                                t[last_parent(t, ctb_index[0])]=' '.join(['({} {})'.format(boson[i][1],boson[i][0]) for i in bos_index])
+                                # phrase_parser=stanford_parser(' '.join(text))
+                                # t[last_parent(t, ctb_index[0])] =phrase_parser[0].__str__()
+                                # tstr = t.__str__().replace(ctb_leaf.__str__(), phrase_parser[0].__str__(), 1)
+                                t = Tree.fromstring(t.__str__())
                                 # other_broken_phrase.append((ctb_leaf.__str__(), parser[common_index(
                                 #     [last_parent(parser, pi + i) for i in range(len(bos_index))])].__str__()))
                                 # other_broken_trees.append(t)
@@ -216,9 +142,10 @@ def analysis_v2(ctb_dir,fileid):
                 com = common_index(leaf_diff)
                 # print(t[com])
                 if len(t[com].leaves())==len(ctb_index):
-                    tstr=t.__str__().replace(t[com].__str__(),'({} ({} {}))'.format(t[com]._label, boson[bos_index[0]][1], boson[bos_index[0]][0]),1)
+                    t[com]='({} ({} {}))'.format(t[com]._label, boson[bos_index[0]][1], boson[bos_index[0]][0])
+                    # tstr=t.__str__().replace(t[com].__str__(),'({} ({} {}))'.format(t[com]._label, boson[bos_index[0]][1], boson[bos_index[0]][0]),1)
 
-                    t=Tree.fromstring(tstr)
+                    t=Tree.fromstring(t.__str__())
 
                 else:
                     lpp = last_parent(t, ctb_index[0])
@@ -230,11 +157,13 @@ def analysis_v2(ctb_dir,fileid):
                             break
                         rstr.append(last_parent(t, ctb_index[i]))
                     if lpp_equal:
-                        tstr=t.__str__().replace(t[rstr[0]].__str__(),'({} {})'.format(boson[bos_index[0]][1],boson[bos_index[0]][0]),1)
+                        t[rstr[0]]='({} {})'.format(boson[bos_index[0]][1],boson[bos_index[0]][0])
+                        # tstr=t.__str__().replace(t[rstr[0]].__str__(),'({} {})'.format(boson[bos_index[0]][1],boson[bos_index[0]][0]),1)
                         for i in rstr[1:]:
-                            tstr=tstr.replace(t[i].__str__(),'',1)
-                        tstr=re.sub(r'(\n)+','\n',tstr)
-                        t = Tree.fromstring(tstr)
+                            t[i]=''
+                            # tstr=tstr.replace(t[i].__str__(),'',1)
+                        # tstr=re.sub(r'(\n)+','\n',tstr)
+                        t = Tree.fromstring(t.__str__())
                     else:
                         broken_flg=True
                         replace_id=ctb_index[0]
@@ -282,11 +211,14 @@ def analysis_v2(ctb_dir,fileid):
                             if replace_id==ctb_index[0]:
                                 for i in range(len(ctb_index)-1,0,-1):
                                     # t.pop(t.leaf_treeposition(ctb_index[i])[:-1])
-                                    t[t.leaf_treeposition(ctb_index[i])[:-1]] = ''
+                                    # t[t.leaf_treeposition(ctb_index[i])[:-1]] = ''
+                                    t[last_parent(t, ctb_index[i])]=''
                             else:
                                 for i in range(len(ctb_index)-2,-1,-1):
                                     # t.pop(ctb_index[i])
-                                    t[t.leaf_treeposition(ctb_index[i])[:-1]] = ''
+                                    # t[t.leaf_treeposition(ctb_index[i])[:-1]] = ''
+                                    t[last_parent(t, ctb_index[i])]=''
+
                             t=Tree.fromstring(t.__str__())
 
                 ctb_copy = ctb
@@ -406,9 +338,9 @@ def ctb2boson_seg(ctb_pos):
 def mm_out(res:list):
     return ['{}/{}'.format(i,j) for i,j in res]
 def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_dir):
-    # ctb_dir = '/home/lnn/Downloads/new_ctb'
-    # ctb_dir = '/home/lnn/Downloads/ctb_test'
-    ctb_dir = path.join(home_dir,'otherbroken_ctb_test')
+    ctb_dir = '/home/lnn/Downloads/ctb_paper/origin/all_data'
+    # ctb_dir = '/home/lnn/Downloads/ctb_bracket'
+    # ctb_dir = home_dir
     # ctb_dir = path.join(home_dir,'ctb_test')
     # reg = 'chtb_0040.nw'
     reg = '(.*nw)*(.*bn)*(.*mz)*(.*bc)*(.*wb)*'
@@ -420,6 +352,7 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
     for fid in fileids:
         print(fid)
         normal_trees,mmbrokens,mmbroken_trees,other_brokens,broken_phrases,value_error,mmtext=analysis_v2(ctb_dir,fid)
+        # break
         statis[0]+=len(normal_trees)
         statis[1]+=len(other_brokens)
         statis[2]+=len(value_error)
@@ -445,7 +378,7 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
             else:
                 sum_mmbrokens[k]=sum_mmbrokens[k]+v
         if len(value_error)>0:
-            f = open(value_error_dir+'/'+fid, mode='a')
+            f = open(value_error_dir+'/'+fid, mode='w')
             for i in value_error:
                 f.write('<S>\n')
                 f.write('( {})\n'.format(i.__str__()))
@@ -454,14 +387,14 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
             f.close()
 
         if len(normal_trees)>0:
-            f = open(normal_save_dir+'/'+fid, mode='a')
+            f = open(normal_save_dir+'/'+fid, mode='w')
             for i in normal_trees:
                 f.write('<S>\n')
                 f.write('( {})\n'.format(i.__str__()))
                 f.write('</S>\n')
             f.close()
         if len(mmbroken_trees)>0:
-            f = open(mmbroken_dir+'/'+fid, mode='a')
+            f = open(mmbroken_dir+'/'+fid, mode='w')
             for i in mmbroken_trees:
                 f.write('<S>\n')
                 f.write('( {})\n'.format(i.__str__()))
@@ -489,11 +422,12 @@ def rules(normal_save_dir,mmbroken_dir,other_broken_dir,phrases_dir,value_error_
 
     print(statis)
 if __name__=='__main__':
-    rules(path.join(home_dir,'normal_ctb_test'),
-          path.join(home_dir,'mmbroken_ctb_test'),
-          path.join(home_dir,'one2multi_otherbroken_ctb_test'),
-          path.join(home_dir,'broken_phrases'),
-          path.join(home_dir,'value_error')
+
+    rules(path.join(home_dir, 'normal_ctb_test'),
+          path.join(home_dir, 'mmbroken_ctb_test'),
+          path.join(home_dir, 'one2multi_otherbroken_ctb_test'),
+          path.join(home_dir, 'broken_phrases'),
+          path.join(home_dir, 'value_error')
           )
     sum=0
     f=open(path.join(home_dir,'broken_phrases','broken_phrases.txt'),mode='r')

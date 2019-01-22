@@ -15,6 +15,7 @@ class Boson():
                     flg = True
                     for row in res.json():
                         seg_sens.append([(i,j) for i,j in zip(row['word'],row['tag'])])
+                        # seg_sens.append([(i,j) for i,j in zip(row['tag'],row['word'])])
             except requests.Timeout:
                 print("requests are timeout!!")
                 time.sleep(100)
@@ -26,3 +27,4 @@ class Boson():
 
         return seg_sens
 
+print(Boson().seg("687901234567 ！"))

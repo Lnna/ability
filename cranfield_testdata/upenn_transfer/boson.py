@@ -27,4 +27,4 @@ class Boson():
 
         return seg_sens
 
-print(Boson().seg("687901234567 ！"))
+print(Boson().seg("这是一个好姑娘 UNK UNK UNK！！！"))
